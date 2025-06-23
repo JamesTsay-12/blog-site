@@ -2,7 +2,7 @@ title: My Blog
 description: A blog about art, music, and life
 author:
   name: James
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
