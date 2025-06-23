@@ -3,7 +3,7 @@ description: A blog about art, music, projects, and life
 author:
   name: James
 
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 
 plugins:
   - jekyll-feed
