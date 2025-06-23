@@ -2,12 +2,15 @@ title: My Blog
 description: A blog about art, music, projects, and life
 author:
   name: James
-remote_theme: minimal-mistakes-jekyll
+
+remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+
 paginate: 5
 paginate_path: "/page:num/"
 future: true
