@@ -15,12 +15,18 @@ Feel free to browse recent posts or curated works.
 
 {% if art_posts %}
   {% assign sorted_art_posts = art_posts | sort: 'date' | reverse %}
+  <ul>
   {% for post in sorted_art_posts %}
-  - [{{ post.title }}]({{ post.url }}) <span style="color:#888;">{{ post.date | date: "%b %d, %Y" }}</span>
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <span style="color:#888;">{{ post.date | date: "%b %d, %Y" }}</span>
+    </li>
   {% endfor %}
+  </ul>
 {% else %}
-  _No art posts found yet. Stay tuned!_
+  <p><em>No art posts found yet. Stay tuned!</em></p>
 {% endif %}
+
 
 
 ---
