@@ -2,6 +2,7 @@
 layout: post
 title: "Old and New music"
 date: 2025-06-23
+categories: [music]
 tags: [music]
 ---
 
