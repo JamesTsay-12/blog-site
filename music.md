@@ -13,6 +13,20 @@ Here I'll share:
 - Music production notes
 - Instruments and gear I use
 
+### 🎧 Blog Posts
+
+{% assign music_posts = site.categories.music %}
+
+{% if music_posts %}
+  {% assign sorted_music_posts = music_posts | sort: 'date' | reverse %}
+  {% for post in sorted_music_posts %}
+  - [{{ post.title }}]({{ post.url }}) <span style="color:#888;">{{ post.date | date: "%b %d, %Y" }}</span>
+  {% endfor %}
+{% else %}
+  _No music posts found yet. Stay tuned!_
+{% endif %}
+
 Stay tuned for posts tagged with `music`!
 
-[View all music posts](https://jamestsay-12.github.io/blog-site/tags/music/)
+
+
