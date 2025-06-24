@@ -20,13 +20,14 @@ Here I'll share:
 {% if music_posts %}
   {% assign sorted_music_posts = music_posts | sort: 'date' | reverse %}
   {% for post in sorted_music_posts %}
-  - [{{ post.title }}]({{ post.url }}) <span style="color:#888;">{{ post.date | date: "%b %d, %Y" }}</span>
+  - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) <span style="color:#888;">{{ post.date | date: "%b %d, %Y" }}</span>
   {% endfor %}
 {% else %}
   _No music posts found yet. Stay tuned!_
 {% endif %}
 
 Stay tuned for posts tagged with `music`!
+
 
 
 
