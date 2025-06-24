@@ -1,7 +1,7 @@
 title: My Blog
 description: A blog about art, music, projects, and life
 author: James
-
+baseurl: "/blog-site"
 theme: minima
 
 plugins:
