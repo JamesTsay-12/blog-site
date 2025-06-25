@@ -27,8 +27,8 @@ Welcome to my latest art gallery post! Click any image to view it larger.
 <a href="{{ site.baseurl }}/assets/img/art/Uncle's_teacher_flowers.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle's_teacher_flowers.jpeg" alt="Flowers" width="300">
   </a>
-<a href="{{ site.baseurl }}/assets/img/art/Uncle_ocean_sunset1.jpe" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/Uncle_ocean_sunset1.jpe" alt="Sunset" width="300">
+<a href="{{ site.baseurl }}/assets/img/art/Uncle_ocean_sunset1.jpeg" target="_blank">
+    <img src="{{ site.baseurl }}/assets/img/art/Uncle_ocean_sunset1.jpeg" alt="Sunset" width="300">
   </a>
 <a href="{{ site.baseurl }}/assets/img/art/Uncle_Landscape_mountains.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle_Landscape_mountains.jpeg" alt="Landscape1" width="300">
@@ -36,12 +36,16 @@ Welcome to my latest art gallery post! Click any image to view it larger.
 <a href="{{ site.baseurl }}/assets/img/art/Uncle_Ocean_and_mountain.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle_Ocean_and_mountain.jpeg" alt="Ocean_Mountain" width="300">
   </a>  
+<a href="{{ site.baseurl }}/assets/img/art/Uncle_Boats.jpeg" target="_blank">
+    <img src="{{ site.baseurl }}/assets/img/art/Uncle_Boats.jpeg" alt="Ocean_Mountain" width="300">
+  </a>  
 <a href="{{ site.baseurl }}/assets/img/art/Uncle_Redhouse.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle_Redhouse.jpeg" alt="Redhouse" width="300">
-</a> 
+  </a> 
 <a href="{{ site.baseurl }}/assets/img/art/uncle_house_and_trees2.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/uncle_house_and_trees2.jpeg" alt="House_Trees" width="300">
-</a> 
+  </a> 
+
 </a></div>
 
 
