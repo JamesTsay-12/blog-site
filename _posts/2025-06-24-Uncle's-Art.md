@@ -49,9 +49,8 @@ Welcome to my latest art gallery post! Click any image to view it larger.
   </a> 
 <a href="{{ site.baseurl }}/assets/img/art/Uncle_viewing_rocks_and_ocean.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle_viewing_rocks_and_ocean.jpeg" alt="Rocks" width="300">
+  </a> 
 </a></div>
-
-
 
 
 
