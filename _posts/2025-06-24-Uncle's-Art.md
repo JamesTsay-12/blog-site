@@ -31,7 +31,7 @@ Welcome to my latest art gallery post! Click any image to view it larger.
 
 
 
-This page includes the art of my Uncle (Buo Buo) who recently passed away. works were created by his teacher (red signature). I wanted to pay tribute to him by displaying his art. I was lucky to have taken pictures in my trip to Taiwan this year.
+This page includes the art of my Uncle (Buo Buo) who recently passed away. Some of these paintings were created by his teacher (red signature). I wanted to pay tribute to him by displaying his art. I was lucky to have taken pictures in my trip to Taiwan this year during my visit with him.
 
-I hope you enjoy the various watercolor still life and landscape paintings.  I will write more in the future about the significance of his art in my life.
+I hope you enjoy the various watercolor still life, animal, and landscape paintings.  I will write more in the future about the significance of his art in my life.
 
