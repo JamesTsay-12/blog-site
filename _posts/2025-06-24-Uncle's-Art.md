@@ -9,17 +9,20 @@ tags: [gallery, painting]
 Welcome to my latest art gallery post! Click any image to view it larger.
 
 <div class="art-gallery">
-  <a href="{{ site.baseurl }}/assets/img/art/Uncle%20blue%20boats.jpeg" target="_blank">
-    <img src="{{ site.baseurl }}{{ site.baseurl }}/assets/img/art/Uncle%20blue%20boats.jpeg" alt="Blue Boats">
+  <a href="{{ site.baseurl }}/assets/img/art/Uncle_blue_boats.jpeg" target="_blank">
+    <img src="{{ site.baseurl }}/assets/img/art/Uncle_blue_boats.jpeg" alt="Blue Boats" width="300">
   </a>
   <a href="{{ site.baseurl }}/assets/img/art/painting2.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/painting2.jpg" alt="Painting 2">
+    <img src="{{ site.baseurl }}/assets/img/art/painting2.jpg" alt="Painting 2" width="300">
   </a>
   <a href="{{ site.baseurl }}/assets/img/art/drawing1.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/drawing1.jpg" alt="Drawing 1">
+    <img src="{{ site.baseurl }}/assets/img/art/drawing1.jpg" alt="Drawing 1" width="300">
   </a>
 </div>
 
-A couple works (red signature) were created by my Uncle's teacher. The rest were from my Uncle (Buo Buo) who recently passed away.
-I wanted to pay tribute to him by displaying his art. I was lucky to have taken pictures in my trip to Taiwan this year.
+
+
+This page includes the art of my Uncle (Buo Buo) who recently passed away. works were created by his teacher (red signature). I wanted to pay tribute to him by displaying his art. I was lucky to have taken pictures in my trip to Taiwan this year.
+
 I hope you enjoy the various watercolor still life and landscape paintings.  I will write more in the future about the significance of his art in my life.
+
