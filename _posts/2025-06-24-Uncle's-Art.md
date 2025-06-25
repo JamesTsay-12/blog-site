@@ -44,7 +44,6 @@ Welcome to my latest art gallery post! Click any image to view it larger.
   </a> 
 <a href="{{ site.baseurl }}/assets/img/art/uncle_house_and_trees2.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/uncle_house_and_trees2.jpeg" alt="House_Trees" width="300">
-  </a> 
 
 </a></div>
 
