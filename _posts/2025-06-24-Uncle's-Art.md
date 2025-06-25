@@ -9,8 +9,8 @@ tags: [gallery, painting]
 Welcome to my latest art gallery post! Click any image to view it larger.
 
 <div class="art-gallery">
-  <a href="{{ site.baseurl }}/assets/img/art/painting1.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/painting1.jpg" alt="Painting 1">
+  <a href="{{ site.baseurl }}/Uncle%20blue%20boats.jpeg" target="_blank">
+    <img src="{{ site.baseurl }}/Uncle%20blue%20boats.jpeg" alt="Blue Boats">
   </a>
   <a href="{{ site.baseurl }}/assets/img/art/painting2.jpg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/painting2.jpg" alt="Painting 2">
