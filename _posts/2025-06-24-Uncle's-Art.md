@@ -27,15 +27,6 @@ Welcome to my latest art gallery post! Click any image to view it larger.
 <a href="{{ site.baseurl }}/assets/img/art/Uncle's_teacher_flowers.jpeg" target="_blank">
     <img src="{{ site.baseurl }}/assets/img/art/Uncle's_teacher_flowers.jpeg" alt="Flowers" width="300">
   </a>
-<a href="{{ site.baseurl }}/assets/img/art/Uncle_blue_boats.jpeg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/Uncle_blue_boats.jpeg" alt="Blue Boats" width="300">
-  </a>  
-  <a href="{{ site.baseurl }}/assets/img/art/painting2.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/painting2.jpg" alt="Painting 2" width="300">
-  </a>
-  <a href="{{ site.baseurl }}/assets/img/art/drawing1.jpg" target="_blank">
-    <img src="{{ site.baseurl }}/assets/img/art/drawing1.jpg" alt="Drawing 1" width="300">
-  </a>
 </div>
 
 
