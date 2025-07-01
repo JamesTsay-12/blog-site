@@ -31,3 +31,5 @@ Welcome to my personal finance blog — a space where I explore:
 ---
 
 Got a question about something financial or a tool you’d like reviewed? [Get in touch]({{ site.baseurl }}/contact/).
+
+Disclaimer: I am not a financial advisor, CPA, or licensed professional. All content on this blog is for informational and educational purposes only and does not constitute financial, investment, or legal advice. Please consult with a qualified professional for personalized advice.
