@@ -174,16 +174,17 @@ Stay diversified, stay informed — and allocate accordingly.
 
 These articles offer different viewpoints and analyses on the topic of Bitcoin versus gold as stores of wealth, providing a broader perspective on the debate:
 
-- [Bitcoin vs Gold: Which is the Better Store of Value? – Coinbase Blog](https://www.coinbase.com/learn/crypto-basics/bitcoin-vs-gold)  
-  A balanced, beginner-friendly overview comparing both assets.
+- [Digital Gold, Scarcity, and Bitcoin Halvings – Coinbase](https://www.coinbase.com/blog/digital-gold-scarcity-and-bitcoin-halvings)  
+  Explores Bitcoin's characteristics and its comparison to gold, including insights into Bitcoin's halvings and scarcity.
 
-- [Why Bitcoin Could Replace Gold – Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/why-bitcoin-could-replace-gold)  
-  A bullish perspective emphasizing institutional adoption and future potential.
+- [Bitcoin Is Displacing Gold as an Inflation Hedge – Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/2021-04-09/bitcoin-is-displacing-gold-as-an-inflation-hedge)  
+  Discusses how Bitcoin is emerging as a potential hedge against inflation, challenging gold's traditional role.
 
-- [The Case for Gold in a Digital Age – World Gold Council](https://www.gold.org/goldhub/research/case-for-gold-digital-age)  
-  A conservative view highlighting gold’s enduring stability and resilience.
+- [Goldhub Blog – World Gold Council](https://www.gold.org/goldhub/gold-focus?category=722&page=1)  
+  Offers expert analysis and commentary on gold, including its role in modern investment portfolios.
 
-- [Bitcoin vs Gold: The Ultimate Showdown – Forbes](https://www.forbes.com/sites/billybambrough/bitcoin-vs-gold-ultimate-showdown/)  
-  Covers a wide range of considerations including volatility and investment strategy.
+- [The Great Gold Vs Bitcoin Currency Debate – Forbes](https://www.forbes.com/sites/bobhaber/2020/12/14/the-great-gold-vs-bitcoin-debate-currency-debate/)  
+  Provides a comparative analysis of gold and Bitcoin, examining their respective roles as stores of value.
+
 
 ---
