@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Investing Made Easy with Low Expenses"
 description: "A simple guide to building long-term wealth using low-cost ETFs and mutual funds. Includes top fund picks and links."
 date: 2025-07-08
