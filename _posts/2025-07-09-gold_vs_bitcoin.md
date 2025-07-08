@@ -1,8 +1,8 @@
 ---
 title: "Gold vs. Bitcoin: Store of Wealth, or Battle for the Future?"
 description: "Gold has served as a store of value for millennia — but can Bitcoin eventually replace it? A look at the history, present role, and future prospects of both assets."
-date: 2025-07-08
-tags: ["finance", "bitcoin", "gold", "investing"]
+date: 2025-07-09
+categories: [finance]
 ---
 
 # 🪙 Gold vs. Bitcoin: Store of Wealth, or Battle for the Future?
