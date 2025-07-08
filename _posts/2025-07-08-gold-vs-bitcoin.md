@@ -168,5 +168,22 @@ We’re likely headed toward a **dual-asset world**, where:
 - Bitcoin emerges as a **speculative but increasingly credible** digital store of value
 
 Stay diversified, stay informed — and allocate accordingly.
+---
+
+## 📚 References
+
+These articles offer different viewpoints and analyses on the topic of Bitcoin versus gold as stores of wealth, providing a broader perspective on the debate:
+
+- [Bitcoin vs Gold: Which is the Better Store of Value? – Coinbase Blog](https://www.coinbase.com/learn/crypto-basics/bitcoin-vs-gold)  
+  A balanced, beginner-friendly overview comparing both assets.
+
+- [Why Bitcoin Could Replace Gold – Bloomberg Opinion](https://www.bloomberg.com/opinion/articles/why-bitcoin-could-replace-gold)  
+  A bullish perspective emphasizing institutional adoption and future potential.
+
+- [The Case for Gold in a Digital Age – World Gold Council](https://www.gold.org/goldhub/research/case-for-gold-digital-age)  
+  A conservative view highlighting gold’s enduring stability and resilience.
+
+- [Bitcoin vs Gold: The Ultimate Showdown – Forbes](https://www.forbes.com/sites/billybambrough/bitcoin-vs-gold-ultimate-showdown/)  
+  Covers a wide range of considerations including volatility and investment strategy.
 
 ---
