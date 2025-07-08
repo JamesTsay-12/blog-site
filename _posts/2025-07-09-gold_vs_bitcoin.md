@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Gold vs. Bitcoin: Store of Wealth, or Battle for the Future?"
 description: "Gold has served as a store of value for millennia — but can Bitcoin eventually replace it? A look at the history, present role, and future prospects of both assets."
 date: 2025-07-09
