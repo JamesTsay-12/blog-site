@@ -54,10 +54,12 @@ These podcasts have earned credibility through consistent, insightful economic a
   - Spotify: [Prof G Markets](https://open.spotify.com/show/7syF2ry9j6nqYc656WHBA7)  
   - YouTube (via "The Prof G Pod"): [Latest episode](https://www.youtube.com/watch?v=XkvJ8Nr0zzA)
 
+
 - **All‑In Podcast** (Center‑Right Leaning) – *YouTube & Spotify*  
   Chamath Palihapitiya, Jason Calacanis, David Sacks, and David Friedberg bring decades of investing and tech entrepreneurship experience, offering open, often heated debates on policy, tech, and macro.  
   - YouTube: [All‑In Podcast channel](https://www.youtube.com/@allin)  
-  - Spotify: [All‑In on Spotify](https://open.spotify.com/show/2Ma4zQ3sXJ7yqZqj1RL0Qh)
+  - Spotify: [All‑In with Chamath, Jason, Sacks & Friedberg](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)  
+
 
 - **Pivot** – *YouTube & Spotify*  
   Hosted by Kara Swisher and Scott Galloway, combining progressive and libertarian perspectives on tech and business trends. Both hosts are recognized thought leaders with strong credibility in the business and tech worlds.  
