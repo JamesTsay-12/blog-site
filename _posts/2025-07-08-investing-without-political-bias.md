@@ -61,7 +61,7 @@ These podcasts have earned credibility through consistent, insightful economic a
 
 - **Pivot** – *YouTube & Spotify*  
   Hosted by Kara Swisher and Scott Galloway, combining progressive and libertarian perspectives on tech and business trends. Both hosts are recognized thought leaders with strong credibility in the business and tech worlds.  
-  - Spotify: [Pivot on Spotify](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5)  
+  - Spotify: [Pivot on Spotify](https://open.spotify.com/show/4MU3RFGELZxPT9XHVwTNPR)  
   - YouTube: [Kara Swisher interviews](https://www.youtube.com/results?search_query=pivot+podcast+kara+swisher)
 
 > **Note:** I don’t personally agree with everything these podcasters say. I use their debates and insights, along with other sources, to make up my own mind.
