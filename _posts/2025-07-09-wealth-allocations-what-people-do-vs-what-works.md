@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Wealth Allocations: What People Do vs. What Works"
+description: "Wealth Allocations: What People Do vs. What Works"
+date: 2025-07-09
+categories: [finance]
+---
 # Wealth Allocations: What People Do vs. What Works
 
 ## Introduction: Are We Investing the Right Way?
