@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reduce you political bias when investing"
+title: "Reduce your political bias when investing"
 description: "Recommendations to maximize your portfolio by reducing political bias"
 date: 2025-07-08
 categories: [finance]
