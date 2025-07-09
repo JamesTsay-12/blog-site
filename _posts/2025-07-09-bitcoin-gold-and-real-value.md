@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Gold vs. Bitcoin: Is Gold Really More “Real”
+description: "Gold vs. Bitcoin: Is Gold Really More “Real”
+date: 2025-07-09
+categories: [finance]
+---
 # Gold vs. Bitcoin: Is Gold Really More “Real”?
 
 ## Introduction
