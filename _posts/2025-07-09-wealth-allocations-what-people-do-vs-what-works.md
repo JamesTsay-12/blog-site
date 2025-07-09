@@ -207,3 +207,31 @@ I am also working on correcting many of the links here which don't work, so stay
 - [ChooseFI Podcast: Making Portfolio Adjustments with Big ERN](https://www.choosefi.com/podcast/)  
 - [The Alt Asset Allocation Podcast](https://www.benlakoff.com/portfolio/)  
 - [Financial Independence Podcast: Making Financial Independence Inevitable with Nate Hoskin](https://www.investipal.co/podcasts/making-financial-independence-inevitable-with-nate-hoskin)  
+
+
+## Supplemental Information: Wealth Growth Comparison Over Time
+
+### Assumptions
+
+- Initial investment: $100,000  
+- Annual contributions: $10,000  
+- Returns: Use estimated returns from actual and recommended allocations  
+- Compounding annually, contributions at year-end  
+- No taxes, fees, or withdrawals  
+
+---
+
+### Estimated Wealth Growth Comparison
+
+| Time Horizon | Actual Allocation Return | Future Value (Actual) | Recommended Allocation Return | Future Value (Recommended) | Difference ($) | Difference (%) |
+|--------------|--------------------------|----------------------|-------------------------------|----------------------------|----------------|----------------|
+| 10 years     | 5.5%                     | $244,113             | 6.5%                          | $261,742                   | $17,629        | 7.2%           |
+| 20 years     | 5.5%                     | $505,946             | 6.5%                          | $582,097                   | $76,151        | 15.1%          |
+| 30 years     | 5.5%                     | $919,613             | 6.5%                          | $1,196,256                 | $276,643       | 30.1%          |
+
+---
+
+### Interpretation
+
+- Even a 1% annual return difference compounds significantly over time.  
+- The longer the horizon, the more critical it is to adopt allocations with higher expected returns.
