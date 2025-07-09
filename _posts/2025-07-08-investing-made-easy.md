@@ -35,9 +35,10 @@ An additional benefit: many of these funds have **high dividend yields**, boosti
 ### International Diversification
 - **[IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf)** – iShares Total International Stock ETF (expense ratio: 0.07%)  
   - Non-U.S. developed and emerging markets
+- **[VXUS](https://fundresearch.fidelity.com/mutual-funds/summary/31635T609](https://investor.vanguard.com/investment-products/etfs/profile/vxus)** – Vanguard Total International Stock ETF (expense ratio: 0.05%)  
+  - Vanguard version of above
 - **[FZILX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T609)** – Fidelity ZERO International Index Fund (expense ratio: 0.00%)  
   - Mutual fund with zero fees, international focus
-
 > 📌 **Note:** International funds are included to diversify outside of the U.S., as it's uncertain whether U.S. stocks will continue to outperform global markets indefinitely. I've provided both Vanguard (V) and Fidelity (F) versions since many 401(k) accounts limit your broker options.
 
 ## 🚀 Higher Growth Fund Options (More Volatile)
