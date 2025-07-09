@@ -10,7 +10,7 @@ categories: [finance]
 
 ## Introduction
 
-This article follows up on my previous post comparing Bitcoin and gold [here](https://github.com/JamesTsay-12/blog-site/blob/main/_posts/2025-07-08-gold-vs-bitcoin.md). It explores the popular argument that gold is a better investment than Bitcoin because it has “real value” through its physical uses and intrinsic properties.
+This article follows up on my previous post comparing Bitcoin and gold [here](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/gold-vs-bitcoin.html). It explores the popular argument that gold is a better investment than Bitcoin because it has “real value” through its physical uses and intrinsic properties.
 
 But how valid is that claim? We will analyze gold’s industrial uses, market capitalization, and compare it to Bitcoin’s nature, addressing why both largely derive their value from collective belief rather than direct economic utility.
 
@@ -135,5 +135,3 @@ Recognizing these shared and unique traits can help investors better understand 
 - [CFA Institute Research](https://www.cfainstitute.org/en/research/cfa-digest/2022/06/liquidity-and-portfolio-management)  
 - [ChooseFI Podcast](https://www.choosefi.com/)  
 - [Warren Buffett Berkshire Hathaway Letters](https://www.berkshirehathaway.com/letters/letters.html)  
-
-
