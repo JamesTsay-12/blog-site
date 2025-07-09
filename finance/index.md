@@ -13,6 +13,8 @@ Welcome to my personal finance blog — a space where I explore:
 - Financial independence & long-term planning
 - Real-world experiences with money management
 
+
+My aim is to be objective, data-driven, and supported by other references, while being open to different points of view.  Take these articles as food for thought instead of directive financial advice.  Hopefully there are some useful perspectives shared here.
 ---
 
 ### 📚 Recent Posts
