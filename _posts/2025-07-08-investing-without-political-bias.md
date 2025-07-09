@@ -136,14 +136,24 @@ When investing becomes a vehicle for affirming personal beliefs, we can fall int
 
 Being intentional about your goals — whether values-driven or return-driven — is key. Clarity matters more than ideology.
 
+
 ---
+## 🧭 Summary: How to Fight Political Bias in Your Portfolio
 
-## 🛠️ Strategies to Apply in Your Investing Practice
+1. **Avoid Partisan Market Timing**  
+   Don’t change your portfolio just because a new party takes office — long-term investing beats reactive moves.
 
-1. **Diversify your information diet** like you diversify assets.  
-2. **Actively seek smart people you disagree with.** Curiosity trumps ideological echo chambers.  
-3. **Watch market reactions, not just rhetoric.** Markets often contradict partisan narratives.  
-4. **Separate mission-driven investing from performance objectives.** ESG and values-based investing are valid — clarity of intent is key.
+2. **Use Data Over Ideology**  
+   Base decisions on valuation, earnings, and fundamentals — not political beliefs or media spin.
+
+3. **Diversify Information Sources**  
+   Engage with financial content across the political spectrum to challenge confirmation bias.
+
+4. **Stick with Broad Exposure**  
+   Thematic political ETFs often underperform — diversify with broad-market funds.
+
+👉 [Read the WSJ article](https://www.wsj.com/finance/investing/investment-portfolios-politics-6d186f91)  
+👉 [Read the Barron’s article](https://www.barrons.com/articles/politics-based-investing-sounds-smart-these-strategies-work-better-30cf40ea)
 
 ---
 
