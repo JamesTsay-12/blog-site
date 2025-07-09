@@ -14,7 +14,7 @@ Welcome to my personal finance blog — a space where I explore:
 - Real-world experiences with money management
 
 
-My aim is to be objective, data-driven, and supported by other references, while being open to different points of view.  Take these articles as food for thought instead of directive financial advice.  Hopefully there are some useful perspectives shared here.
+My aim here is to be objective, data-driven, and supported by other references, while being open to different points of view.  Please take these blogs as food for thought instead of directive financial advice.  Hopefully there are some useful perspectives shared here.
 ---
 
 ### 📚 Recent Posts
