@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Reduce you political bias when investing"
+description: "Recommendations to maximize your portfolio by reducing political bias"
+date: 2025-07-08
+categories: [finance]
+---
 # 🧠 Investing Without Bias: How to Reduce Political Influence in Your Portfolio
 
 In an age of increasing polarization, even our **investment decisions** can be colored by our political beliefs — often without us realizing it. Whether it’s choosing “green energy” stocks or avoiding companies tied to government contracts, many investors let ideology creep into financial decision-making.
