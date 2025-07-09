@@ -179,7 +179,7 @@ To build long-term wealth more effectively:
 
 This article was generated as part of a Q&A session with ChatGPT, an AI language model developed by OpenAI, based on publicly available data, financial theory, and aggregated research. It is for informational purposes only and does not constitute financial advice. Please consult a licensed financial advisor before making investment decisions.
 
-I do not currently follow the recommended allocation strategy and am continuing to evaluate and test ideas. For example, I currently want to understand private equity investment more before I put in a larger stake.  You can explore the impact of different asset allocations by comparing them with the output of my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
+I do not currently follow the recommended allocation strategy and am continuing to evaluate and test ideas. For example, I currently want to understand private equity investment more before I put in a larger stake.  It's important to note that the performance of the different markets can change rapidly, and private equity markets have not performed as well very recently.  You can explore the impact of different asset allocations by comparing them with the output of my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
 
 I am also working on correcting many of the links here which don't work, so stay tuned and check back!  Some require you to have an account, unfortuantely. 
 
