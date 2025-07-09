@@ -150,7 +150,7 @@ Understanding these personal variables is key to applying allocation principles 
 
 ---
 
-**Case Study 2: Moderately Wealthy Investor — Bill Perkins (Net Worth ~$100M)**
+**Case Study 2: Wealthy Investor — Bill Perkins (Net Worth ~$100M)**
 
 - **Background:** Bill Perkins is a hedge fund manager and energy trader known for his alternative investment strategies and emphasis on private equity and real assets.
 
