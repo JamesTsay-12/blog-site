@@ -32,13 +32,15 @@ Based on data from the [Federal Reserve Survey of Consumer Finances (SCF)](https
 
 ## Section 2: Recommended Wealth Allocations for Long-Term Returns
 
+
 **Basis for Estimated Returns:** Estimated returns in the recommended allocations are derived from historical averages and institutional allocation models (e.g., Yale Endowment, Bogleheads, and Morningstar). For example:
 
 - **Public Equities**: 6–8% real return annually (based on long-term U.S. and global equity performance)
-- **Private Equity / Business Ownership**: 8–12% IRR historically for diversified buyout and venture capital funds, with higher variance ([McKinsey Global Private Markets Review 2023](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/global-private-markets-review-2023))
-- **Real Estate**: 6–8% long-term blended returns across direct and REIT exposure ([Nareit REIT Industry Performance](https://www.reit.com/data-research/reit-indexes/historical-reit-industry-performance))
+- **Private Equity / Business Ownership**: 8–12% IRR historically for diversified buyout and venture capital funds, with higher variance ([McKinsey Global Private Markets Report](https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report))
+- **Real Estate**: 6–8% long-term blended returns across direct and REIT exposure ([NAREIT](https://www.reit.com/data-research/reit-indexes/historical-reit-industry-performance))
 - **Alternatives**: Varies widely; 4–12% depending on strategy (e.g., hedge funds, commodities, crypto, etc.)
-- **Cash / Bonds**: 2–5% depending on inflation, interest rates, and bond duration ([Morningstar Fixed Income Overview](https://www.morningstar.com/lp/fixed-income))
+- **Cash / Bonds**: 2–5% depending on inflation, interest rates, and bond duration ([Morningstar](https://www.morningstar.com/lp/market-fair-value))
+
 
 Using frameworks from [Bogleheads Investment Strategies](https://www.bogleheads.org/wiki/Investment_strategies), [Yale Endowment](https://investments.yale.edu/), and [Morningstar: How to Build a Portfolio Based on Your Net Worth](https://www.morningstar.com/articles/1011705/how-to-build-a-portfolio-based-on-your-net-worth), here’s what optimal portfolios might look like:
 
