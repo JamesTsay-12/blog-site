@@ -8,14 +8,13 @@ permalink: /finance/
 
 Welcome to my personal finance blog — a space where I explore:
 
-- Budgeting and saving strategies
-- Investment ideas and tools
-- Financial independence & long-term planning
+- Budgeting and saving strategies  
+- Investment ideas and tools  
+- Financial independence & long-term planning  
 - Real-world experiences with money management
 
+My aim here is to be objective, data-driven, and supported by other references, while being open to different points of view. Please take these blogs as food for thought instead of directive financial advice. Hopefully there are some useful perspectives shared here.
 
-My aim here is to be objective, data-driven, and supported by other references, while being open to different points of view.  Please take these blogs as food for thought instead of directive financial advice.  Hopefully there are some useful perspectives shared here.
----
 
 ### 📚 Recent Posts
 
