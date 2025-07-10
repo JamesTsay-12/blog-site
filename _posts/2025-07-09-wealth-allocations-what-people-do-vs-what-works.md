@@ -97,10 +97,16 @@ This allocation contrasts with typical public portfolio advice, which often over
 
 Further support for this trend comes from academic research. See [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf), which documents that allocations to private equity and alternatives increase substantially with wealth.
 
-This suggests two important takeaways:
+These preferences may reflect not only higher return expectations, but also **notable tax advantages** — including:
+- Deferred capital gains (via carried interest or long holding periods)
+- Pass-through deductions (common in private real estate and certain partnerships)
+- Potential for step-up in basis on inherited private assets
 
-- **Institutional and UHNW portfolios may be better aligned with long-term return optimization.**
-- **Return assumptions for higher-net-worth tiers in Section 1 may actually be understated**, as alternative investments tend to carry higher expected returns than public equities and bonds — albeit with more complexity and illiquidity.
+> 💡 **Bottom Line:** Ultra-wealthy investors may achieve **higher after-tax, risk-adjusted returns** thanks to both access and tax-efficient structures.
+
+This suggests:
+- **Institutional and UHNW portfolios may be better aligned with long-term wealth creation**
+- **Return assumptions for higher-net-worth tiers in Section 1 may be understated** due to compounding benefits from alternatives and tax optimization
 
 ---
 
@@ -136,9 +142,10 @@ For those not yet accredited, here are **lower-barrier ways to access private ma
 - **Retail Broker Access**
   - [Fidelity Alternative Investments](https://www.fidelity.com/alternative-investments/overview)
 
-> ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Always research thoroughly, and consider professional guidance before investing in alternatives.
+> ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Alternatives may also have **complex tax reporting** and may not be suitable for every investor. Always research thoroughly and consider professional guidance before investing.
 
 I will cover other forms of alternatives — such as cryptocurrency and collectibles — in a future post.
+
 
 ---
 
