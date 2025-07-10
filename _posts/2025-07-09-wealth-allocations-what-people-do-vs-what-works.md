@@ -95,19 +95,22 @@ This contradicts many public portfolios that overallocate to cash. For investors
 
 Also see this academic paper by Balloch and Richers [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf) which supports the finding that allocations to private equity and alternatives increase significantly with higher wealth levels.
 
-This also highlights data showing a large range in which very wealthy individuals allocate alternatives and private equity. 
+These different sources also highlight various data showing a large range in which very wealthy individuals allocate alternatives and private equity. 
 
-What we can take away is that very wealthy people have much larger allocations in alternatives and private equity compared to less wealthy people.  They are also able to take advantage of investments which have big tax advantages (see smart asset article). Altogether, the wealthy can get substantially higher returns than the average investor with these strategies.
+What we can take away is that very wealthy people have much larger allocations in alternatives and private equity compared to less wealthy people.  They are also able to take advantage of investments which have big tax advantages (see smart asset article).
+
+Altogether, the higher wealth tiers can get substantially higher effective returns than the average investor with these strategies.  
+It is reasonable to propose then that the returns from the wealthy tiers in section 1's tables could be underestimated.
 
 ---
 
 ### Section 4.3: How to Access Private Equity and Alternative Investments
 
-Private equity and alternatives can boost returns but are harder to access
+Private equity and alternatives can boost returns but are harder to access.  You need to have minimum wealth and often need to know someone who is doing this in order to even get started!
 
 **Accredited Investor Status Requirements:** net worth of over $1 million (excluding their primary residence) or an income exceeding $200,000 (or $300,000 with a spouse) for the past two years with reasonable expectations of the same for the current year.
 
-Below are examples of lower barrier to entry for private equity provided by ChatGPT:
+Below are lower barrier to entry options for private equity provided by ChatGPT:
 
 - **Private Equity ETFs/Mutual Funds:**  
   - [PSP - Invesco Listed Private Equity ETF](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)  
