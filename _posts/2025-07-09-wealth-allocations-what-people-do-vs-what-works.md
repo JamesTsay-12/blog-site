@@ -81,59 +81,66 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 
 ### Section 4.2: Reconciling High-Net-Worth Allocations
 
-[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows high-net-worth investors hold less cash than mainstream investor models suggest:
+[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows that high-net-worth and ultra-high-net-worth (UHNW) investors allocate their portfolios quite differently from the average investor — particularly with lower allocations to cash and bonds, and significantly higher allocations to alternatives.
 
-| Asset Allocation       | Ultra-High Net Worth (> $30M) | High Net Worth ($1M portf) |
-|------------------------|-------------------------------|----------------------------|
-| Cash                   | 10%                           | 2%                         |
-| Alternatives           | 46%                           | 22%                        |
-| Fixed Income           | 15%                           | 33%                        |
-| International Equities | 9%                            | 15%                        |
-| Domestic Equities      | 20%                           | 28%                        |
+| Asset Allocation       | Ultra-High Net Worth (> $30M) | High Net Worth (~$1M portfolio) |
+|------------------------|-------------------------------|----------------------------------|
+| Cash                   | 10%                           | 2%                               |
+| Alternatives           | 46%                           | 22%                              |
+| Fixed Income           | 15%                           | 33%                              |
+| International Equities | 9%                            | 15%                              |
+| Domestic Equities      | 20%                           | 28%                              |
 
-This contradicts many public portfolios that overallocate to cash. For investors with >$1M, it suggests **lower cash/bond allocations** may be better aligned with actual wealthy investor behavior. 
+This allocation contrasts with typical public portfolio advice, which often overweights cash or bonds and underweights alternative investments.
 
-Also see this academic paper by Balloch and Richers [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf) which supports the finding that allocations to private equity and alternatives increase significantly with higher wealth levels.
+> 📌 **Key Insight:** As net worth increases, investors tend to reduce their exposure to cash and fixed income while significantly increasing their allocation to private equity and alternatives.
 
-These different sources also highlight various data showing a large range in which very wealthy individuals allocate alternatives and private equity. 
+Further support for this trend comes from academic research. See [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf), which documents that allocations to private equity and alternatives increase substantially with wealth.
 
-What we can take away is that very wealthy people have much larger allocations in alternatives and private equity compared to less wealthy people.  They are also able to take advantage of investments which have big tax advantages (see smart asset article).
+This suggests two important takeaways:
 
-Altogether, the higher wealth tiers can get substantially higher effective returns than the average investor with these strategies.  
-It is reasonable to propose then that the returns from the wealthy tiers in section 1's tables could be underestimated.
+- **Institutional and UHNW portfolios may be better aligned with long-term return optimization.**
+- **Return assumptions for higher-net-worth tiers in Section 1 may actually be understated**, as alternative investments tend to carry higher expected returns than public equities and bonds — albeit with more complexity and illiquidity.
 
 ---
 
 ### Section 4.3: How to Access Private Equity and Alternative Investments
 
-Private equity and alternatives can boost returns but are harder to access.  You need to have minimum wealth and often need to know someone who is doing this in order to even get started!
+While alternatives and private equity can improve portfolio returns, they often come with **barriers to entry** such as wealth thresholds, limited liquidity, and high fees.
 
-**Accredited Investor Status Requirements:** net worth of over $1 million (excluding their primary residence) or an income exceeding $200,000 (or $300,000 with a spouse) for the past two years with reasonable expectations of the same for the current year.
+#### Accredited Investor Requirements:
 
-Below are lower barrier to entry options for private equity provided by ChatGPT:
+To access most private funds, U.S. investors must qualify as **accredited**, which means:
+- Net worth over $1 million (excluding primary residence), or
+- Income over $200,000 individually ($300,000 with spouse) for the past two years with expectation to continue.
 
-- **Private Equity ETFs/Mutual Funds:**  
-  - [PSP - Invesco Listed Private Equity ETF](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)  
+For those not yet accredited, here are **lower-barrier ways to access private market exposure**:
+
+- **Private Equity ETFs / Mutual Funds**
+  - [Invesco Listed Private Equity ETF (PSP)](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)
   - [BlackRock Private Opportunities Fund](https://www.blackrock.com/us/individual/products/268217/blackrock-private-opportunities-fund-inc)
-- **Interval Funds / Registered Alts:**  
-  - [WhiteHorse Specialty Finance Fund](https://whitehorsecapital.com/funds/whsf/)  
-  - [BlackRock Alternative Strategies](https://www.blackrock.com/us/individual/products/268329/blackrock-alternative-strategies-fund)
-- **Direct Investment Platforms:**  
-  - [EquityZen](https://equityzen.com/)  
-  - [Forge Global](https://forgeglobal.com/)  
+
+- **Interval Funds / Registered Alts**
+  - [WhiteHorse Specialty Finance Fund](https://whitehorsecapital.com/funds/whsf/)
+  - [BlackRock Alternative Strategies Fund](https://www.blackrock.com/us/individual/products/268329/blackrock-alternative-strategies-fund)
+
+- **Direct Investment Platforms**
+  - [EquityZen](https://equityzen.com/)
+  - [Forge Global](https://forgeglobal.com/)
   - [SeedInvest](https://www.seedinvest.com/)
-- **Real Estate Crowdfunding:**  
-  - [Fundrise](https://fundrise.com/)  
+
+- **Real Estate Crowdfunding**
+  - [Fundrise](https://fundrise.com/)
   - [RealtyMogul](https://www.realtymogul.com/)
-- **Retail Brokerage Access:**  
+
+- **Retail Broker Access**
   - [Fidelity Alternative Investments](https://www.fidelity.com/alternative-investments/overview)
 
-**Note:** These often have higher fees, limited liquidity, and greater risk. Research is critical -  make sure you discuss with people you trust before executing.
-I aim to discuss more on other alternatives such as crypto separately.
+> ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Always research thoroughly, and consider professional guidance before investing in alternatives.
+
+I will cover other forms of alternatives — such as cryptocurrency and collectibles — in a future post.
 
 ---
-
-
 
 ## Section 5: How Personal Circumstances Affect Allocation
 
