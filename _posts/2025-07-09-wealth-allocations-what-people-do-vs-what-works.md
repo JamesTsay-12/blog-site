@@ -166,17 +166,31 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Section 6: Real-Life Case Studies
 
-**Case Study 1: “The Average Saver”**
+### Case Study 1: The Typical Moderate Wealth Investor — (anonymous)
 
-- Real estate >50%, minimal equities, no private equity
-- Outcome: low growth, delayed wealth
-- Source: [Bogleheads](https://www.bogleheads.org/forum/)
+- **Profile:**  
+  - Age: 40  
+  - Net Worth: ~$500,000  
+  - Investment Style: Conservative, focused on stability  
+- **Allocation:**  
+  - Equities (Domestic & International): 40%  
+  - Bonds / Cash: 40%  
+  - Real Estate: 15%  
+  - Alternatives / Private Equity: 5%  
+- **Outcome:** Moderate portfolio growth with lower volatility, but limited upside due to conservative allocation.  
+- **Source:** Based on aggregated data from Vanguard’s “How America Invests” and personal finance case studies.
 
-**Case Study 2: Wealthy Investor — Bill Perkins**
+#### Case Study 2: Wealthy Investor — Bill Perkins
 
-- Public: ~20%, Private Equity: ~50%, Real Estate: ~15%, Alts: ~10%, Cash: ~5%
-- Outcome: growth via concentration in high-return assets
-- *Note: Allocation estimates based on interviews; exact figures may vary and needs to be verified*
+- **Allocation:**  
+  - Public Equities: ~20%  
+  - Private Equity: ~50%  
+  - Real Estate: ~15%  
+  - Alternatives: ~10%  
+  - Cash: ~5%  
+- **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments.  
+- **Note:** Estimates based on interviews; exact numbers may vary and require verification.
+
 
 ---
 
