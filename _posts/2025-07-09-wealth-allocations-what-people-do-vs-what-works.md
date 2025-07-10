@@ -105,9 +105,10 @@ What we can take away is that very wealthy people have much larger allocations i
 
 Private equity and alternatives can boost returns but are harder to access
 
-- **Accredited Investor Status:** Requirements: net worth of over $1 million (excluding their primary residence) or an income exceeding $200,000 (or $300,000 with a spouse) for the past two years with reasonable expectations of the same for the current year.
+**Accredited Investor Status Requirements:** net worth of over $1 million (excluding their primary residence) or an income exceeding $200,000 (or $300,000 with a spouse) for the past two years with reasonable expectations of the same for the current year.
 
-  Below are examples of lower barrier to entry for private equity provided by ChatGPT"
+Below are examples of lower barrier to entry for private equity provided by ChatGPT:
+
 - **Private Equity ETFs/Mutual Funds:**  
   - [PSP - Invesco Listed Private Equity ETF](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)  
   - [BlackRock Private Opportunities Fund](https://www.blackrock.com/us/individual/products/268217/blackrock-private-opportunities-fund-inc)
@@ -125,7 +126,7 @@ Private equity and alternatives can boost returns but are harder to access
   - [Fidelity Alternative Investments](https://www.fidelity.com/alternative-investments/overview)
 
 **Note:** These often have higher fees, limited liquidity, and greater risk. Research is critical -  make sure you discuss with people you trust before executing.
-I aim to discuss more on other alternatives such as crypto and collectibles separately.
+I aim to discuss more on other alternatives such as crypto separately.
 
 ---
 
