@@ -91,6 +91,8 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 | International Equities | 9%                            | 15%                        |
 | Domestic Equities      | 20%                           | 28%                        |
 
+Also see [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf) which supports the finding that allocations to private equity and alternatives increase significantly with higher wealth levels.
+
 This contradicts many public portfolios that overallocate to cash. For investors with >$1M, it suggests **lower cash/bond allocations** may be better aligned with actual wealthy investor behavior. This also highlights some contradictory data where we see there is a large range in which very wealthy individuals allocate alternatives and private equity. 
 What we can take away is that very wealthy people have much larger allocations in alternatives and private equity compared to less wealthy people.  They are also able to take advantage of investments which have big tax advantages (see smart asset article).
 
