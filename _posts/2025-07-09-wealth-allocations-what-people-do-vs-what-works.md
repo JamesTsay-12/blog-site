@@ -103,9 +103,11 @@ What we can take away is that very wealthy people have much larger allocations i
 
 ### Section 4.3: How to Access Private Equity and Alternative Investments
 
-Private equity and alternatives can boost returns but are harder to access:
+Private equity and alternatives can boost returns but are harder to access
 
-- **Accredited Investor Status:** Required for most private funds
+- **Accredited Investor Status:** Requirements: net worth of over $1 million (excluding their primary residence) or an income exceeding $200,000 (or $300,000 with a spouse) for the past two years with reasonable expectations of the same for the current year.
+
+  Below are examples of lower barrier to entry for private equity provided by ChatGPT"
 - **Private Equity ETFs/Mutual Funds:**  
   - [PSP - Invesco Listed Private Equity ETF](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)  
   - [BlackRock Private Opportunities Fund](https://www.blackrock.com/us/individual/products/268217/blackrock-private-opportunities-fund-inc)
