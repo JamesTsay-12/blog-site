@@ -209,8 +209,9 @@ To build wealth:
 
 - Reassess allocation by tier and goals
 - Prioritize higher-return assets over “safe” ones if able to take higher risks
+- Discuss how to invest in the nontraditional assets like private equity and alternatives with those who are well-educated and successful with these investments
 - Gradually shift allocations as access improves
-- Consider practical advice from experts (I'll provide examples in follow-up blogs)
+- Consider practical advice from experts to max performance with less hassle (I'll provide examples in follow-up blogs)
 
 This blog is also providing more of a basis for why the wealthy can get even more wealthy faster than others - they have much more ability to take risks, tools, and access points for different investments at their disposal.
 
@@ -220,7 +221,7 @@ This blog is also providing more of a basis for why the wealthy can get even mor
 
 This article was generated in collaboration with ChatGPT and based on publicly available data and academic frameworks. The results generated for what typical investors do needs to be verified but you can use these numbers as guidelines.  Same goes for what more "optimal" allocations might be.  Consult a licensed advisor before making financial decisions.
 
-I do not currently follow the propsoed optimized allocation strategy and am continuing to evaluate and test ideas. For example, I’m still exploring private equity access before committing larger stakes. Market conditions can change, and recent PE returns have softened. You can model your own scenarios using my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
+I do not currently follow the proposed optimized allocation strategy and am continuing to evaluate and test ideas. For example, I’m still exploring private equity access before committing larger stakes. Market conditions can change, and recent PE returns have softened. You can model your own scenarios using my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
 
 Unfortunately, some links may not work without creating accounts or passing paywalls — I’m working to improve this!
 
