@@ -205,7 +205,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Conclusion
 
-To build wealth:
+The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  With that in mind, some strategies to build wealth include:
 
 - Reassess allocation by tier and goals
 - Prioritize higher-return assets over “safe” ones if able to take higher risks
