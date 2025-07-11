@@ -80,7 +80,8 @@ However, Bitcoin is more **speculative** due to its:
 ## Section 6: What a Great Investor Thinks — Warren Buffett on Gold and Bitcoin
 
 Warren Buffett has famously criticized gold for not generating income and called it an asset that “just sits there.” Regarding Bitcoin, he has expressed skepticism, highlighting its lack of intrinsic value and unpredictable future. Yet, he acknowledges that people can assign value based on belief and scarcity.
-[Warren Buffett: How To Turn $10,000 Into Millions (Simple Investment Strategy)](http://www.youtube.com/watch?v=NBxsVZ_DA9c)--- (~10 min mark)
+Gold: [Warren Buffett: How To Turn $10,000 Into Millions (Simple Investment Strategy)](http://www.youtube.com/watch?v=NBxsVZ_DA9c)--- (~10 min mark)
+Bitcoin: [Warren Buffett on bitcoin and crypto: We've had an explosion of gambling](http://www.youtube.com/watch?v=vGVt8Y2ZdWI)
 
 ## Section 7: Why Are People Flocking to Gold and Bitcoin in 2025?
 
