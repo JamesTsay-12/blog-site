@@ -237,9 +237,10 @@ Unfortunately, some links may not work without creating accounts or passing payw
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Investment_strategies)
 - [Composition of Wealth – Visual Capitalist](https://www.visualcapitalist.com/composition-of-wealth/)
 ---
+
 ## Supplemental Information: Wealth Growth Comparison Over Time
 
-### Assumptions
+#### Assumptions
 
 - Initial investment: $100,000  
 - Annual contributions: $10,000  
@@ -250,7 +251,7 @@ Unfortunately, some links may not work without creating accounts or passing payw
 ---
 
 
-### Estimated Wealth Growth Comparison
+#### Estimated Wealth Growth Comparison
 
 | Time Horizon | Actual Allocation Return | Future Value (Actual) | Recommended Allocation Return | Future Value (Recommended) | Difference ($) | Difference (%) |
 |--------------|--------------------------|------------------------|-------------------------------|----------------------------|----------------|----------------|
@@ -261,7 +262,7 @@ Unfortunately, some links may not work without creating accounts or passing payw
 
 ---
 
-### Interpretation
+#### Interpretation
 
 - Even a 1% annual return difference compounds significantly over time.  
 - The longer the horizon, the more critical it is to adopt allocations with higher expected returns.
