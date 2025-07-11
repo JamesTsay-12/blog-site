@@ -95,7 +95,7 @@ This allocation contrasts with typical public portfolio advice, which often over
 
 > 📌 **Key Insight:** As net worth increases, investors tend to reduce their exposure to cash and fixed income while significantly increasing their allocation to private equity and alternatives.
 
-Further support for this trend comes from academic research. See [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf), which documents that allocations to private equity and alternatives increase substantially with wealth.
+Further support for this trend comes from academic research. See [FMG Discussion Paper 885, page 50](https://www.fmg.ac.uk/sites/default/files/2023-08/DP885.pdf), which documents that allocations to private equity and alternatives increase substantially with wealth.  The authors note that the bigger advantage of the access to these investments is increased diversification rather than the individual returns from them.
 
 These preferences may reflect not only higher return expectations, but also **notable tax advantages** — including:
 - Deferred capital gains (via carried interest or long holding periods)
