@@ -13,7 +13,7 @@ Many people want to invest with minimal hassle. One of the simplest and most eff
 
 These funds can be purchased easily through platforms like **E*TRADE**, **Vanguard**, or **Fidelity**. Historically, **about 90% of actively managed funds underperform the S&P 500 over the long term** ([source](https://www.investopedia.com/can-you-beat-sp-500-11738589)).
 
-Here is also perspective from Warren Buffett:
+Here is perspective from Warren Buffett:
 [Warren Buffett: How To Turn $10,000 Into Millions (Simple Investment Strategy)](http://www.youtube.com/watch?v=NBxsVZ_DA9c)
 
 The key to successful ETF investing is:
