@@ -31,7 +31,7 @@ Based on data from the [Federal Reserve Survey of Consumer Finances (SCF)](https
 
 ---
 
-## Section 2: Recommended Wealth Allocations for Long-Term Returns
+## Section 2: Proposed Optimization of Wealth Allocations for Long-Term Returns
 
 **Basis for Estimated Returns:** Estimated returns in the recommended allocations are derived from historical averages and institutional allocation models (e.g., Yale Endowment, Bogleheads, and Morningstar). For example:
 
@@ -220,7 +220,7 @@ This blog is also providing more of a basis for why the wealthy can get even mor
 
 This article was generated in collaboration with ChatGPT and based on publicly available data and academic frameworks. The results generated for what typical investors do needs to be verified but you can use these numbers as guidelines.  Same goes for what more "optimal" allocations might be.  Consult a licensed advisor before making financial decisions.
 
-I do not currently follow the recommended allocation strategy and am continuing to evaluate and test ideas. For example, I’m still exploring private equity access before committing larger stakes. Market conditions can change, and recent PE returns have softened. You can model your own scenarios using my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
+I do not currently follow the propsoed optimized allocation strategy and am continuing to evaluate and test ideas. For example, I’m still exploring private equity access before committing larger stakes. Market conditions can change, and recent PE returns have softened. You can model your own scenarios using my [financial simulator](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html).
 
 Unfortunately, some links may not work without creating accounts or passing paywalls — I’m working to improve this!
 
