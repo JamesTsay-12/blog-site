@@ -166,7 +166,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Section 6: Real-Life Case Studies
 
-### Case Study 1: The Typical Moderate Wealth Investor — (anonymous)
+#### Case Study 1: The Typical Moderate Wealth Investor — (anonymous)
 
 - **Profile:**  
   - Age: 40  
@@ -230,7 +230,7 @@ Unfortunately, some links may not work without creating accounts or passing payw
 - [ChooseFI Podcast](https://www.choosefi.com/podcast/)  
 - [Yale Endowment](https://investments.yale.edu/)  
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Investment_strategies)
-
+- [Composition of Wealth – Visual Capitalist](https://www.visualcapitalist.com/composition-of-wealth/)
 ---
 ## Supplemental Information: Wealth Growth Comparison Over Time
 
