@@ -241,6 +241,8 @@ Unfortunately, some links may not work without creating accounts or passing payw
 - [Yale Endowment](https://investments.yale.edu/)  
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Investment_strategies)
 - [Composition of Wealth – Visual Capitalist](https://www.visualcapitalist.com/composition-of-wealth/)
+
+  
 ---
 
 ## Supplemental Information: Wealth Growth Comparison Over Time
