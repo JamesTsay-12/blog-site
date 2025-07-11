@@ -112,8 +112,8 @@ This suggests:
 
 ### Section 4.3: How to Access Private Equity and Alternative Investments
 
-While alternatives and private equity can improve portfolio returns, they often come with **barriers to entry** such as wealth thresholds, limited liquidity, and high fees.
-
+While alternatives and private equity can improve portfolio returns, they often come with **barriers to entry** such as wealth thresholds, limited liquidity, and high fees. 
+  
 #### Accredited Investor Requirements:
 
 To access most private funds, U.S. investors must qualify as **accredited**, which means:
@@ -145,7 +145,8 @@ For those not yet accredited, here are **lower-barrier ways to access private ma
 - **Retail Broker Access**
   - [Fidelity Alternative Investments](https://www.fidelity.com/alternative-investments/overview)
 
-> ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Alternatives may also have **complex tax reporting** and may not be suitable for every investor. Always research thoroughly and consider professional guidance before investing.
+> ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Alternatives may also have **complex tax reporting** and may not be suitable for every investor. Investors such as Warren Buffett and Charlie Munger criticize private equity firms’ practices, calling attention to transparency and accountability concerns.
+- **[Warren Buffett: Private Equity Firms Are Typically Very Dishonest](https://www.youtube.com/watch?v=r3_41Whvr1I)** research thoroughly and consider professional guidance before investing.
 
 I will cover other forms of alternatives — such as cryptocurrency and collectibles — in a future post.
 
