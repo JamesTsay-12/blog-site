@@ -26,6 +26,10 @@ The total market capitalization of gold in July 2025 is approximately **$22 tril
 
 However, gold’s **annual industrial and commercial use** is roughly **$100 billion** worth, which is less than 0.5% of its total market cap. This vast gap suggests that gold’s market value is overwhelmingly driven by its role as a **store of value and cultural artifact** rather than its direct industrial utility.
 
+Side note for Science nerds:
+
+Some analyses estimate that if gold weren’t used as a store of value, its price might be closer to that of rare industrial metals like rhenium (~34X lower value currently), reflecting scarcity and industrial demand alone. For more on this perspective, see [this Quora discussion on gold’s worth without its status as a store of value](https://www.quora.com/If-gold-werent-used-as-a-store-of-value-how-much-would-it-be-worth).
+
 ---
 
 ## Section 2: Why Currencies and Stores of Value Have Their Worth
