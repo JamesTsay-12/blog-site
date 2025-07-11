@@ -147,6 +147,10 @@ For those not yet accredited, here are **lower-barrier ways to access private ma
 
 > ⚠️ **Important Note:** Many of these options involve **higher fees**, **illiquidity**, and **greater risk**. Alternatives may also have **complex tax reporting** and may not be suitable for every investor. Investors such as Warren Buffett and Charlie Munger criticize private equity firms’ practices, calling attention to transparency and accountability concerns.
 - **[Warren Buffett: Private Equity Firms Are Typically Very Dishonest](https://www.youtube.com/watch?v=r3_41Whvr1I)**
+  
+- This video explores some of the current challenges of private equity:
+[Private Equity is a TERRIBLE Investment... Who Keeps Giving Them Money?](http://www.youtube.com/watch?v=qbSL8VD4wNA)
+  
 - Research thoroughly and consider professional guidance before investing.
 
 I will cover other forms of alternatives — such as cryptocurrency and collectibles — in a future post.
