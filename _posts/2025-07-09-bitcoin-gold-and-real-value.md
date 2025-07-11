@@ -55,7 +55,9 @@ These cultural, historical, and emotional factors underpin much of gold’s valu
 
 ## Section 4: How Much Gold Is Held in Artifacts and Treasures?
 
-A significant portion of above-ground gold is held as jewelry, religious artifacts, and collectibles, which maintain value due to **beauty, craftsmanship, and historical significance**. Unlike raw industrial gold, these items are rarely melted down or repurposed and contribute to gold’s perceived scarcity and desirability.
+A significant portion of above-ground gold (>45%) is held as jewelry, religious artifacts, and collectibles, which maintain value due to **beauty, craftsmanship, and historical significance**. Unlike raw industrial gold, these items are rarely melted down or repurposed and contribute to gold’s perceived scarcity and desirability.
+
+[Gold distribution and total resources – GoldHub](https://www.gold.org/goldhub/data/how-much-gold#:~:text=Download:,Resources%20~%20132%2C110t*)
 
 ---
 
