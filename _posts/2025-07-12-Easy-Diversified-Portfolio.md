@@ -81,4 +81,3 @@ As wealth and experience grow, gradually integrating these more complex investme
 
 ---
 
-*Would you like me to assist with examples of such direct or specialized investments for your blog?*
