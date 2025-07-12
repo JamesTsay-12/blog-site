@@ -230,10 +230,11 @@ This blog is also providing more of a basis for why the wealthy can get even mor
 
 Update: this is another perspective on how the wealthy people allocate their money which is largely consistent with this blog.  Interestingly this video emphasizes the diversification advantages from access, but also proposes that much simpler strategies can be implemented for similar results.
 
-I will blog about this separately but you can get started with this one:
-[Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
-
 [YouTube Video](https://www.youtube.com/watch?v=AtAV1w0AQtk)
+
+Some simpler strategies are discussed below and will have a follow-up blog to be more comprehensive:
+
+[Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
 ---
 
 ## Disclaimer
