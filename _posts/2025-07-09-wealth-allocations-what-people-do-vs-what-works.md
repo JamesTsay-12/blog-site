@@ -18,7 +18,7 @@ This is a long article, so here are some key takeaways before diving deeper:
 
 ## 📊 Key Takeaways: Wealth Allocation Patterns
 
-- **Many investors underutilize high-return asset classes** like stockes, alternatives, and private equity. This may be due to limited access, lack of education, or psychological factors such as fear of stock market volatility — leading to a preference for cash and real estate.
+- **Many investors underutilize high-return asset classes** like stocks, alternatives, and private equity. This may be due to limited access, lack of education, or psychological factors such as fear of stock market volatility — leading to a preference for cash and real estate.
 
 - **Portfolio allocations often reflect life circumstances** more than theoretical optimality. Income stability, debt levels, family obligations, and liquidity needs all influence decisions.
 
