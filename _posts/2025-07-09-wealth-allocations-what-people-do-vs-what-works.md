@@ -14,6 +14,8 @@ Most investors build their portfolios based on instinct, habit, or what they see
 
 This article compares **actual asset allocations across net worth tiers** to **recommended strategies** backed by research and theory, then evaluates how those choices affect **wealth generation potential and risk exposure**.
 
+Rather than telling you what to do, this article offers options to help you get more from your wealth, no matter where you're starting. It is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation. 
+
 This is a long article, so here are some key takeaways before diving deeper:
 
 ## 📊 Key Takeaways: Wealth Allocation Patterns
@@ -93,7 +95,7 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 
 ### Section 4.2: Reconciling High-Net-Worth Allocations
 
-[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows that high-net-worth and ultra-high-net-worth (UHNW) investors allocate their portfolios quite differently from the average investor — particularly with lower allocations to cash and bonds, and significantly higher allocations to alternatives(in their definition, private equity is in this bucket)
+[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows that high-net-worth and ultra-high-net-worth (UHNW) investors allocate their portfolios quite differently from the average investor — particularly with lower allocations to cash and bonds, and significantly higher allocations to alternatives (in their definition, private equity is included in this bucket)
 
 | Asset Allocation       | Ultra-High Net Worth (> $30M) | High Net Worth (~$1M portfolio) |
 |------------------------|-------------------------------|----------------------------------|
@@ -113,6 +115,8 @@ These preferences may reflect not only higher return expectations, but also **no
 - Deferred capital gains (via carried interest or long holding periods)
 - Pass-through deductions (common in private real estate and certain partnerships)
 - Potential for step-up in basis on inherited private assets
+- [IRS Publication 541 – Partnerships](https://www.irs.gov/publications/p541)  
+- [Step-Up in Basis Explanation – Investopedia](https://www.investopedia.com/terms/s/stepupinbasis.asp)
 
 > 💡 **Bottom Line:** Ultra-wealthy investors may achieve **higher after-tax, risk-adjusted returns** thanks to both access and tax-efficient structures.
 
@@ -201,7 +205,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 - **Outcome:** Moderate portfolio growth with lower volatility, but limited upside due to conservative allocation.  
 - **Source:** Based on aggregated data from Vanguard’s “How America Invests” and personal finance case studies.
 
-#### Case Study 2: Wealthy Investor — Bill Perkins
+#### Case Study 2: High-Risk, Wealthy Investor — Bill Perkins
 
 - **Allocation:**  
   - Public Equities: ~20%  
@@ -217,7 +221,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Conclusion
 
-The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  Portfolio allocation is not only about optimizing for returns, but also optimizing for risk-benefit which is why diversification is so important. With that in mind, some strategies to build wealth can include:
+Portfolio allocation is not only about optimizing for returns, but also optimizing for risk-benefit which is why diversification is so important. With that in mind, some strategies to build wealth can include:
 
 - Reassess allocation by tier and goals
 - Prioritize higher-return assets over “safe” ones (if able to take higher risks and research)
