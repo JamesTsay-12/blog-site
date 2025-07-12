@@ -9,7 +9,7 @@ categories: [finance]
 # Easy way to Diversify your Portfolio with Low Expenses
 This blog is in progress
 
-Below are options to build a diversified portfolio with minimal hassle and low expenses.  I would only reccommend the stock ETF/mutual funds for now until I get more educated on the others.  The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget."  The other ETFs and funds have more speculative assets which require closer monitoring and don't fall into the set and forget strategy.
+Below are options to build a diversified portfolio with minimal hassle and low expenses.  I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others.  The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget."  The other ETFs and funds have more speculative assets which require closer monitoring and don't fall into the set and forget strategy.
 
 For higher risk profile stock ETFs, please see this blog:
 
