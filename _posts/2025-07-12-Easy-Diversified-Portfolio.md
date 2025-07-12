@@ -10,6 +10,32 @@ categories: [finance]
 
 This blog is in progress.
 
+I want to propvide options and building a portfolio as easy as possible and show some updated and modern options to add to a very popular and well accepted existing framework.
+
+## 🧠 A Classic Baseline: The Bogleheads 3-Fund Portfolio
+
+One of the most widely recommended strategies for simplicity and effectiveness is the **Bogleheads 3-Fund Portfolio**. It uses just three funds to provide **broad, global diversification** with **minimal expenses**:
+
+| Fund Type              | Example ETF | Purpose |
+|------------------------|-------------|---------|
+| U.S. Total Stock Market | [VTI – Vanguard Total Stock Market ETF](https://investor.vanguard.com/investment-products/etfs/profile/vti) | Covers entire U.S. equity market |
+| International Stocks    | [VXUS – Vanguard Total International Stock ETF](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | Exposure to non-U.S. developed & emerging markets |
+| U.S. Bonds              | [BND – Vanguard Total Bond Market ETF](https://investor.vanguard.com/investment-products/etfs/profile/bnd) | Core fixed income for stability |
+
+This strategy is simple, low-maintenance, and very cost-effective — with **expense ratios under 0.05%** for all three components.
+
+> 🧩 Typical allocations vary by risk tolerance (e.g., 60/30/10 or 40/20/40 for stocks/international/bonds).
+
+More details: [Bogleheads Wiki on 3-Fund Portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)
+
+---
+
+### 🆚 Why Go Beyond It?
+
+While the 3-fund portfolio is a great starting point, **it lacks exposure to real estate, gold, crypto, or private equity** — all of which have historically offered diversification and potential return benefits.
+
+That’s why the goal of this blog is to offer **a broader ETF-based approach** for those interested in **low-cost access to more asset classes** without needing special accreditation, active management, or high fees.
+
 Below are options to build a diversified portfolio with minimal hassle and low expenses. I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others. The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget." The other ETFs and funds have more speculative assets which require closer monitoring and don't fall into the set-and-forget strategy.
 
 For suggestions on more ETFs (including higher risk), please see this blog:  
