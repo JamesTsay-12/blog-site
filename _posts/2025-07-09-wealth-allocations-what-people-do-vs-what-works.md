@@ -93,7 +93,7 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 
 ### Section 4.2: Reconciling High-Net-Worth Allocations
 
-[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows that high-net-worth and ultra-high-net-worth (UHNW) investors allocate their portfolios quite differently from the average investor — particularly with lower allocations to cash and bonds, and significantly higher allocations to alternatives(in this definition, private equity is this bucket)
+[SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation) data shows that high-net-worth and ultra-high-net-worth (UHNW) investors allocate their portfolios quite differently from the average investor — particularly with lower allocations to cash and bonds, and significantly higher allocations to alternatives(in their definition, private equity is in this bucket)
 
 | Asset Allocation       | Ultra-High Net Worth (> $30M) | High Net Worth (~$1M portfolio) |
 |------------------------|-------------------------------|----------------------------------|
