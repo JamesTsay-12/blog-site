@@ -103,7 +103,9 @@ ETFs and mutual funds offer an **accessible, liquid, and cost-effective** way to
 
 However, for those seeking to maximize returns and optimize tax efficiency—particularly at higher wealth levels—direct investments or specialized alternative funds may provide additional benefits through illiquidity premiums, active management, and tax advantages.
 
-As wealth and experience grow, gradually integrating these more complex investments alongside ETFs can help build a more resilient and higher-performing portfolio over time.
+As wealth and experience grow, gradually integrating these more complex investments alongside ETFs may help build a more resilient and higher-performing portfolio over time.
+
+Disclaimer:  I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.
 
 ---
 
