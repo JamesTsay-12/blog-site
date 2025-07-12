@@ -215,6 +215,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
   - Cash: ~5%  
 - **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments.  
 - **Note:** Estimates based on interviews; exact numbers may vary and require verification.
+- **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. :contentReference[oaicite:1]{index=1}
 
 
 ---
