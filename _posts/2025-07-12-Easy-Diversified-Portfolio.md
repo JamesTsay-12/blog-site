@@ -9,7 +9,7 @@ categories: [finance]
 # Wealth Allocations: What People Do vs. What Works
 This blog is in progress
 
-Below are options to build a diversified protfolio with minimal hassle and low expenses.  I would only reccommend the stock ETF/mutual funds for now until I get more educated on the others
+Below are options to build a diversified protfolio with minimal hassle and low expenses.  I would only reccommend the stock ETF/mutual funds for now until I get more educated on the others.  The stock ETFs are widely known and discussed widely with "Bogleheads" for which you can "set and forget"  The other ETFs and funds have more speculative assets which require closer monitoring and don't fall into the set and forget strategy.
 
 
 | Asset Class           | Example ETF / Fund                                                                                         | Expense Ratio | Comments                                                                 |
