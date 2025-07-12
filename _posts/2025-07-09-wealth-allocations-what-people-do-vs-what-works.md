@@ -205,16 +205,18 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Conclusion
 
-The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  With that in mind, some strategies to build wealth include:
+The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  With that in mind, some strategies to build wealth can include:
 
 - Reassess allocation by tier and goals
-- Prioritize higher-return assets over “safe” ones if able to take higher risks
+- Prioritize higher-return assets over “safe” ones (if able to take higher risks and research)
 - Discuss how to invest in the nontraditional assets like private equity and alternatives with those who are well-educated and successful with these investments
 - Gradually shift allocations as access improves
 - Consider practical advice from experts to max performance with less hassle (I'll provide examples in follow-up blogs)
 
 This blog is also providing more of a basis for why the wealthy can get even more wealthy faster than others - they have much more ability to take risks, tools, and access points for different investments at their disposal.
 
+Update: this is another perspective on how the wealthy people allocate their money which is largely consistent with this blog.  Interestingly this video emphasizes the diversification advantages from access, but also proposes that much simpler strategies can be implemented for similar results.
+[YouTube Video](https://www.youtube.com/watch?v=AtAV1w0AQtk)
 ---
 
 ## Disclaimer
