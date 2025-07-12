@@ -34,7 +34,7 @@ For suggestions on more ETFs (including higher risk), please see this blog:
 | Real Estate (REITs)   | Real Estate        | [FREL – Fidelity MSCI Real Estate Index ETF](https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=FREL) | 0.08%         | Fidelity’s low-cost REIT index ETF                                       |
 | Real Estate (REITs)   | Real Estate        | [SCHH – Schwab U.S. REIT ETF](https://www.schwabassetmanagement.com/products/schh)                                               | 0.07%         | Schwab’s REIT ETF, slightly different sector weighting than VNQ          |
 | Real Estate (Global)  | Real Estate        | [REET – iShares Global REIT ETF](https://www.ishares.com/us/products/239726/ishares-global-reit-etf)                            | 0.14%         | Global REIT exposure                                                     |
-| Broad Alternatives    | Alternatives       | [ALT – Global X Alternative ETF](https://www.globalxetfs.com/funds/alt/)                                                          | 0.50%         | Hedge-fund-like diversified alt strategy                                 |
+| Broad Alternatives    | Alternatives       | [ALT – Global X Alternative ETF](https://www.globalxetfs.com/funds/alty/)                                                          | 0.50%         | Hedge-fund-like diversified alt strategy                                 |
 | Private Equity (proxy)| Alternatives       | [PSP – Invesco Listed Private Equity ETF](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)   | 1.49%         | Publicly listed PE firms; imperfect but accessible                       |
 
 ---
