@@ -64,7 +64,7 @@ Using frameworks from [Bogleheads](https://www.bogleheads.org/wiki/Investment_st
 | $25–50M          | 30–40%          | 30–40%                    | 20–25%      | 10–15%       | 5–10%        | ~8–9%       |
 | $50M+            | 25–35%          | 40–50%                    | 20–25%      | 10–20%       | 5–10%        | ~8.5–9.5%   |
 
-**Note on Alternatives:** Includes hedge funds, commodities, private credit, structured products, collectibles, crypto, etc. See [CFA Institute](https://www.cfainstitute.org/en/research/cfa-digest/2022/06/liquidity-and-portfolio-management).
+**Note on Alternatives:** Includes hedge funds, commodities, private credit, structured products, collectibles, crypto, etc. See [Alternative Investment Features, Methods, and Structures](https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2025/alternative-investment-features-methods-and-structures)
 
 ---
 
