@@ -10,7 +10,7 @@ categories: [finance]
 
 This blog is in progress.
 
-I want to propvide options and building a portfolio as easy as possible and show some updated and modern options to add to a very popular and well accepted existing framework.
+I want to provide options for building a portfolio as easy as possible and show some updated and modern options to add to a very popular and well accepted existing framework.
 
 ## 🧠 A Classic Baseline: The Bogleheads 3-Fund Portfolio
 
