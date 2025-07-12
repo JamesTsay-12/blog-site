@@ -249,7 +249,8 @@ Unfortunately, some links may not work without creating accounts or passing payw
 
 ## References and Food for Thought
 
--[Why Asset-Allocation Decisions Are Complex – and What to Do About It](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-wealth-management-initiative/wmi-thought-leadership/why-asset-allocation-decisions-are-complex-and-what-to-do-about-it/)- [Federal Reserve SCF](https://www.federalreserve.gov/econres/scfindex.htm)  
+-[Why Asset-Allocation Decisions Are Complex – and What to Do About It](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-wealth-management-initiative/wmi-thought-leadership/why-asset-allocation-decisions-are-complex-and-what-to-do-about-it/)
+- [Federal Reserve SCF](https://www.federalreserve.gov/econres/scfindex.htm)  
 - [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html)  
 - [Tiger 21 Group](https://tiger21.com/)  
 - [SmartAsset: UHNW Allocation](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation)  
