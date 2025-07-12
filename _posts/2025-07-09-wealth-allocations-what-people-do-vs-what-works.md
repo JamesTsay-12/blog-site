@@ -137,7 +137,7 @@ For those not yet accredited, here are **lower-barrier ways to access private ma
 - **Private Equity ETFs / Mutual Funds**
   - [Invesco Listed Private Equity ETF (PSP)](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP)
   - [BlackRock Private Opportunities Fund](https://www.blackrock.com/us/individual/products/268217/blackrock-private-opportunities-fund-inc)
-  - Articles below give some pros and cons of the ETF strategy but they will not provide full upside of private equity:
+  - Articles below give some pros and cons of the ETF strategy, but ETFs will not provide the full upside of private equity:
   - [Why Investing in Private Equity ETFs is Like Chewing on the Bones – HVST](https://www.hvst.com/posts/why-investing-in-private-equity-etfs-is-like-chewing-on-the-bones-wkvT3GGV)
   - [PSP ETF: The Private Equity Diversifier – Seeking Alpha](https://seekingalpha.com/article/4655654-psp-etf-the-private-equity-diversifier-since-leverage-is-not-that-bad)
 
