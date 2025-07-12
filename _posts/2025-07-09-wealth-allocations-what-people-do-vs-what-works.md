@@ -14,6 +14,18 @@ Most investors build their portfolios based on instinct, habit, or what they see
 
 This article compares **actual asset allocations across net worth tiers** to **recommended strategies** backed by research and theory, then evaluates how those choices affect **wealth generation potential and risk exposure**.
 
+This is a long article, so here are some key takeaways before diving deeper:
+
+## 📊 Key Takeaways: Wealth Allocation Patterns
+
+- **Many investors underutilize high-return asset classes** like stockes, alternatives, and private equity. This may be due to limited access, lack of education, or psychological factors such as fear of stock market volatility — leading to a preference for cash and real estate.
+
+- **Portfolio allocations often reflect life circumstances** more than theoretical optimality. Income stability, debt levels, family obligations, and liquidity needs all influence decisions.
+
+- **Wealthier investors tend to hold more in alternatives and private equity**, which may contribute to higher effective returns. As access and experience grow, portfolio shifts may become more feasible.
+
+- **Diversification helps balance return and risk**, especially as portfolios grow. It’s not just about chasing the highest return, but managing volatility and protecting wealth across different life stages.
+
 ---
 
 ## Section 1: How People Actually Allocate Wealth
@@ -91,7 +103,7 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 | International Equities | 9%                            | 15%                              |
 | Domestic Equities      | 20%                           | 28%                              |
 
-This allocation contrasts with typical public portfolio advice, which often overweights cash or bonds and underweights alternative investments.
+This allocation contrasts with typical public portfolio advice, which often overweights cash or bonds and underweights alternative investments (in this definition private equity is included in alternatives).
 
 > 📌 **Key Insight:** As net worth increases, investors tend to reduce their exposure to cash and fixed income while significantly increasing their allocation to private equity and alternatives.
 
@@ -205,7 +217,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 
 ## Conclusion
 
-The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  With that in mind, some strategies to build wealth can include:
+The goal of the article is not to be prescriptive.  Instead, it is meant to help empower readers by showing different strategies and give options for improvement on portfolio performance through diversification and reallocation.  Portfolio allocation is not only about optimizing for returns, but also optimizing for risk-benefit which is why diversification is so important. With that in mind, some strategies to build wealth can include:
 
 - Reassess allocation by tier and goals
 - Prioritize higher-return assets over “safe” ones (if able to take higher risks and research)
@@ -215,7 +227,9 @@ The goal of the article is not to be prescriptive.  Instead, it is meant to help
 
 This blog is also providing more of a basis for why the wealthy can get even more wealthy faster than others - they have much more ability to take risks, tools, and access points for different investments at their disposal.
 
+
 Update: this is another perspective on how the wealthy people allocate their money which is largely consistent with this blog.  Interestingly this video emphasizes the diversification advantages from access, but also proposes that much simpler strategies can be implemented for similar results.
+
 [YouTube Video](https://www.youtube.com/watch?v=AtAV1w0AQtk)
 ---
 
