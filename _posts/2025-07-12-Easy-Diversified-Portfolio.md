@@ -105,7 +105,7 @@ However, for those seeking to maximize returns and optimize tax efficiency—par
 
 As wealth and experience grow, gradually integrating these more complex investments alongside ETFs may help build a more resilient and higher-performing portfolio over time.
 
-Disclaimer:  I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.
+- **Disclaimer**    I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.  My preliminary assessment is that the ETFs for private equity and alternatives may not be the best choice due to the low returns I'm seeing, though they do have the benefit of very high dividends (~8%)
 
 ---
 
