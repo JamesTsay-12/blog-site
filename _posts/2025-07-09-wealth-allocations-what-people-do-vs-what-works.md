@@ -214,8 +214,8 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
   - Alternatives: ~10%  
   - Cash: ~5%  
 - **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments.  
-- **Note:** Estimates based on interviews; exact numbers may vary and require verification.
-- **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. :contentReference[oaicite:1]{index=1}
+- **Note:** This section is in progress, so please don't use these numbers as fact.  Estimates based on interviews; exact numbers may vary and require verification. 
+- **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. 
 
 
 ---
@@ -254,7 +254,8 @@ Unfortunately, some links may not work without creating accounts or passing payw
 
 ## References and Food for Thought
 
--[Why Asset-Allocation Decisions Are Complex – and What to Do About It](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-wealth-management-initiative/wmi-thought-leadership/why-asset-allocation-decisions-are-complex-and-what-to-do-about-it/)
+- [Why Asset-Allocation Decisions Are Complex – and What to Do About It](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-wealth-management-initiative/wmi-thought-leadership/why-asset-allocation-decisions-are-complex-and-what-to-do-about-it/)
+- [How high net worth households allocate their wealth - Portfolio Path](https://www.theportfoliopath.com/newsletter/how-high-net-worth-households-allocate-their-wealth) This is another reference for looking at allocations across different incomes - ther may be some disparities with my other sources
 - [Federal Reserve SCF](https://www.federalreserve.gov/econres/scfindex.htm)  
 - [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html)  
 - [Tiger 21 Group](https://tiger21.com/)  
