@@ -66,7 +66,7 @@ These podcasts have earned credibility through consistent, insightful economic a
   - Spotify: [Pivot on Spotify](https://open.spotify.com/show/4MU3RFGELZxPT9XHVwTNPR)  
   - YouTube: [Kara Swisher interviews](https://www.youtube.com/results?search_query=pivot+podcast+kara+swisher)
 
-> **Note:** I don’t personally agree with everything these podcasters say. I use their debates and insights, along with other sources, to make up my own mind.  In addition, it is important to do some research to make sure the opininons and and assertions of what they say is factually correct.  I personally try to avoid sources from the far left and right of the spectrum which have a lower frequency of conveying facts accurately, which is why I recommended the above.
+> **Note:** I don’t personally agree with everything these podcasters say. I use their debates and insights, along with other sources, to make up my own mind.  In addition, it is important to do some research to make sure their assertions are factually correct.  I personally try to avoid sources from the far left and right of the spectrum which have a lower frequency of conveying facts accurately, which is why I recommended the above.
 
 ### 🟦 More Left‑Leaning Voices
 
@@ -161,7 +161,7 @@ Being intentional about your goals — whether values-driven or return-driven �
 
 ## 🔑 Final Takeaway
 
-Political narratives are powerful — but they don’t belong in your investment thesis. Reducing bias is not about ideology; it’s about intellectual rigor and open-mindedness. Understanding your own biases will help you make the best decisions to maximize your wealth.
+Political narratives are powerful — but they don’t belong in your investment thesis. Reducing bias is not about ideology; it’s about intellectual rigor and open-mindedness. Understanding your own biases will help you make the best decisions to maximize your wealth.  Psychologically, I acknowledge this is extremely challenging to do.  I'll write separately about how one might be able to check and conquer their own biases effectively.
 
 ---
 
