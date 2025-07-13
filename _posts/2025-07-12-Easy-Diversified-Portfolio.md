@@ -36,7 +36,7 @@ While the 3-fund portfolio is a great starting point, **it lacks exposure to rea
 
 That’s why the goal of this blog is to offer **a broader ETF-based approach** for those interested in **low-cost access to more asset classes** without needing special accreditation, active management, or high fees.
 
-Below are options to build a diversified portfolio with minimal hassle and low expenses. I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others. The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget." The other ETFs and funds have more speculative assets which require closer monitoring and don't fall into the set-and-forget strategy.
+Below are options to build a diversified portfolio with minimal hassle and low expenses. I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others. The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget." The other ETFs and funds have other assets which require more research/monitoring and don't fall into the set-and-forget strategy.  Please seemy disclaimer at the end.
 
 For suggestions on more ETFs (including higher risk), please see this blog:  
 [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
@@ -105,7 +105,7 @@ However, for those seeking to maximize returns and optimize tax efficiency—par
 
 As wealth and experience grow, gradually integrating these more complex investments alongside ETFs may help build a more resilient and higher-performing portfolio over time.
 
-- **Disclaimer**    I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.  My preliminary assessment is that the ETFs for private equity and alternatives may not be the best choice due to the low returns I'm seeing, though they do have the benefit of very high dividends (~8%)
+- **Disclaimer**    I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.  My preliminary assessment is that the ETFs for private equity and alternatives may not be the best choices due to the low returns I'm seeing, though they do have the benefit of very high dividends (~8%).  I'm not against investing in gold and crypto for diversification, but please be aware of the risks.
 
 ---
 
