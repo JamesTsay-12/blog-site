@@ -260,9 +260,11 @@ Update: this is another perspective on how the wealthy people allocate their mon
 
 [YouTube Video](https://www.youtube.com/watch?v=AtAV1w0AQtk)
 
-Some simpler strategies are discussed below and will have a follow-up blog to be more comprehensive:
+Some simpler strategies are discussed below, and I will have more follow-up blogs to be more comprehensive:
 
-- [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
+- [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html) — a beginner-friendly guide focused on low-cost, set-it-and-forget-it investing.  
+- [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html) — an expanded approach using ETFs across multiple asset classes including crypto, gold, and REITs.
+
 ---
 
 ## Disclaimer
