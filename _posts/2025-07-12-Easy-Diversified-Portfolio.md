@@ -40,10 +40,8 @@ Below are options to build a diversified portfolio with minimal hassle and low e
 
 The other ETFs and funds include assets which may require more research/monitoring and don't fall into the set-and-forget strategy.  Please see my disclaimer at the end.
 
-For ideas on how to get started with simple or broader ETF strategies, check out these related posts:  
-- [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html) — a beginner-friendly guide focused on low-cost, set-it-and-forget-it investing.  
-- [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html) — an expanded approach using ETFs across multiple asset classes including crypto, gold, and REITs.
-
+For additional ETFs not mentioned here (including higher growth and risk), check out this related post:  
+- [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html) 
 
 | Asset Class           | Aggregate Class    | Example ETF / Fund                                                                                         | Expense Ratio | Comments                                                                 |
 |-----------------------|--------------------|------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------|
