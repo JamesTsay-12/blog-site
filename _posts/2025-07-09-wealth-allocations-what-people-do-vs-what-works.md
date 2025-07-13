@@ -86,8 +86,6 @@ These proposed allocations are informed by frameworks from [Bogleheads](https://
 - Private equity and many alts remain **inaccessible** or high-cost until at least the $1–5M tier unless using limited proxies like ETFs (e.g., [PSP](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP) or interval funds).
 - High-net-worth investors increasingly pursue **tax-advantaged structures** (e.g., private real estate syndicates, carried interest, step-up basis, etc.) to enhance returns.
 
-For a simpler strategy using only widely available ETFs and mutual funds, see:  
-➡️ [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/easy-diversified-portfolio.html)
 
 **Note on Alternatives:** Includes hedge funds, commodities, private credit, structured products, collectibles, crypto, etc. See [Alternative Investment Features, Methods, and Structures](https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2025/alternative-investment-features-methods-and-structures)
 
