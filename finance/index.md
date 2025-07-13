@@ -13,7 +13,7 @@ Welcome to my personal finance blog — a space where I explore:
 - Psychology and Philosophy of Investing
 - Budgeting and saving strategies
     
-My aim here is to provide persepctives that are objective and data-driven, while being open to different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions.  Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully there are some useful perspectives shared here.
+My aim here is to provide perspectives that are objective and data-driven, while being open to different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions.  Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully there are some useful perspectives shared here.
 
 
 ### 📚 Recent Posts
