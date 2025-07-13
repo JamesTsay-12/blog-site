@@ -262,7 +262,7 @@ Update: this is another perspective on how the wealthy people allocate their mon
 
 Some simpler strategies are discussed below and will have a follow-up blog to be more comprehensive:
 
-[Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
+- [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
 ---
 
 ## Disclaimer
