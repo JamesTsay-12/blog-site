@@ -36,7 +36,9 @@ While the 3-fund portfolio is a great starting point, **it lacks exposure to rea
 
 That’s why the goal of this blog is to offer **a broader ETF-based approach** for those interested in **low-cost access to more asset classes** without needing special accreditation, active management, or high fees.
 
-Below are options to build a diversified portfolio with minimal hassle and low expenses. I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others. The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget." The other ETFs and funds have other assets which require more research/monitoring and don't fall into the set-and-forget strategy.  Please seemy disclaimer at the end.
+Below are options to build a diversified portfolio with minimal hassle and low expenses. I would only recommend the stock and bond ETF/mutual funds for now until I get more educated on the others. The stock ETFs and bonds are widely known and discussed widely with "Bogleheads" for which you can "set and forget."
+
+The other ETFs and funds include assets which may require more research/monitoring and don't fall into the set-and-forget strategy.  Please see my disclaimer at the end.
 
 For suggestions on more ETFs (including higher risk), please see this blog:  
 [Investing Made Easy with Low Expenses](https://jamestsay-12.github.io/blog-site/finance/2025/07/08/investing-made-easy.html)
