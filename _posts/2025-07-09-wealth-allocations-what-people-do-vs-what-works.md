@@ -30,41 +30,64 @@ This is a long article, so here are some key takeaways before diving deeper:
 
 ---
 
-## Section 1: How People Actually Allocate Wealth
+## Section 1: How People Actually Allocate Wealth (Updated 2025)
 
-Based on data from the [Federal Reserve Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scfindex.htm), [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html), [Tiger 21 Group](https://tiger21.com/), and [SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation), here's how real investors allocate assets:
+Real-world portfolio allocations often deviate significantly from textbook strategies. Based on updated data from the [Federal Reserve Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scfindex.htm), [Richmond Fed](https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-39), [Tiger 21](https://tiger21.com/insights/), [SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation), and [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html), here's how different wealth tiers tend to allocate capital — along with their approximate expected long-term returns.
 
-| Net Worth Tier   | Public Equities | Private Equity / Business | Real Estate | Alternatives | Cash / Bonds | Est. Return |
-|------------------|-----------------|---------------------------|-------------|--------------|--------------|-------------|
-| < $250K          | 40–60%          | 0–5%                      | 10–30%      | <5%          | 20–40%       | ~4.5–5.5%   |
-| $250K–$1M        | 60–70%          | <5%                       | 15–25%      | <5%          | 10–20%       | ~5–6%       |
-| $1–5M            | 50–60%          | 5–10%                     | 20–30%      | 5–10%        | 10–15%       | ~6–6.5%     |
-| $5–25M           | 40–55%          | 15–25%                    | 15–25%      | 5–10%        | 5–10%        | ~6.5–7%     |
-| $25–50M          | 25–45%          | 25–40%                    | 20–30%      | 10–15%       | 5–10%        | ~7–8%       |
-| $50M+            | 20–30%          | 30–50%                    | 20–25%      | 10–20%       | 5–10%        | ~7.5–8.5%   |
+| Net Worth Tier   | Public Equities | Private Equity / Business | Real Estate | Alternatives     | Cash / Bonds | Est. Return (Net) |
+|------------------|-----------------|---------------------------|-------------|------------------|--------------|-------------------|
+| < $250K          | 15–25%          | ~0%                       | 40–50%      | 0–5%             | 30–40%       | ~3.5–4.5%         |
+| $250K–$1M        | 30–40%          | <5%                       | 30–40%      | 5–10%            | 15–25%       | ~4.5–5.5%         |
+| $1–5M            | 40–50%          | 5–10%                     | 25–35%      | 5–10%            | 10–15%       | ~5.5–6.5%         |
+| $5–25M           | 50–60%          | 10–20%                    | 15–25%      | 5–15%            | 5–10%        | ~6.5–7.5%         |
+| $25–50M          | 45–55%          | 20–30%                    | 10–20%      | 10–15%           | <10%         | ~7–8%             |
+| $50M+            | 40–50%          | 30–40%                    | 10–20%      | 15–20%           | <10%         | ~7.5–8.5%         |
+
+> 🔍 **Note**: Estimates based on aggregated public data and investment research. "Alternatives" includes hedge funds, private credit, commodities, collectibles, structured products, and crypto. "Real Estate" includes both primary residences and investment property. "Private Equity / Business" includes direct business ownership.
 
 ---
 
-## Section 2: Proposed Optimization of Wealth Allocations for Long-Term Returns
+### Sources:
+- [Federal Reserve Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scfindex.htm)
+- [Richmond Fed 2023 Wealth Distribution Brief](https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-39)
+- [Tiger 21 Asset Allocation Insights](https://tiger21.com/insights/)
+- [SmartAsset UHNW Allocation](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation)
+- [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html)
+- [McKinsey Private Markets Review](https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-review-2023)
 
-**Basis for Estimated Returns:** Estimated returns in the recommended allocations are derived from historical averages and institutional allocation models (e.g., Yale Endowment, Bogleheads, and Morningstar). For example:
+## Section 2: Proposed Optimization of Wealth Allocations for Long-Term Returns (Updated 2025)
 
-- **Public Equities**: 6–8% real return annually
-- **Private Equity / Business Ownership**: 8–12% IRR historically ([McKinsey Global Private Markets Report](https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-report))
-- **Real Estate**: 6–8% long-term blended returns ([NAREIT](https://www.reit.com/data-research/reit-indexes/historical-reit-industry-performance))
-- **Alternatives**: 4–12% depending on strategy
-- **Cash / Bonds**: 2–5% depending on interest rates ([Morningstar](https://www.morningstar.com/lp/market-fair-value))
+**Estimates for Expected Returns by Asset Class**  
+(Real returns unless noted otherwise — net of inflation, based on long-term historical data)
 
-Using frameworks from [Bogleheads](https://www.bogleheads.org/wiki/Investment_strategies), [Yale Endowment](https://investments.yale.edu/), and [Morningstar](https://www.morningstar.com/articles/1011705/how-to-build-a-portfolio-based-on-your-net-worth), here’s what optimal portfolios **might** look like:
+- **Public Equities**: ~6–8% real return  
+- **Private Equity / Business Ownership**: ~8–12% IRR (nominal) ([McKinsey Global Private Markets Report](https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-review-2023))  
+- **Real Estate**: ~6–8% long-term blended return ([NAREIT](https://www.reit.com/data-research/reit-indexes/historical-reit-industry-performance))  
+- **Alternatives**: 4–10%, but highly variable based on asset type and strategy  
+- **Bonds / Cash**: ~2–5% depending on inflation and rate environment ([Morningstar](https://www.morningstar.com/lp/market-fair-value))
 
-| Net Worth Tier   | Public Equities | Private Equity / Business | Real Estate | Alternatives | Cash / Bonds | Est. Return |
-|------------------|-----------------|---------------------------|-------------|--------------|--------------|-------------|
-| < $250K          | 70–80%          | 0%                        | 0–10%       | 0–2%         | 10–20%       | ~5.5–6.5%   |
-| $250K–$1M        | 60–70%          | 0–5%                      | 10–20%      | 0–5%         | 15–25%       | ~6%         |
-| $1–5M            | 55–65%          | 5–10%                     | 15–20%      | 5%           | 10–15%       | ~6.5–7%     |
-| $5–25M           | 40–50%          | 20–30%                    | 15–20%      | 5–10%        | 10–15%       | ~7.5–8.5%   |
-| $25–50M          | 30–40%          | 30–40%                    | 20–25%      | 10–15%       | 5–10%        | ~8–9%       |
-| $50M+            | 25–35%          | 40–50%                    | 20–25%      | 10–20%       | 5–10%        | ~8.5–9.5%   |
+These proposed allocations are informed by frameworks from [Bogleheads](https://www.bogleheads.org/wiki/Three-fund_portfolio), the [Yale Endowment Model](https://investments.yale.edu/), [Morningstar](https://www.morningstar.com/articles/1011705/how-to-build-a-portfolio-based-on-your-net-worth), and best-practice institutional research — while still respecting **accessibility and liquidity constraints** at different wealth tiers.
+
+| Net Worth Tier   | Public Equities | Private Equity / Business | Real Estate | Alternatives     | Cash / Bonds | Est. Return (Net) |
+|------------------|-----------------|---------------------------|-------------|------------------|--------------|-------------------|
+| < $250K          | 60–70%          | 0%                        | 10–20%      | 0–2%             | 20–30%       | ~5.0–6.0%         |
+| $250K–$1M        | 60–70%          | 0–5%                      | 15–20%      | 2–5%             | 15–20%       | ~6.0–6.5%         |
+| $1–5M            | 55–65%          | 5–10%                     | 15–20%      | 5–10%            | 10–15%       | ~6.5–7.5%         |
+| $5–25M           | 40–50%          | 20–30%                    | 15–20%      | 10–15%           | 5–10%        | ~7.5–8.5%         |
+| $25–50M          | 30–40%          | 30–40%                    | 20–25%      | 15–20%           | <10%         | ~8.0–9.0%         |
+| $50M+            | 25–35%          | 40–50%                    | 20–25%      | 15–25%           | <10%         | ~8.5–9.5%         |
+
+> ⚠️ **Note**: Estimated returns are not guaranteed and reflect expected real (inflation-adjusted) performance based on multi-decade averages. Tax strategy, access to institutional products, and manager skill can all impact outcomes.
+
+---
+
+### Considerations:
+- Investors below $1M net worth are often best served by **low-cost, diversified ETFs and mutual funds** across stocks, bonds, and REITs.
+- Private equity and many alts remain **inaccessible** or high-cost until at least the $1–5M tier unless using limited proxies like ETFs (e.g., [PSP](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP) or interval funds).
+- High-net-worth investors increasingly pursue **tax-advantaged structures** (e.g., private real estate syndicates, carried interest, step-up basis, etc.) to enhance returns.
+
+For a simpler strategy using only widely available ETFs and mutual funds, see:  
+➡️ [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/easy-diversified-portfolio.html)
 
 **Note on Alternatives:** Includes hedge funds, commodities, private credit, structured products, collectibles, crypto, etc. See [Alternative Investment Features, Methods, and Structures](https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2025/alternative-investment-features-methods-and-structures)
 
