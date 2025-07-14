@@ -43,7 +43,9 @@ Taking stock of these can help reveal blind spots and create space for more bala
 
 ## 🎧 A Simple Fix: Curate Your Information Diet
 
-One of the most powerful ways to fight bias is to **intentionally consume financial content from a range of political perspectives** — especially when smart people respectfully challenge each other.  To be clear, I advocate consuming information from multiple different (non-extreme) sources, fact-checking, and then formulating updated opinions impacting financial decisions to stay agile.  This is particularly useful for those who want to actively manage their portfolios in the most return-focused way.  If anything, it can equip you with fun and interesting conversation topics to discuss in a reasonable manner!
+One of the most powerful ways to fight bias is to **intentionally consume financial content from a range of political perspectives** — especially when smart people respectfully challenge each other. 
+
+To be clear, I advocate consuming information from multiple different (non-extreme) sources, fact-checking through research, and then formulating updated opinions impacting financial decisions to stay agile.  This is particularly useful for those who want to actively manage their portfolios in the most return-focused way.  If anything, it can equip you with fun and interesting conversation topics to discuss in a reasonable manner!
 
 ### 🔀 Debate‑Oriented & Mixed‑View Podcasts
 
