@@ -226,17 +226,13 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 - **Outcome:** Moderate portfolio growth with lower volatility, but limited upside due to conservative allocation.  
 - **Source:** Based on aggregated data from Vanguard’s “How America Invests” and personal finance case studies.
 
-#### Case Study 2: High-Risk, Wealthy Investor — Bill Perkins
+#### Case Study 2: High-Risk, Wealthy Investor — in progress
 
 - **Allocation:**  
-  - Public Equities: ~20%  
-  - Private Equity: ~50%  
-  - Real Estate: ~15%  
-  - Alternatives: ~10%  
-  - Cash: ~5%  
+  - TBD
 - **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments.  
 - **Note:** This section is in progress, so please don't use these numbers as fact.  Estimates based on interviews; exact numbers may vary and require verification. 
-- **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. 
+- **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. He mentions wine as an example of alternative investing.
 
 
 ---
