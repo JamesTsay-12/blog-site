@@ -43,7 +43,7 @@ Taking stock of these can help reveal blind spots and create space for more bala
 
 ## 🎧 A Simple Fix: Curate Your Information Diet
 
-One of the most powerful ways to fight bias is to **intentionally consume financial content from a range of political perspectives** — especially when smart people respectfully challenge each other.
+One of the most powerful ways to fight bias is to **intentionally consume financial content from a range of political perspectives** — especially when smart people respectfully challenge each other.  To be clear, I advocate consuming information from multiple different (non-extreme) sources, fact-checking, and then formulating updated opinions impacting financial decisions to stay agile.  This is particularly useful for those who want to actively manage their portfolios in the most return-focused way.  If anything, it can equip you with fun and interesting conversation topics to discuss in a reasonable manner!
 
 ### 🔀 Debate‑Oriented & Mixed‑View Podcasts
 
@@ -59,7 +59,8 @@ These podcasts have earned credibility through consistent, insightful economic a
   Chamath Palihapitiya, Jason Calacanis, David Sacks, and David Friedberg bring decades of investing and tech entrepreneurship experience, offering open, often heated debates on policy, tech, and macro.  
   - YouTube: [All‑In Podcast channel](https://www.youtube.com/@allin)  
   - Spotify: [All‑In with Chamath, Jason, Sacks & Friedberg](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)  
-
+This episode is one of my favorites since it brings both democrat and republican sides in a very productive debate:
+ [🎙️ The Great Tariff Debate (Larry Summers, Ezra Klein, David Sacks) – All‑In Podcast](https://www.youtube.com/watch?v=KcmMOZKnKAk)
 
 - **Pivot** – *YouTube & Spotify*  
   Hosted by Kara Swisher and Scott Galloway, combining progressive and libertarian perspectives on tech and business trends. Both hosts are recognized thought leaders with strong credibility in the business and tech worlds.  
