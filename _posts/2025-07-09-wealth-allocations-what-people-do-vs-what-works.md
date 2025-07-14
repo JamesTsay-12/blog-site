@@ -108,10 +108,10 @@ Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See s
 ### Section 4.1: Why People Deviate from the Optimal
 
 - **Access:** Private investments often require accreditation or high minimums  
-- **Liquidity:** Lower-tier investors keep more cash for emergencies  
+- **Liquidity:** Lower-tier investors keep more cash for emergencies and family needs
 - **Psychology:** Homeownership and cash feel “safe”  
-- **Behavior:** Peer mimicry and outdated habits
-
+- **Behavior/Education:** Peer mimicry and outdated habits
+- **Lifestyle:** Desire to spend for a better current lifetsyle
 ---
 
 ### Section 4.2: Reconciling High-Net-Worth Allocations
