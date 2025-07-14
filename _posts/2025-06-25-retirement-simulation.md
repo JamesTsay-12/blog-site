@@ -8,11 +8,11 @@ tags: [retirement, simulation, python, monte-carlo]
 
 Hi everyone! 👋
 
-I created a retirement simulation using Python — with a big assist from ChatGPT. It's a more flexible version than most retirement calculators, designed to give **probabilities** for retiring safely rather than a single pass/fail number.  I was inspired by some conversations I had with others who gave many different scenarios about the future of the world economy given recent geopolitical developments.  This is why I created inputs for many different scenarios including deciding each assets' return rate and introducing shocks in specified years  - features missing in many of the existing tools.
+I created a retirement simulation using Python — with a big assist from ChatGPT. It's a more flexible version than most retirement calculators, designed to give **probabilities** for retiring safely rather than a single pass/fail number.  
 
 It’s based on a **Monte Carlo simulation with a t-distribution**, which is often used in financial models to give more realistic results under volatile conditions.
 
-
+I was inspired by conversations about the future of the world economy given recent geopolitical developments.  This is why I created inputs for different scenarios including deciding each assets' return rate and introducing shocks in specified years - features missing in many of the existing tools.
 
 ---
 
