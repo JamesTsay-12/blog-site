@@ -102,16 +102,16 @@ This side-by-side comparison shows real-world portfolios are often:
 Missing even 1–2% annually can mean 25–50% less wealth after 30 years. See supplemental info at the end.
 
 ---
-
 ## Section 4: Tradeoffs and Real-World Constraints
 
 ### Section 4.1: Why People Deviate from the Optimal
 
 - **Access:** Private investments often require accreditation or high minimums  
-- **Liquidity:** Lower-tier investors keep more cash for emergencies and family needs
+- **Liquidity:** Lower-tier investors keep more cash for emergencies and family needs  
 - **Psychology:** Homeownership and cash feel “safe”  
-- **Behavior/Education:** Peer mimicry and outdated habits
-- **Lifestyle:** Desire to spend for a better current lifetsyle
+- **Behavior/Education:** Peer mimicry and outdated habits  
+- **Lifestyle:** Desire to spend for a better current lifestyle
+
 ---
 
 ### Section 4.2: Reconciling High-Net-Worth Allocations
