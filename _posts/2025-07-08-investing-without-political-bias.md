@@ -59,6 +59,7 @@ These podcasts have earned credibility through consistent, insightful economic a
   Chamath Palihapitiya, Jason Calacanis, David Sacks, and David Friedberg bring decades of investing and tech entrepreneurship experience, offering open, often heated debates on policy, tech, and macro.  
   - YouTube: [All‑In Podcast channel](https://www.youtube.com/@allin)  
   - Spotify: [All‑In with Chamath, Jason, Sacks & Friedberg](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF)  
+
 This episode is one of my favorites since it brings both democrat and republican sides in a very productive debate:
  [🎙️ The Great Tariff Debate (Larry Summers, Ezra Klein, David Sacks) – All‑In Podcast](https://www.youtube.com/watch?v=KcmMOZKnKAk)
 
