@@ -30,7 +30,7 @@ This is a long article, so here are some key takeaways before diving deeper:
 
 ---
 
-## Section 1: How People Actually Allocate Wealth (Updated 2025)
+## Section 1: How People Actually Allocate Wealth 
 
 Real-world portfolio allocations often deviate significantly from textbook strategies. Based on updated data from the [Federal Reserve Survey of Consumer Finances (SCF)](https://www.federalreserve.gov/econres/scfindex.htm), [Richmond Fed](https://www.richmondfed.org/publications/research/economic_brief/2023/eb_23-39), [Tiger 21](https://tiger21.com/insights/), [SmartAsset](https://smartasset.com/investing/ultra-high-net-worth-asset-allocation), and [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html), here's how different wealth tiers tend to allocate capital — along with their approximate expected long-term returns.
 
@@ -55,7 +55,7 @@ Real-world portfolio allocations often deviate significantly from textbook strat
 - [BofA Global Wealth Report](https://business.bofaml.com/en-us/content/global-wealth-report.html)
 - [McKinsey Private Markets Review](https://www.mckinsey.com/industries/private-capital/our-insights/global-private-markets-review-2023)
 
-## Section 2: Proposed Optimization of Wealth Allocations for Long-Term Returns (Updated 2025)
+## Section 2: Proposed Optimization of Wealth Allocations for Long-Term Returns 
 
 **Estimates for Expected Returns by Asset Class**  
 (Real returns unless noted otherwise — net of inflation, based on long-term historical data)
