@@ -10,7 +10,7 @@ categories: [finance]
 
 ## Introduction: Are We Investing the Right Way?
 
-Most investors build their portfolios based on instinct, habit, or what they see others doing. But how do these real-world allocations compare to what’s recommended by financial theory and advisors focused on optimizing long-term returns?  I also want to explore what some constraints and barriers of entry there are for growing high wealth.
+Most investors build their portfolios based on what they see others doing, instincts, and risk-tolerance. But how do these real-world allocations compare to what’s recommended by financial theory and advisors focused on optimizing long-term returns?  I also want to explore what some constraints and barriers of entry there are for growing high wealth.
 
 This article compares **actual asset allocations across net worth tiers** to **recommended strategies** backed by research and theory, then evaluates how those choices affect **wealth generation potential and risk exposure**.
 
@@ -82,7 +82,7 @@ These proposed allocations are informed by frameworks from [Bogleheads](https://
 ---
 
 ### Considerations:
-- Investors below $1M net worth are often best served by **low-cost, diversified ETFs and mutual funds** across stocks, bonds, and REITs.
+- Investors below $1M net worth are often best served by **low-cost, diversified ETFs and mutual funds** across stocks, bonds, and REITs. See conclusions at the end for more details.
 - Private equity and many alts remain **inaccessible** or high-cost until at least the $1–5M tier unless using limited proxies like ETFs (e.g., [PSP](https://www.invesco.com/portal/site/us/investors/etfs/product-detail?productId=PSP) or interval funds).
 - High-net-worth investors increasingly pursue **tax-advantaged structures** (e.g., private real estate syndicates, carried interest, step-up basis, etc.) to enhance returns.
 
