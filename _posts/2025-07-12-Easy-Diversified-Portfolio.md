@@ -8,9 +8,8 @@ categories: [finance]
 
 # Easy Way to Diversify Your Portfolio with Low Expenses
 
-This blog is in progress.
 
-I want to provide options for building a portfolio as easy as possible and show some updated and modern options to add to a very popular and well accepted existing framework.
+I wanted to provide options for building a portfolio as easy as possible and show some updated and modern options to add to a very popular and well accepted existing framework.
 
 ## 🧠 A Classic Baseline: The Bogleheads 3-Fund Portfolio
 
@@ -107,7 +106,7 @@ However, for those seeking to maximize returns and optimize tax efficiency—par
 
 As wealth and experience grow, gradually integrating these more complex investments alongside ETFs may help build a more resilient and higher-performing portfolio over time.
 
-- **Disclaimer**    I have not vetted all of the funds and assets here and don't necessarily recommend buying all of these different options.  My preliminary assessment is that the ETFs for private equity and alternatives may not be the best choices due to the low returns I'm seeing, though they do have the benefit of very high dividends (~8%).  I'm not against investing in gold and crypto for diversification, but please be aware of the risks.
+- **Disclaimer**    I have not thoroughly researched all of the funds and assets here and don't necessarily recommend buying all of these different options.  My preliminary assessment is that the ETFs for private equity and alternatives may not be the best choices due to the low returns I'm seeing, though they do have the benefit of very high dividends (~8%).  I'm not against investing in gold and crypto for diversification, but please be aware of the risks.
 
 ---
 
