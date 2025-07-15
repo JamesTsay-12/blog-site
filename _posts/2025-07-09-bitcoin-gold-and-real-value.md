@@ -172,7 +172,7 @@ Gold and Bitcoin are fundamentally similar in that they are stores of value base
 
 Bitcoin offers a novel digital form of scarcity and trust but remains more speculative given its shorter history and evolving technological + regulatory landscape.
 
-Recognizing these shared and unique traits can help investors better understand the risks and rewards of both assets beyond popular narratives.
+Recognizing the shared and unique traits of bitcoin and gold can help investors better understand the risks and rewards of both assets beyond popular narratives.
 
 ---
 
