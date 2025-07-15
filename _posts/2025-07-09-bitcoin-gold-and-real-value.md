@@ -157,8 +157,8 @@ While both gold and Bitcoin serve as stores of value, they carry distinct risks:
 - **Bitcoin**  
   - Cybersecurity risks including hacking and loss of private keys  
   - Technological risk from **emerging quantum computing**, which could eventually compromise cryptographic security ([Is quantum computing a threat for crypto? – Coinbase](https://www.coinbase.com/learn/crypto-basics/is-quantum-computing-a-threat-for-crypto))  
-  - Regulatory uncertainty, with governments worldwide still defining their stance  
-  - Technological risk (protocol changes, scalability issues)  
+  - Technological risk from protocol changes and scalability issues
+  - Regulatory uncertainty, with governments worldwide still defining their stance
   - High price volatility due to market sentiment and emerging adoption
 
 Understanding these risks helps investors evaluate their tolerance and suitability of each asset.
