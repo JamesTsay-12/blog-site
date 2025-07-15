@@ -129,7 +129,10 @@ Bitcoin is frequently criticized as a “Ponzi scheme,” especially by traditio
 > - [Fidelity Digital Assets](https://www.fidelitydigitalassets.com/articles/bitcoin-first): Argues that Bitcoin is a distinct monetary asset, not merely a tech fad.
 > - [ARK Invest](https://ark-invest.com/articles/analyst-research/bitcoin-valuation/): Offers data-driven valuation models and growth projections.
 
----
+### For More Discussion
+
+* River Financial. (n.d.). *Is Bitcoin a Ponzi Scheme?* River Learn. Retrieved July 15, 2025, from https://river.com/learn/is-bitcoin-a-ponzi-scheme/
+* Kraken Blog. (n.d.). *Busting Crypto Myths: 'Bitcoin is a Ponzi Scheme'*. Retrieved July 15, 2025, from https://blog.kraken.com/crypto-education/busting-crypto-myths-bitcoin-is-a-ponzi-scheme---
 
 ### 🧭 Summary
 
