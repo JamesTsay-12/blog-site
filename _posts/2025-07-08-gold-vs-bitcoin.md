@@ -100,6 +100,7 @@ This target is ambitious but more **realistically attainable** if Bitcoin become
 | Replaces gold + narrow money (M1)                | ~$40T          | ~$1.9M    | ★½☆☆☆              |
 | Absorbs wide store-of-value share (gold, money, bonds) | ~$90T          | ~$4.3M    | ★☆☆☆☆              |
 
+
 ---
 
 **Definitions:**
@@ -107,7 +108,7 @@ This target is ambitious but more **realistically attainable** if Bitcoin become
 - **M1 (Narrow Money):** The most liquid forms of money — includes physical currency, checking accounts, and demand deposits.
 - **M2 (Broad Money):** Includes M1 plus savings accounts, money market accounts, and other near-cash instruments.
 
-> ⚠️ *Note: These scenarios are highly speculative and assume Bitcoin captures value from multiple global financial asset classes.*
+> ⚠️ *Note: These scenarios are highly speculative and assume Bitcoin captures value from multiple global financial asset classes.  I am highly likely to be wrong in my assessment in likelihood here, as I have been wrong in the past! I will be very curious to revisit this blog in the future and see how predictions pan out. *
 
 
 ---
