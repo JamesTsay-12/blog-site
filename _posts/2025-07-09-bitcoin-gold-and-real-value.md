@@ -170,7 +170,7 @@ Understanding these risks helps investors evaluate their tolerance and suitabili
 
 Gold and Bitcoin are fundamentally similar in that they are stores of value based largely on **scarcity and collective belief** rather than direct economic productivity. While gold’s market cap far exceeds its industrial demand, its value is sustained by cultural, historical, and emotional factors.
 
-Bitcoin offers a novel digital form of scarcity and trust but remains more speculative given its shorter history and evolving regulatory landscape.
+Bitcoin offers a novel digital form of scarcity and trust but remains more speculative given its shorter history and evolving technological + regulatory landscape.
 
 Recognizing these shared and unique traits can help investors better understand the risks and rewards of both assets beyond popular narratives.
 
