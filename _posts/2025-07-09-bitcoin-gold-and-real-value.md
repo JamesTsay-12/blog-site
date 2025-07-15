@@ -142,6 +142,7 @@ Understanding this helps clarify why accusations of fraud against Bitcoin miss t
 
 * River Financial. (n.d.). *Is Bitcoin a Ponzi Scheme?* River Learn. Retrieved July 15, 2025, from https://river.com/learn/is-bitcoin-a-ponzi-scheme/
 * Kraken Blog. (n.d.). *Busting Crypto Myths: 'Bitcoin is a Ponzi Scheme'*. Retrieved July 15, 2025, from https://blog.kraken.com/crypto-education/busting-crypto-myths-bitcoin-is-a-ponzi-scheme
+  
 ---
 
 ## Section 9: Risks and Considerations
