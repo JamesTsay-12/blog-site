@@ -94,11 +94,21 @@ This target is ambitious but more **realistically attainable** if Bitcoin become
 
 ### 🧭 How Likely Is This?
 
-| Scenario | BTC Market Cap | BTC Price | Likelihood (Est.) |
-|----------|----------------|-----------|--------------------|
-| Replaces gold only | ~$15T | ~$715K | ★★★☆☆ |
-| Replaces gold + narrow money (M1) | ~$30T | ~$1.4M | ★★☆☆☆ |
-| Absorbs wide store-of-value share (gold, money, bonds) | ~$90T | ~$4.3M | ★☆☆☆☆ |
+| Scenario                                         | BTC Market Cap | BTC Price | Likelihood (Est.) |
+|--------------------------------------------------|----------------|-----------|--------------------|
+| Replaces gold only                               | ~$22T          | ~$1.05M   | ★★☆☆☆              |
+| Replaces gold + narrow money (M1)                | ~$40T          | ~$1.9M    | ★★½☆☆              |
+| Absorbs wide store-of-value share (gold, money, bonds) | ~$90T          | ~$4.3M    | ★☆☆☆☆              |
+
+
+**Definitions:**
+
+- **M1 (Narrow Money):** The most liquid forms of money — includes physical currency, checking accounts, and demand deposits.
+- **M2 (Broad Money):** Includes M1 plus savings accounts, money market accounts, and other near-cash instruments.
+
+> ⚠️ *Note: These scenarios are highly speculative and assume Bitcoin captures value from multiple global financial asset classes.*
+
+---
 
 ### 🧠 Bottom Line
 
