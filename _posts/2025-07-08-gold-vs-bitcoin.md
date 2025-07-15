@@ -66,7 +66,7 @@ To assess Bitcoin’s full potential, we can compare it to the **total addressab
 |----------------------------|----------------------|
 | Global wealth              | ~$500 trillion       |
 | Global money (M1 + M2)     | ~$100 trillion       |
-| Gold (above-ground)        | ~$13–15 trillion     |
+| Gold (above-ground)        | ~$22 trillion     |
 | Global bonds               | ~$130 trillion       |
 | Real estate                | ~$350 trillion       |
 | Bitcoin (current market cap) | ~$2.1 trillion     |
