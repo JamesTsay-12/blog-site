@@ -113,3 +113,83 @@ We may be entering a world where investing demands more flexibility and awarenes
 - Ben Carlson's blog: [A Wealth of Common Sense](https://awealthofcommonsense.com/)
 - BlackRock 2024 Outlook: [blackrock.com](https://www.blackrock.com/us/individual/insights/market-outlook)
 - Morgan Housel's essays: [collaborativefund.com](https://www.collaborativefund.com/blog/)
+
+## 📎 Supplemental: Should You Just Stick with the Bogleheads Strategy?
+
+Many ask: “If the Bogleheads strategy has worked through 100 years of wars, inflation, political shifts, and market crashes — why change now?”
+
+That’s a valid point. The classic approach — buy low-cost index funds, hold for the long term, and don’t try to time the market — has survived:
+
+- World Wars and the Cold War  
+- The Great Depression  
+- The 1970s stagflation era  
+- Dot-com and housing bubbles  
+- 2008 financial crisis  
+- COVID-19
+
+In all these cases, U.S. stocks eventually recovered and rewarded patient investors.
+
+But today’s structural shifts raise new questions:
+
+### 1. 🇺🇸 U.S. Dominance Is No Longer Guaranteed  
+The 20th century was a U.S.-led economic era. Today we see a multipolar world: rising powers like China and India, fractured global supply chains, and de-dollarization efforts. Indexes like the S&P 500 may no longer reflect the full opportunity set — or the full risk landscape.
+
+### 2. 🧠 Concentration Risk in Indexes  
+The S&P 500 is now top-heavy, with over 30% of its weight in just a few tech stocks. That means broad exposure isn’t as diversified as it once was. If AI, big tech, or regulation takes a hit, portfolios may suffer more than expected.
+
+### 3. ⚠️ New Structural Risks  
+Climate shocks, AI-driven job displacement, geopolitical instability, and wealth inequality all raise risks that are not well-captured in a traditional index. These aren’t short-term cycles — they could shape the next 30 years.
+
+### 4. 🔄 The Case for Evolution, Not Abandonment  
+It’s not about throwing away the Bogleheads playbook — it’s about **modernizing it**:
+
+| Principle          | Classic Boglehead              | Future-Proofed Approach                               |
+|--------------------|--------------------------------|--------------------------------------------------------|
+| Diversification     | U.S.-centric index funds        | Add global, real assets, and alternatives             |
+| Long-term mindset   | Hold through volatility         | Same — but reassess what “holding” means              |
+| Simplicity          | Few low-cost ETFs               | Still simple — but more thoughtful allocations        |
+
+> The Bogleheads philosophy worked because it was adaptive, low-cost, and behavioral. Those values still apply — but the implementation may need to evolve.
+
+---
+
+## ❓ Supplemental: Isn't Everything Correlated Now?
+
+This is a fair concern — one we increasingly hear from investors frustrated that their portfolios didn't behave differently during recent market crashes.
+
+It’s true that in extreme downturns, many asset classes — U.S. stocks, international equities, crypto, and even bonds — may all fall together. We’ve seen this in:
+
+- **March 2020 (COVID crash)**: Broad global selloff  
+- **2022 tightening cycle**: Equities, crypto, and fixed income all declined
+
+So yes — correlations rise in a crisis.
+
+### 1. 📉 Correlation ≠ Redundancy  
+Even if assets dip together during panics, they still tend to recover differently based on their **underlying drivers**:
+- International stocks may benefit from commodity cycles or regional demographic growth
+- Crypto is influenced by innovation, decentralization trends, and monetary skepticism
+- Gold and real estate may hedge different risks like inflation or credit tightening
+
+Over time, imperfect diversification still **smooths the ride**.
+
+### 2. ⚙️ Diversification is about drivers, not just price movement  
+You want assets exposed to different **macroeconomic levers**:
+- U.S. stocks → corporate earnings, domestic policy  
+- Gold → inflation and crisis hedging  
+- Bonds → interest rates and duration risk  
+- Crypto → tech adoption, regulatory cycles  
+- International → currency, growth themes, geopolitics
+
+These respond differently to global events — even if they correlate in brief selloffs.
+
+### 3. 🧩 Diversify across dimensions  
+- **Geography**: Not all markets react to U.S. politics or Fed decisions  
+- **Time horizons**: Cash for short term, growth assets for long  
+- **Liquidity**: Some assets move fast, others can’t be sold easily  
+- **Structure**: Mix taxable and tax-advantaged accounts
+
+In short: don’t diversify to avoid every loss — diversify to avoid concentration failure.
+
+---
+
+Would you like me to embed this supplemental section as collapsible content or sidebars in your blog file for better flow and readability?
