@@ -226,12 +226,13 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 - **Outcome:** Moderate portfolio growth with lower volatility, but limited upside due to conservative allocation.  
 - **Source:** Based on aggregated data from Vanguard’s “How America Invests” and personal finance case studies.
 
-#### Case Study 2: High-Risk, Wealthy Investor — in progress
+#### Case Study 2: High-Risk, Wealthy Investor 
 
 - **Allocation:**  
-  - TBD
-- **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments.  
+  - He does not specify exact numbers, but he mentions heavy allocations to private equity and alternatives.
+- **Outcome:** Strong portfolio growth driven by significant exposure to high-return private equity and alternative investments. He is also comfortable with taking high risks and heavy losses.
 - **Note:** This section is in progress, so please don't use these numbers as fact.  Estimates based on interviews; exact numbers may vary and require verification. 
+- [Bill Perkins: "Spend Your Money NOW – Before It’s Too Late!"](https://www.youtube.com/watch?v=jQi_zzr9MBc) - discusses high allocation to private equity and businesses
 - **[Interview with Bill Perkins on Brandon Adams Podcast](https://www.youtube.com/watch?v=YiqxSWnM_fA)** – In this interview, Perkins shares insights on risk-taking, asset allocation, and balancing wealth with purposeful spending. He mentions wine as an example of alternative investing.
 
 
