@@ -47,7 +47,9 @@ The classic Boglehead-style approach has stood the test of time:
 
 This strategy, made famous by John Bogle and embraced by platforms like Bogleheads.org, emphasizes simplicity and patience.
 
-In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
+In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj (comedically) pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. 
+
+His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
 
 ## 🔄 Rethinking Strategy: Exploring Other Possibilities
 
