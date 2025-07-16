@@ -1,12 +1,12 @@
 ---
+layout: post
 title: "Investing in an Uncertain World: Rethinking Portfolio Strategy for the Future"
 description: "As geopolitical tensions rise and emerging technologies reshape the global economy, investors must ask: can traditional strategies still deliver?"
 date: 2025-07-16
-tags: [finance, investing, portfolio, ai, geopolitics, diversification]
+categories: [finance]
 ---
 
 # 🗺️ Investing in an Uncertain World: Rethinking Portfolio Strategy for the Future
-
 
 
 **"Can we still invest like we used to?"**
