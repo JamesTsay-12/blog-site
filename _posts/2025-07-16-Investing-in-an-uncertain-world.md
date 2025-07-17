@@ -88,6 +88,22 @@ Furthermore, companies with more localized supply chains may be more resilient i
 
 Finally, maintaining **strategic liquidity**—having dry powder to deploy during dislocations—can be an underrated growth enabler. This could mean parking a portion of capital in high-interest savings accounts or short-term Treasury ETFs while awaiting better entry points. It's not about market timing, but being ready to act when opportunities arise.
 
+### 🛍️ A More Nuanced Take on "Buying the Dip"
+
+The [Schwab article on market timing](https://www.schwab.com/learn/story/does-market-timing-work) makes a great point: trying to predict the exact right time to invest usually doesn’t work out well. For most people, staying invested consistently beats jumping in and out of the market.
+
+That said, there’s an alternative strategy that isn’t about broad market timing but can be used more selectively. One option is to take a **disciplined, opportunistic approach**—focusing on adding to high-quality companies during meaningful dips, especially when the drop seems disconnected from long-term fundamentals.
+
+This kind of strategy might involve:
+- Identifying companies with strong balance sheets and durable business models,
+- Watching for price dislocations driven by short-term news or sentiment,
+- Using dollar-cost averaging or staggered buys during volatility.
+
+It’s not about trying to call the bottom—it’s about being prepared to act **when quality meets value**.
+
+For those with a long-term horizon, this can be a thoughtful way to lean into volatility rather than avoid it entirely.
+
+
 ## 🤔 The Role of Diversification in Today's Market
 
 In a world of many unknowns, diversification isn’t just about chasing returns — it’s about staying in the game. That might mean giving up the best-case outcome for a broader range of survivable ones.
