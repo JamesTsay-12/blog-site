@@ -191,6 +191,27 @@ In a world of many unknowns, diversification isn’t just about chasing returns 
 
 As Morgan Housel writes in *The Psychology of Money*, smart investing isn't about maximizing every peak — it's about making sure you don't fall off a cliff. [Collaborative Fund blog](https://www.collaborativefund.com/blog/)
 
+
+---
+
+While the instinct to sell during market turbulence is common, panic selling can lock in losses and derail long-term goals. Staying invested through volatility — particularly with a diversified portfolio — is often more effective than trying to time the market. Investors should consider defining rules for rebalancing or buying during dips to take emotion out of the equation.
+
+There’s no need to abandon everything that’s worked. But assuming the next 30 years will look like the last 30 may not be prudent either.
+
+Consider your exposure. Understand your assumptions. Then diversify accordingly.
+
+## 📌 Final Thought
+
+We may be entering a world where investing demands more flexibility and awareness. The challenge isn’t to find a perfect formula — it’s to navigate uncertainty with tools that are adaptive, thoughtful, and grounded.
+
+---
+
+**Further Reading:**
+- Ray Dalio’s video: [Principles for Dealing with the Changing World Order](https://www.youtube.com/watch?v=xguam0TKMw8)
+- Ben Carlson's blog: [A Wealth of Common Sense](https://awealthofcommonsense.com/)
+- BlackRock 2024 Outlook: [blackrock.com](https://www.blackrock.com/us/individual/insights/market-outlook)
+- Morgan Housel's essays: [collaborativefund.com](https://www.collaborativefund.com/blog/)
+
 ## ❓ Common Questions and Misconceptions
 
 ### "Isn’t everything correlated now? Even crypto and international stocks?"
@@ -230,26 +251,4 @@ So while correlations may spike briefly, over time these assets respond to **dif
 - **Time horizon**: Aligning assets with short- and long-term needs
 
 In short: you diversify not to eliminate every loss, but to avoid catastrophic concentration.
-
----
-
-While the instinct to sell during market turbulence is common, panic selling can lock in losses and derail long-term goals. Staying invested through volatility — particularly with a diversified portfolio — is often more effective than trying to time the market. Investors should consider defining rules for rebalancing or buying during dips to take emotion out of the equation.
-
-There’s no need to abandon everything that’s worked. But assuming the next 30 years will look like the last 30 may not be prudent either.
-
-Consider your exposure. Understand your assumptions. Then diversify accordingly.
-
-## 📌 Final Thought
-
-We may be entering a world where investing demands more flexibility and awareness. The challenge isn’t to find a perfect formula — it’s to navigate uncertainty with tools that are adaptive, thoughtful, and grounded.
-
----
-
-**Further Reading:**
-- Ray Dalio’s video: [Principles for Dealing with the Changing World Order](https://www.youtube.com/watch?v=xguam0TKMw8)
-- Ben Carlson's blog: [A Wealth of Common Sense](https://awealthofcommonsense.com/)
-- BlackRock 2024 Outlook: [blackrock.com](https://www.blackrock.com/us/individual/insights/market-outlook)
-- Morgan Housel's essays: [collaborativefund.com](https://www.collaborativefund.com/blog/)
-
-
 
