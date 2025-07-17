@@ -185,6 +185,8 @@ In short: don’t diversify to avoid every loss — diversify to avoid concentra
 
 </details>
 
+
+
 ## 🤔 The Role of Diversification in Today's Market
 
 In a world of many unknowns, diversification isn’t just about chasing returns — it’s about staying in the game. That might mean giving up the best-case outcome for a broader range of survivable ones.
