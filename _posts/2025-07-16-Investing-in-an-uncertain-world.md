@@ -6,6 +6,7 @@ date: 2025-07-16
 categories: [finance]
 ---
 
+
 # 🗺️ Investing in an Uncertain World: Rethinking Portfolio Strategy for the Future
 
 *This blog is in progress and will be refined over time.*
@@ -47,9 +48,7 @@ The classic Boglehead-style approach has stood the test of time:
 
 This strategy, made famous by John Bogle and embraced by platforms like Bogleheads.org, emphasizes simplicity and patience.
 
-In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. 
-
-His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
+In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
 
 ## 🔄 Rethinking Strategy: Exploring Other Possibilities
 
@@ -83,6 +82,22 @@ That said, not all technology is created equal. Investors should consider that w
 Furthermore, companies with more localized supply chains may be more resilient in a world facing increased geopolitical fragmentation and trade realignment.
 
 Finally, maintaining **strategic liquidity**—having dry powder to deploy during dislocations—can be an underrated growth enabler. This could mean parking a portion of capital in high-interest savings accounts or short-term Treasury ETFs while awaiting better entry points. It's not about market timing, but being ready to act when opportunities arise.
+
+### 🛍️ A More Nuanced Take on "Buying the Dip"
+
+The Schwab article on market timing makes a great point: trying to predict the exact right time to invest usually doesn’t work out well. For most people, staying invested consistently beats jumping in and out of the market.
+
+That said, there’s an alternative strategy that isn’t about broad market timing but can be used more selectively. One option is to take a disciplined, opportunistic approach—focusing on adding to high-quality companies during meaningful dips, especially when the drop seems disconnected from long-term fundamentals.
+
+This kind of strategy might involve:
+
+- Identifying companies with strong balance sheets and durable business models,
+- Watching for price dislocations driven by short-term news or sentiment,
+- Using dollar-cost averaging or staggered buys during volatility.
+
+It’s not about trying to call the bottom—it’s about being prepared to act when quality meets value.
+
+For those with a long-term horizon, this can be a thoughtful way to lean into volatility rather than avoid it entirely.
 
 <details>
 <summary>📎 Supplemental: Should You Just Stick with the Bogleheads Strategy?</summary>
@@ -231,5 +246,6 @@ We may be entering a world where investing demands more flexibility and awarenes
 - Ben Carlson's blog: [A Wealth of Common Sense](https://awealthofcommonsense.com/)
 - BlackRock 2024 Outlook: [blackrock.com](https://www.blackrock.com/us/individual/insights/market-outlook)
 - Morgan Housel's essays: [collaborativefund.com](https://www.collaborativefund.com/blog/)
+
 
 
