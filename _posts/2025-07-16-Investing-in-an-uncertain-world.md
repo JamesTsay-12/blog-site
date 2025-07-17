@@ -48,7 +48,9 @@ The classic Boglehead-style approach has stood the test of time:
 
 This strategy, made famous by John Bogle and embraced by platforms like Bogleheads.org, emphasizes simplicity and patience.
 
-In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
+In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. 
+
+His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
 
 ## 🔄 Rethinking Strategy: Exploring Other Possibilities
 
@@ -86,6 +88,8 @@ Finally, maintaining **strategic liquidity**—having dry powder to deploy durin
 ### 🛍️ A More Nuanced Take on "Buying the Dip"
 
 The Schwab article on market timing makes a great point: trying to predict the exact right time to invest usually doesn’t work out well. For most people, staying invested consistently beats jumping in and out of the market.
+
+[Does Market Timing Work? – Charles Schwab](https://www.schwab.com/learn/story/does-market-timing-work)
 
 That said, there’s an alternative strategy that isn’t about broad market timing but can be used more selectively. One option is to take a disciplined, opportunistic approach—focusing on adding to high-quality companies during meaningful dips, especially when the drop seems disconnected from long-term fundamentals.
 
