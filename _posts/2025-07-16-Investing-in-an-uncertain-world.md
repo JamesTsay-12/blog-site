@@ -48,7 +48,7 @@ The classic Boglehead-style approach has stood the test of time:
 
 This strategy, made famous by John Bogle and embraced by platforms like Bogleheads.org, emphasizes simplicity and patience. For more details on this, please see this other blog:
 
-[Easy Diversified Portfolio – James TSay](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html)
+[Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html)
 
 In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. 
 
