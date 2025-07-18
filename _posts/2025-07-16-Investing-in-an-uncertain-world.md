@@ -62,7 +62,7 @@ If conventional U.S.-centric investing might be challenged by new global dynamic
 
 Some asset types that may behave differently than U.S. equities include:
 
-- **International ETFs** (e.g., VXUS, VWO, IEFA)
+- **International ETFs** (e.g., VXUS, VWO, IEFA): to be clear the Bogleheads strategy includes having a minority international fund exposure for a fully diversifed portfolio
 - **Gold or commodities**
 - **Cryptoassets** for those open to high volatility
 - **Bonds** (e.g., TIPS or short-duration)
