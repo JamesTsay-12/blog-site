@@ -9,7 +9,6 @@ categories: [finance]
 
 # 🗺️ Investing in an Uncertain World: Rethinking Portfolio Strategy for the Future
 
-*This blog is in progress and will be refined over time.*
 
 **"Can we still invest like we used to?"**
 
