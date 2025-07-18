@@ -103,7 +103,7 @@ This kind of strategy might involve:
 
 It’s not about trying to call the bottom—it’s about being prepared to act when quality meets value.
 
-For those with a long-term horizon, this can be a thoughtful way to lean into volatility rather than avoid it entirely.
+For those with a long-term horizon, this can be a thoughtful way to lean into volatility rather than avoid it entirely.  It is important to note that this strategy is higher risk and requires research and time investment.
 
 <details>
 <summary>📎 Supplemental: Should You Just Stick with the Bogleheads Strategy?</summary>
