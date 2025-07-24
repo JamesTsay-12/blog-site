@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Makes a Great stock picker in tech?"
+title: "What Makes a Great Stock Picker in Tech?"
 description: "Analysis of traits of good stock picking in tech industry"
 date: 2025-07-25
 categories: [finance]
