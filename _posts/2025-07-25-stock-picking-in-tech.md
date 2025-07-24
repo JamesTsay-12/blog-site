@@ -86,7 +86,7 @@ This behavior contradicts its own narrative and contributed to steep drawdowns f
 
 #### Team Experience Gaps
 - Many ARK analysts lack extensive STEM training or operational credentials.  
-- Some of the public-facing analysts appear quite early in their careers, and their industry experience may not match the complexity of the tech businesses they’re analyzing.
+- Some of the public-facing analysts have limited industry experience and demonstrated successes which may not match the complexity of the tech businesses they’re analyzing.
 
 ---
 
