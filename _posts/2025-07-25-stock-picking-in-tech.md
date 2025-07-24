@@ -85,8 +85,8 @@ This behavior contradicts its own narrative and contributed to steep drawdowns f
 👉 [Barron’s: ARKK Investor Losses](https://www.barrons.com/articles/ark-invest-stock-etf-cathie-wood-1047157e)
 
 #### Team Experience Gaps
-- Many ARK analysts have minimal industry experience, and some lack STEM or operational credentials.  
-- I don't want to seem "ageist" but many of the people I see in their videos do not seem to have credible experience to inform what makes their picks profitable companies for the future.
+- Many ARK analysts lack extensive STEM training or operational credentials.  
+- Some of the public-facing analysts appear quite early in their careers, and their industry experience may not match the complexity of the technological businesses they’re analyzing.
 
 ---
 
