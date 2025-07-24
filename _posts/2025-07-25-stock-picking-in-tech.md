@@ -1,3 +1,11 @@
+---
+layout: post
+title: "What Makes a Great stock picker in tech?"
+description: "Analysis of traits of good stock picking in tech industry"
+date: 2025-07-25
+categories: [finance]
+---
+
 ## What Makes a Great Stock Picker — and Where ARK Invest Falls Short
 
 In a time when investors are bombarded by narratives about disruptive innovation and exponential growth, separating substance from hype is more important than ever. ARK Invest, led by Cathie Wood, rose to fame by aggressively investing in emerging technologies—from gene editing to autonomous vehicles and crypto infrastructure. Their pitch? Deep research, open-source models, and a bold long-term vision.
