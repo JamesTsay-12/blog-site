@@ -63,8 +63,8 @@ Despite publishing Monte Carlo models and talking extensively about their resear
 - 👉 [ARK's Zoom Model](https://www.ark-invest.com/articles/valuation-models/arks-zoom-model)
 
 #### Underestimated Time to Market
-- Investments in CRISPR (CRSP), IONQ, and autonomous vehicle platforms assumed near-term commercialization.
-- In reality, these require multi-year development, regulation, and validation.
+- Investments in CRISPR (CRSP) and autonomous vehicle platforms assumed near-term commercialization.
+- In reality, these require multi-year development, regulation, and validation.  
 
 #### Shallow Competitive Analysis
 - Overlooked competition from Big Tech (e.g., Microsoft vs. Zoom, Amazon vs. Teladoc).
