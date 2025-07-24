@@ -123,4 +123,13 @@ Their public commentary focuses on durable competitive moats and paths to profit
 If you're investing in innovation, you need more than optimism. You need **disciplined skepticism**, **real-world filters**, and **people who know where theory meets friction**.
 
 ---
+## ⚠️ Important Considerations: Stock Picking is Not for Everyone
 
+While this article outlines principles for a disciplined approach to tech stock picking, it is crucial to understand the broader context and inherent challenges:
+
+* **This is Not Financial Advice:** The insights shared here are for informational and educational purposes only and do not constitute personalized financial advice. Your unique financial situation, risk tolerance, and goals should always be discussed with a qualified financial advisor before making any investment decisions.
+* **High Risk, No Guarantees:** Investing in individual stocks carries significant risk, including the potential for substantial or even total loss of your investment. There is no guarantee that applying any specific strategy, including those discussed here, will lead to profitable outcomes. Past performance is not indicative of future results.
+* **The Odds Are Against Active Management:** Academic research and historical data consistently show that the vast majority of active investors – both professional fund managers and individual investors – fail to consistently beat broad market index funds over the long term, especially after accounting for taxes and trading costs.
+* **Significant Time and Effort Required:** Successful stock picking demands a substantial and ongoing commitment to in-depth research, continuous learning, and monitoring. This level of dedication is not suitable or feasible for most individuals.
+
+This article is intended for those investors who, having fully considered these risks, choose to dedicate significant time and effort to individual stock selection and seek to apply a rigorous analytical framework.
