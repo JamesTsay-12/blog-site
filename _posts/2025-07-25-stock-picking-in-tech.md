@@ -110,6 +110,8 @@ In contrast to ARK's top-down narrative style, many successful long-term investo
 
 Their public commentary focuses on durable competitive moats and paths to profitability, not just disruptive potential. This approach may seem less exciting during a hype cycle, but it builds a portfolio on a foundation of disciplined skepticism, designed to weather the friction where theory meets reality.
 
+That said, I acknowledge I engage in some "high risk" behavior like keeping many of my biotech stocks long term despite their volatility because of their grand visions.  This is because I have a strong belief in the technology and am rooting for their success!  The reason why I got into the biotech industry was to positively impact human health and enable scientific research, and so I'm willing to take some losses due to my conviction.
+
 ---
 
 ### 🧠 Final Takeaways for Investors
