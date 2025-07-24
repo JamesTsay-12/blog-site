@@ -16,19 +16,21 @@ But with ARKK (the flagship ETF) down significantly from its 2021 highs, and mos
 
 ### 👤 A Personal Perspective
 
-Despite having technical degrees and over 14 years of biotech industry experience—including working on R&D teams that successfully launched impactful products—I have had mixed results with individual stock picking. Many of my biotech investments after the COVID boom performed poorly despite deep fundamental research, technical competitive analysis, and attempts to buy dips.
+Despite having technical degrees and over 14 years of biotech industry experience—including working on R&D teams that successfully launched impactful products—I have had mixed results with individual stock picking. For example, many of my biotech investments after the COVID boom performed poorly despite deep fundamental research, technical competitive analysis, and attempts to buy dips.
 
-Some of my wins did come from careful research, buying dips, and engaging with others in the industry, but I acknowledge that luck also played a significant role. This experience underscores how difficult stock picking can be, even for those with relevant expertise.
+Some of my wins did come from careful research, buying dips, and engaging with others in the industry, but I acknowledge that luck also played a significant role. The irony is most of my wins were through computer-related tech and driven by an AI revolution that I did not see coming so fast.  This experience underscores how difficult stock picking can be, even for those with relevant expertise.
 
-If I’ve faced such challenges despite my technical background and extensive industry experience, it suggests investors should be cautious about relying on analysts who—even if they have some education in the field—lack hands-on industry experience. Without practical exposure, their stock picking may lean more on enthusiasm than on deep, grounded understanding.
+If I’ve faced such challenges despite my technical background and extensive industry experience, it suggests investors should be cautious about relying on funds and analysts who—even if they have some education in the field—lack hands-on industry experience. Without practical exposure, their stock picking may lean more on enthusiasm than on deep, grounded understanding.  
+
+I do enjoy challenging hype-machines and overblown narratives, which does give me some advantages in stock picking. But at the same time, I probably have lost out on buying some good speculative plays which I was too pessimisstic about.
 
 ---
 
 ### 💡 My Philosophy on Stock Picking
 
-Speculating in individual stocks or cryptocurrencies can be enjoyable and educational, but it should only be undertaken by those comfortable with significant risk—and only after establishing a secure financial foundation. This foundation typically means having sufficient savings and diversified investments in broad index funds, especially within retirement accounts.
+Speculating in individual stocks or cryptocurrencies can be very fun and educational, but it should only be undertaken by those comfortable with significant risk—and only after establishing a secure financial foundation. This foundation typically means having sufficient savings and diversified investments in broad index funds, especially within retirement accounts.  
 
-While there are many factors investors *can* control and anticipate—such as rigorous research, technical analysis, and risk management—even the best-researched picks can fail due to unpredictable macro events, competition, or execution risk. Recognizing this balance between control and uncertainty is key to managing risk and maintaining a balanced portfolio.
+While there are many factors investors *can* control and anticipate—such as rigorous research, technical analysis, and risk management—even the best-researched picks can fail due to unpredictable macro events, geopolitics, competition, or execution risk. Recognizing this balance between control and uncertainty is key to managing risk and maintaining a balanced portfolio.
 
 ---
 
@@ -38,7 +40,7 @@ While there are many factors investors *can* control and anticipate—such as ri
 A strong tech investor doesn’t just follow trends—they understand the *underlying science and engineering*. They know how to distinguish between a breakthrough and a marketing pitch.
 
 **Practical Industry Experience**  
-Experience working in relevant industries helps investors assess what's feasible and what’s fantasy. Understanding time-to-market, regulatory bottlenecks, and supply chain friction is key.
+Experience working in relevant industries helps investors assess what's feasible and what’s fantasy. Understanding time-to-market, competition, regulatory bottlenecks, and supply chain friction is key.
 
 **Realistic Modeling & Risk Awareness**  
 Sophisticated models are useful—but only if based on grounded assumptions. A good stock picker stress-tests downside scenarios and avoids overfitting projections to blue-sky outcomes.
@@ -84,7 +86,7 @@ This behavior contradicts its own narrative and contributed to steep drawdowns f
 
 #### Team Experience Gaps
 - Many ARK analysts have minimal industry experience, and some lack STEM or operational credentials.  
-- 👉 [Example video analysis: ARK analysts with little technical background](https://www.youtube.com/watch?v=9QbK7vvKaWE)
+- I don't want to seem "ageist" but many of the people I see in their videos do not seem to have credible experience to inform what makes their picks profitable companies for the future.
 
 ---
 
@@ -122,5 +124,3 @@ If you're investing in innovation, you need more than optimism. You need **disci
 
 ---
 
-Would you trust someone without tech experience to evaluate Tesla’s software roadmap?  
-Then why would you trust them to pick your tech stocks?
