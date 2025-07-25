@@ -57,13 +57,13 @@ You don’t need to be a scientist to invest in science—you just need to know 
 Despite publishing Monte Carlo models and talking extensively about their research process, ARK made several missteps that reveal a pattern:
 
 #### Overestimated Market Potential
-- ARK’s Tesla model forecast $3,000–$4,000 per share by 2025, assuming widespread robotaxi adoption.
+- ARK’s Tesla model forecast $4 trillion market cap by 2025, assuming widespread robotaxi adoption (currently $950 billion).
 - Their Zoom model predicted massive platform expansion despite increasing competition and user churn post-COVID.
 - 👉 [ARK's Tesla Model (GitHub)](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model)  
 - 👉 [ARK's Zoom Model](https://www.ark-invest.com/articles/valuation-models/arks-zoom-model)
 
 #### Underestimated Time to Market
-- Investments in CRISPR (CRSP) and autonomous vehicle platforms assumed near-term commercialization.
+- Investments in CRISPR (gene editing) and autonomous vehicle platforms assumed near-term commercialization.
 - In reality, these require multi-year development, regulation, and validation.  
 
 #### Shallow Competitive Analysis
