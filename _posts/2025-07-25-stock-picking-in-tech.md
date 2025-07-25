@@ -30,7 +30,7 @@ I do enjoy challenging hype-machines and overblown narratives, which does give m
 
 Speculating in individual stocks or cryptocurrencies can be very fun and educational, but it should only be undertaken by those comfortable with significant risk—and only after establishing a secure financial foundation. This foundation typically means having sufficient savings and diversified investments in broad index funds, especially within retirement accounts.  
 
-While there are many factors investors *can* control and anticipate—such as rigorous research, technical analysis, and risk management—even the best-researched picks can fail due to unpredictable macro events, geopolitics, competition, or execution risk. Recognizing this balance between control and uncertainty is key to managing risk and maintaining a balanced portfolio.
+While there are many factors investors *can* control and anticipate—such as rigorous research, technical analysis, and risk management—even the best-researched picks can fail due to unpredictable macro events, geopolitics, competition, internal management issues, or execution risk. Recognizing this balance between control and uncertainty is key to managing risk and maintaining a balanced portfolio.
 
 ---
 
