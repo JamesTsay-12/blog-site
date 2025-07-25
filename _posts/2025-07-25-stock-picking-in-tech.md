@@ -103,7 +103,8 @@ Below is a table showing some key missteps for ARK's strategy and analysis.  You
 | CRISPR (CRSP)  | Curative biotech               | Trials delayed; no product revenue     | Regulatory & clinical drag         |
 | Roku           | Platform for ad revenue        | Hardware commoditized                  | Missed competitive pressure        |
 
-![ARKK vs SPY (2020–2025)](/assets/img/finance/arkk_vs_spy_2020_2025.png)
+![ARKK vs SPY](https://jamestsay-12.github.io/blog-site/assets/img/finance/arkk_vs_spy_2020_2025.png)
+
 *Figure: Comparative performance of ARK Innovation ETF (ARKK) vs S&P 500 (SPY) from 2020 to mid-2025.*
 
 ---
