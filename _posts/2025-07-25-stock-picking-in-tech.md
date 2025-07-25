@@ -90,7 +90,10 @@ This behavior contradicts its own narrative and contributed to steep drawdowns f
 
 ---
 
+
 ### 📉 Table of Key Missteps
+
+Below is a table showing some key missteps for ARK's strategy and analysis.  You can also see a chart below showing that you would have had substantially better performance investing in a low cost index fund (S&P 500) instead of ARKK in the period of 2020-2025.
 
 | Company        | ARK Thesis                     | The Reality                            | Key Error                          |
 |----------------|--------------------------------|----------------------------------------|------------------------------------|
@@ -99,6 +102,9 @@ This behavior contradicts its own narrative and contributed to steep drawdowns f
 | Teladoc        | Telehealth disruptor           | Write-downs, Livongo flop              | Weak moat vs. Big Tech & insurers |
 | CRISPR (CRSP)  | Curative biotech               | Trials delayed; no product revenue     | Regulatory & clinical drag         |
 | Roku           | Platform for ad revenue        | Hardware commoditized                  | Missed competitive pressure        |
+
+![ARKK vs SPY (2020–2025)](/assets/img/finance/arkk_vs_spy_2020_2025.png)
+*Figure: Comparative performance of ARK Innovation ETF (ARKK) vs S&P 500 (SPY) from 2020 to mid-2025.*
 
 ---
 
