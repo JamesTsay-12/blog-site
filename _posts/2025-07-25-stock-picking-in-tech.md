@@ -13,6 +13,16 @@ In a time when investors are bombarded by narratives about disruptive innovation
 But with ARKK (the flagship ETF) down significantly from its 2021 highs, and most of its holdings underperforming the market, it's worth asking: **what really makes someone a successful stock picker in the tech space?** And why did ARK, despite its data-driven narrative, fall short?
 
 ---
+### Bottom Line
+
+You should be skeptical of active fund managers who claim great insights in investing and evaluate if their team, strategy, analysis, and fees align with a sound investment based on substance vs. hype and overconfidence.
+
+Even the most experienced and educated investors rarely (~10%) get better long term returns than investing in simple, low fee, and broad index funds (such as S&P500 based funds). Most people are probably better off with a simple and low-cost investment strategy such as the Bogleheads methodology, which can be further extended for the future. See these blogs:
+
+* [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html)
+* [Investing in an uncertain world](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
+
+That said, I’m not completely against active management and investing a minority amount of your wealth in individual stocks/crypto as long as you are able and willing to take large risks. I’ve seen legit examples where these strategies can work both with individual investors and some active funds which I’ll discuss in another article.
 
 ### 👤 A Personal Perspective
 
