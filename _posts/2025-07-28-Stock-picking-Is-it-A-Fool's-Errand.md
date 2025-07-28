@@ -19,7 +19,7 @@ In my previous post, I broke down some of the challenges in active fund manageme
 
 I’ve long been hesitant to invest in actively managed funds because I noticed many of their stock picks were misaligned with my expectations as someone working in the biotech industry. I had some overconfidence that I was great stock picker by my own initial good results in 2021, but then later took huge losses on stocks I invested in—such as Moderna and BioNTech—due to underestimating macroeconomic and geopolitical headwinds.  This lesson gave me a great deal of humility -  fortunately some of my computer-related tech stock picks made up for this difference (an area I knew much less about).
 
-Still, I’ve seen individuals in the tech space achieve exceptional returns by identifying transformative products and trends early. That got me thinking: is there such a thing as an insider advantage for public-market investing?
+Still, I’ve seen individuals in the tech space achieve exceptional returns by identifying transformative products and trends early. I think many of us know "that person" who keeps bragging about their early Apple and Bitcoin picks and are doing very well now! That got me thinking: is there such a thing as an insider advantage for public-market investing?
 
 ---
 
