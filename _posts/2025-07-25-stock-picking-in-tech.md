@@ -8,7 +8,7 @@ categories: [finance]
 
 ## What Makes a Great Stock Picker — and Where ARK Invest Falls Short
 
-I've been interested in how different actively managed funds can get more publicity than others, especially when they are championing the technology sector.  As a scientist, I think it's very important to evaluate with skepticism the substance vs. hype of investment strategies.  ARK Invest, led by Cathie Wood, rose to fame by aggressively investing in emerging technologies—from gene editing to autonomous vehicles and crypto infrastructure. Their pitch? Deep research, open-source models, and a bold long-term vision.
+I've been interested in how different stock-pickers (like actively managed funds) can get more publicity than others, especially when they are championing the technology sector.  As a scientist, I think it's very important to evaluate with skepticism the substance vs. hype of investment strategies.  ARK Invest, led by Cathie Wood, rose to fame by aggressively investing in emerging technologies—from gene editing to autonomous vehicles and crypto infrastructure. Their pitch? Deep research, open-source models, and a bold long-term vision.
 
 But with ARKK (the flagship ETF) down significantly from its 2021 highs, and most of its holdings underperforming the market, it's worth asking: **what really makes someone a successful stock picker in the tech space?** And why did ARK, despite its data-driven narrative, fall short?
 
