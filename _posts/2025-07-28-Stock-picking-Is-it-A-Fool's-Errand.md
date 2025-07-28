@@ -60,7 +60,7 @@ Here are two active funds that beat the S&P 500 over 30 years by taking informed
 | **Fidelity Contrafund (FCNTX)** | High-conviction large-cap growth | 9.5% vs. 7.6% | Meta, Amazon, Nvidia | Emphasizes management quality and secular trends |
 | **Fidelity Blue Chip Growth (FBGRX)** | Tech-forward growth strategy | 8.8% vs. 7.6% | Microsoft, Apple, Nvidia | Strong bottom-up research with a tilt toward innovation |
 
-📌 *These funds succeeded not by chasing hype, but by combining rigorous research with domain awareness.*
+📌 *These funds succeeded not by chasing hype, but by combining rigorous research with domain awareness.*  The fund managers (Will Danoff and Sonu Kalra)are highly regarded and not in the tech industry, showing you don't necessarily have to be an industry expert to pick well.  I'm curious to see who they had on their teams to help with the analysis.
 
 ---
 
