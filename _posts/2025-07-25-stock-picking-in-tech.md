@@ -123,11 +123,13 @@ Below is a table showing some key missteps for ARK's strategy and analysis.  You
 
 So, what does a more grounded approach to tech investing look like?
 
-In contrast to ARK's top-down narrative style, many successful long-term investors exhibit the opposite traits. Think of managers who are former engineers or operators, with decades of experience in the industries they now analyze. Their method is less about forecasting a multi-trillion dollar market and more about a bottom-up analysis of a specific company’s technology, its unit economics, and its management team’s ability to execute.
+In contrast to ARK's top-down narrative style, many successful long-term investors exhibit starkly different traits. Managers who are former engineers or operators, with decades of experience in the industries they now analyze can provide more grounded approaches. Their method is less about forecasting a multi-trillion dollar market and more about a bottom-up analysis of a specific company’s technology, its unit economics, and its management team’s ability to execute.
 
 Their public commentary focuses on durable competitive moats and paths to profitability, not just disruptive potential. This approach may seem less exciting during a hype cycle, but it builds a portfolio on a foundation of disciplined skepticism, designed to weather the friction where theory meets reality.
 
-That said, I acknowledge I engage in some "high risk" behavior like keeping many of my biotech stocks long term despite their volatility because of their grand visions.  This is because I have a strong belief in the technology and am rooting for their success!  The reason why I got into the biotech industry was to positively impact human health and enable scientific research, and so I'm willing to take some losses due to my conviction.
+That said, I acknowledge I engage in some "high risk" behavior like keeping many of my biotech stocks long term despite their volatility because of their grand visions.  This is because I have a strong belief in the technology and am rooting for their success!  The reason why I got into the biotech industry was to positively impact human health and enable scientific research, and so I'm willing to take some losses due to my conviction.  
+
+I also acknowledge it is very easy to look in hindsight and criticize poor performers.  I do think many of the ideas of the ARKK fund were innovative and interesting, and some of the issues the fund's allocations were hard to predict.  Perhaps a good future fund could include a more balanced approach of analysis and insight from both top-down and bottom's-up approaches. 
 
 ---
 
