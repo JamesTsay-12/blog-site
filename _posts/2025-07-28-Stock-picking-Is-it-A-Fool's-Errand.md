@@ -86,20 +86,21 @@ But are they cherry-picked outliers—or a real pattern? Unfortunately, hard dat
 
 ### 🧪 What About Biotech Professionals?
 
-The case for biotech professionals is less clear. While domain expertise is critical for understanding clinical pipelines, many biotech stocks are long-term plays with high volatility.
+I'd argue picking stocks for biotech is very challenging (perhaps more so than traditional tech). While domain expertise is critical for understanding clinical pipelines, many biotech stocks are long-term plays with high volatility.  My personal experience of holding on to Illumina stock (DNA sequencing) while I worked there was fueled by my strong belief and pride in helping to build their products. I ended up selling the stock at reasonably good times out of luck - I didn't expect many of the challenges with the GRAIL acquisition to cause such a quick erosion of the stock price after I left the company.  My experience highlights the emotional pitfalls, but the potential for an intellectual edge still exists. For instance,
 
-Professionals can:
+Biotech Professionals can:
 - Better evaluate clinical trial progress and regulatory hurdles
 - Have a better understanding of product development processes, costs, competition, and timelines
 - Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR)
 
 But even insiders can misjudge execution risk or underestimate macro effects, like interest rates or pandemic cycles.
+Individual stock pickers and funds such as ARKK have a very challenging job in identifying biotech stocks that will be hugely successful in a 5 year horizon because they often reside in the small or mid cap space and have much higher volatility than large cap stocks.
 
 ---
 
 ### 📦 Product-Led Investing: The Lynch Approach Today
 
-Not all successful stock pickers have STEM backgrounds, as illustrated by Contra and Blue chip funds in the table. In addition to th eir more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
+Not all successful stock pickers have STEM backgrounds, as illustrated by Contra and Blue chip funds in the table. In addition to their more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
 
 - Consumers who loved using Apple products in the early 2000s and invested accordingly
 - Early Netflix binge-watchers who bought the stock based on product loyalty
