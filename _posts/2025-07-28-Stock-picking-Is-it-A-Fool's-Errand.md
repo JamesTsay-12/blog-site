@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Is Active Management a Fool's Errand?  Tech Insiders and the Case for Informed Stock Picking"
+description: "Analysis of tech insiders and ability to pick stocks"
+date: 2025-07-28
+categories: [finance]
+---
 ## Is Active Management a Fool’s Errand? Tech Insiders and the Case for Informed Stock Picking
 
 ### Bottom Line
