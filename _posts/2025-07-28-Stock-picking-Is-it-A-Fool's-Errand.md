@@ -21,7 +21,7 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
 #### 1. **Information Asymmetry & Industry Fluency**
 - **Technical Vetting**: A software engineer or scientist can evaluate a company’s claims with a degree of skepticism and understanding a generalist might lack.
   - For example, distinguishing between real AI development versus thin wrappers around open-source models.
-- **Talent Flow as a Signal**: Engineers often know which companies are attracting top talent—and which are hemorrhaging it. Talent movement is often a leading indicator of innovation.
+- **Talent Flow as a Signal**: Scientists and Engineers often know which companies are attracting top talent—and which are hemorrhaging it. Talent movement is often a leading indicator of innovation.
 - **Product Ecosystem Intuition**: Insiders recognize sticky ecosystems before the rest of the market catches on—such as developer platform effects, API utility, or product-led growth.
 
 #### 2. **The "Industry Local" Effect**
