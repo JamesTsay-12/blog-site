@@ -74,7 +74,8 @@ Here are two active funds that beat the S&P 500 over 30 years by taking informed
 ---
 
 ### 📊  Long-Term Performance of FCNTX & FBGRX vs. S&P 500
-![FBGRX and FCNTX vs S&P 500 (30-Year Performance)](../../assets/img/finance/fbgrx_fcntx_vs_sp500_simulated.png)
+![FBGRX and FCNTX vs S&P 500 (30-Year Performance)](https://jamestsay-12.github.io/blog-site/assets/img/finance/fbgrx_fcntx_vs_sp500_simulated.png)
+
 _A visual chart will go here comparing 30-year performance of these funds to the S&P 500._
 
 ---
