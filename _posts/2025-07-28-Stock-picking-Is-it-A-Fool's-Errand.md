@@ -65,7 +65,7 @@ Here are two active funds that beat the S&P 500 over 30 years by taking informed
 ---
 
 ### 📊 [Insert Graph Here: Long-Term Performance of FCNTX & FBGRX vs. S&P 500]
-
+![ARKK vs SPY Performance (2020–2025)](/assets/img/finance/arkk_vs_spy_2020_2025.png)
 _A visual chart will go here comparing 30-year performance of these funds to the S&P 500._
 
 ---
