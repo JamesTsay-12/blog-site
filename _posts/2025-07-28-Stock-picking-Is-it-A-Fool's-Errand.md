@@ -78,7 +78,7 @@ On forums like Reddit’s [r/investing - constant outperformance](https://www.re
 - Developers excited by SDKs or developer support
 - Professionals who noticed which companies were driving adoption inside their own workplaces
 
-These stories show that even without professional investing credentials, deep familiarity can result in prescient bets.
+These stories show that even without professional investing credentials, deep familiarity can result in prescient bets. In addition, I personally know of more than a few lucky or smart (or both) investors who invested in their domain of expertise with fantastic results.
 
 But are they cherry-picked outliers—or a real pattern? Unfortunately, hard data is limited.
 
@@ -90,7 +90,8 @@ The case for biotech professionals is less clear. While domain expertise is crit
 
 Professionals can:
 - Better evaluate clinical trial progress and regulatory hurdles
-- Understand market potential for scientific platforms (e.g., mRNA, CRISPR)
+- Have a better understanding of product development processes, costs, competition, and timelines
+- Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR)
 
 But even insiders can misjudge execution risk or underestimate macro effects, like interest rates or pandemic cycles.
 
@@ -98,7 +99,7 @@ But even insiders can misjudge execution risk or underestimate macro effects, li
 
 ### 📦 Product-Led Investing: The Lynch Approach Today
 
-Not all successful stock pickers have STEM backgrounds. Many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
+Not all successful stock pickers have STEM backgrounds, as illustrated by Contra and Blue chip funds in the table. In addition to th eir more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
 
 - Consumers who loved using Apple products in the early 2000s and invested accordingly
 - Early Netflix binge-watchers who bought the stock based on product loyalty
@@ -123,12 +124,14 @@ It *is* possible to beat the market with active management—but only if:
 - You have true insight that isn’t already priced in
 - You apply rigorous analysis, not just hunches
 - You manage behavioral biases and diversify appropriately
+- You are lucky in your timing (e.g., tech boom, low interest rates, etc.)
 
 **Suggested Approach:**
 - Use a "Core and Satellite" strategy
   - **Core**: Broad index funds (e.g., S&P 500, Total Market)
-  - **Satellite**: A small allocation (5–10%) for active bets based on industry or product insights
+  - **Satellite**: A small allocation (% depending on your starting wealth) for active bets based on industry or product insights
 - Revisit your hypotheses regularly and be willing to cut losses
+- At the same time, evaluate if the companies are worth holding for the long term (NVIDIA and Apple are good examples)
 - Don’t confuse product love with investment logic
 
 > "Being smart isn't enough. You need to know when your smarts are useful—and when the market already knows what you know."
