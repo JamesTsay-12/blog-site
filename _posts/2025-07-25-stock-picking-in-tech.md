@@ -17,7 +17,7 @@ But with ARKK (the flagship ETF) down significantly from its 2021 highs, and mos
 
 You should be skeptical of active fund managers who claim great insights in investing and evaluate if their team, strategy, analysis, and fees align with a sound investment based on substance vs. hype and overconfidence.
 
-Even the most experienced and educated investors rarely (~10%) get better long term returns than investing in simple, low fee, and broad index funds (such as S&P500 based funds). Most people are probably better off with a simple and low-cost investment strategy such as the Bogleheads methodology, which can be further extended for the future. See these blogs:
+Even the most experienced and educated investors rarely (<10%) get better long term returns than investing in simple, low fee, and broad index funds (such as S&P500 based funds). Most people are probably better off with a simple and low-cost investment strategy such as the Bogleheads methodology, which can be further extended for the future. See these blogs:
 
 * [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html)
 * [Investing in an uncertain world](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
