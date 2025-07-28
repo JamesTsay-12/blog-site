@@ -28,6 +28,8 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
 #### 1. **Information Asymmetry & Industry Fluency**
 - **Technical Vetting**: A software engineer or scientist can evaluate a company’s claims with a degree of skepticism and understanding a generalist might lack.
   - For example, distinguishing between real AI development versus thin wrappers around open-source models.
+- **Analytical Abilities**: Scientists and engineers have extensive STEM training where analytical abilities are the keys to their success
+  - Being able to quantitatively model, compare, and identify trends is extremely useful for stock picking and analysis
 - **Talent Flow as a Signal**: Scientists and Engineers often know which companies are attracting top talent—and which are hemorrhaging it. Talent movement is often a leading indicator of innovation.
 - **Product Ecosystem Intuition**: Insiders recognize sticky ecosystems before the rest of the market catches on—such as developer platform effects, API utility, or product-led growth.
 
@@ -38,6 +40,7 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
 #### 3. **Crypto & Web3 Case Study**
 - Crypto is a domain where deep technical literacy matters. Understanding codebases, tokenomics, and developer activity creates real informational edges.
 - Traditional funds often chase hype. Engineers who understood fundamentals invested early in Bitcoin, Ethereum, Solana, and more.
+
 
 ---
 
@@ -56,7 +59,6 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
 - **Familiarity Bias**: Over-investing in tech when one’s job, salary, and portfolio are already correlated to the same sector.
 - **Confirmation Bias**: Emotional attachment to a specific technology can cloud judgment.
 
----
 
 ### ✅ Examples of Active Managers Who *Did* Beat the Market
 
