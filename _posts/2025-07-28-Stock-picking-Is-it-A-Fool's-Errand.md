@@ -97,6 +97,7 @@ I'd argue picking stocks for biotech is very challenging (perhaps more so than t
 
 Biotech Professionals can:
 - Better evaluate clinical trial progress and regulatory hurdles
+- Understand the technology and science behind the products and evaluate if they realistically will have effective, robust, and reliable performance
 - Have a better understanding of product development processes, costs, competition, and timelines
 - Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR)
 
