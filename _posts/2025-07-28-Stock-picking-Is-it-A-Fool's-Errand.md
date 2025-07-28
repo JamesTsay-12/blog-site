@@ -8,9 +8,9 @@ The vast majority of individual investors and active fund managers fail to beat 
 
 ### Background: Revisiting Active Management in Tech
 
-In my previous post, I broke down the pitfalls of overconfidence in active fund management, using ARK Invest as a case study. Now I want to shift focus to something more personal: whether professionals in the tech or biotech industries might have real, applicable insight into markets—especially in highly technical sectors.
+In my previous post, I broke down some of the challenges in active fund management especially with tech stocks, using ARK Invest as a case study. I wanted to expand on my previous assertion that STEM trained individuals with industry experience could have advantages for tech stock picking. Do these professionals in the tech or biotech industries have real, applicable insight into markets—especially in highly technical sectors, and does that translate to better portfolio performance?
 
-I’ve long been hesitant to invest in actively managed funds because I noticed many of their stock picks were misaligned with my expectations as someone working in science and technology. I also took losses on stocks I did invest in—such as Moderna and BioNTech—due to underestimating macroeconomic and geopolitical headwinds.
+I’ve long been hesitant to invest in actively managed funds because I noticed many of their stock picks were misaligned with my expectations as someone working in the biotech industry. I had some overconfidence that I was great stock picker by my own initial good results in 2021, but then later took huge losses on stocks I invested in—such as Moderna and BioNTech—due to underestimating macroeconomic and geopolitical headwinds.  This lesson gave me a great deal of humility -  fortunately some of my computer-related tech stock picks made up for this difference (an area I knew much less about).
 
 Still, I’ve seen individuals in the tech space achieve exceptional returns by identifying transformative products and trends early. That got me thinking: is there such a thing as an insider advantage for public-market investing?
 
