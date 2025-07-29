@@ -90,11 +90,11 @@ Below is an article with examples of successful active funds of the past decade,
 
 ### 💬 Anecdotes from the Tech Trenches
 
-On forums like Reddit’s [r/investing - constant outperformance](https://www.reddit.com/r/investing/comments/1m6k2vi/are_there_people_that_actually_constantly_beat/) and [r/investing - beat the market](https://www.reddit.com/r/investing/comments/1gqqwe9/how_many_of_your_actually_beat_the_market_and/), you’ll find stories of individuals who bought and held companies like Apple, Nvidia, or Microsoft early. Some of them were:
+On forums like Reddit’s [r/investing - constant outperformance](https://www.reddit.com/r/investing/comments/1m6k2vi/are_there_people_that_actually_constantly_beat/), [r/investing - beat the market](https://www.reddit.com/r/investing/comments/1gqqwe9/how_many_of_your_actually_beat_the_market_and/), and [r/ValueInvesting - is it worth buying tech stocks now?](https://www.reddit.com/r/ValueInvesting/comments/1fy9sv1/is_it_worth_buying_tech_stocks_now/), you’ll find stories of individuals who bought and held companies like Apple, Nvidia, or Microsoft early. Some of them were:
 
-- Engineers impressed by chip architecture or product reliability
-- Developers excited by SDKs or developer support
-- Professionals who noticed which companies were driving adoption inside their own workplaces
+- Engineers impressed by chip architecture or product reliability  
+- Developers excited by SDKs or developer support  
+- Professionals who noticed which companies were driving adoption inside their own workplaces  
 
 These stories show that even without professional investing credentials, deep familiarity can result in prescient bets. In addition, I personally know of more than a few lucky, smart (or both) investors who invested in their domain of expertise with fantastic results.
 
