@@ -22,7 +22,7 @@ Even the most experienced and educated investors rarely (<10%) get better long t
 * [Easy Diversified Portfolio](https://jamestsay-12.github.io/blog-site/finance/2025/07/12/Easy-Diversified-Portfolio.html)
 * [Investing in an uncertain world](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
 
-That said, I’m not completely against active management and investing a minority amount of your wealth in individual stocks/crypto as long as you are able and willing to take large risks. I’ve seen legit examples where these strategies can work both with individual investors and some active funds which I’ll discuss in another article.
+That said, I’m not completely against active management and investing a minority amount of your wealth in individual stocks/crypto as long as you are able and willing to take large risks. I’ve seen legit examples where these strategies can work both with individual investors and some active funds which I discuss in this follow up article [Stock Picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
 
 ### 👤 A Personal Perspective
 
