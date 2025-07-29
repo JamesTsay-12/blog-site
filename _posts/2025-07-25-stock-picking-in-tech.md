@@ -15,7 +15,7 @@ But with ARKK (the flagship ETF) down significantly from its 2021 highs, and mos
 ---
 ### Bottom Line
 
-Be skeptical of active fund managers who promise outperformance. Before investing, ask: do they have a proven team, a sound strategy, rigorous analysis, and reasonable fees—or are they selling hype and overconfidence?
+Be skeptical of active fund managers who promise outperformance. Before investing, ask: do they have a proven team, a sound strategy, rigorous and **grounded** analysis, and reasonable fees—or are they selling hype and overconfidence?
 
 Even the most experienced and educated investors rarely (<10%) get better long term returns than investing in simple, low fee, and broad index funds (such as S&P500 based funds). Most people are probably better off with a simple and low-cost investment strategy such as the Bogleheads methodology, which can be further extended for the future. See these blogs:
 
