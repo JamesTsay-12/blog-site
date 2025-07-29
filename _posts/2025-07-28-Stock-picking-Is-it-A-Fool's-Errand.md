@@ -30,7 +30,7 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
   - For example, distinguishing between real AI development versus thin wrappers around open-source models.
 - **Analytical Abilities**: STEM trained individuals like scientists, engineers, and mathematicians have analytical abilities which are often the keys to their success
   - Being able to quantitatively model, compare, and identify trends is extremely useful for stock picking and analysis
-  - Jim Simons (mathematician/investor)and his Renaissance fund is great example of this: [Jim Simons: Success Story, Net Worth, Education, and Top Quotes — Investopedia](https://www.investopedia.com/articles/investing/030516/jim-simons-success-story-net-worth-education-top-quotes.asp)
+  - Jim Simons (mathematician/investor, Renaissance fund) is a great example of this: [Jim Simons: Success Story, Net Worth, Education, and Top Quotes — Investopedia](https://www.investopedia.com/articles/investing/030516/jim-simons-success-story-net-worth-education-top-quotes.asp)
 - **Talent Flow as a Signal**: Scientists and Engineers often know which companies are attracting top talent—and which are hemorrhaging it. Talent movement is often a leading indicator of innovation.
 - **Product Ecosystem Intuition**: Insiders recognize sticky ecosystems before the rest of the market catches on—such as developer platform effects, API utility, or product-led growth.
 
