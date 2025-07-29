@@ -118,7 +118,7 @@ Individual stock pickers and funds such as ARKK have a very challenging job in i
 
 ### 📦 Product-Led Investing: The Lynch Approach Today
 
-Not all successful stock pickers come from STEM backgrounds. As demonstrated by the long-term outperformance of funds like **FCNTX** and **FBGRX**, active managers can succeed through disciplined, fundamentals-driven approaches—even without technical industry expertise.
+Not all successful tech stock pickers come from STEM backgrounds. As demonstrated by the long-term outperformance of funds like **FCNTX** and **FBGRX**, active managers can succeed through disciplined, fundamentals-driven approaches—even without technical industry expertise.
 
 But there's another school of thought that has worked well for some individual investors: **product-first investing**, popularized by Peter Lynch.
 
