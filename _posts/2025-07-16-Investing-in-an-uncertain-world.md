@@ -51,7 +51,7 @@ This strategy, made famous by John Bogle and embraced by platforms like Boglehea
 
 In a [recent interview](https://www.youtube.com/watch?v=V360AygOv7A), comedian Hasan Minhaj pushes back on conventional investing advice by questioning experts who advocate the 'set it and forget it' model—holding a diversified (in this case U.S.-based) stock portfolio long-term without considering changing global dynamics. He challenges the assumption that this passive strategy is universally safe, especially in the face of rising global instability, rapid technological change, and domestic economic uncertainty. 
 
-His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.
+His skepticism reflects a broader cultural questioning of whether blind faith in past models is sufficient for navigating the future.  There also interesting reddit threads that cover the same theme: [Reddit: “Past Performance Doesn’t Indicate Future Results”](https://www.reddit.com/r/investing/comments/1ja9z5h/past_performance_doesnt_indicate_future_results/)
 
 ## 🔄 Rethinking Strategy: Exploring Other Possibilities
 
