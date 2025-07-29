@@ -112,7 +112,7 @@ Biotech Professionals can:
 - Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR, new sequencing technologies)
 
 But even insiders can misjudge execution risk or underestimate macro effects, like interest rates, pandemic cycles, and new geopolitical issues.
-Individual stock pickers and funds such as ARKK have a very challenging job in identifying biotech stocks that will be hugely successful in a 5 year horizon because they often reside in the small or mid cap space and have much higher volatility than large cap stocks. I have yet to identify active funds with large biotech allocations that have been able to do this with high success, especially given collapse of many smaller companies within the last few years.  If you know of any, please let me know!
+Individual stock pickers and funds such as ARKK have a very challenging job in identifying biotech stocks that will be hugely successful in a 5 year horizon because they often reside in the small or mid cap space and have much higher volatility than large cap stocks. I have yet to identify active funds with large biotech allocations that have been able to do this with high success, especially given the large downturn of the industry within the last few years.  If you know of any, please let me know!
 
 ---
 
