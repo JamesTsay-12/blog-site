@@ -71,8 +71,11 @@ Here are two active funds that beat the S&P 500 over 30 years by taking informed
 
 📌 *These funds succeeded not by chasing hype, but by combining rigorous research with domain awareness.*  
 
-The fund managers (Will Danoff and Sonu Kalra)are highly regarded and not in the tech industry, showing you don't necessarily have to be an industry expert to pick well.  I'm curious to see who they had on their teams to help with the analysis.  It's also important to note these funds focus on **large cap** stocks which have more stable and predictable performance than small and mid cap stocks - there is less speculation needed here.  I'd argue the more speculative and unpredictable the investment for tech, the more having insider and deep knowledge could benefit stock-picking.
+The fund managers (Will Danoff and Sonu Kalra)are highly regarded and not in the tech industry, showing you don't necessarily have to be an industry expert to pick well.  I'm curious to see who they had on their teams to help with the analysis.  It's also important to note these funds focus on **large cap** stocks which have more stable and predictable performance than small and mid cap stocks - there is less speculation needed here.  I'd argue that the more speculative and unpredictable the investment for tech, the more having insider and deep knowledge could benefit stock-picking.
 
+Below is an article with examples of successful active funds of the past decade, which also expands on the strategy of FBGRX:
+
+[The Top-Performing Actively Managed Funds of the Last Decade — Kiplinger](https://www.kiplinger.com/investing/the-top-performing-actively-managed-funds-of-the-last-decade)
 ---
 
 ### 📊  Long-Term Performance of FCNTX & FBGRX vs. S&P 500
