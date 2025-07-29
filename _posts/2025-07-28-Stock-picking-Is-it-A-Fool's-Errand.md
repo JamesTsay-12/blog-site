@@ -118,14 +118,16 @@ Individual stock pickers and funds such as ARKK have a very challenging job in i
 
 ### 📦 Product-Led Investing: The Lynch Approach Today
 
-Not all successful tech stock pickers have STEM backgrounds, as illustrated by FCNTX and FGBRX chip funds in the table. In addition to their more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
+Not all successful stock pickers come from STEM backgrounds. As demonstrated by the long-term outperformance of funds like **FCNTX** and **FBGRX**, active managers can succeed through disciplined, fundamentals-driven approaches—even without technical industry expertise.
 
-- Consumers who loved using Apple products in the early 2000s and invested accordingly
-- Early Netflix binge-watchers who bought the stock based on product loyalty
-- Shoppers who recognized the value proposition for Amazon or the growing ecosystem of Spotify
+But there's another school of thought that has worked well for some individual investors: **product-first investing**, popularized by Peter Lynch.
 
-The idea: if you truly understand and use a product—and you see it catching on—dig into the business. If the fundamentals check out, that personal insight can be your edge.
+This strategy leans on intuitive insight: if you use a product, love it, and see it gaining traction, that firsthand experience can be an investing signal—**if paired with solid business analysis.**
 
+Examples include:
+- Early adopters of **Apple** in the 2000s who believed in the iPod, iPhone, and ecosystem before Wall Street fully caught on.
+- Binge-watchers who recognized **Netflix**’s user loyalty and disruption potential.
+- Shoppers who understood the **Amazon Prime** flywheel, or saw the growing cultural footprint of **Spotify**.
 
 > *"The best stock to buy may be the one you already know — because you’re a customer, a user, or someone who sees the business thriving in everyday life."*  
 > — *Kiplinger, “We Are Peter Lynch”*
@@ -136,7 +138,12 @@ The idea: if you truly understand and use a product—and you see it catching on
 > *"Invest in what you understand, and then do the homework to confirm the business fundamentals."*  
 > — *AAII, “The Peter Lynch Approach”*
 
-People with a combination of STEM training, industry experience, and product enthusiasm may be even more likely to grab on to these kinds of tech picks since they will have more enthusiasm from all of these angles.  I've personally observed this with many of my colleagues who bought the stocks mentioned above early.
+This kind of investing doesn't require a technical degree—but those with **STEM training and industry experience** may be even better equipped to spot transformative technologies, especially when combined with real-world product enthusiasm. I've seen this firsthand among colleagues who invested early in companies like Apple, Amazon, or Netflix—not because of financial modeling, but because they *loved the product and understood the underlying tech*.
+
+That said, **not all popular products translate to winning investments**. Companies like **GoPro** and **Fitbit** were widely loved by consumers but failed to build durable competitive advantages or sustain growth.
+
+⚠️ The takeaway: **Product insight can be a powerful edge, but only when paired with business discipline**.
+
 
 ---
 
