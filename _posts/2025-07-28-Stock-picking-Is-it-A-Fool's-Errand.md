@@ -17,7 +17,7 @@ The vast majority of individual investors and active fund managers fail to beat 
 
 In my previous post, I broke down some of the challenges in active fund management especially with tech stocks, using ARK Invest as a case study. I wanted to expand on my previous assertion that STEM trained individuals with industry experience could have advantages for tech stock picking. Do these professionals in the tech or biotech industries have real, applicable insight into markets—especially in highly technical sectors, and does that translate to better portfolio performance?
 
-I’ve long been hesitant to invest in actively managed funds because I noticed many of their stock picks were misaligned with my expectations as someone working in the biotech industry. I had some overconfidence that I was great stock picker by my own initial good results in 2021, but then later took huge losses on stocks I invested in—such as Moderna and BioNTech—due to underestimating macroeconomic and geopolitical headwinds.  This lesson gave me a great deal of humility -  fortunately some of my computer-related tech stock picks made up for this difference (an area I knew much less about).
+I’ve long been hesitant to invest in actively managed funds because I noticed many of their stock picks were misaligned with my expectations as someone working in the biotech industry. I had some overconfidence that I was great stock picker by my own initial good results in 2021, but then later took huge losses on stocks I invested in—such as Moderna and BioNTech—due to underestimating macroeconomic and geopolitical headwinds.  This lesson gave me a great deal of humility -  fortunately some of my computer-related tech stock picks made up for these losses (an area I knew much less about).
 
 Still, I’ve seen individuals in the tech space achieve exceptional returns by identifying transformative products and trends early. I think many of us know "that person" who keeps bragging about their early Apple and Bitcoin picks and are doing very well now! That got me thinking: is there such a thing as an insider advantage for public-market investing?
 
@@ -69,7 +69,9 @@ Here are two active funds that beat the S&P 500 over 30 years by taking informed
 | **Fidelity Contrafund (FCNTX)** | High-conviction large-cap growth | 9.5% vs. 7.6% per year| Meta, Amazon, Nvidia | Emphasizes management quality and secular trends |
 | **Fidelity Blue Chip Growth (FBGRX)** | Tech-forward growth strategy | 8.8% vs. 7.6% per year| Microsoft, Apple, Nvidia | Strong bottom-up research with a tilt toward innovation |
 
-📌 *These funds succeeded not by chasing hype, but by combining rigorous research with domain awareness.*  The fund managers (Will Danoff and Sonu Kalra)are highly regarded and not in the tech industry, showing you don't necessarily have to be an industry expert to pick well.  I'm curious to see who they had on their teams to help with the analysis.
+📌 *These funds succeeded not by chasing hype, but by combining rigorous research with domain awareness.*  
+
+The fund managers (Will Danoff and Sonu Kalra)are highly regarded and not in the tech industry, showing you don't necessarily have to be an industry expert to pick well.  I'm curious to see who they had on their teams to help with the analysis.  It's also important to note these funds focus on **large cap** stocks which have more stable and predictable performance than small and mid cap stocks - there is less speculation needed here.  I'd argue the more speculative and unpredictable the investment for tech, the more having insider and deep knowledge could benefit stock-picking.
 
 ---
 
@@ -88,7 +90,7 @@ On forums like Reddit’s [r/investing - constant outperformance](https://www.re
 - Developers excited by SDKs or developer support
 - Professionals who noticed which companies were driving adoption inside their own workplaces
 
-These stories show that even without professional investing credentials, deep familiarity can result in prescient bets. In addition, I personally know of more than a few lucky or smart (or both) investors who invested in their domain of expertise with fantastic results.
+These stories show that even without professional investing credentials, deep familiarity can result in prescient bets. In addition, I personally know of more than a few lucky, smart (or both) investors who invested in their domain of expertise with fantastic results.
 
 But are they cherry-picked outliers—or a real pattern? Unfortunately, hard data is limited.
 
@@ -96,26 +98,28 @@ But are they cherry-picked outliers—or a real pattern? Unfortunately, hard dat
 
 ### 🧪 What About Biotech Professionals?
 
-I'd argue picking stocks for biotech is very challenging (perhaps more so than traditional tech). While domain expertise is critical for understanding clinical pipelines, many biotech stocks are long-term plays with high volatility.  My personal experience of holding on to Illumina stock (DNA sequencing) while I worked there was fueled by my strong belief and pride in helping to build their products. I ended up selling the stock at reasonably good times out of luck - I didn't expect many of the challenges with the GRAIL acquisition to cause such a quick erosion of the stock price after I left the company.  My experience highlights the emotional pitfalls, but the potential for an intellectual edge still exists. For instance,
+I'd argue picking stocks for biotech is very challenging (perhaps more so than traditional tech). While domain expertise is critical for understanding clinical pipelines, many biotech stocks are long-term plays with high volatility. 
+
+My personal experience of holding on to Illumina stock (DNA sequencing) while I worked there was fueled by my strong belief and pride in helping to build their products. I ended up selling the stock at reasonably good times out of luck - I didn't expect many of the challenges with the GRAIL acquisition to cause such a quick erosion of the stock price after I left the company.  My experience highlights the emotional pitfalls, but the potential for an intellectual edge still exists. For instance,
 
 Biotech Professionals can:
 - Better evaluate clinical trial progress and regulatory hurdles
 - Understand the technology and science behind the products and evaluate if they realistically will have effective, robust, and reliable performance
 - Have a better understanding of product development processes, costs, competition, and timelines
-- Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR)
+- Understand market potential and adoption timeline for scientific platforms (e.g., mRNA, CRISPR, new sequencing technologies)
 
-But even insiders can misjudge execution risk or underestimate macro effects, like interest rates or pandemic cycles.
-Individual stock pickers and funds such as ARKK have a very challenging job in identifying biotech stocks that will be hugely successful in a 5 year horizon because they often reside in the small or mid cap space and have much higher volatility than large cap stocks.
+But even insiders can misjudge execution risk or underestimate macro effects, like interest rates, pandemic cycles, and new geopolitical issues.
+Individual stock pickers and funds such as ARKK have a very challenging job in identifying biotech stocks that will be hugely successful in a 5 year horizon because they often reside in the small or mid cap space and have much higher volatility than large cap stocks. I have yet to identify active funds with large biotech allocations that have been able to do this with high success, especially given collapse of many smaller companies within the last few years.  If you know of any, please let me know!
 
 ---
 
 ### 📦 Product-Led Investing: The Lynch Approach Today
 
-Not all successful stock pickers have STEM backgrounds, as illustrated by Contra and Blue chip funds in the table. In addition to their more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
+Not all successful tech stock pickers have STEM backgrounds, as illustrated by FCNTX and FGBRX chip funds in the table. In addition to their more fundamentals and bottoms up approaches, many individuals have beaten the market using a more intuitive, product-first strategy popularized by Peter Lynch:
 
 - Consumers who loved using Apple products in the early 2000s and invested accordingly
 - Early Netflix binge-watchers who bought the stock based on product loyalty
-- Shoppers who recognized the value proposition at Costco or the growing ecosystem of Spotify
+- Shoppers who recognized the value proposition for Amazon or the growing ecosystem of Spotify
 
 The idea: if you truly understand and use a product—and you see it catching on—dig into the business. If the fundamentals check out, that personal insight can be your edge.
 
@@ -143,10 +147,10 @@ It *is* possible to beat the market with active management—but only if:
   - **Core**: Broad index funds (e.g., S&P 500, Total Market)
   - **Satellite**: A small allocation (% depending on your starting wealth) for active bets based on industry or product insights
 - Revisit your hypotheses regularly and be willing to cut losses
-- At the same time, evaluate if the companies are worth holding for the long term (NVIDIA and Apple are good examples)
+- At the same time, evaluate if the companies are worth holding for the long term (Nvidia and Apple are good examples)
 - Don’t confuse product love with investment logic
 
-> "Being smart isn't enough. You need to know when your smarts are useful—and when the market already knows what you know."
+Happy Investing, and Good luck!
 
 ---
 
