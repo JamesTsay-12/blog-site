@@ -28,7 +28,7 @@ Still, I’ve seen individuals in the tech space achieve exceptional returns by 
 #### 1. **Information Asymmetry & Industry Fluency**
 - **Technical Vetting**: A software engineer or scientist can evaluate a company’s claims with a degree of skepticism and understanding a generalist might lack.
   - For example, distinguishing between real AI development versus thin wrappers around open-source models.
-- **Analytical Abilities**: Scientists and engineers have extensive STEM training where analytical abilities are the keys to their success
+- **Analytical Abilities**: STEM trained individuals like scientists, engineers, and mathematicians where analytical abilities are the keys to their success
   - Being able to quantitatively model, compare, and identify trends is extremely useful for stock picking and analysis
   - Jim Simons (mathematician/investor)and his Renaissance fund is great example of this: [Jim Simons: Success Story, Net Worth, Education, and Top Quotes — Investopedia](https://www.investopedia.com/articles/investing/030516/jim-simons-success-story-net-worth-education-top-quotes.asp)
 - **Talent Flow as a Signal**: Scientists and Engineers often know which companies are attracting top talent—and which are hemorrhaging it. Talent movement is often a leading indicator of innovation.
