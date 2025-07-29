@@ -126,6 +126,7 @@ Not all successful tech stock pickers have STEM backgrounds, as illustrated by F
 
 The idea: if you truly understand and use a product—and you see it catching on—dig into the business. If the fundamentals check out, that personal insight can be your edge.
 
+
 > *"The best stock to buy may be the one you already know — because you’re a customer, a user, or someone who sees the business thriving in everyday life."*  
 > — *Kiplinger, “We Are Peter Lynch”*
 
@@ -134,6 +135,8 @@ The idea: if you truly understand and use a product—and you see it catching on
 
 > *"Invest in what you understand, and then do the homework to confirm the business fundamentals."*  
 > — *AAII, “The Peter Lynch Approach”*
+
+People with a combination of STEM training, industry experience, and product enthusiasm may be even more likely to grab on to these kinds of tech picks since they will have more enthusiasm from all of these angles.  I've personally observed this with many of my colleagues who bought the stocks mentioned above early.
 
 ---
 
