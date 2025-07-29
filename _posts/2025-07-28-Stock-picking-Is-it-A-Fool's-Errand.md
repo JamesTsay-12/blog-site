@@ -82,7 +82,6 @@ Below is an article with examples of successful active funds of the past decade,
 ### 📊  Long-Term Performance of FCNTX & FBGRX vs. S&P 500
 ![FBGRX and FCNTX vs S&P 500 (30-Year Performance)](https://jamestsay-12.github.io/blog-site/assets/img/finance/fbgrx_fcntx_vs_sp500_simulated.png)
 
-_A visual chart will go here comparing 30-year performance of these funds to the S&P 500._
 
 ---
 
