@@ -141,10 +141,8 @@ Examples include:
 > *"Invest in what you understand, and then do the homework to confirm the business fundamentals."*  
 > — *AAII, “The Peter Lynch Approach”*
 
-This kind of investing doesn't require a technical degree—but those with **STEM training and industry experience** may be even better equipped to spot transformative technologies, especially when combined with real-world product enthusiasm. I've seen this firsthand among colleagues who invested early in companies like Apple, Amazon, or Netflix—not because of financial modeling, but because they *loved the product and understood the underlying tech*.  Here are some anecdotes of those kinds of cases on reddit: 
+This kind of investing doesn't require a technical degree—but those with **STEM training and industry experience** may be even better equipped to spot transformative technologies, especially when combined with real-world product enthusiasm. I've seen this firsthand among colleagues who invested early in companies like Apple, Amazon, or Netflix—not because of financial modeling, but because they *loved the product and understood the underlying tech*.  Here are some anecdotes of those kinds of cases on reddit: [Reddit: How Did You Find the Stock That Hit It Big?](https://www.reddit.com/r/investing/comments/1iy7vus/how_did_you_find_the_stock_that_hit_it_big/)
 
-[
-](https://www.reddit.com/r/investing/comments/1iy7vus/how_did_you_find_the_stock_that_hit_it_big/)
 That said, **not all popular products translate to winning investments**. Companies like **GoPro** and **Fitbit** were widely loved by consumers but failed to build durable competitive advantages or sustain growth.
 
 ⚠️ The takeaway: **Product insight can be a powerful edge, but only when paired with business discipline**.
