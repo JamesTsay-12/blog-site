@@ -77,6 +77,7 @@ The fund managers (**Will Danoff** (FCNTX) and **Sonu Kalra** (FBGRX))are highly
 Below is an article with examples of successful active funds of the past decade, which also expands on the strategy of FBGRX:
 
 [The Top-Performing Actively Managed Funds of the Last Decade — Kiplinger](https://www.kiplinger.com/investing/the-top-performing-actively-managed-funds-of-the-last-decade)
+
 ---
 
 ### 📊  Long-Term Performance of FCNTX & FBGRX vs. S&P 500
