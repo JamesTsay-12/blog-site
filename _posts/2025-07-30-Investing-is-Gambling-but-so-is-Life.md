@@ -5,7 +5,6 @@ description: "Investing and Philosphical principles"
 date: 2025-07-30
 categories: [finance]
 ---
-This blog is in progress, so stay tuned!
 
 
 # Life Is a Gamble. Investing Is Just One of the Smarter Ones.
