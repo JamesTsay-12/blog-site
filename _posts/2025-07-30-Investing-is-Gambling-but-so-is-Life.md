@@ -14,9 +14,9 @@ I was catching up with some old friends and colleagues recently, sharing how I�
 
 > “Well, that’s just gambling.”
 
-It caught me off guard. Not because it felt dismissive—though it did—but because it touched on something deeper. It made me reflect: *Is that true? Was I just lucky? Are my successes built on skill, chance, or some blend of both? And what really is gambling, anyway?*
+It caught me off guard. Not just because it felt dismissive, but because it touched on something deeper. It made me reflect: *Is that true? Was I just lucky? Are my successes built on skill, hard work, chance, or some blend of all of these factors? And what really is gambling, anyway?*
 
-This question unraveled a thread that went far beyond investing. I started thinking about risk, control, and uncertainty—not just in markets, but in all of life. And I came to believe that asking whether investing is gambling reveals more about how we think about meaning, agency, and possibility than it does about portfolios or price charts.
+This question unraveled a thread that went far beyond investing. I started thinking about risk, control, and uncertainty—not just in markets, but in all of life. And I came to believe that asking whether investing is gambling reveals more about how we think about meaning, agency, and possibility than it does about the nitty gritty of investing research.
 
 ## A Personal Journey: Luck, Hard Work, and Choices
 
