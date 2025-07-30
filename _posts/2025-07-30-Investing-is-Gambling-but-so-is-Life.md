@@ -10,7 +10,7 @@ This blog is in progress, so stay tuned!
 
 # Life Is a Gamble. Investing Is Just One of the Smarter Ones.
 
-I was catching up with some old friends and colleagues recently, sharing how I’ve taken an unpaid leave of absence—and how, thanks to years of frugal living and solid investing, I’m financially secure enough to make that choice. I expected congratulations or curiosity. Instead, one response stopped me in my tracks:
+I was catching up with some old friends and colleagues recently, sharing how I’ve taken an unpaid leave of absence—and how, thanks to years of frugal living and solid investing, I’m financially secure enough to make that choice. I got a mixture of responses including congratulations and curiosity. However, I also got one response that really surprised me:
 
 > “Well, that’s just gambling.”
 
@@ -56,11 +56,18 @@ Imagine a spectrum:
 
 As research by Arthur, Williams & Delfabbro (2016) shows, speculative trading habits and traditional gambling behaviors share **empirical and psychological traits**, such as impulsivity, sensation-seeking, and addiction vulnerability. So it’s not merely about what you’re doing—but *how* and *why* you’re doing it.
 
+There are some investors who take exception to calling all investing gambling, and some who think the very best pathway is to do so only in a slow but effective way with broad index investing. [Ramit Sethi](https://www.youtube.com/@ramitsethi) and [Tae Kim (Financial Tortoise)](https://www.youtube.com/c/TaeKimFinancialTortoise) both advocate for this approach. Their arguments are that based on all of the past data, broad index investing is so low risk over long periods of time that it shouldn't be called gambling at all.  
+
+I'd like to frame investing as a spectrum of choices/strategies and risk levels with varying impact, which all can be some form of gambling. But not all gambling is necessarily a "bad thing" or "just luck." In fact, I think it is a necessary part of life in general where we gather and analyze information to try to make the best decisions.
+
+
 ## The Brain Science of Risk and Reward
 
 Behavioral economics and neuroeconomics offer even deeper insight. According to prospect theory (Kahneman & Tversky), humans consistently **overweight small probabilities** (e.g. dream of hitting it big) and **underweight high-probability modest returns**. This is why "lottery stocks" or YOLO options seem exciting—even when they’re bad bets.
 
 Meanwhile, brain imaging studies reveal that speculation activates the **dopaminergic reward pathways** similarly to addictive behaviors. As Annie Duke notes in *Thinking in Bets*, our brains crave certainty and reward, often at the expense of rational analysis.
+
+
 
 ## Gambling as a Metaphor for Life
 
