@@ -23,7 +23,7 @@ My own path to financial flexibility has been a mix of luck, hard work, and good
 
 For most of my 20s and into my early 30s, I was content to pursue academia, focused on graduate school and postdoctoral research on a modest stipend. During that period, I faced the harsh realities of the financial crisis, struggling to find jobs and enduring low income well into my 30s. Investing was barely on my radar; my energy was spent on learning and surviving.
 
-Then, I was fortunate to land a job at Illumina during its growth phase. There, performing well in R&D meant receiving stock compensation, which I prudently saved and reinvested. That accumulation of equity and savings gave me a foundation.
+Then, I was fortunate to land a job at Illumina during its high growth phase. There, performing well in R&D meant receiving stock compensation, which I prudently saved and reinvested. That accumulation of equity and savings gave me a foundation.
 
 It’s this foundation that eventually allowed me to take bigger risks — like joining a startup and even taking an unpaid leave of absence when life circumstances called for it. I wouldn’t call myself “rich,” but I have enough security to create more flexibility in my life. That’s the payoff of a combination of luck, persistence, frugality, and embracing calculated risk.
 
