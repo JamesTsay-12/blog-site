@@ -82,11 +82,7 @@ And yet, we rarely call these decisions *gambling.* That’s because we’ve acc
 
 ## What’s Not Gambling?
 
-Only a few things in life are truly certain:
-
-- Death  
-- Taxes  
-- Change  
+Only a few things in life are truly certain and don't involve choice (death, which parents you were born to, where/when you were born, and change)
 
 Everything else involves chance, decisions, and trade-offs.
 
@@ -116,6 +112,8 @@ Aristotle’s concept of **phronesis**, or practical wisdom, applies beautifully
 Yet, it is critical to acknowledge that *not everyone* starts from the same place. Life circumstances—such as being born into poverty or systemic inequality—limit options and access. For many, investing isn’t just about virtue; it’s about survival and overcoming structural barriers. Luck, in terms of one’s starting point, matters deeply and shapes what kinds of “gambling” or risk-taking are even possible.
 
 Recognizing this does not diminish the role of personal responsibility or virtue; rather, it invites a more compassionate and nuanced conversation about investing. It encourages us to see investing not just as a means to accumulate wealth, but as part of a broader ethical journey—where effort, character, and context intersect.
+
+In addition, you are perfectly entitled to invest in areas/companies you really believe in that have a positive impact based on your values and beliefs, whether through stock investing in companies in which you believe in their missions, or angel investing when you are wealthy enough.
 
 In this light, investing is less a gamble and more a lifelong pursuit of *practical wisdom* in managing uncertainty and cultivating a flourishing life.
 
