@@ -61,9 +61,7 @@ I'd like to frame investing as a spectrum of choices/strategies and risk levels 
 
 Here is some additional interesting discussion about this topic:
 > “Investing is based on **strategic decision‑making and research**, while gambling is based on **chance and luck**. Investing is also a long‑term strategy aimed at growing wealth, while gambling is often a short‑term thrill with the possibility of losing money.”  
-> — Remote‑Direction963, *r/AskReddit* :contentReference[oaicite:1]{index=1}
-
-[Read the full Reddit discussion here.](https://www.reddit.com/r/AskReddit/comments/1bwh93b/how_is_investing_at_the_stock_market_different/)
+> — Remote‑Direction963, [r/AskReddit](https://www.reddit.com/r/AskReddit/comments/1bwh93b/how_is_investing_at_the_stock_market_different/)
 
 
 ## The Brain Science of Risk and Reward
