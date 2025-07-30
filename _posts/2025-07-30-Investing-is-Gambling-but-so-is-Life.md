@@ -2,7 +2,7 @@
 layout: post
 title: "Investing is Gambling, but so is most of Life"
 description: "Investing and Philosphical principles"
-date: 2025-07-28
+date: 2025-07-30
 categories: [finance]
 ---
 This blog is in progress, so stay tuned!
