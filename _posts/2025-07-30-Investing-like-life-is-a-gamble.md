@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Investing is Gambling, but so is most of Life"
+description: "Investing and Philosphical principles"
+date: 2025-07-28
+categories: [finance]
+---
+This blog is in progress, so stay tuned!
+
+
 # Life Is a Gamble. Investing Is Just One of the Smarter Ones.
 
 I was catching up with some old friends and colleagues recently, sharing how I’ve taken an unpaid leave of absence—and how, thanks to years of frugal living and solid investing, I’m financially secure enough to make that choice. I expected congratulations or curiosity. Instead, one response stopped me in my tracks:
