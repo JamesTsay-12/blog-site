@@ -66,7 +66,9 @@ Here is some additional interesting discussion about this topic:
 
 ## The Brain Science of Risk and Reward
 
-Behavioral economics and neuroeconomics offer even deeper insight. According to prospect theory (Kahneman & Tversky), humans consistently **overweight small probabilities** (e.g. dream of hitting it big) and **underweight high-probability modest returns**. This is why "lottery stocks" or YOLO options seem exciting—even when they’re bad bets.
+What drives people to invest taking on more traits of gambling?
+
+Behavioral economics and neuroeconomics offer deep insight. According to prospect theory (Kahneman & Tversky), humans consistently **overweight small probabilities** (e.g. dream of hitting it big) and **underweight high-probability modest returns**. This is why "lottery stocks" or YOLO options seem exciting—even when they’re bad bets.
 
 Meanwhile, brain imaging studies reveal that speculation activates the **dopaminergic reward pathways** similarly to addictive behaviors. As Annie Duke notes in *Thinking in Bets*, our brains crave certainty and reward, often at the expense of rational analysis.
 
