@@ -226,7 +226,7 @@ No strategy fits everyone — these need to be factored into any plan.  Life cir
 - **Outcome:** Moderate portfolio growth with lower volatility, but limited upside due to conservative allocation.  
 - **Source:** Based on aggregated data from Vanguard’s “How America Invests” and personal finance case studies.
 
-#### Case Study 2: High-Risk, Wealthy Investor 
+#### Case Study 2: High-Risk, Wealthy Investor (Bill Perkins)
 
 - **Allocation:**  
   - He does not specify exact numbers, but he mentions heavy allocations to private equity and alternatives.
