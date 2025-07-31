@@ -66,7 +66,7 @@ Here is some additional interesting discussion about this topic:
 
 ## The Brain Science of Risk and Reward
 
-What drives people to invest taking on more traits of gambling?
+What drives people to invest taking on more traits of high risk gambling?
 
 Behavioral economics and neuroeconomics offer deep insight. According to prospect theory (Kahneman & Tversky), humans consistently **overweight small probabilities** (e.g. dream of hitting it big) and **underweight high-probability modest returns**. This is why "lottery stocks" or YOLO options seem exciting—even when they’re bad bets.
 
