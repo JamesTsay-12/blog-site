@@ -50,10 +50,10 @@ While there are many factors investors *can* control and anticipate—such as ri
 A strong tech investor doesn’t just follow trends—they understand the *underlying science and engineering*. They know how to distinguish between a breakthrough and a marketing pitch.
 
 **Practical Industry Experience**  
-Experience working in relevant industries helps investors assess what's feasible and what’s fantasy. Understanding time-to-market, competition, regulatory bottlenecks, and supply chain friction is key.
+Experience working in relevant industries helps investors assess what's feasible and what’s fantasy. Understanding time-to-market, technical challenges, competition, regulatory bottlenecks, and supply chain friction is key.
 
 **Realistic Modeling & Risk Awareness**  
-Sophisticated models are useful—but only if based on grounded assumptions. A good stock picker stress-tests downside scenarios and avoids overfitting projections to blue-sky outcomes.
+Sophisticated models are useful—but only if based on grounded assumptions. A good stock picker stress-tests downside scenarios and avoids overfitting projections to over-optimistic outcomes.
 
 **Good Judgment About People**  
 You don’t need to be a scientist to invest in science—you just need to know how to find credible operators. Warren Buffett never built semiconductors, but he knows who can.
