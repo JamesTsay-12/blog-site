@@ -72,7 +72,7 @@ Behavioral economics and neuroeconomics offer deep insight. According to prospec
 
 Meanwhile, brain imaging studies reveal that speculation activates the **dopaminergic reward pathways** similarly to addictive behaviors. As Annie Duke notes in *Thinking in Bets*, our brains crave certainty and reward, often at the expense of rational analysis.
 
-
+My guess is that some people observe these problematic behaviors in investing, and as a result label investing as gambling.
 
 ## Gambling as a Metaphor for Life
 
@@ -118,9 +118,9 @@ Yet, it is critical to acknowledge that *not everyone* starts from the same plac
 
 Recognizing this does not diminish the role of personal responsibility or virtue; rather, it invites a more compassionate and nuanced conversation about investing. It encourages us to see investing not just as a means to accumulate wealth, but as part of a broader ethical journey—where effort, character, and context intersect.
 
-In addition, you are perfectly entitled to invest in areas/companies you really believe in that have a positive impact based on your values and beliefs, whether through stock investing in companies in which you believe in their missions, or angel investing when you are wealthy enough.
+You also have the power to support and affirm your virtues by investing in areas/companies you really believe in that have a positive impact based on your values and beliefs, whether through stock investing in companies in which you believe in their missions, or angel investing when you are wealthy enough.  For example, I personally like investing in biotech companies in which I believe in their promise to cure, prevent, or treat diseases.
 
-In this light, investing is less a gamble and more a lifelong pursuit of *practical wisdom* in managing uncertainty and cultivating a flourishing life.
+In this light, investing is less a gamble and more a lifelong pursuit of *practical wisdom* in managing uncertainty, finding meaning with your personal virtues, and cultivating a flourishing life.
 
 ## Conclusion: Investing as a Form of Life’s Gambling — Wisdom Over Greed
 
