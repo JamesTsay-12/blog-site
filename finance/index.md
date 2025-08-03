@@ -6,7 +6,7 @@ permalink: /finance/
 
 ## 💸 Personal Finance
 
-Hello, everyone!  I'm James - a scientist and investor who writes about money, risk, and meaning at the intersection of systems thinking, philosophy, and real life. I aim to challenge simplistic narratives and explore how investing can be a thoughtful, empowering, and deeply personal practice.
+Hello, everyone!  I'm James - a scientist and investor who writes about money, risk, and meaning at the intersection of systems thinking, philosophy, and real life. I aim to challenge simplistic narratives and explore how investing can be a thoughtful, empowering, and personal practice.
 
 In my personal finance blog — I explore:
 
@@ -15,7 +15,10 @@ In my personal finance blog — I explore:
 - Psychology and Philosophy of Investing
 - Budgeting and saving strategies
     
-My aim here is to provide nuanced perspectives that are objective and data-driven, while being open to different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions.  Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully there are some useful perspectives shared here.
+My goal is to provide nuanced perspectives about investing that are objective, data-driven, and in consideration of different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions. 
+
+Some articles are intended to be short and practical, and others more lengthy, complex, and and in-depth.
+Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully you'll find some useful perspectives shared here.
 
 
 ### 📚 Recent Posts
