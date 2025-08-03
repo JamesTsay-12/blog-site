@@ -17,7 +17,7 @@ In my personal finance blog — I explore:
     
 My goal is to provide nuanced perspectives about investing that are objective, data-driven, and in consideration of different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions. 
 
-Some articles are intended to be short and practical, and others more lengthy, complex, and and in-depth.
+Some articles are intended to be short and practical, and others more lengthy and in-depth.
 Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully you'll find some useful perspectives shared here.
 
 
