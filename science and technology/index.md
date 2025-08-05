@@ -1,7 +1,7 @@
 ---
 layout: page
-title: science and technology
-permalink: /science and technology/
+title: Science and Technology
+permalink: /Science and Technology/
 ---
 
 Welcome to my science and technology blog!
