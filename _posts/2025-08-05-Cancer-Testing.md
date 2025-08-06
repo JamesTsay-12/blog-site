@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cancer Testing and Drugs, Where are we today?"
+title: "What I learned when my biotech career collided with my mother's cancer diagnosis"
 date: 2025-08-05
 categories: Science
 ---
@@ -8,9 +8,11 @@ categories: Science
 This post is in progress.  I'll dive into my family's current journey navigating the health system, cancer, and the utilization of the latest available technology from biotech.
 
 
-# My Mother’s Journey with Colon Cancer
+# My Mom's Cancer Journey and the impact of Precision Medicine 
 
-This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. This is my story — a roller coaster ride of initial hope, frustration, despondency, and now renewed hope that we will be able to battle cancer more effectively with technology in the future.  
+This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. 
+
+This is my story — a roller coaster ride of initial hope, frustration, despondency, and now renewed hope that we will be able to battle cancer more effectively with technology in the future.  
 
 ---
 
