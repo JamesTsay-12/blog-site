@@ -10,7 +10,7 @@ This post is in progress.  I'll dive into my family's current journey navigating
 
 # My Mother’s Journey with Colon Cancer
 
-This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. This is my story — a roller coaster ride of initial hope, frustration, despondancy, and now renewed hope that we will be able to battle cancer more effectively with technology in the future.  
+This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. This is my story — a roller coaster ride of initial hope, frustration, despondency, and now renewed hope that we will be able to battle cancer more effectively with technology in the future.  
 
 ---
 
@@ -18,7 +18,7 @@ This is a personal reflection on the evolving landscape of genetic testing for c
 
 My mom was diagnosed with Stage 3b colon cancer more than a decade ago. She had lymph node involvement, and underwent surgery to remove a large tumor from her colon. Chemotherapy followed — FOLFOX (with oxaliplatin) — which caused terrible side effects. After that, she frequently remarked “chemo is hell” and vowed never to go through it again.
 
-Her oncologist at the time was elderly and didn’t seem to have any awareness of modern molecular diagnostics or targeted therapy. Within a couple of years, she was diagnosed with Stage 4 disease, with metastases in her lungs. She would later undergo two separate lung surgeries.
+Her oncologist at the time was elderly and didn’t seem to have any awareness of modern molecular diagnostics or targeted therapy. Within a couple of years, she was diagnosed with Stage 4 disease, with metastases in her lungs. She later had two separate surgeries to remove tumors from her lungs.
 
 Miraculously, she remained cancer-free for a long time — possibly more than five years.
 
@@ -40,7 +40,7 @@ Weeks after her biopsy, I wanted to ensure her sample had been sequenced. I made
 
 Eventually, I went with my parents to one of her oncologist appointments. The doctor started out doing some basic physical examinations, and looked over the scans he had with a very grim expression.  He asked my mom if she knew what the results meant, and then jumped straight into chemotherapy options. I interrupted — told him I worked in molecular diagnostics at a biotech company — and asked about targeted treatments.
 
-He told me she had already had NGS done (next generation sequencing) and had KRAS mutations in her biopsied tumors, which made her ineligible for EGFR (endethelial growth factor receptor) drugs. Note: KRAS is a key protein involved in cell growth signaling pathways, and certain mutations in the KRAS gene can drive cancer. Whether a cancer is "druggable" often depends on the specific type of KRAS mutation present.
+He told me she had already had NGS done (next generation sequencing) and had KRAS mutations in her biopsied tumors, which made her ineligible for EGFR (epidermal growth factor receptor) drugs. Note: KRAS is a key protein involved in cell growth signaling pathways, and certain mutations in the KRAS gene can drive cancer. Whether a cancer is "druggable" often depends on the specific type of KRAS mutation present.
 
 I pushed back. I mentioned new research for drugs, like adagrasib, which had recently been FDA approved for cancer patients with KRAS G12C mutations in combination with cetuximab (an EGFR drug) in the past year. He replied, matter-of-factly: “She has G12S.”
 
@@ -90,7 +90,7 @@ Current targeted therapies for metastatic colon cancer have only about a 6–8% 
 
 Yes, we’re making progress. But effective, reliable cancer diagnosis and treatment is still a long way off. I’m currently extremely disappointed in the impatience and unwillingness of investors and our federal government to support these endeavors. I hope this environment will change in the near future so researchers, the biotech industry, and doctors can succeed in preventing the suffering caused by cancer.  I’ll expand more on that in a future article.
 
-I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,00 people/year worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwile!
+I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,00 people/year worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwhile!
 
 As for my mom, it’s unlikely any new drug will be available in time to help.
 
