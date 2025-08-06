@@ -8,6 +8,7 @@ Welcome to my Science and Technology blog!
 
 I'm a scientist in the biotech industry and I'm here to discuss some of the latest advances in science and impact on our lives.
 
+You can find me on Linkedin **🔗 [LinkedIn Profile](https://www.linkedin.com/in/james-tsay-b2700a19/)**
 ### 📚 Recent Posts
 
 {% assign Science_posts = site.categories.Science %}
