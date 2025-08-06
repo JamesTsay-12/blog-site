@@ -68,7 +68,7 @@ The most common mutations in KRAS occur at **codon 12**, but others happen at co
 | G12V     | Gly → Val         | ~23%                          | Pancreatic, Lung           |
 | G12C     | Gly → Cys         | ~13%                          | Lung (NSCLC), Colorectal   |
 | G12A     | Gly → Ala         | ~6%                           | Colorectal                 |
-| G12S     | Gly → Ser         | ~4%                           | Pancreatic                 |
+| G12S     | Gly → Ser         | ~4%                           | Pancreatic, Colorectal     |
 | G13D     | Gly → Asp (codon 13) | ~7%                       | Colorectal                 |
 
 *Source: Prior et al., Cancer Research, 2012; COSMIC Database*
