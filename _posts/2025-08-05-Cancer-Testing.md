@@ -36,7 +36,7 @@ Meanwhile, I watched her suffer: collapsing in public, excessively coughing, dea
 
 ### Chasing the Data
 
-After working for a DNA sequencing company for more than decade, I knew about many of the rapid improvements for precision medicine both in diagnostics and new drug treatments, and I was optimistic that now our healthcare system could be better equipped to deal with cancer for my mom.
+After working for a DNA sequencing company for more than decade, I knew about many of the rapid advnaces for precision medicine both in diagnostics and new drug treatments, and I was optimistic that now our healthcare system could be better equipped to deal with cancer for my mom.
 
 Weeks after her biopsy, I wanted to ensure her sample had been sequenced. I made several calls but couldn’t reach anyone who could confirm whether her tumor had undergone DNA sequencing. When I looked at her case file online, there was no mention of further diagnostics.
 
