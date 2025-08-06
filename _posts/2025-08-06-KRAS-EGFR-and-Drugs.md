@@ -7,7 +7,7 @@ categories: Science
 
 In my previous post about my family's cancer journey, I touched on how molecular diagnostics are reshaping cancer treatment. One of the clearest examples of this is the interaction between **EGFR** and **KRAS** in colorectal and lung cancers. Understanding this pathway helps explain why certain therapies fail—and why personalized medicine is essential.
 
-**Disclaimer:**  Much of the content here is the integration of my own research with assitance with AI.  I'm working to confirm all of the information and references are correct.
+**Disclaimer:**  Much of the content here is the integration of my own research with assistance with AI.  I'm working to confirm all of the information and references are correct.
 
 ## The Role of EGFR in Normal Cells
 
