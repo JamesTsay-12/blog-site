@@ -40,7 +40,7 @@ Weeks after her biopsy, I wanted to ensure her sample had been sequenced. I made
 
 Eventually, I went with my parents to one of her oncologist appointments. The doctor started out doing some basic physical examinations, and looked over the scans he had with a very grim expression.  He asked my mom if she knew what the results meant, and then jumped straight into chemotherapy options. I interrupted — told him I worked in molecular diagnostics at a biotech company — and asked about targeted treatments.
 
-He told me she had already had NGS done (next generation sequencing) and had KRAS mutations in her biopsied tumors, which made her ineligible for EGFR (endethelial growth factor receptor) drugs. Note: the sequence of the KRAS gene can determine if the cancer is druggable. 
+He told me she had already had NGS done (next generation sequencing) and had KRAS mutations in her biopsied tumors, which made her ineligible for EGFR (endethelial growth factor receptor) drugs. Note: KRAS is a key protein involved in cell growth signaling pathways, and certain mutations in the KRAS gene can drive cancer. Whether a cancer is "druggable" often depends on the specific type of KRAS mutation present.
 
 I pushed back. I mentioned new research for drugs, like adagrasib, which had recently been FDA approved for cancer patients with KRAS G12C mutations in combination with cetuximab (an EGFR drug) in the past year. He replied, matter-of-factly: “She has G12S.”
 
@@ -98,9 +98,21 @@ As for my mom, it’s unlikely any new drug will be available in time to help.
 
 ### Final Thoughts and Recommendations
 
-If you’re reading this: please get your colonoscopy as early as your insurance allows — at 45, or earlier (40) if you have a family history. Colonoscopies can not only provide a definitive diagnosis but can also remove precancerous polyps before they turn malignant.
+If you're reading this: please get your colonoscopy as early as your insurance allows — at 45, or earlier (40) if you have a family history. Colonoscopies can not only provide a definitive diagnosis but can also remove precancerous polyps before they turn malignant.
 
-I remain hopeful that early cancer screening becomes more accurate, accessible, and widespread in the years to come. We are only scratching the surface on what’s possible for cancer diagnostics and treatment.  After years in the trenches of biotech R&D – and as a son watching a loved one stay upbeat through her suffering– I’m astounded by what science and the human spirit can do.  We can’t as a society give up on researchers, the biotech industry, and clinicians in terms of funding and trust, and we have to plow forward for a better future for mankind.  My mom heroically fought stage 4 cancer for over a decade, and I'm very hopeful that new patients will live long enough to benefit from the newest technology to diagnose and treat cancer in the future.
+But this experience has also shown me where we're failing as an industry and healthcare system, and it's not for lack of trying.
+The biotech professionals I work with put in long and stressful hours developing technologies they genuinely believe will save lives. The doctors I've met—including my mom's oncologist—are carrying the weight of delivering devastating news to families like mine, often with inadequate tools to offer real hope. These people are burning out trying to bridge the gap between what we can test for and what we can actually treat. They deserve better support, and patients deserve the breakthroughs their dedication should be producing.
+
+What I find extremely frustrating is the communication breakdown. When I had to interrupt my mom's appointment to ask about targeted therapies, that wasn't a failure of medical knowledge—it was a system that doesn't give doctors time to walk patients through their options and their reasoning adequately.  We have to directly ask for complex genomic reports with no bottom line/summary. My mom shouldn't have needed a son in the industry to decode what her results meant.  I really wonder what most other people do!
+
+I'm also disappointed by the impatience of investors and policymakers who expect quick returns on cancer research. The technology I helped build took many years to develop and deploy. The drugs that might have helped my mom are still in clinical trials because developing effective cancer treatments takes decades, not months. We can't keep pulling funding when the timeline doesn't match quarterly earnings reports.
+
+My mom has been fighting this disease for over a decade with more courage than I could ever manage. The doctors treating her are doing everything they can with the tools available. The scientists and engineers developing new tools are working themselves to exhaustion. But we're letting all of them down by not committing to the long, expensive, often frustrating work of turning promising lab results into treatments that actually save lives.
+
+Still, I remain hopeful because I've seen what dedicated people can accomplish when they have the resources and time to do it right. We just need to give them both.
+
+
+
 
 For those interested, I’ll include a deeper dive into KRAS mutations and the current state of targeted therapies in a supplemental post.
 
