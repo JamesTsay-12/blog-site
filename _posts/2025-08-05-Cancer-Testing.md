@@ -46,7 +46,10 @@ He told me she had already had NGS done (next generation sequencing) and had KRA
 
 I pushed back. I mentioned new research for drugs, like adagrasib, which had recently been FDA approved for cancer patients with KRAS G12C mutations in combination with cetuximab (an EGFR drug) in the past year. He replied, matter-of-factly: “She has G12S.”
 
-I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, very rare, and with some of the lowest survival rates.  I’ll go deeper into the science of this in another article.
+I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, very rare, and with some of the lowest survival rates.  
+
+If you're interested in the science behind KRAS mutations and the emerging therapies targeting them — including why some are treatable and others remain challenging — I’ve written a follow-up here:  
+👉 [Understanding the Biology Behind KRAS Mutations and New Drug Strategies](https://jamestsay-12.github.io/blog-site/science/2025/08/06/KRAS-EGFR-and-Drugs.html)
 
 That moment revealed my emotional bias. I had hoped so badly that something could be done to save her, that I basically assumed there was a path.
 
