@@ -10,7 +10,7 @@ This post is in progress.  I'll dive into my family's current journey navigating
 
 # My Mother’s Journey with Colon Cancer
 
-This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. This is my story — a roller coaster ride of initial hope, frustration, despondancy, and now renewed hope that we will be able to battle cancer more effectively with technology.  
+This is a personal reflection on the evolving landscape of genetic testing for cancer.  As both a biotech professional and the son of a cancer patient, I found myself caught between the promise of precision medicine and the harsh realities of clinical care. This is my story — a roller coaster ride of initial hope, frustration, despondancy, and now renewed hope that we will be able to battle cancer more effectively with technology in the future.  
 
 ---
 
