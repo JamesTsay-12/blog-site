@@ -13,12 +13,14 @@ In my personal finance blog — I explore:
 - Investment ideas and tools  
 - Financial independence & long-term planning  
 - Psychology and Philosophy of Investing
-- Budgeting and saving strategies
+- Thoughts on careers and the future
     
 My goal is to provide nuanced perspectives about investing that are objective, data-driven, and in consideration of different points of view. I add references to back up the articles so you can decide yourself the validity of the conclusions. 
 
 Some articles are intended to be short and practical, and others more lengthy and in-depth.
 Please take these blogs as food for thought instead of prescriptive financial advice. Hopefully you'll find some useful perspectives shared here.
+
+You can find me on Linkedin **🔗 [LinkedIn Profile](https://www.linkedin.com/in/james-tsay-b2700a19/)**
 
 
 ### 📚 Recent Posts
