@@ -78,7 +78,7 @@ I asked about the clinical trials listed in the report. The doctor was dismissiv
 
 In general, he seemed irritated by my line of questioning and said, “If there were a better way to treat her, I would have already recommended it to you.” He also remarked that those clinical trials were “all junk” — revealing he must have a great deal of frustration with our therapeutic pipeline as well.
 
-I had a past skepticism that doctors were often out of date from the most recent research, and I believe it’s fair to advocate for alternative treatments if you come from a place of real knowledge —mine was from reading peer-reviewed scientific articles and not from listening to some TikTok influencer. To be fair, this oncologist was clearly well-trained and impressively knowledgeable. I suspect we actually shared a deep, unspoken frustration — the helplessness of having no better options for someone we both wanted to help. That takes a toll on everyone involved.
+I had a past skepticism that doctors were often out of date from the most recent research, and I believe it’s right to advocate for alternative treatments if you come from a place of real knowledge —mine was from reading peer-reviewed scientific articles and not from listening to some TikTok influencer. To be fair, this oncologist was clearly well-trained and impressively knowledgeable. I suspect we actually shared a deep, unspoken frustration — the helplessness of having no better options for someone we both wanted to help. That takes a toll on everyone involved.
 
 Later in the appointment, my mom mentioned that another doctor had suggested radiation to relieve pain from her largest tumor.  This was pretty much the only thing the doctor expressed any optimism over: to increase the quality of my mom’s life for the remaining time she had left.  Thankfully, she did receive this treatment — and it reduced her pain significantly.
 
@@ -88,9 +88,9 @@ Later in the appointment, my mom mentioned that another doctor had suggested rad
 
 Current targeted therapies for metastatic colon cancer have only about a 6–8% response rate (see supplemental info). That’s a grim number. It frustrates me when I see people in the media constantly touting “cures” for cancer without context, providing false hope— even most of the legitimate breakthroughs apply to very narrow patient populations, and very few actually achieve remission.
 
-Yes, we’re making progress. But effective, reliable cancer diagnosis and treatment is still a long way off. I’m currently extremely disappointed in the impatience and unwillingness of investors and our federal government to support these endeavors. I hope this environment will change in the near future so researchers, the biotech industry, and doctors can succeed in preventing the suffering caused by cancer.  I’ll expand more on that in a future post.
+Yes, we’re making progress. But effective, reliable cancer diagnosis and treatment is still a long way off. I’m currently extremely disappointed in the impatience and unwillingness of investors and our federal government to support these endeavors. I hope this environment will change in the near future so researchers, the biotech industry, and doctors can succeed in preventing the suffering caused by cancer.  I’ll expand more on that in a future article.
 
-I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,00 people worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwile!
+I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,00 people/year worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwile!
 
 As for my mom, it’s unlikely any new drug will be available in time to help.
 
