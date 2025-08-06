@@ -90,7 +90,7 @@ Current targeted therapies for metastatic colon cancer have only about a 6–8% 
 
 Yes, we’re making progress. But effective, reliable cancer diagnosis and treatment is still a long way off. I’m currently extremely disappointed in the impatience and unwillingness of investors and our federal government to support these endeavors. I hope this environment will change in the near future so researchers, the biotech industry, and doctors can succeed in preventing the suffering caused by cancer.  I’ll expand more on that in a future article.
 
-I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,00 people/year worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwhile!
+I do want to acknowledge that despite the currently low percentage of people who can benefit from precision medicine, the amount of people with stage 4 colon cancer is so large that many people (up to 30,000 people/year worldwide) can have a better life with treatment (depending on their healthcare system). So all of our efforts in fighting cancer are still extremely worthwhile!
 
 As for my mom, it’s unlikely any new drug will be available in time to help.
 
