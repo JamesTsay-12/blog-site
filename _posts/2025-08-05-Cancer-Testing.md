@@ -44,7 +44,7 @@ He told me she had already had NGS done (next generation sequencing) and had KRA
 
 I pushed back. I mentioned new research for drugs, like adagrasib, which had recently been FDA approved for cancer patients with KRAS G12C mutations in combination with cetuximab (an EGFR drug) in the past year. He replied, matter-of-factly: “She has G12S.”
 
-I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, with some of the lowest survival rates.
+I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, very rare, and with some of the lowest survival rates.
 
 I’ll go deeper into the science of this in a supplemental section.
 
