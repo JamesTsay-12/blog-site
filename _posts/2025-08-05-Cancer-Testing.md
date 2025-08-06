@@ -28,7 +28,7 @@ Miraculously, she remained cancer-free for a long time — possibly more than fi
 
 ### The Pandemic and Recurrence
 
-During the pandemic, my mom was hesitant to attend routine doctor visits. Eventually, troubling symptoms emerged: uncontrollable coughing and persistent back pain. A check-up with imaging — CT, X-ray, PET scan — revealed a recurrence with massive spread and multiple metastases in her chest.  This time, tumor removal through resection was not possible.
+During the pandemic, my mom was hesitant to attend routine doctor visits. Eventually, troubling symptoms emerged: uncontrollable coughing and persistent back pain. A check-up with imaging — CT, X-ray, PET scan — revealed a recurrence with massive spread and multiple metastases in her chest area.  This time, tumor removal through resection was not possible.
 
 Meanwhile, I watched her suffer: collapsing in public, excessively coughing, dealing with severe back pain and physical discomfort.
 
@@ -46,9 +46,7 @@ He told me she had already had NGS done (next generation sequencing) and had KRA
 
 I pushed back. I mentioned new research for drugs, like adagrasib, which had recently been FDA approved for cancer patients with KRAS G12C mutations in combination with cetuximab (an EGFR drug) in the past year. He replied, matter-of-factly: “She has G12S.”
 
-I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, very rare, and with some of the lowest survival rates.
-
-I’ll go deeper into the science of this in a supplemental section.
+I could only say, “Oh…” because I didn’t yet know what that meant. I quickly searched my phone. It turns out, G12S is one of the worst KRAS mutations — not currently druggable, very rare, and with some of the lowest survival rates.  I’ll go deeper into the science of this in another article.
 
 That moment revealed my emotional bias. I had hoped so badly that something could be done to save her, that I basically assumed there was a path.
 
@@ -111,12 +109,9 @@ I'm also disappointed by the impatience of investors and policymakers who expect
 
 My mom has been fighting this disease for over a decade with more courage than I could ever manage. The doctors treating her are doing everything they can with the tools available. The scientists and engineers developing new tools are working themselves to exhaustion. But we're letting all of them down by not committing to the long, expensive, often frustrating work of turning promising lab results into treatments that actually save lives.
 
-Still, I remain hopeful because I've seen what dedicated people can accomplish when they have the resources and time to do it right. We just need to give them both.
+Still, I remain hopeful because I've seen firsthand what dedicated people can accomplish when they have the resources and time to do it right. We just need to give them both.
 
 
-
-
-For those interested, I’ll include a deeper dive into KRAS mutations and the current state of targeted therapies in a supplemental post.
 
 ---
 
