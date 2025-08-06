@@ -7,6 +7,8 @@ categories: Science
 
 In my previous post about my family's cancer journey, I touched on how molecular diagnostics are reshaping cancer treatment. One of the clearest examples of this is the interaction between **EGFR** and **KRAS** in colorectal and lung cancers. Understanding this pathway helps explain why certain therapies fail—and why personalized medicine is essential.
 
+**Disclaimer:**  Much of the content here is the integration of my own research with assitance with AI.  I'm working to confirm all of the information and references are correct.
+
 ## The Role of EGFR in Normal Cells
 
 **EGFR** (Epidermal Growth Factor Receptor) is a receptor tyrosine kinase that functions like an antenna on the cell surface. It receives external growth signals and transmits them into the cell to drive division and survival.
@@ -120,4 +122,54 @@ This is precision medicine in action. Knowing whether a tumor has a **KRAS G12D*
 ---
 
 Stay tuned for the next post, where I’ll explore the landscape of next-generation KRAS inhibitors and how biotech is tackling the challenge of G12D, G12V, and other difficult mutations.
+
+## Supplemental: Understanding the Unique Mechanism of KRAS G12C Inhibitors
+
+The KRAS G12C mutation, which substitutes glycine for cysteine at position 12, creates a critical dysfunction in the regulation of KRAS activity. Normally, KRAS switches between an active (GTP-bound) and inactive (GDP-bound) state, regulated by GTPase-activating proteins (GAPs). GAPs accelerate the hydrolysis of GTP to GDP, thus turning KRAS "off." However, the G12C mutation disrupts GAP binding, leaving KRAS constitutively active and driving uncontrolled cell proliferation.
+
+Despite this mutation preventing proper GTP hydrolysis, it also introduces a unique therapeutic opportunity. KRAS G12C retains a slow, intrinsic rate of GTP hydrolysis, meaning that over time, a small portion of the mutant protein will revert to the inactive, GDP-bound state.
+
+This brief inactive state opens the door for targeted therapy:
+
+- **Structural Vulnerability**: The G12C mutation creates a unique, druggable pocket in the GDP-bound conformation that is not present in the wild-type protein or the GTP-bound form.
+- **Drug Action**: Inhibitors like *sotorasib* and *adagrasib* covalently and irreversibly bind to the cysteine residue when KRAS is in this inactive state, locking it in place and preventing reactivation.
+- **Effect Over Time**: As the active KRAS slowly cycles to its inactive form, more molecules become drug-bound and locked down, depleting the pool of active KRAS and shutting down downstream oncogenic signaling.
+
+This approach cleverly does not attempt to restore hydrolysis, but instead exploits a fleeting moment of vulnerability created by the mutation. It’s like placing a padlock on a broken light switch that occasionally flips off by chance, ensuring it stays off permanently.
+
+---
+
+### Why KRAS G12C is Unique — And What That Means for G12S and Other Mutations
+
+While G12C inhibitors represent a milestone, they highlight how chemically tractable mutations are the exception, not the rule. The key enabler for G12C-targeting drugs is the reactive thiol group (-SH) of cysteine, which allows covalent binding.
+
+Other common mutations — like G12S (serine), G12D (aspartic acid), and G12V (valine) — lack such reactive groups, making the same “covalent-lock” strategy impractical. Serine, for instance, has a hydroxyl group (-OH) that is much less chemically reactive than cysteine's thiol.
+
+#### Here’s how researchers are approaching G12S and other KRAS mutants:
+
+1. **Non-Covalent Inhibitors of the Inactive State**  
+   Drugs may be designed to bind non-covalently to the GDP-bound form of G12S, stabilizing its inactive state. This is extremely challenging due to the high intracellular concentration of GTP and the need for specificity to mutated KRAS.
+
+2. **Allele-Specific Inhibition**  
+   An emerging approach involves designing molecules that selectively recognize structural differences in the G12S mutant protein. While this doesn’t rely on a reactive group, it requires precise molecular engineering to differentiate the mutant from wild-type KRAS.
+
+3. **Indirect Inhibition**  
+   Rather than targeting KRAS directly:
+   - Downstream inhibitors (e.g., MEK, ERK inhibitors) can block the signaling pathways KRAS activates.
+   - Upstream inhibitors (e.g., SOS1 or SHP2 inhibitors) can prevent KRAS from becoming activated in the first place.  
+   However, these strategies may be limited by redundancy in signaling pathways and toxicity concerns.
+
+4. **Innovative Modalities**  
+   New tools are in early development:
+   - **PROTACs**: Small molecules that tag mutant KRAS for degradation.
+   - **Gene-editing tools**: Such as CRISPR/Cas9 aimed at correcting or removing the mutant allele.
+   - **mRNA and antisense therapies**: To reduce KRAS mutant protein expression.
+
+---
+
+### Why It Matters: Personalization Beyond G12C
+
+These nuances underscore a critical point in precision oncology: not all KRAS mutations are equal. While G12C accounts for a significant portion of KRAS-driven lung cancers, mutations like G12D, G12V, and G12S dominate in colon, pancreatic, and other cancers — and are still in urgent need of targeted options.
+
+The development of G12C inhibitors was a breakthrough, but their success raises the bar for addressing more complex and less chemically tractable variants of KRAS. As with many cancers, personalized treatment hinges on deeply understanding the exact mutation, its biochemical behavior, and how to exploit its unique vulnerabilities — or work around its resistance mechanisms.
 
