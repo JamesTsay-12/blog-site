@@ -53,8 +53,8 @@ This is why **KRAS mutation testing is mandatory** before giving EGFR-targeted d
 
 ## Visualizing the Pathway
 
-*Insert signaling cascade diagram here*  
-![EGFR-KRAS Pathway](your_image_path.png)
+![EGFR KRAS Signaling Pathway](https://raw.githubusercontent.com/JamesTsay-12/blog-site/main/assets/img/science/EGFR%20KRAS%20signaling%20pathway.png)
+
 
 This diagram illustrates the signaling cascade from EGFR → KRAS → RAF → MEK → ERK → cell proliferation. It also shows where drugs like *cetuximab* intervene—and why they don’t work when KRAS is mutated.
 
