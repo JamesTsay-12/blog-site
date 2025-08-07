@@ -129,7 +129,8 @@ Still, I remain hopeful because I've seen firsthand what dedicated people can ac
 - 6–8% response rate among Stage 4: ~22,800 to 30,400 people/year
 
 #### Key Subtypes and Therapies
-- **MSI-H Tumors (~5%)**: 30–60% respond to immunotherapy → ~2–3/100
+- **MSI-H Tumors (~5%)**: 30–60% respond to immunotherapy → ~2–3/100.
+   This number could go up with some of the latest research: [Jemperli (dostarlimab) receives US FDA Breakthrough Therapy Designation for locally advanced dMMR/MSI-H rectal cancer (GSK Press Release)](https://www.gsk.com/en-gb/media/press-releases/jemperli-dostarlimab-receives-us-fda-breakthrough-therapy-designation-for-locally-advanced-dmmrmsi-h-rectal-cancer/)
 - **BRAF V600E (~10%)**: 25–40% response to targeted combos → ~2–4/100
 - **KRAS G12C (~4%)**: ~10–20% monotherapy, up to 60% in combos → ~1/100
 - **HER2 Amplification (~2%)**: ~30% response rate → <1/100
