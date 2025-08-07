@@ -248,21 +248,6 @@ G12C inhibitors are possible because cysteine is chemically reactive. But other 
 | G12V     | Valine     | Hydrophobic | No reactive group |
 | G12S     | Serine     | Hydroxyl (-OH) | Weak nucleophile |
 
-#### Current Strategies Under Investigation:
-
-1. **Non-Covalent Inhibitors**
-   - e.g., **MRTX1133** for G12D.
-   - Target GDP-bound KRAS with high affinity.
-
-2. **Allele-Specific Recognition**
-   - Tailored inhibitors that distinguish mutant from wild-type based on subtle conformational differences.
-
-3. **Indirect Targeting**
-   - Inhibiting upstream (e.g., **SOS1**, **SHP2**) or downstream (**MEK**, **ERK**) nodes.
-
-4. **Next-Gen Modalities**
-   - **PROTACs** to degrade KRAS protein.
-   - **CRISPR/Cas9**, mRNA, and antisense technologies to silence or correct mutations.
 
 (References: Hallin et al., *Cancer Discovery*, 2020; Ryan et al., *Nature Reviews Cancer*, 2022)
 
