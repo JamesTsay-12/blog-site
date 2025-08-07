@@ -68,7 +68,7 @@ And why hadn’t anyone told us about the test? Why didn’t the oncologist just
 
 The process to get the sequencing done took over three weeks:
 
-- One week to collect a biopsy sample for sequencing
+- One week to collect a biopsy sample and perform sequencing
 - One week for results
 - One more week to schedule and attend an oncologist appointment
 
