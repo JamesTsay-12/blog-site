@@ -123,7 +123,7 @@ This is precision medicine in action. Knowing whether a tumor has a **KRAS G12D*
 
 Stay tuned for the next post, where I’ll explore the landscape of next-generation KRAS inhibitors and how biotech is tackling the challenge of G12D, G12V, and other difficult mutations.
 
-## Supplemental: Understanding the Unique Mechanism of KRAS G12C Inhibitors
+## Supplemental Part 1: Understanding the Unique Mechanism of KRAS G12C Inhibitors
 
 The KRAS G12C mutation, which substitutes glycine for cysteine at position 12, creates a critical dysfunction in the regulation of KRAS activity. Normally, KRAS switches between an active (GTP-bound) and inactive (GDP-bound) state, regulated by GTPase-activating proteins (GAPs). GAPs accelerate the hydrolysis of GTP to GDP, thus turning KRAS "off." However, the G12C mutation disrupts GAP binding, leaving KRAS constitutively active and driving uncontrolled cell proliferation.
 
@@ -172,4 +172,115 @@ Other common mutations — like G12S (serine), G12D (aspartic acid), and G12V (v
 These nuances underscore a critical point in precision oncology: not all KRAS mutations are equal. While G12C accounts for a significant portion of KRAS-driven lung cancers, mutations like G12D, G12V, and G12S dominate in colon, pancreatic, and other cancers — and are still in urgent need of targeted options.
 
 The development of G12C inhibitors was a breakthrough, but their success raises the bar for addressing more complex and less chemically tractable variants of KRAS. As with many cancers, personalized treatment hinges on deeply understanding the exact mutation, its biochemical behavior, and how to exploit its unique vulnerabilities — or work around its resistance mechanisms.
+
+## Supplemental part 2: Molecular Biophysics and Therapeutic Targeting of KRAS Mutations
+
+This supplement expands upon the concepts discussed in the main article, offering a detailed structural and mechanistic view of KRAS as a molecular switch — and how the G12C mutation both breaks and reveals new therapeutic vulnerabilities.
+
+---
+
+### KRAS GTPase: A Masterclass in Allostery and Conformational Switching
+
+KRAS is a small GTPase that acts as a molecular toggle, cycling between an "on" (GTP-bound) and "off" (GDP-bound) state. This cycle is tightly regulated by upstream signals and accessory proteins.
+
+#### The Normal "On-Off" Cycle
+
+KRAS function hinges on two key conformational elements:
+
+- **Switch I** (aa ~25–40): A flexible loop that changes structure based on the bound nucleotide.
+- **Switch II** (aa ~60–76): Another mobile region that complements Switch I.
+
+In the **GTP-bound state** (active):
+- Switch regions adopt a rigid, exposed conformation.
+- This allows binding to downstream effectors such as **RAF**, initiating the RAF-MEK-ERK pathway.
+- Membrane recruitment and effector activation drive cell proliferation and survival.
+
+In the **GDP-bound state** (inactive):
+- The switch loops collapse, hiding the effector-binding surface.
+- GAP proteins accelerate GTP hydrolysis to GDP, turning the signal off.
+
+(References: Vetter & Wittinghofer, *Science*, 2001; Stephen et al., *Cell*, 2014)
+
+---
+
+### The Structural Consequence of G12C: From Oncogenesis to Opportunity
+
+The G12C mutation replaces glycine with cysteine at a crucial location in the **P-loop**, a region that interacts with the phosphate groups of GTP.
+
+#### Molecular Impact of G12C:
+- Glycine’s small size allows **GAP proteins** to insert an “arginine finger” into the active site and catalyze hydrolysis.
+- Cysteine is bulkier and sterically **blocks GAP binding**, impairing GTP hydrolysis.
+- KRAS remains **locked in the GTP-bound, active state**, continuously recruiting RAF and propagating oncogenic signals.
+- This drives **unregulated cell division**, independent of upstream control.
+
+#### Yet a Window Opens…
+
+Despite its constitutive activity, KRAS G12C retains **some intrinsic GTPase activity**. A fraction of KRAS eventually transitions to the GDP-bound state. This brief, rare conformation creates an exploitable therapeutic window.
+
+---
+
+### Targeting KRAS G12C: A Biophysical Feat
+
+Covalent inhibitors such as **sotorasib (Lumakras)** and **adagrasib (Krazati)** target a unique, **cryptic pocket** exposed only in the **GDP-bound conformation** of KRAS G12C.
+
+#### Mechanism:
+- The **thiol group (-SH)** of the mutant cysteine allows **covalent drug binding**.
+- These inhibitors bind in an **allosteric pocket** under Switch II, locking KRAS in its inactive state.
+- Over time, as more molecules cycle through GDP-bound form, they become **irreversibly trapped** by the drug, depleting active KRAS.
+
+This is not a reactivation of hydrolysis, but a clever use of **conformational dynamics**:  
+> *"It’s like placing a padlock on a broken light switch that occasionally flips off by chance—ensuring it stays off permanently."*
+
+(References: Ostrem et al., *Nature*, 2013; Canon et al., *Nature*, 2019)
+
+---
+
+### Beyond G12C: Why Other KRAS Mutations Are Harder to Drug
+
+G12C inhibitors are possible because cysteine is chemically reactive. But other common mutations — such as **G12D**, **G12V**, and **G12S** — lack this thiol handle, presenting major challenges.
+
+#### Examples:
+
+| Mutation | Side Chain | Reactivity | Drug Targeting Challenge |
+|----------|------------|------------|---------------------------|
+| G12C     | Cysteine   | Thiol (-SH) | Covalent binding possible |
+| G12D     | Aspartic Acid | Carboxylate (-COO⁻) | Non-covalent only |
+| G12V     | Valine     | Hydrophobic | No reactive group |
+| G12S     | Serine     | Hydroxyl (-OH) | Weak nucleophile |
+
+#### Current Strategies Under Investigation:
+
+1. **Non-Covalent Inhibitors**
+   - e.g., **MRTX1133** for G12D.
+   - Target GDP-bound KRAS with high affinity.
+
+2. **Allele-Specific Recognition**
+   - Tailored inhibitors that distinguish mutant from wild-type based on subtle conformational differences.
+
+3. **Indirect Targeting**
+   - Inhibiting upstream (e.g., **SOS1**, **SHP2**) or downstream (**MEK**, **ERK**) nodes.
+
+4. **Next-Gen Modalities**
+   - **PROTACs** to degrade KRAS protein.
+   - **CRISPR/Cas9**, mRNA, and antisense technologies to silence or correct mutations.
+
+(References: Hallin et al., *Cancer Discovery*, 2020; Ryan et al., *Nature Reviews Cancer*, 2022)
+
+---
+
+### Why It Matters: Personalized Therapy Depends on the Mutation
+
+Understanding the **exact KRAS mutation** — not just the presence of “mutant KRAS” — is essential to determining treatment.
+
+- **G12C** → Covalent inhibitors are FDA-approved.
+- **G12D/V/S** → Still lack direct therapies.
+- **Colorectal and Pancreatic cancers** → Often have non-G12C mutations, which remain resistant to targeted therapy.
+
+The success of G12C inhibitors shows what's possible when **biophysics meets precision medicine**. But it also underscores how much further we must go to reach the full spectrum of KRAS-driven cancers.
+
+---
+
+
+
+
 
