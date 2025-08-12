@@ -103,6 +103,14 @@ New strategies are being explored:
 
 We’re now moving from a world of “undruggable KRAS” to “selectively druggable KRAS.”
 
+## Clinical Data and Trial Outcomes
+
+
+- **KRAS Inhibitors in Colorectal Cancer:** Recent studies have shown that combining KRAS G12C inhibitors like sotorasib with EGFR inhibitors can lead to improved progression-free survival in patients with colorectal cancer. For example, the combination of adagrasib with cetuximab has demonstrated response rates around 46% in phase 2 trials, indicating enhanced efficacy over monotherapy.
+
+- **Resistance Mechanisms:** Understanding how tumors develop resistance to EGFR inhibitors despite the presence of KRAS mutations is crucial. Mechanisms such as the reactivation of the MAPK pathway or alterations in downstream signaling components can contribute to this resistance, highlighting the need for combination therapies and novel agents.
+
+
 ## Final Thoughts
 
 KRAS mutations are among the most frequent oncogenic drivers in cancer—and they’re a major reason some targeted therapies fail. But with better diagnostics and smarter drug design, we’re finally breaking through.
