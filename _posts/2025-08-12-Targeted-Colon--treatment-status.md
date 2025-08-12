@@ -4,7 +4,7 @@ This article is in progress
 
 
 > **Disclaimer:**  
-> I am not a medical doctor. This article is based on my own research and AI-assisted analysis of publicly available sources. All information should be independently verified with a qualified healthcare professional. The content is meant to empower patients and caregivers and is not a substitute for professional medical advice.  I'll be blogging about proposing how to talk to a medical doctor about treatment options productively from an informed standpoint in another article.
+> I am not a medical doctor. This article is based on my own research in the existing scientific literature and AI-assisted analysis of publicly available sources. All information should be independently verified with a qualified healthcare professional. The content is meant to empower patients and caregivers and is not a substitute for professional medical advice.  I'll be blogging about proposing how to talk to a medical doctor about treatment options productively from an informed standpoint in another article.
 
 ---
 
