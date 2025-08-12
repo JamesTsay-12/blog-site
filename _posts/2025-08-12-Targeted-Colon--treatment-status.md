@@ -12,7 +12,7 @@ This article is in progress
 
 KRAS mutations play a central role in colorectal cancer (CRC), present in roughly 40% of cases. For many years, these mutations were considered “undruggable,” limiting treatment options and leading to poor responses to anti-EGFR therapies.  
 
-In recent years, however, exciting breakthroughs—especially for the KRAS G12C mutation—have created new hope. Yet, these advances apply to a small fraction (~3–4%) of CRC patients with G12C. The majority of KRAS mutations—G12D, G12V, G12S, G13D, Q61H—still lack approved targeted treatments.  Overall,currently only ~6-8% positive response rate is found in targeted therapies for colon cancer.  I am hopeful that the latest advances and strategies for targted therapy will bring this number up in the near future.
+In recent years, however, exciting breakthroughs—especially for the KRAS G12C mutation—have created new hope. Yet, these advances apply to a small fraction (~3–4%) of CRC patients with G12C. The majority of KRAS mutations—G12D, G12V, G12S, G13D, Q61H—still lack approved targeted treatments.  Overall, currently only ~6-8% positive response rate is found for targeted therapies for colon cancer.  I am hopeful that the latest advances and strategies for targted therapy will bring this number up substantially in the near future.
 
 New strategies are emerging that focus on downstream pathways (MEK, ERK), combination regimens (CDK4/6 inhibitors, SHP2 inhibitors), and pan-RAS inhibitors. But alongside promise comes complexity: how effective are these drugs? What side effects should patients expect? How do they compare with traditional chemotherapy?  
 
