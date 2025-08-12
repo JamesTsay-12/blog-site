@@ -1,10 +1,10 @@
-# KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect
 ---
 layout: post
 title: "KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect"
 date: 2025-08-12
 categories: Science
 ---
+# KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect
 
 This article is in progress
 
