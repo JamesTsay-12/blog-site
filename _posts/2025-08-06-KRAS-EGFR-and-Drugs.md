@@ -5,7 +5,7 @@ date: 2025-08-06
 categories: Science
 ---
 
-In my previous post about my family's cancer journey, I touched on how molecular diagnostics are reshaping cancer treatment. One of the clearest examples of this is the interaction between **EGFR** and **KRAS** in colorectal and lung cancers. Understanding this pathway helps explain why certain therapies fail—and why personalized medicine is essential.
+In my previous post about my family's cancer journey [personalized medicine](https://jamestsay-12.github.io/blog-site/science/2025/08/05/Cancer-Testing.html),  I touched on how molecular diagnostics are reshaping cancer treatment. One of the clearest examples of this is the interaction between **EGFR** and **KRAS**  in colorectal and lung cancers. Understanding this pathway helps explain why certain therapies fail—and why is essential.
 
 **Disclaimer:**  Much of the content here is the integration of my own research of the current literature with assistance with AI. Although I have degrees in chemistry and have performed research in biophysics, I am not an expert on cancer biology.  In the supplemental I investigate the mechanisms from a biophysics standpoint in case you're interested.  I'm working to confirm all of the information and references are correct.
 
