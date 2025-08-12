@@ -151,4 +151,4 @@ Participation in clinical trials offers access to novel therapies and helps adva
 
 ---
 
-If you'd like a shorter, plain-language summary or a patient FAQ sheet derived from this article, just let me know!  
+
