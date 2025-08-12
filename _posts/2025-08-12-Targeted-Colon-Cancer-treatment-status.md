@@ -6,7 +6,7 @@ categories: Science
 ---
 # KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect
 
-This article is in progress
+This article is in progress and information is updated as of **8/12/25**
 
 
 > **Disclaimer:**  
