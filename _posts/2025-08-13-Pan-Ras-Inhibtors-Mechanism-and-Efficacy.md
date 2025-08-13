@@ -57,6 +57,8 @@ Pan-RAS inhibitors—such as **RMC-6236 (daraxonrasib)**—represent a promising
 - **Codon-12/13 mutants** (especially G12D/V) have been most rigorously studied; **K117N/A146** exhibit distinct biophysical behavior and signaling output, potentially affecting drug sensitivity.  
   ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2943514/))
 - Experimental datasets show **highest pharmacological potency** in KRAS G12X models; data for rarer alleles remain sparse.
+  
+![Mechanism of a Pan-RAS inhibitor, showing how it binds to the active RAS-GTP state.](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Pan%20RAS%20mechanism.png?raw=true)
 
 ---
 
