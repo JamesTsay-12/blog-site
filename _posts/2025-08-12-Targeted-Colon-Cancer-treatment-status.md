@@ -48,7 +48,7 @@ Building on these foundations, I aim to provide a balanced, in-depth overview in
 |-------------------------------|---------------------|---------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | **KRAS G12C inhibitors + EGFR blockade** | G12C                | Approved / Phase 3  | Adagrasib + cetuximab; sotorasib + panitumumab | Response rates ~34–46% in CRC, improved compared to monotherapy; durability under study                       |
 | **KRAS G12D inhibitors**       | G12D                | Phase 1             | MRTX1133 (Mirati/BMS)                      | Promising preclinical data; human safety and efficacy still under investigation                                |
-| **Pan-KRAS inhibitors**        | Multiple non-G12C   | Phase 1             | RMC-6236 (Revolution Medicines)            | Early data shows tumor regression in solid tumors including CRC; safety profile emerging                      |
+| **Pan-KRAS inhibitors**        | Multiple non-G12C   | Phase 1/2             | RMC-6236 (Revolution Medicines)            | Early data shows tumor regression in solid tumors including CRC; safety profile emerging                      |
 | **SHP2 inhibitors (SOS1 pathway)** | All KRAS           | Phase 1/2           | TNO155, RMC-4630                           | Enhance efficacy of KRAS inhibitors; early clinical data suggest manageable toxicity                           |
 | **MEK inhibitors**             | All KRAS            | Phase 2+            | Trametinib, binimetinib (± anti-EGFR, CDK4/6 inhibitors) | Limited efficacy as single agents; combination regimens show better disease control                            |
 | **ERK inhibitors**             | All KRAS            | Phase 1/2           | Ulixertinib                               | Potentially more direct MAPK pathway inhibition; early trials ongoing                                          |
@@ -118,7 +118,7 @@ Since direct inhibition of most KRAS mutants remains elusive, blocking pathways 
 
 ### Pan-RAS Inhibitors: A New Frontier  
 
-Drugs like **RMC-6236** are designed to inhibit multiple KRAS mutants simultaneously, broadening applicability beyond G12C. Early clinical trials demonstrate tumor regression in solid tumors, with ongoing studies in CRC patients.
+Drugs like **RMC-6236** are designed to inhibit multiple KRAS mutants simultaneously, broadening applicability beyond G12C. Early clinical trials demonstrate tumor regression in solid tumors, with ongoing studies in CRC patients.  These studies are more advanced for pancreatic cancer (proceeding to Phase 3 registrational study).
 
 ---
 
@@ -163,7 +163,7 @@ Participation in clinical trials offers access to novel therapies and helps adva
 14. Grothey A, et al. KRAS inhibition in metastatic colorectal cancer — The present and future. *Nat Rev Clin Oncol.* 2024. [https://pubmed.ncbi.nlm.nih.gov/38593348/](https://pubmed.ncbi.nlm.nih.gov/38593348/)  
 15. Canon J, et al. Advances in KRAS-targeted drug discovery. *J Med Chem.* 2025;68(2):1234–1245. [https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02314](https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02314)  
 16. Revolution Medicines. *Revolution Medicines presents updated data on RMC-6236 monotherapy in advanced solid tumors.* [https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-presents-updated-data-rmc-6236-monotherapy](https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-presents-updated-data-rmc-6236-monotherapy)  
-
+17. Clinical trial for Pan-RAS inhibitor with CRC  [MSKCC Clinical Trial 24-328](https://www.mskcc.org/cancer-care/clinical-trials/24-328)
 
 ---
 
