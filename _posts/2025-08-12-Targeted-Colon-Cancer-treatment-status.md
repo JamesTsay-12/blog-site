@@ -135,8 +135,8 @@ While most KRAS-mutant CRCs are microsatellite stable (MSS) and less responsive 
 - **Pan-RAS and SHP2 inhibitors** continue to advance, with safety and efficacy data expected soon.  
 - Trials combining targeted therapies with immunotherapy seek to overcome resistance and broaden benefit.
 
----
 
+---
 ## Final Thoughts  
 
 KRAS-mutated colorectal cancer remains a significant challenge, but the treatment landscape is rapidly evolving. Targeted therapies bring hope for improved outcomes and better quality of life but are not without side effects and limitations. Informed decision-making with your oncology team, considering both tumor biology and personal preferences, is crucial.
@@ -158,7 +158,12 @@ Participation in clinical trials offers access to novel therapies and helps adva
 9. Overman MJ, et al. Durable clinical benefit with nivolumab plus ipilimumab in DNA mismatch repair-deficient metastatic colorectal cancer. *JCO.* 2018;36(8):773–779.  
 10. Weiss J, et al. Adagrasib in combination with cetuximab for the treatment of patients with colorectal cancer harboring the KRAS G12C mutation. *ASCO GI 2023.*  
 11. Smith M, et al. Combination MEK inhibitor and CDK4/6 inhibitor therapy in KRAS-mutant colorectal cancer. *PLOS One.* 2023;18:e0281063.  
-12. Revolution Medicines. Clinical trial information for RMC-6236. *ClinicalTrials.gov* [NCT05379985].
+12. Revolution Medicines. Clinical trial information for RMC-6236. *ClinicalTrials.gov* [NCT05379985].  
+13. Vilar E, Gruber SB. Microsatellite instability in colorectal cancer — the stable evidence base. *Nat Rev Clin Oncol.* 2010;7(3):153–162. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5824632/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5824632/)  
+14. Grothey A, et al. KRAS inhibition in metastatic colorectal cancer — The present and future. *Nat Rev Clin Oncol.* 2024. [https://pubmed.ncbi.nlm.nih.gov/38593348/](https://pubmed.ncbi.nlm.nih.gov/38593348/)  
+15. Canon J, et al. Advances in KRAS-targeted drug discovery. *J Med Chem.* 2025;68(2):1234–1245. [https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02314](https://pubs.acs.org/doi/10.1021/acs.jmedchem.4c02314)  
+16. Revolution Medicines. *Revolution Medicines presents updated data on RMC-6236 monotherapy in advanced solid tumors.* [https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-presents-updated-data-rmc-6236-monotherapy](https://ir.revmed.com/news-releases/news-release-details/revolution-medicines-presents-updated-data-rmc-6236-monotherapy)  
+
 
 ---
 
