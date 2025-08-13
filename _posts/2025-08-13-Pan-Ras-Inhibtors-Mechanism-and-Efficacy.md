@@ -6,10 +6,11 @@ categories: Science
 ---
 This blog is in progress
 
-Disclaimer
-THis article is a product of my own research into the literature and collaboration with AI.  I'm still checking for accuracy, and this is not medical advice.
-
 # Pan-RAS Inhibitors: Mechanism, Coverage of KRAS Mutation Classes, and Current Evidence
+
+**Disclaimer**
+This article is a product of my own research into the literature and collaboration with AI.  I'm still checking for accuracy, and this is not medical advice.
+
 
 ### Overview  
 
@@ -108,3 +109,32 @@ Pan-RAS inhibitors like RMC-6236 are a significant advance in KRAS-targeted ther
 ---
 
 
+##  Supplemental
+
+Expanding on rarer KRAS mutations like **K117N**:
+
+Mechanistically,**RMC-6236 (daraxonrasib)** should have activity against *KRAS K117N*, but the strength of that activity in CRC is uncertain and likely lower/less predictable than for common *G12X* alleles.
+
+---
+
+### Why it should work (mechanism)
+
+**RMC-6236** is a **pan-RAS, “RAS(ON)” tri-complex inhibitor**: it binds **active, GTP-loaded RAS** and, via cyclophilin A recruitment, blocks effector engagement (e.g., RAF) across multiple RAS isoforms/alleles—not just *G12C*. That design is **mutation-agnostic** in principle. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245607/) | [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT04956637)
+
+***K117N* (exon 4)** alters the nucleotide pocket: Lys117 normally stabilizes guanine and promotes hydrolysis; **K117N enhances nucleotide exchange**, shifting KRAS toward the **GTP-bound (ON) state**, which is exactly the state **RMC-6236** targets. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4297316/)
+
+---
+
+### Nuances/caveats specific to K117N in CRC
+
+* **Exon 4 mutants (*K117N/A146*)** can show **distinct biochemistry and signaling output** compared with codon-12/13 mutants. Some models reported **lower steady-state RAS-GTP** despite increased exchange, alongside KRAS dependence and recurrent copy-number gain—so “how ON” the protein is can vary by context. This could **modulate drug sensitivity** to ON-state inhibitors. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4297316/) | [AACR Journals](https://aacrjournals.org/clincancerres/article/21/8/1935/79963/KRAS-Allele-Specific-Oncogenicity-and-Drug)
+
+* Early clinical/preclinical summaries of **RMC-6236** show **broad activity across RAS-mutant tumors**, with **strongest potency in *KRAS G12X*** lines; activity **“beyond *KRAS G12X*”** (including *NRAS Q61*) has been demonstrated, but **allele-specific data for *K117N* aren’t yet clearly reported**. Thus, activity is plausible but **not yet clinically proven** for *K117N* mCRC. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10245607/) | [Revolution Medicines](https://ir.revmed.com/static-files/87803e3a-965a-4632-9c2b-e48f7d98305c)
+
+* **CRC biology** (strong EGFR/SHP2-mediated feedback and WT-RAS signaling) can blunt RAS-pathway inhibitors; combinations (e.g., with EGFR/SHP2/MEK blockade) may be needed to maximize effect, regardless of the KRAS allele. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9344833/)
+
+---
+
+### Bottom line
+
+From first principles and available data, ***K117N* creates an ON-state KRAS that RMC-6236 is designed to hit**, so **mechanistic sensitivity is expected**. However, **direct *K117N*-specific clinical evidence in CRC is limited**, and CRC-specific feedback loops may necessitate **combinations**. If you’re tracking this for patients or trial design, I’d classify *K117N* as **biologically compatible** with **RMC-6236**’s mechanism but **evidence-limited** pending allele-resolved readouts from ongoing trials. [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT04956637)
