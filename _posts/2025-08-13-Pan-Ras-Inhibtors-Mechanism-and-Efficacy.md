@@ -39,7 +39,8 @@ Pan-RAS inhibitors—such as **RMC-6236 (daraxonrasib)**—represent a promising
 - **Selectivity for GTP-bound RAS** arises because:
   - GDP-bound RAS does not present the appropriate binding surface.
   - The tri-complex approach relies on **cooperative affinity**, not high affinity of the ligand alone.
-
+    
+![Mechanism of a Pan-RAS inhibitor, showing how it binds to the active RAS-GTP state.](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Pan%20RAS%20mechanism.png?raw=true)
 ---
 
 ##  2. Mutation Coverage: Which KRAS Variants Are Targetable?
@@ -58,7 +59,7 @@ Pan-RAS inhibitors—such as **RMC-6236 (daraxonrasib)**—represent a promising
   ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2943514/))
 - Experimental datasets show **highest pharmacological potency** in KRAS G12X models; data for rarer alleles remain sparse.
   
-![Mechanism of a Pan-RAS inhibitor, showing how it binds to the active RAS-GTP state.](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Pan%20RAS%20mechanism.png?raw=true)
+
 
 ---
 
