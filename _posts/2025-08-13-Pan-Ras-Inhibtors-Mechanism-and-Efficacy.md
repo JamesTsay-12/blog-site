@@ -15,6 +15,9 @@ This article is a product of my own research into the literature and collaborati
 
 ### Overview  
 
+In my previous article, [KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect](https://jamestsay-12.github.io/blog-site/science/2025/08/12/Targeted-Colon-Cancer-treatment-status.html)
+I explored the various promising treatments and clinical trial status for cancer patients with challenging KRAS mutations.  One of these treatments are a class called Pan-RAS inhibitors, and I wanted to discuss this further.
+
 Pan-RAS inhibitors—such as **RMC-6236 (daraxonrasib)**—represent a promising new frontier in targeting KRAS-driven cancers. Unlike mutation-specific drugs that only target G12C, these agents aim to inhibit active RAS across multiple isoforms and mutant alleles by exploiting a conformational mechanism. This post explores **how they work**, why they should **theoretically cover most RAS mutations**, and what **evidence** currently exists to support their effectiveness.
 
 ---
