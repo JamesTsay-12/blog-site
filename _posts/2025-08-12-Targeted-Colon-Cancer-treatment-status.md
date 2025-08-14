@@ -41,13 +41,13 @@ Building on these foundations, I aim to provide a balanced, in-depth overview in
 - Clinical trial participation is essential to access cutting-edge treatments and help accelerate progress.
 
 ---
-
 ## Table 1: Current Status of KRAS-Targeted Therapies in Colorectal Cancer
 
 | Strategy                      | Target KRAS Variants | Clinical Trial Phase | Key Drugs/Combinations                    | Notes on Efficacy                                                                                              |
 |-------------------------------|---------------------|---------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | **KRAS G12C inhibitors + EGFR blockade** | G12C                | Approved / Phase 3  | Adagrasib + cetuximab; sotorasib + panitumumab | Response rates ~34–46% in CRC, improved compared to monotherapy; durability under study                       |
 | **KRAS G12D inhibitors**       | G12D                | Phase 1             | MRTX1133 (Mirati/BMS)                      | Promising preclinical data; human safety and efficacy still under investigation                                |
+| **KRAS G12D inhibitors**       | G12D                | Phase 1             | VS-7375 (Verastem)                         | Oral inhibitor; US IND clearance announced in 2025; clinical activity yet to be reported [Verastem press release](https://investor.verastem.com/news-releases/news-release-details/verastem-oncology-announces-us-ind-clearance-vs-7375-oral-kras) |
 | **Pan-KRAS inhibitors**        | Multiple non-G12C   | Phase 1/2             | RMC-6236 (Revolution Medicines)            | Early data shows tumor regression in solid tumors including CRC; safety profile emerging                      |
 | **SHP2 inhibitors (SOS1 pathway)** | All KRAS           | Phase 1/2           | TNO155, RMC-4630                           | Enhance efficacy of KRAS inhibitors; early clinical data suggest manageable toxicity                           |
 | **MEK inhibitors**             | All KRAS            | Phase 2+            | Trametinib, binimetinib (± anti-EGFR, CDK4/6 inhibitors) | Limited efficacy as single agents; combination regimens show better disease control                            |
@@ -55,7 +55,6 @@ Building on these foundations, I aim to provide a balanced, in-depth overview in
 | **CDK4/6 inhibitor combinations** | All KRAS            | Phase 1/2           | Palbociclib + MEK or KRAS inhibitors      | Exploit cell cycle vulnerabilities; toxicity manageable but requires blood count monitoring                   |
 | **Immunotherapy in MSI-H tumors** | Any KRAS            | Approved            | Dostarlimab, pembrolizumab                  | Highly effective only in MSI-H/dMMR (~4–5% of mCRC); limited benefit for MSS tumors                            |
 
----
 
 ## Table 2: Side Effects & Quality of Life Comparison
 
