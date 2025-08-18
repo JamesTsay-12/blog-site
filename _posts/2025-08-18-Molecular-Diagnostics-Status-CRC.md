@@ -1,5 +1,42 @@
 # Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)
 
+**Overview**
+
+| Stage / Setting                     | Key Molecular Diagnostics                             | Technology           | Output / Actionability                                                                                  | Frequency / Timing                          | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
+|-------------------------------------|-------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------------------|-------------------------------------|
+| **Screening / Early Detection**     | Stool DNA (Cologuard), FIT, Colonoscopy + optional blood-based ctDNA methylation (Guardant Shield, Epi proColon) [^4] | DNA methylation, stool DNA, protein | Early detection, identifies patients for colonoscopy                                                    | Every 1–3 years depending on modality       | Widely covered (Medicare, most insurers) | USPSTF B / ACS Category 1 |
+| **Stage I–II (Localized, Resectable)** | MMR/MSI testing (universal for all CRCs) [^2]         | IHC, PCR, NGS        | Identifies Lynch syndrome, predicts benefit from adjuvant 5-FU                                          | Once at diagnosis                           | Standard of care, universally covered | NCCN Category 1 |
+|                                     | Germline panel if Lynch suspected [^1]                | NGS panel            | Determines hereditary risk, family testing                                                             | Once if indicated                           | Covered if criteria met | NCCN Category 1 |
+| **Stage II–III (Post-surgery, Adjuvant)** | ctDNA (MRD detection: Signatera, Guardant Reveal) [^3] | Personalized ctDNA   | Predicts recurrence risk, guides adjuvant chemo decisions                                               | Baseline post-surgery, then serial (q3–6mo) | Medicare covers in stage II–III (Signatera LCD) | NCCN Category 2A (emerging) |
+|                                     | Tumor profiling (RAS, BRAF, HER2, NTRK, KRAS G12C) [^2] | NGS tumor panel      | Prognostic & predictive markers for recurrence risk, potential targeted therapy if relapse              | Once at resection                           | Covered | NCCN Category 1 (RAS/BRAF), 2A (others) |
+| **Stage IV (Metastatic)**           | Extended RAS/NRAS, BRAF, HER2, KRAS G12C, NTRK fusions, MMR/MSI [^2] | NGS tumor panel, PCR | Guides targeted therapies (anti-EGFR if RAS wt & left-sided, BRAF inhibitors, HER2 targeted, immunotherapy if MSI-H) | Once at diagnosis of metastatic disease      | Covered | NCCN Category 1 (RAS, BRAF, MSI), 2A (others) |
+|                                     | ctDNA profiling [^3]                                  | Plasma NGS           | Alternative if tissue inadequate; resistance mutation monitoring (e.g., EGFR resistance)                | Baseline and at progression                  | Increasingly covered | NCCN Category 2A (emerging) |
+| **Surveillance (Post-treatment)**   | ctDNA MRD (Signatera/Guardant Reveal) [^3]            | Personalized ctDNA   | Detects molecular relapse earlier than imaging/CEA                                                      | Every 3–6 months in remission monitoring     | Medicare covered; private payers variable | NCCN Category 2A (emerging) |
+|                                     | CEA blood test [^5]                                   | Immunoassay          | Traditional surveillance marker, limited sensitivity/specificity                                        | Every 3–6 months per guidelines              | Covered | NCCN Category 2B |
+
+---
+
+## References
+
+[^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
+[PMC article digest](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920993/?utm_source=chatgpt.com)
+
+[^2]: **Joint Guideline (ASCP / CAP / AMP / ASCO)** – Molecular Biomarkers for CRC  
+- [CAP summary & guideline page](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/molecular-biomarkers-for-the-evaluation-of-colorectal-carcinoma?utm_source=chatgpt.com)  
+- [AMP teaching slides PDF](https://www.amp.org/AMP/assets/file/clinical-practice/CRCMMTeachingppt_FINAL.pdf?utm_source=chatgpt.com)
+
+[^3]: **Review Paper: Molecular Biomarkers in CRC** – ctDNA & MRD testing  
+[PMC open access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/?utm_source=chatgpt.com)
+
+[^4]: **Screening Guidelines**  
+- [American Cancer Society CRC Screening Recommendations](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html?utm_source=chatgpt.com)  
+- [NCI CRC Screening Fact Sheet](https://www.cancer.gov/types/colorectal/screening-fact-sheet?utm_source=chatgpt.com)
+
+[^5]: **AGA Clinical Toolkit for CRC** – Screening & follow-up workflows  
+[AGA CRC toolkit](https://gastro.org/clinical-guidance/guideline-toolkits/colorectal-cancer-toolkit/?utm_source=chatgpt.com)
+
+
+
 | Stage / Setting | Assay / Biomarker | Technology | Output / Actionability | Frequency | Insurance Coverage | Clinical Notes |
 |-----------------|-------------------|------------|------------------------|-----------|--------------------|----------------|
 | **Screening (average risk, age ≥45)** | Stool DNA (mt-sDNA, e.g., Cologuard) | DNA methylation + mutation panel | Positive → colonoscopy | q3 yrs if negative | Medicare & most commercial | Higher sensitivity than FIT; lower specificity; better adherence. |
