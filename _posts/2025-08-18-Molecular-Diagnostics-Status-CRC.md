@@ -93,7 +93,7 @@
 - **FDA approval of Guardant Shield™ blood CRC test**  
 - **NCI PDQ** + NCCN for universal MMR/MSI testing
 
-  * **[Molecular Biomarkers for the Evaluation of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/):** This article from PubMed Central provides a comprehensive overview of the biomarkers used in the management of colorectal cancer.
+* **[Molecular Biomarkers for the Evaluation of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/):** This article from PubMed Central provides a comprehensive overview of the biomarkers used in the management of colorectal cancer.
 
 * **[The Consensus Molecular Subtypes of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC4636487/):** This article from PMC provides a detailed explanation of the four consensus molecular subtypes.
 
@@ -103,7 +103,7 @@
 
 * **[Insurance Coverage for Colorectal Cancer Screening](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/screening-coverage-laws.html):** The American Cancer Society provides information on insurance coverage for colorectal cancer screening.
 
-* * **[Circulating Tumor DNA for Personalized Treatment of Colorectal Cancer (Annu. Rev. Med. 2024)](https://www.annualreviews.org/content/journals/10.1146/annurev-med-050322-030018):** Published in February 2024, this excellent review provides a comprehensive overview of the uses of circulating tumor DNA (ctDNA) in CRC management. It covers its application in detecting minimal residual disease (MRD) after surgery, monitoring for recurrence, and guiding therapy in the metastatic setting.
+* **[Circulating Tumor DNA for Personalized Treatment of Colorectal Cancer (Annu. Rev. Med. 2024)](https://www.annualreviews.org/content/journals/10.1146/annurev-med-050322-030018):** Published in February 2024, this excellent review provides a comprehensive overview of the uses of circulating tumor DNA (ctDNA) in CRC management. It covers its application in detecting minimal residual disease (MRD) after surgery, monitoring for recurrence, and guiding therapy in the metastatic setting.
 
 * **[NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 1.2025)](https://www.nccn.org/professionals/physician_gls/pdf/colon.pdf):** The NCCN guidelines are a critical resource for the standard of care in the US. The 2025 updates (and late 2024 versions) incorporate the latest evidence for molecular testing. They provide detailed recommendations on *RAS*, *BRAF*, MSI/MMR, and HER2 testing, and increasingly, guidance on the clinical utility of ctDNA for MRD assessment in stage II/III disease. *(Note: This link goes to the most current version, which is regularly updated).*
 
