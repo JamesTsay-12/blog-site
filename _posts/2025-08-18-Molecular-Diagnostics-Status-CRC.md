@@ -2,6 +2,26 @@
 
 **Overview**
 
+
+# Molecular Diagnostics in Colorectal Cancer (CRC) – Stage-Specific Overview (Updated)
+
+| Stage / Setting | Key Molecular Diagnostics | Technology | Output / Actionability | Frequency / Timing | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
+|---|---|---|---|---|---|---|
+| **Screening / Early Detection** | **Conventional:** Stool DNA (Cologuard), FIT, Colonoscopy [^A4]  | DNA methylation, stool DNA, protein | Early detection → diagnostic colonoscopy if positive | Every 1–3 years depending on modality | Widely covered (Medicare, most insurers) | USPSTF B / ACS Cat. 1 |
+|  | **AI-assisted colonoscopy (CADe/CADx)**—adds real-time polyp detection/classification, **improves ADR** and reduces inter-observer variability; **cost-effective in high-volume settings** [^A1] | Deep learning/transformers integrated into colonoscopy stack | Higher adenoma detection; fewer misses → potential interval cancer reduction; workflow efficiency | At time of colonoscopy | Coverage varies by facility and payer; treated as equipment/service add-on | **Emerging** (supportive evidence from multi-study review) |
+|  | **Blood-based screening (ctDNA methylation)** (e.g., FDA-cleared assays) — noninvasive option; reported **~85–90% accuracy** in asymptomatic populations (study cited in review) [^A2] | Plasma cfDNA methylation | Positive → diagnostic colonoscopy | q3 yrs (policy dependent) | Medicare for FDA-cleared assays; commercial evolving | ACS/USPSTF integration evolving; **Emerging** |
+| **Stage I–II (Localized, Resectable)** | Universal MMR/MSI testing [^B2] | IHC, PCR, NGS | Lynch screening; predicts lack of benefit from adjuvant 5-FU in stage II dMMR | Once at diagnosis | Standard of care | NCCN Cat. 1 |
+|  | Germline panel if Lynch suspected [^B1] | Germline NGS | Identifies inherited syndromes → cascade testing | Once if indicated | Covered if criteria met | NCCN Cat. 1 |
+| **Stage II–III (Post-surgery / Adjuvant)** | **ctDNA MRD**—prognostic; ctDNA-positive post-op ⇒ high relapse risk; **more sensitive than CEA for recurrence prediction** [^A3] | Personalized or fixed-panel cfDNA NGS | Risk stratification; informs intensity of surveillance and adjuvant decisions | Baseline post-op, then q3–6 mo for 2–3 y | Medicare MolDX (assay-specific); commercial expanding | NCCN Cat. 2A (emerging) |
+|  | Tumor profiling (RAS, BRAF, HER2, NTRK, KRAS G12C) [^B2] | Tissue or plasma NGS | Prognostic/predictive; guides options if relapse | Once at resection (or bank for relapse) | Covered | NCCN Cat. 1 (RAS/BRAF/MSI), 2A (others) |
+| **Stage IV (Metastatic / Advanced)** | Somatic profiling (extended RAS/NRAS, BRAF, HER2, KRAS G12C, NTRK fusions, MSI/MMR) [^B2] | NGS panel (tissue ± plasma) | Targeted therapy selection; immunotherapy if MSI-H/dMMR | At diagnosis; repeat at progression | Medicare NCD 90.2; commercial | NCCN Cat. 1 (RAS/BRAF/MSI), 2A (others) |
+|  | **ctDNA for response/resistance monitoring**—serial tracking correlates with progression and immunotherapy response; detects anti-EGFR resistance mutations [^A2] | Plasma NGS | Adjust therapy; consider EGFR holiday/re-challenge strategies | At progression and between lines | Coverage expanding | NCCN Cat. 2A (emerging) |
+| **Surveillance (All stages post-treatment)** | **ctDNA MRD**—earlier molecular relapse detection vs imaging/CEA; supports intensified follow-up when positive [^A3] | cfDNA NGS | Early detection of recurrence; triage imaging | q3–6 mo for 2–3 y | Medicare MolDX; private payers variable | NCCN Cat. 2A (emerging) |
+|  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
+
+
+
+
 | Stage / Setting                     | Key Molecular Diagnostics                             | Technology           | Output / Actionability                                                                                  | Frequency / Timing                          | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
 |-------------------------------------|-------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------------------|-------------------------------------|
 | **Screening / Early Detection**     | Stool DNA (Cologuard), FIT, Colonoscopy + optional blood-based ctDNA methylation (Guardant Shield, Epi proColon) [^4] | DNA methylation, stool DNA, protein | Early detection, identifies patients for colonoscopy                                                    | Every 1–3 years depending on modality       | Widely covered (Medicare, most insurers) | USPSTF B / ACS Category 1 |
