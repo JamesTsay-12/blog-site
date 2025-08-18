@@ -91,4 +91,14 @@
 - **Medicare NCD 90.2** – NGS in advanced cancer  
 - **CMS MolDX LCDs** – MRD coverage (Signatera, Guardant Reveal)  
 - **FDA approval of Guardant Shield™ blood CRC test**  
-- **NCI PDQ** + NCCN for universal MMR/MSI testing  
+- **NCI PDQ** + NCCN for universal MMR/MSI testing
+
+  * **[Molecular Biomarkers for the Evaluation of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/):** This article from PubMed Central provides a comprehensive overview of the biomarkers used in the management of colorectal cancer.
+
+* **[The Consensus Molecular Subtypes of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC4636487/):** This article from PMC provides a detailed explanation of the four consensus molecular subtypes.
+
+* **[Molecular Testing in Colorectal Cancer: Diagnosis of Lynch Syndrome and Personalized Cancer Medicine](https://academic.oup.com/ajcp/article/137/6/847/1760533):** This article from Oxford Academic discusses the role of molecular testing in both hereditary and sporadic colorectal cancer.
+
+* **[Current Update of Laboratory Molecular Diagnostics Advancement in Management of Colorectal Cancer (CRC)](https://www.mdpi.com/2075-4418/10/1/9):** This review from MDPI discusses the advancement of diagnostic technologies and their impact on CRC management.
+
+* **[Insurance Coverage for Colorectal Cancer Screening](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/screening-coverage-laws.html):** The American Cancer Society provides information on insurance coverage for colorectal cancer screening.
