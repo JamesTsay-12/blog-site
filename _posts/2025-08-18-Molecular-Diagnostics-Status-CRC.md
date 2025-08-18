@@ -3,8 +3,6 @@
 **Overview**
 
 
-# Molecular Diagnostics in Colorectal Cancer (CRC) – Stage-Specific Overview (Updated)
-
 | Stage / Setting | Key Molecular Diagnostics | Technology | Output / Actionability | Frequency / Timing | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
 |---|---|---|---|---|---|---|
 | **Screening / Early Detection** | **Conventional:** Stool DNA (Cologuard), FIT, Colonoscopy [^A4]  | DNA methylation, stool DNA, protein | Early detection → diagnostic colonoscopy if positive | Every 1–3 years depending on modality | Widely covered (Medicare, most insurers) | USPSTF B / ACS Cat. 1 |
@@ -40,6 +38,10 @@
 
 [^A1]: Chitca DD, et al. *Advancing Colorectal Cancer Diagnostics from Barium Enema to AI‐Assisted Colonoscopy.* **Diagnostics (Basel)**. 2025;15(8):974. Highlights AI-assisted colonoscopy’s impact on adenoma detection, cost-effectiveness in high-volume settings, and its role alongside liquid biopsy.  
 [PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12026282/)
+
+
+
+
 
 
 | Stage / Setting                     | Key Molecular Diagnostics                             | Technology           | Output / Actionability                                                                                  | Frequency / Timing                          | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
