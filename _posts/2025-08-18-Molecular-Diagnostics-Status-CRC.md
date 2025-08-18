@@ -19,7 +19,27 @@
 | **Surveillance (All stages post-treatment)** | **ctDNA MRD**—earlier molecular relapse detection vs imaging/CEA; supports intensified follow-up when positive [^A3] | cfDNA NGS | Early detection of recurrence; triage imaging | q3–6 mo for 2–3 y | Medicare MolDX; private payers variable | NCCN Cat. 2A (emerging) |
 |  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
 
+# References
 
+[^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
+[PMC article digest](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920993/?utm_source=chatgpt.com)
+
+[^2]: **Joint Guideline (ASCP / CAP / AMP / ASCO)** – Molecular Biomarkers for CRC  
+- [CAP summary & guideline page](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/molecular-biomarkers-for-the-evaluation-of-colorectal-carcinoma?utm_source=chatgpt.com)  
+- [AMP teaching slides PDF](https://www.amp.org/AMP/assets/file/clinical-practice/CRCMMTeachingppt_FINAL.pdf?utm_source=chatgpt.com)
+
+[^3]: **Review Paper: Molecular Biomarkers in CRC** – ctDNA & MRD testing  
+[PMC open access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/?utm_source=chatgpt.com)
+
+[^4]: **Screening Guidelines**  
+- [American Cancer Society CRC Screening Recommendations](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html?utm_source=chatgpt.com)  
+- [NCI CRC Screening Fact Sheet](https://www.cancer.gov/types/colorectal/screening-fact-sheet?utm_source=chatgpt.com)
+
+[^5]: **AGA Clinical Toolkit for CRC** – Screening & follow-up workflows  
+[AGA CRC toolkit](https://gastro.org/clinical-guidance/guideline-toolkits/colorectal-cancer-toolkit/?utm_source=chatgpt.com)
+
+[^A1]: Chitca DD, et al. *Advancing Colorectal Cancer Diagnostics from Barium Enema to AI‐Assisted Colonoscopy.* **Diagnostics (Basel)**. 2025;15(8):974. Highlights AI-assisted colonoscopy’s impact on adenoma detection, cost-effectiveness in high-volume settings, and its role alongside liquid biopsy.  
+[PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12026282/)
 
 
 | Stage / Setting                     | Key Molecular Diagnostics                             | Technology           | Output / Actionability                                                                                  | Frequency / Timing                          | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
