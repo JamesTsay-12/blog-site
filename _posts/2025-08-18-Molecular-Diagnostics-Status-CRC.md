@@ -19,10 +19,10 @@
 
 ```mermaid
 flowchart TB
-    A[Screening\n— FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis\n— Colonoscopy, biopsy, histopathology]
-    B --> C[Molecular Profiling\n— NGS panel, MSI, RAS/BRAF, HER2]
-    C --> D[MRD Monitoring\n— ctDNA assays for recurrence risk]
-    D --> E[Surveillance\n— ctDNA, CEA, imaging]
+    A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
+    B --> C[Molecular Profiling — NGS panel, MSI, RAS/BRAF, HER2]
+    C --> D[MRD Monitoring — ctDNA assays for recurrence risk]
+    D --> E[Surveillance — ctDNA, CEA, imaging]
 
     %% Styling
     classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D,font-weight:bold;
@@ -30,7 +30,6 @@ flowchart TB
 
     class A,B stage;
     class C,D,E action;
-
 
 
 # References
