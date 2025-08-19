@@ -19,10 +19,10 @@
 
 ```mermaid
 flowchart LR
-    A[Screening<br/>(FIT, stool DNA, ctDNA blood tests)] --> B[Diagnosis<br/>(Colonoscopy, biopsy, histopathology)]
-    B --> C[Molecular Profiling<br/>(NGS panel, MSI, RAS/BRAF, HER2)]
-    C --> D[MRD Monitoring<br/>(ctDNA assays for recurrence risk)]
-    D --> E[Surveillance<br/>(ctDNA, CEA, imaging)]
+    A[Screening\n(FIT, stool DNA, ctDNA blood tests)] --> B[Diagnosis\n(Colonoscopy, biopsy, histopathology)]
+    B --> C[Molecular Profiling\n(NGS panel, MSI, RAS/BRAF, HER2)]
+    C --> D[MRD Monitoring\n(ctDNA assays for recurrence risk)]
+    D --> E[Surveillance\n(ctDNA, CEA, imaging)]
 
     classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D;
     class A,B,C,D,E stage;
