@@ -19,19 +19,6 @@
 
 
 
-```mermaid
-flowchart TB
-    A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
-    B --> C[Molecular Profiling — NGS panel, MSI, RAS/BRAF, HER2]
-    C --> D[MRD Monitoring — ctDNA assays for recurrence risk]
-    D --> E[Surveillance — ctDNA, CEA, imaging]
-
-    %% Styling
-    classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D,font-weight:bold;
-    classDef action fill:#F0FFF4,stroke:#2F855A,stroke-width:2px,color:#22543D,font-style:italic;
-
-    class A,B stage;
-    class C,D,E action;
 
 
 
@@ -175,3 +162,19 @@ flowchart TB
 * **[The Expanding Role of Molecular Testing in Colorectal Cancer (ASCO Educational Book, 2024)](https://ascopubs.org/doi/10.1200/EDBK_421557):** Published for the 2024 ASCO Annual Meeting, this article synthesizes the latest advances and future directions. It covers established biomarkers and explores emerging ones, including HER2 amplification, NTRK fusions, and the challenges of targeting KRAS mutations, providing a forward-looking perspective on personalized medicine in CRC.
 
 * **[Liquid Biopsy in Colorectal Cancer: A Tool for the Future with Current Applications (JAMA Oncology, 2024)](https://jamanetwork.com/journals/jamaoncology/article-abstract/2814889):** This Viewpoint article from February 2024 summarizes the current clinical readiness of liquid biopsy in CRC. It clearly outlines where ctDNA testing is already standard of care (e.g., genotyping in metastatic disease) and where it is still investigational but promising (e.g., screening and MRD assessment).
+
+
+
+```mermaid
+flowchart TB
+    A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
+    B --> C[Molecular Profiling — NGS panel, MSI, RAS/BRAF, HER2]
+    C --> D[MRD Monitoring — ctDNA assays for recurrence risk]
+    D --> E[Surveillance — ctDNA, CEA, imaging]
+
+    %% Styling
+    classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D,font-weight:bold;
+    classDef action fill:#F0FFF4,stroke:#2F855A,stroke-width:2px,color:#22543D,font-style:italic;
+
+    class A,B stage;
+    class C,D,E action;
