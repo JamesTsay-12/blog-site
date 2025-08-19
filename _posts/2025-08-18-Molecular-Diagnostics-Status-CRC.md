@@ -17,6 +17,16 @@
 | **Surveillance (All stages post-treatment)** | **ctDNA MRD**—earlier molecular relapse detection vs imaging/CEA; supports intensified follow-up when positive [^A3] | cfDNA NGS | Early detection of recurrence; triage imaging | q3–6 mo for 2–3 y | Medicare MolDX; private payers variable | NCCN Cat. 2A (emerging) |
 |  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
 
+```mermaid
+flowchart LR
+    A[Screening<br/>(FIT, stool DNA, ctDNA blood tests)] --> B[Diagnosis<br/>(Colonoscopy, biopsy, histopathology)]
+    B --> C[Molecular Profiling<br/>(NGS panel, MSI, RAS/BRAF, HER2)]
+    C --> D[MRD Monitoring<br/>(ctDNA assays for recurrence risk)]
+    D --> E[Surveillance<br/>(ctDNA, CEA, imaging)]
+
+    classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D;
+    class A,B,C,D,E stage;
+
 # References
 
 [^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
