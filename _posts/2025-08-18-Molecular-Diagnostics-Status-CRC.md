@@ -18,14 +18,19 @@
 |  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
 
 ```mermaid
-flowchart LR
-    A[Screening\n(FIT, stool DNA, ctDNA blood tests)] --> B[Diagnosis\n(Colonoscopy, biopsy, histopathology)]
-    B --> C[Molecular Profiling\n(NGS panel, MSI, RAS/BRAF, HER2)]
-    C --> D[MRD Monitoring\n(ctDNA assays for recurrence risk)]
-    D --> E[Surveillance\n(ctDNA, CEA, imaging)]
+flowchart TB
+    A[Screening\n— FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis\n— Colonoscopy, biopsy, histopathology]
+    B --> C[Molecular Profiling\n— NGS panel, MSI, RAS/BRAF, HER2]
+    C --> D[MRD Monitoring\n— ctDNA assays for recurrence risk]
+    D --> E[Surveillance\n— ctDNA, CEA, imaging]
 
-    classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D;
-    class A,B,C,D,E stage;
+    %% Styling
+    classDef stage fill:#E6F2FF,stroke:#2B6CB0,stroke-width:2px,color:#1A365D,font-weight:bold;
+    classDef action fill:#F0FFF4,stroke:#2F855A,stroke-width:2px,color:#22543D,font-style:italic;
+
+    class A,B stage;
+    class C,D,E action;
+
 
 # References
 
