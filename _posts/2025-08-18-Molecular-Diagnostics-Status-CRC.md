@@ -17,6 +17,8 @@
 | **Surveillance (All stages post-treatment)** | **ctDNA MRD**—earlier molecular relapse detection vs imaging/CEA; supports intensified follow-up when positive [^A3] | cfDNA NGS | Early detection of recurrence; triage imaging | q3–6 mo for 2–3 y | Medicare MolDX; private payers variable | NCCN Cat. 2A (emerging) |
 |  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
 
+
+
 ```mermaid
 flowchart TB
     A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
@@ -30,6 +32,10 @@ flowchart TB
 
     class A,B stage;
     class C,D,E action;
+
+
+
+
 
 
 # References
