@@ -111,7 +111,7 @@ Pan-RAS inhibitors—such as **RMC-6236 (daraxonrasib)**—represent a promising
 ---
 
 ### Final Thought  
-Pan-RAS inhibitors like RMC-6236 are a significant advance in KRAS-targeted therapy. They promise to address a broader mutation landscape than any previous generation of drugs. While **G12D/V coverage looks strong**, the real test will be through ongoing trials—especially for rarer variants like K117N. If you're researching or communicating these topics, highlighting both the **mechanistic rationale** and appreciating the **nuances per allele** will resonate strongly with technical and translational audiences.
+Pan-RAS inhibitors like RMC-6236 are a significant advance in KRAS-targeted therapy. They promise to address a broader mutation landscape than any previous generation of drugs. While **G12D/V coverage looks strong**, the real test will be through ongoing trials—especially for rarer variants like G12S and K117N. 
 
 ---
 
