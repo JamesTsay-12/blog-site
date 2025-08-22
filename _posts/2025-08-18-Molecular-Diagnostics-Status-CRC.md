@@ -83,9 +83,7 @@ We’re not there yet. The data still needs to mature, the costs need to come do
 
 ***
 
-Of course. Here is an edited version that incorporates the current challenge of positive predictive value (PPV) and provides a perspective on future improvements.
 
-***
 
 # Closing Thoughts (Revised): The Future and Hurdles of Early Cancer Screening
 
@@ -97,7 +95,7 @@ Early detection, on the other hand, has the potential to change the story entire
 
 ---
 
-### ## The Challenge: The Positive Predictive Value (PPV) Problem
+## The Challenge: The Positive Predictive Value (PPV) Problem
 
 The single biggest challenge for broad, population-level screening is **positive predictive value (PPV)**. PPV answers a critical question: "If a patient tests positive, what is the actual probability that they have cancer?"
 
@@ -111,7 +109,7 @@ Essentially, a test that cries wolf too often erodes trust and can potentially c
 
 ---
 
-### ## The Path Forward: How Screening Will Improve 🧑‍🔬
+## The Path Forward: How Screening Will Improve 🧑‍🔬
 
 The future of early detection hinges on solving the PPV problem. Fortunately, the path to improvement is clear and involves advancing on multiple fronts:
 
