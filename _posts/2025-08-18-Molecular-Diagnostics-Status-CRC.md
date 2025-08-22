@@ -12,7 +12,7 @@ In this article, I outline the current state of molecular diagnostics for colon 
 ---
 
 **Disclaimer:**  
-I am a biotech scientist, not a medical doctor. This article is for educational and informational purposes only. It should not be interpreted as medical advice. Patients should always consult their physician or qualified healthcare provider for guidance on diagnosis and treatment.
+I am a biotech scientist, not a medical doctor. Much of this content is from a collaboration with AI and evaluation of the current literature.  This article is for educational and informational purposes only. It should not be interpreted as medical advice. Patients should always consult their physician or qualified healthcare provider for guidance on diagnosis and treatment.  
 
 
 
