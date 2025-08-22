@@ -75,7 +75,11 @@ The problem is that by the time minimal residual disease (MRD) monitoring lights
 
 Early detection, on the other hand, has the potential to change the story entirely. If we could reliably pick up cancers — or even high-risk precancerous lesions — before they progress, the benefits would be enormous: more curative surgeries, fewer toxic therapies, better survival, and ultimately fewer lives lost. This is why blood-based assays for colorectal cancer screening, and eventually multi-cancer early detection (MCED) tests, are so important. They could remove many of the barriers that keep people from getting screened today — no stool samples, no colonoscopy prep, just a simple blood draw at a routine visit.
 
-We’re not there yet. The data still needs to mature, the costs need to come down, and regulators and insurers need to be convinced. But if these technologies deliver on their promise, they could mark the biggest shift in cancer diagnostics we’ve seen in decades — moving us from a world of *catching cancer late* to one where we *intercept it early*.## Key Sources
+We’re not there yet. The data still needs to mature, the costs need to come down, and regulators and insurers need to be convinced. But if these technologies deliver on their promise, they could mark the biggest shift in cancer diagnostics we’ve seen in decades — moving us from a world of *catching cancer late* to one where we *intercept it early*.
+
+---
+
+## Key Sources
 - **NCCN Colon Cancer Guidelines** (2025)  
 - **USPSTF CRC screening** recommendations (2021)  
 - **Medicare NCD 90.2** – NGS in advanced cancer  
