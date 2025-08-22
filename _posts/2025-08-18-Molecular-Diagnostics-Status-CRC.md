@@ -163,8 +163,7 @@
 
 * **[Liquid Biopsy in Colorectal Cancer: A Tool for the Future with Current Applications (JAMA Oncology, 2024)](https://jamanetwork.com/journals/jamaoncology/article-abstract/2814889):** This Viewpoint article from February 2024 summarizes the current clinical readiness of liquid biopsy in CRC. It clearly outlines where ctDNA testing is already standard of care (e.g., genotyping in metastatic disease) and where it is still investigational but promising (e.g., screening and MRD assessment).
 
-
-
+---
 ```mermaid
 flowchart TB
     A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
