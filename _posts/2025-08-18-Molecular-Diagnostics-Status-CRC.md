@@ -118,6 +118,7 @@ I am a biotech scientist, not a medical doctor. This article is for educational 
 
 ---
 ```mermaid
+
 flowchart TB
     A[Screening — FIT, stool DNA, ctDNA blood tests] --> B[Diagnosis — Colonoscopy, biopsy, histopathology]
     B --> C[Molecular Profiling — NGS panel, MSI, RAS/BRAF, HER2]
@@ -130,3 +131,4 @@ flowchart TB
 
     class A,B stage;
     class C,D,E action;
+
