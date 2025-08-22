@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)"
+date: 2025-08-18
+categories: Science
+---
+
 # Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)
 
 **Note:** This blog is in progress, and I'm verifying the information
