@@ -81,6 +81,20 @@ We’re not there yet. The data still needs to mature, the costs need to come do
 
 ---
 
+***
+
+# Closing Thoughts: The Future of Early Cancer Screening
+
+When I look across the landscape of molecular diagnostics in colon cancer, the piece that excites me the most — and that I believe could have the greatest impact — is *true early screening*. Right now, most of our molecular tools are applied at diagnosis or afterward: we test tumors for biomarkers to guide therapy, and we use ctDNA to track recurrence risk once the cancer has already declared itself.
+
+The problem is that by the time minimal residual disease (MRD) monitoring lights up, the biology has often outrun us. Detecting that a tumor is likely to recur doesn’t always give patients and doctors enough time or options to meaningfully change the outcome. MRD is a powerful prognostic tool, but it’s still fundamentally reactive.
+
+Early detection, on the other hand, has the potential to change the story entirely. If we could reliably pick up cancers — or even high-risk precancerous lesions — before they progress, the benefits would be enormous: more curative surgeries, fewer toxic therapies, better survival, and ultimately fewer lives lost. This is why blood-based assays for colorectal cancer screening, and eventually multi-cancer early detection (MCED) tests, are so important. They could remove many of the barriers that keep people from getting screened today — no stool samples, no colonoscopy prep, just a simple blood draw at a routine visit.
+
+We’re not there yet. The data still needs to mature, the costs need to come down, and regulators and insurers need to be convinced. But if these technologies deliver on their promise, they could mark the biggest shift in cancer diagnostics we’ve seen in decades — moving us from a world of *catching cancer late* to one where we *intercept it early*.
+
+---
+
 ## Key Sources
 - **NCCN Colon Cancer Guidelines** (2025)  
 - **USPSTF CRC screening** recommendations (2021)  
@@ -148,16 +162,4 @@ flowchart TB
     class C,D,E action;
 
 ---
-Of course. Here is the text formatted in Markdown for you to copy and paste.
 
-***
-
-# Closing Thoughts: The Future of Early Cancer Screening
-
-When I look across the landscape of molecular diagnostics in colon cancer, the piece that excites me the most — and that I believe could have the greatest impact — is *true early screening*. Right now, most of our molecular tools are applied at diagnosis or afterward: we test tumors for biomarkers to guide therapy, and we use ctDNA to track recurrence risk once the cancer has already declared itself.
-
-The problem is that by the time minimal residual disease (MRD) monitoring lights up, the biology has often outrun us. Detecting that a tumor is likely to recur doesn’t always give patients and doctors enough time or options to meaningfully change the outcome. MRD is a powerful prognostic tool, but it’s still fundamentally reactive.
-
-Early detection, on the other hand, has the potential to change the story entirely. If we could reliably pick up cancers — or even high-risk precancerous lesions — before they progress, the benefits would be enormous: more curative surgeries, fewer toxic therapies, better survival, and ultimately fewer lives lost. This is why blood-based assays for colorectal cancer screening, and eventually multi-cancer early detection (MCED) tests, are so important. They could remove many of the barriers that keep people from getting screened today — no stool samples, no colonoscopy prep, just a simple blood draw at a routine visit.
-
-We’re not there yet. The data still needs to mature, the costs need to come down, and regulators and insurers need to be convinced. But if these technologies deliver on their promise, they could mark the biggest shift in cancer diagnostics we’ve seen in decades — moving us from a world of *catching cancer late* to one where we *intercept it early*.
