@@ -3,87 +3,6 @@
 **Overview**
 
 
-| Stage / Setting | Key Molecular Diagnostics | Technology | Output / Actionability | Frequency / Timing | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
-|---|---|---|---|---|---|---|
-| **Screening / Early Detection** | **Conventional:** Stool DNA (Cologuard), FIT, Colonoscopy [^A4]  | DNA methylation, stool DNA, protein | Early detection → diagnostic colonoscopy if positive | Every 1–3 years depending on modality | Widely covered (Medicare, most insurers) | USPSTF B / ACS Cat. 1 |
-|  | **AI-assisted colonoscopy (CADe/CADx)**—adds real-time polyp detection/classification, **improves ADR** and reduces inter-observer variability; **cost-effective in high-volume settings** [^A1] | Deep learning/transformers integrated into colonoscopy stack | Higher adenoma detection; fewer misses → potential interval cancer reduction; workflow efficiency | At time of colonoscopy | Coverage varies by facility and payer; treated as equipment/service add-on | **Emerging** (supportive evidence from multi-study review) |
-|  | **Blood-based screening (ctDNA methylation)** (e.g., FDA-cleared assays) — noninvasive option; reported **~85–90% accuracy** in asymptomatic populations (study cited in review) [^A2] | Plasma cfDNA methylation | Positive → diagnostic colonoscopy | q3 yrs (policy dependent) | Medicare for FDA-cleared assays; commercial evolving | ACS/USPSTF integration evolving; **Emerging** |
-| **Stage I–II (Localized, Resectable)** | Universal MMR/MSI testing [^B2] | IHC, PCR, NGS | Lynch screening; predicts lack of benefit from adjuvant 5-FU in stage II dMMR | Once at diagnosis | Standard of care | NCCN Cat. 1 |
-|  | Germline panel if Lynch suspected [^B1] | Germline NGS | Identifies inherited syndromes → cascade testing | Once if indicated | Covered if criteria met | NCCN Cat. 1 |
-| **Stage II–III (Post-surgery / Adjuvant)** | **ctDNA MRD**—prognostic; ctDNA-positive post-op ⇒ high relapse risk; **more sensitive than CEA for recurrence prediction** [^A3] | Personalized or fixed-panel cfDNA NGS | Risk stratification; informs intensity of surveillance and adjuvant decisions | Baseline post-op, then q3–6 mo for 2–3 y | Medicare MolDX (assay-specific); commercial expanding | NCCN Cat. 2A (emerging) |
-|  | Tumor profiling (RAS, BRAF, HER2, NTRK, KRAS G12C) [^B2] | Tissue or plasma NGS | Prognostic/predictive; guides options if relapse | Once at resection (or bank for relapse) | Covered | NCCN Cat. 1 (RAS/BRAF/MSI), 2A (others) |
-| **Stage IV (Metastatic / Advanced)** | Somatic profiling (extended RAS/NRAS, BRAF, HER2, KRAS G12C, NTRK fusions, MSI/MMR) [^B2] | NGS panel (tissue ± plasma) | Targeted therapy selection; immunotherapy if MSI-H/dMMR | At diagnosis; repeat at progression | Medicare NCD 90.2; commercial | NCCN Cat. 1 (RAS/BRAF/MSI), 2A (others) |
-|  | **ctDNA for response/resistance monitoring**—serial tracking correlates with progression and immunotherapy response; detects anti-EGFR resistance mutations [^A2] | Plasma NGS | Adjust therapy; consider EGFR holiday/re-challenge strategies | At progression and between lines | Coverage expanding | NCCN Cat. 2A (emerging) |
-| **Surveillance (All stages post-treatment)** | **ctDNA MRD**—earlier molecular relapse detection vs imaging/CEA; supports intensified follow-up when positive [^A3] | cfDNA NGS | Early detection of recurrence; triage imaging | q3–6 mo for 2–3 y | Medicare MolDX; private payers variable | NCCN Cat. 2A (emerging) |
-|  | CEA [^B5] | Immunoassay | Non-specific marker; adjunct to ctDNA/imaging | q3–6 mo ×2 y, then q6 mo ×3 y | Covered | NCCN Cat. 2B |
-
-
-
-
-
-
-
-
-
-# References
-
-[^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
-[PMC article digest](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920993/?utm_source=chatgpt.com)
-
-[^2]: **Joint Guideline (ASCP / CAP / AMP / ASCO)** – Molecular Biomarkers for CRC  
-- [CAP summary & guideline page](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/molecular-biomarkers-for-the-evaluation-of-colorectal-carcinoma?utm_source=chatgpt.com)  
-- [AMP teaching slides PDF](https://www.amp.org/AMP/assets/file/clinical-practice/CRCMMTeachingppt_FINAL.pdf?utm_source=chatgpt.com)
-
-[^3]: **Review Paper: Molecular Biomarkers in CRC** – ctDNA & MRD testing  
-[PMC open access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/?utm_source=chatgpt.com)
-
-[^4]: **Screening Guidelines**  
-- [American Cancer Society CRC Screening Recommendations](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html?utm_source=chatgpt.com)  
-- [NCI CRC Screening Fact Sheet](https://www.cancer.gov/types/colorectal/screening-fact-sheet?utm_source=chatgpt.com)
-
-[^5]: **AGA Clinical Toolkit for CRC** – Screening & follow-up workflows  
-[AGA CRC toolkit](https://gastro.org/clinical-guidance/guideline-toolkits/colorectal-cancer-toolkit/?utm_source=chatgpt.com)
-
-[^A1]: Chitca DD, et al. *Advancing Colorectal Cancer Diagnostics from Barium Enema to AI‐Assisted Colonoscopy.* **Diagnostics (Basel)**. 2025;15(8):974. Highlights AI-assisted colonoscopy’s impact on adenoma detection, cost-effectiveness in high-volume settings, and its role alongside liquid biopsy.  
-[PMC article](https://pmc.ncbi.nlm.nih.gov/articles/PMC12026282/)
-
-
-
-
-
-
-| Stage / Setting                     | Key Molecular Diagnostics                             | Technology           | Output / Actionability                                                                                  | Frequency / Timing                          | Insurance Coverage (US) | Strength of Evidence / Guideline Tier |
-|-------------------------------------|-------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------|--------------------------|-------------------------------------|
-| **Screening / Early Detection**     | Stool DNA (Cologuard), FIT, Colonoscopy + optional blood-based ctDNA methylation (Guardant Shield, Epi proColon) [^4] | DNA methylation, stool DNA, protein | Early detection, identifies patients for colonoscopy                                                    | Every 1–3 years depending on modality       | Widely covered (Medicare, most insurers) | USPSTF B / ACS Category 1 |
-| **Stage I–II (Localized, Resectable)** | MMR/MSI testing (universal for all CRCs) [^2]         | IHC, PCR, NGS        | Identifies Lynch syndrome, predicts benefit from adjuvant 5-FU                                          | Once at diagnosis                           | Standard of care, universally covered | NCCN Category 1 |
-|                                     | Germline panel if Lynch suspected [^1]                | NGS panel            | Determines hereditary risk, family testing                                                             | Once if indicated                           | Covered if criteria met | NCCN Category 1 |
-| **Stage II–III (Post-surgery, Adjuvant)** | ctDNA (MRD detection: Signatera, Guardant Reveal) [^3] | Personalized ctDNA   | Predicts recurrence risk, guides adjuvant chemo decisions                                               | Baseline post-surgery, then serial (q3–6mo) | Medicare covers in stage II–III (Signatera LCD) | NCCN Category 2A (emerging) |
-|                                     | Tumor profiling (RAS, BRAF, HER2, NTRK, KRAS G12C) [^2] | NGS tumor panel      | Prognostic & predictive markers for recurrence risk, potential targeted therapy if relapse              | Once at resection                           | Covered | NCCN Category 1 (RAS/BRAF), 2A (others) |
-| **Stage IV (Metastatic)**           | Extended RAS/NRAS, BRAF, HER2, KRAS G12C, NTRK fusions, MMR/MSI [^2] | NGS tumor panel, PCR | Guides targeted therapies (anti-EGFR if RAS wt & left-sided, BRAF inhibitors, HER2 targeted, immunotherapy if MSI-H) | Once at diagnosis of metastatic disease      | Covered | NCCN Category 1 (RAS, BRAF, MSI), 2A (others) |
-|                                     | ctDNA profiling [^3]                                  | Plasma NGS           | Alternative if tissue inadequate; resistance mutation monitoring (e.g., EGFR resistance)                | Baseline and at progression                  | Increasingly covered | NCCN Category 2A (emerging) |
-| **Surveillance (Post-treatment)**   | ctDNA MRD (Signatera/Guardant Reveal) [^3]            | Personalized ctDNA   | Detects molecular relapse earlier than imaging/CEA                                                      | Every 3–6 months in remission monitoring     | Medicare covered; private payers variable | NCCN Category 2A (emerging) |
-|                                     | CEA blood test [^5]                                   | Immunoassay          | Traditional surveillance marker, limited sensitivity/specificity                                        | Every 3–6 months per guidelines              | Covered | NCCN Category 2B |
-
----
-
-## References
-
-[^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
-[PMC article digest](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920993/?utm_source=chatgpt.com)
-
-[^2]: **Joint Guideline (ASCP / CAP / AMP / ASCO)** – Molecular Biomarkers for CRC  
-- [CAP summary & guideline page](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/molecular-biomarkers-for-the-evaluation-of-colorectal-carcinoma?utm_source=chatgpt.com)  
-- [AMP teaching slides PDF](https://www.amp.org/AMP/assets/file/clinical-practice/CRCMMTeachingppt_FINAL.pdf?utm_source=chatgpt.com)
-
-[^3]: **Review Paper: Molecular Biomarkers in CRC** – ctDNA & MRD testing  
-[PMC open access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/?utm_source=chatgpt.com)
-
-[^4]: **Screening Guidelines**  
-- [American Cancer Society CRC Screening Recommendations](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html?utm_source=chatgpt.com)  
-- [NCI CRC Screening Fact Sheet](https://www.cancer.gov/types/colorectal/screening-fact-sheet?utm_source=chatgpt.com)
-
-[^5]: **AGA Clinical Toolkit for CRC** – Screening & follow-up workflows  
-[AGA CRC toolkit](https://gastro.org/clinical-guidance/guideline-toolkits/colorectal-cancer-toolkit/?utm_source=chatgpt.com)
 
 
 
@@ -142,6 +61,28 @@
 - **CMS MolDX LCDs** – MRD coverage (Signatera, Guardant Reveal)  
 - **FDA approval of Guardant Shield™ blood CRC test**  
 - **NCI PDQ** + NCCN for universal MMR/MSI testing
+
+- ---
+
+## References
+
+[^1]: **JSMO Guideline (5th edition, 2023)** – Molecular Testing in Colorectal Cancer  
+[PMC article digest](https://pmc.ncbi.nlm.nih.gov/articles/PMC10920993/?utm_source=chatgpt.com)
+
+[^2]: **Joint Guideline (ASCP / CAP / AMP / ASCO)** – Molecular Biomarkers for CRC  
+- [CAP summary & guideline page](https://www.cap.org/protocols-and-guidelines/cap-guidelines/current-cap-guidelines/molecular-biomarkers-for-the-evaluation-of-colorectal-carcinoma?utm_source=chatgpt.com)  
+- [AMP teaching slides PDF](https://www.amp.org/AMP/assets/file/clinical-practice/CRCMMTeachingppt_FINAL.pdf?utm_source=chatgpt.com)
+
+[^3]: **Review Paper: Molecular Biomarkers in CRC** – ctDNA & MRD testing  
+[PMC open access review](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/?utm_source=chatgpt.com)
+
+[^4]: **Screening Guidelines**  
+- [American Cancer Society CRC Screening Recommendations](https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/acs-recommendations.html?utm_source=chatgpt.com)  
+- [NCI CRC Screening Fact Sheet](https://www.cancer.gov/types/colorectal/screening-fact-sheet?utm_source=chatgpt.com)
+
+[^5]: **AGA Clinical Toolkit for CRC** – Screening & follow-up workflows  
+[AGA CRC toolkit](https://gastro.org/clinical-guidance/guideline-toolkits/colorectal-cancer-toolkit/?utm_source=chatgpt.com)
+
 
 * **[Molecular Biomarkers for the Evaluation of Colorectal Cancer](https://pmc.ncbi.nlm.nih.gov/articles/PMC5971222/):** This article from PubMed Central provides a comprehensive overview of the biomarkers used in the management of colorectal cancer.
 
