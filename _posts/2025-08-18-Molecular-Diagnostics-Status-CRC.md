@@ -116,8 +116,6 @@ The future of early detection hinges on solving the PPV problem. Fortunately, th
 
 If these technologies deliver on their promise—by becoming more accurate, targeted, and intelligently deployed—they could still mark the biggest shift in cancer diagnostics we’ve seen in decades. The goal remains the same: moving us from a world of *catching cancer late* to one where we *intercept it early*.
 
----
-Here’s a **Markdown glossary** draft you can copy-paste directly. I’ve written it for a general reader — not too technical, but still precise. I also added a couple of related terms (*CEA, RAS, BRAF, HER2*) that often come up in this space and are useful for context.
 
 ---
 
