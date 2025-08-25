@@ -14,7 +14,7 @@ categories: Science
 
 Molecular diagnostics has become an essential component of how we detect, monitor, and treat colorectal cancer (CRC). From early screening to tumor profiling, minimal residual disease (MRD) detection, and long-term surveillance, the diagnostic toolkit for patients has expanded dramatically in the past decade. These assays not only guide treatment decisions but also influence frequency of testing, cost considerations, and insurance coverage.  
 
-In this article, I outline the current state of molecular diagnostics for colon cancer patients — focusing on their use cases, clinical utility, and practical realities in today’s healthcare system.
+In this article, I outline the current state of molecular diagnostics for colon cancer patients — focusing on their use cases, clinical utility, and practical realities in today’s healthcare system.  For those not in the biotech/medical field, I've added a glossary of terms at the end to help you get through the jargon.
 
 ---
 
