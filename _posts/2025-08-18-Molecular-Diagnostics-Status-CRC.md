@@ -164,10 +164,7 @@ A gene that can be amplified in a small subset of colon cancers. When present, i
 
 ---
 
-Would you like me to also **add analogies or simple metaphors** (like “ctDNA is like breadcrumbs left by cancer cells in the blood”) to make this even more approachable for non-scientists?
-
-
----## Key Sources
+## Key Sources
 - **NCCN Colon Cancer Guidelines** (2025)  
 - **USPSTF CRC screening** recommendations (2021)  
 - **Medicare NCD 90.2** – NGS in advanced cancer  
