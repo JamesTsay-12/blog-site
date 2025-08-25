@@ -7,7 +7,7 @@ categories: Science
 
 ## Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)
 
-**Note:** This blog is in progress, and I'm verifying the information
+**Note:** This blog is in progress, and I'm verifying the information and sources.
 
 
 ## The Modern Role of Molecular Diagnostics in Colorectal Cancer
@@ -102,11 +102,11 @@ Essentially, a test that cries wolf too often erodes trust and can potentially c
 
 ---
 
-## The Path Forward: How Screening Will Improve 🧑‍🔬
+## The Path Forward: How Screening Will Improve 
 
 The future of early detection hinges on solving the PPV problem. Fortunately, the path to improvement is clear and involves advancing on multiple fronts:
 
-1.  **More Sophisticated Technology:** The first generation of tests primarily looks at DNA methylation. Future iterations will be **multi-omic**, integrating signals from multiple biological sources. Imagine a test that analyzes not just ctDNA methylation, but also **proteomics** (cancer-related proteins), **fragmentomics** (patterns of DNA breakage), and other biomarkers simultaneously. Layering these signals with powerful **AI and machine learning algorithms** will allow us to more accurately distinguish a true cancer signal from biological noise (like inflammation or benign conditions). 
+1.  **More Sophisticated Technology:** The first generation of tests primarily looks at DNA methylation. Future iterations will be **multi-omic**, integrating signals from multiple biological sources. Tests that analyze not just ctDNA methylation, but also **proteomics** (cancer-related proteins), **fragmentomics** (patterns of DNA breakage), and other biomarkers simultaneously can provide more information to improve PPV. Layering these signals with powerful **AI and machine learning algorithms** will allow us to more accurately distinguish a true cancer signal from biological noise (like inflammation or benign conditions). 
 
 2.  **Smarter Screening Strategies:** Instead of screening the entire population, the initial rollout will likely focus on **high-risk groups** (e.g., individuals over 50, those with a family history, or smokers). Because cancer is more prevalent in these groups, the PPV of the test automatically increases. A positive result in a high-risk person is statistically more likely to be a true positive.
 
