@@ -5,12 +5,12 @@ date: 2025-08-18
 categories: Science
 ---
 
-# Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)
+## Molecular Diagnostics in Colorectal Cancer – Standard of Care (Stage-Specific)
 
 **Note:** This blog is in progress, and I'm verifying the information
 
 
-# The Modern Role of Molecular Diagnostics in Colorectal Cancer
+## The Modern Role of Molecular Diagnostics in Colorectal Cancer
 
 Molecular diagnostics has become an essential component of how we detect, monitor, and treat colorectal cancer (CRC). From early screening to tumor profiling, minimal residual disease (MRD) detection, and long-term surveillance, the diagnostic toolkit for patients has expanded dramatically in the past decade. These assays not only guide treatment decisions but also influence frequency of testing, cost considerations, and insurance coverage.  
 
@@ -78,7 +78,7 @@ I am a biotech scientist, not a medical doctor. Much of this content is from a c
 ***
 
 
-# Closing Thoughts: The Future and Hurdles of Early Cancer Screening
+## Closing Thoughts: The Future and Hurdles of Early Cancer Screening
 
 When I look across the landscape of molecular diagnostics in colon cancer, the piece that excites me the most — and that I believe could have the greatest impact — is *true early screening*. Right now, most of our molecular tools are applied at diagnosis or afterward: we test tumors for biomarkers to guide therapy, and we use ctDNA to track recurrence risk once the cancer has already declared itself.
 
