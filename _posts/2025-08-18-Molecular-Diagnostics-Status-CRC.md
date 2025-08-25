@@ -29,8 +29,8 @@ I am a biotech scientist, not a medical doctor. Much of this content is from a c
 
 | Stage / Setting | Assay / Biomarker | Technology | Output / Actionability | Frequency | Insurance Coverage | Clinical Notes |
 |-----------------|-------------------|------------|------------------------|-----------|--------------------|----------------|
-| **Screening (average risk, age ≥45)** | Stool DNA (mt-sDNA, e.g., Cologuard) | DNA methylation + mutation panel | Positive → colonoscopy | q3 yrs if negative | Medicare & most commercial | Higher sensitivity than FIT; lower specificity; better adherence. |
-| **Screening (emerging)** | Blood-based CRC screening (Shield™) | cfDNA methylation | Positive → colonoscopy | q3 yrs (Medicare) | Medicare covers FDA-approved | May increase uptake in reluctant patients. |
+| **Screening (average risk, age ≥45)** | Stool DNA (mt-sDNA, e.g., Cologuard) | DNA methylation + mutation panel | Positive → colonoscopy | every 3 yrs if negative | Medicare & most commercial | Higher sensitivity than FIT; lower specificity; better adherence. |
+| **Screening (emerging)** | Blood-based CRC screening (Shield™) | cfDNA methylation | Positive → colonoscopy | every 3 yrs (Medicare) | Medicare covers FDA-approved | May increase uptake in reluctant patients. |
 | **All stages (at diagnosis)** | MMR IHC ± MSI PCR/NGS | IHC, PCR, NGS | Lynch screening; predicts ICI benefit | Once at diagnosis | Standard of care | Reflex MLH1 methylation if MLH1 loss. |
 
 ---
@@ -40,7 +40,7 @@ I am a biotech scientist, not a medical doctor. Much of this content is from a c
 | Assay / Biomarker | Technology | Output / Actionability | Frequency | Coverage | Notes |
 |-------------------|------------|------------------------|-----------|----------|-------|
 | Tumor MMR/MSI | IHC, PCR, NGS | MSI-H → no adjuvant 5-FU (stage II) | Once | Covered | MSI-H/dMMR stage II → avoid chemo. |
-| MRD (ctDNA) | Personalized or fixed-panel cfDNA NGS | Detects residual disease → guides adjuvant chemo | Baseline post-op, then q3–6mo for 2 yrs | Medicare MolDX (Signatera, Guardant Reveal) | Strong prognostic value; driving clinical trials. |
+| MRD (ctDNA) | Personalized or fixed-panel cfDNA NGS | Detects residual disease → guides adjuvant chemo | Baseline post-op, then every 3–6mo for 2 yrs | Medicare MolDX (Signatera, Guardant Reveal) | Strong prognostic value; driving clinical trials. |
 | Germline testing (if indicated) | Germline NGS | Detects Lynch, FAP, MAP | Once | Covered with criteria | Triggered by young age/family history/MSI-high tumor. |
 
 ---
@@ -50,7 +50,7 @@ I am a biotech scientist, not a medical doctor. Much of this content is from a c
 | Assay / Biomarker | Technology | Output / Actionability | Frequency | Coverage | Notes |
 |-------------------|------------|------------------------|-----------|----------|-------|
 | Tumor MMR/MSI | IHC, PCR, NGS | Lynch screen; ICI prediction if recurrent | Once | Covered | MSI-H less common in stage III; still important. |
-| MRD (ctDNA) | cfDNA NGS | Detects clearance vs persistence after surgery → risk stratification | Baseline post-op, then q3–6mo | Medicare MolDX | May guide chemo escalation/de-escalation (ongoing trials). |
+| MRD (ctDNA) | cfDNA NGS | Detects clearance vs persistence after surgery → risk stratification | Baseline post-op, then every 3–6mo | Medicare MolDX | May guide chemo escalation/de-escalation (ongoing trials). |
 | Germline testing | Germline NGS | Lynch, FAP, MAP | Once if criteria met | Covered | Cascade testing key. |
 
 ---
@@ -70,8 +70,8 @@ I am a biotech scientist, not a medical doctor. Much of this content is from a c
 
 | Assay / Biomarker | Technology | Output / Actionability | Frequency | Coverage | Notes |
 |-------------------|------------|------------------------|-----------|----------|-------|
-| MRD (ctDNA) | cfDNA NGS | Detects recurrence earlier than imaging | q3–6mo for 2–3 yrs | Medicare MolDX | May replace/augment CEA in future SOC. |
-| CEA | ELISA | Non-specific recurrence marker | q3–6mo x 2 yrs, then q6mo x 3 yrs | Covered | Low sensitivity/specificity but still standard. |
+| MRD (ctDNA) | cfDNA NGS | Detects recurrence earlier than imaging | every 3–6mo for 2–3 yrs | Medicare MolDX | May replace/augment CEA in future SOC. |
+| CEA | ELISA | Non-specific recurrence marker | every 3–6mo x 2 yrs, then every 6mo x 3 yrs | Covered | Low sensitivity/specificity but still standard. |
 
 ---
 
@@ -117,8 +117,57 @@ The future of early detection hinges on solving the PPV problem. Fortunately, th
 If these technologies deliver on their promise—by becoming more accurate, targeted, and intelligently deployed—they could still mark the biggest shift in cancer diagnostics we’ve seen in decades. The goal remains the same: moving us from a world of *catching cancer late* to one where we *intercept it early*.
 
 ---
+Here’s a **Markdown glossary** draft you can copy-paste directly. I’ve written it for a general reader — not too technical, but still precise. I also added a couple of related terms (*CEA, RAS, BRAF, HER2*) that often come up in this space and are useful for context.
 
-## Key Sources
+---
+
+## Glossary
+
+**MRD (Minimal Residual Disease)**
+Refers to the tiny amounts of cancer that may remain in the body after treatment, often below the level detectable by imaging. MRD tests (commonly using ctDNA) help predict whether a cancer is likely to come back.
+
+**MCED (Multi-Cancer Early Detection)**
+A new class of blood-based tests designed to screen for multiple types of cancer at once, often before symptoms appear. These tests analyze cfDNA patterns such as methylation or fragmentation.
+
+**PPV (Positive Predictive Value)**
+A measure of how likely it is that a positive test result actually means a person has cancer. Higher PPV means fewer false alarms.
+
+**ctDNA (Circulating Tumor DNA)**
+Fragments of DNA shed by cancer cells into the bloodstream. ctDNA can be analyzed to detect mutations, monitor treatment response, and track recurrence.
+
+**cfDNA (Cell-Free DNA)**
+General term for DNA fragments circulating in the blood, which come from both normal and cancerous cells. ctDNA is a subset of cfDNA.
+
+**NGS (Next-Generation Sequencing)**
+A powerful technology that allows rapid, large-scale DNA sequencing. In cancer, NGS panels can test dozens to hundreds of genes at once to guide treatment decisions.
+
+**IHC (Immunohistochemistry)**
+A lab test that uses antibodies to detect specific proteins in tumor tissue. Often used to check for MMR status and other biomarkers.
+
+**MSI-H (Microsatellite Instability–High)**
+A genetic signature caused by defective DNA repair. MSI-H cancers are more likely to respond to immunotherapy.
+
+**MMR (Mismatch Repair)**
+A system cells use to fix errors in DNA. When MMR genes are defective, tumors can become MSI-H. Testing MMR status is standard for colon cancer diagnosis.
+
+**mt-sDNA (Multitarget Stool DNA Test, e.g., Cologuard®)**
+A non-invasive stool-based screening test that looks for DNA mutations, methylation changes, and blood associated with colon cancer or polyps.
+
+**CEA (Carcinoembryonic Antigen)**
+A blood protein often used as a traditional tumor marker in colon cancer. Elevated levels can indicate cancer but are less precise than modern ctDNA tests.
+
+**RAS / BRAF Mutations**
+Common genetic mutations tested in colon cancer. Their presence can determine which therapies (like anti-EGFR antibodies) will or won’t work.
+
+**HER2 (Human Epidermal Growth Factor Receptor 2)**
+A gene that can be amplified in a small subset of colon cancers. When present, it may be targeted by specific therapies.
+
+---
+
+Would you like me to also **add analogies or simple metaphors** (like “ctDNA is like breadcrumbs left by cancer cells in the blood”) to make this even more approachable for non-scientists?
+
+
+---## Key Sources
 - **NCCN Colon Cancer Guidelines** (2025)  
 - **USPSTF CRC screening** recommendations (2021)  
 - **Medicare NCD 90.2** – NGS in advanced cancer  
