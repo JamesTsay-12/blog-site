@@ -94,7 +94,21 @@ This means that **a majority of patients once considered ineligible for HER2 the
 | **Enhertu (HER2-low/ultra-low)** | ~50–60% (majority of HER2-negative patients) | Enhertu | PFS 10.1 vs 5.4 mo; OS 23.9 vs 17.5 mo [5] | Nausea, cytopenias, ILD (serious but uncommon) |
 
 ---
+## 📖 Glossary
 
+- **HR+**: Hormone receptor positive (estrogen or progesterone receptors present).
+- **HER2**: Human epidermal growth factor receptor 2, a protein driving aggressive growth in some cancers.
+- **Triple-negative breast cancer (TNBC)**: Lacks estrogen, progesterone, and HER2.
+- **PD-L1**: Immune checkpoint protein; tumors with high PD-L1 may respond better to immunotherapy.
+- **BRCA1/2**: Genes that, when mutated, impair DNA repair and increase breast/ovarian cancer risk.
+- **PARP inhibitors**: Drugs that block DNA repair, effective in BRCA-mutated cancers.
+- **ADC (antibody–drug conjugate)**: Antibody linked to chemotherapy, delivering it directly to cancer cells.
+- **pCR (pathologic complete response)**: No cancer detectable after neoadjuvant therapy.
+- **PFS (progression-free survival)**: Time before cancer grows again.
+- **OS (overall survival)**: How long patients live after treatment, regardless of disease status.
+- **ILD (interstitial lung disease)**: Inflammation/scarring in the lungs, rare but serious side effect of Enhertu.
+
+---
 ## 🔗 References
 
 1. Sikov WM et al. *NEJM*, 2015. CALGB 40603 Trial. [Link](https://www.nejm.org/doi/full/10.1056/NEJMoa1312825)  
@@ -124,18 +138,15 @@ This section provides a detailed, quantitative view of **precision medicine elig
 
 ---
 
-### Efficacy Overview (PFS & OS)
+## 🧾 Supplemental Science: For Professionals and Curious Readers
 
-| Therapy | Median PFS | Median OS | References |
-|---------|------------|-----------|-----------|
-| HER2+ (T-DM1) | 9.6 vs 6.4 mo | >5 yrs median | [3] |
-| BRCA (PARP inhibitors) | 7–8.6 vs 5.6 mo | Modest OS gain | [4] |
-| TNBC PD-L1+ | 7.5 vs 5.5 mo | Durable responses in some | [6,8] |
-| HER2-low / ultra-low (Enhertu) | 10.1 vs 5.4 mo | 23.9 vs 17.5 mo | [5] |
+- **Chemo Intensity**: Trials such as CALGB 40603 showed carboplatin increases pCR in TNBC, but long-term OS impact is debated.
+- **CDK4/6 Inhibitors**: Ribociclib recently showed clear OS benefit in HR+ advanced disease (MONALEESA-2).
+- **HER2 Therapy Evolution**: From trastuzumab (1998) to pertuzumab, to ADCs like T-DM1 and now Enhertu.
+- **Enhertu Mechanism**: Antibody-drug conjugate with a **high drug-to-antibody ratio** and a **“bystander effect,”** meaning the chemotherapy payload can diffuse into nearby tumor cells, making it effective even in low-HER2 expression.
 
 ---
 
-### Conceptual Visual: Patient Eligibility vs Efficacy
 
-Below is an **chart** to visualize this 
 
+ 
