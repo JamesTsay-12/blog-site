@@ -11,7 +11,7 @@ This blog is in progress, and reflects the latest information as of 9/1/25
 
 **Disclaimer:** I am a biotech scientist, not a medical doctor. This guide is meant to **inform and empower patients** to discuss treatment options with their healthcare provider. It is not a substitute for personalized medical advice.
 
-Breast cancer treatment has evolved significantly over the past two decades. What was once a standard approach involving chemotherapy has now transformed into a more personalized strategy, guided by the molecular characteristics of each tumor. Today, treatments are tailored based on factors like **hormone receptor (HR) status**, **HER2 expression**, **BRCA mutations**, and **PD-L1 status**, allowing for therapies designed to specifically target the cancer cells.
+Breast cancer treatment has evolved significantly over the past two decades. What was once a standard approach involving chemotherapy has now transformed into a more personalized strategy, guided by the molecular characteristics of each tumor. Today, treatments are tailored based on factors like **hormone receptor (HR) status**, **HER2 expression**, **BRCA mutations**, and **PD-L1 status**, allowing for therapies designed to specifically target the cancer cells. Most patient resources tell you what treatments exist, but not how well they actually work or who benefits. This guide provides the numbers your oncologist might not have time to explain.
 
 In this guide, we'll explore:
 
