@@ -1,3 +1,10 @@
+---
+layout: post
+title: "A Patient-Friendly Guide to Breast Cancer Treatment: From Chemotherapy to Targeted Therapies"
+date: 2025-09-02
+categories: Science
+---
+
 # A Patient-Friendly Guide to Breast Cancer Treatment: From Chemotherapy to Targeted Therapies
 
 This blog is in progress, and reflects the latest information as of 9/1/25
