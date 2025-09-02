@@ -100,6 +100,35 @@ This means that **a majority of patients once considered ineligible for HER2 the
 | **PARP inhibitors (BRCA-mutated)** | ~5–10% overall | Olaparib, talazoparib | PFS 7–8.6 vs 5.6 mo chemo [4]; modest OS gain | Anemia, nausea, fatigue |
 | **Enhertu (HER2-low/ultra-low)** | ~50–60% (majority of HER2-negative patients) | Enhertu | PFS 10.1 vs 5.4 mo; OS 23.9 vs 17.5 mo [5] | Nausea, cytopenias, ILD (serious but uncommon) |
 
+## Insurance Coverage and Access
+
+| Therapy Type | Eligible % of Breast Cancer Patients | Insurance Coverage | Notes |
+|--------------|--------------------------------------|--------------------|-------|
+| **Chemotherapy (anthracyclines, taxanes, carboplatin)** | ~100% (backbone for most cases) | Universally covered | Generic drugs widely available |
+| **Hormone Therapy (tamoxifen, AIs, fulvestrant)** | ~70% (HR+) | Covered | Oral meds, copays vary |
+| **HER2-Targeted Therapy (trastuzumab, pertuzumab, T-DM1)** | ~15–20% (HER2+) | Covered | Requires HER2 testing |
+| **Enhertu (trastuzumab deruxtecan)** | ~50–60% (HER2-low + HER2+) | Covered (with prior auth) | Coverage rapidly expanding |
+| **CDK4/6 Inhibitors (palbociclib, ribociclib, abemaciclib)** | ~70% (HR+, advanced) | Covered | High copays possible |
+| **PARP Inhibitors (olaparib, talazoparib)** | ~5–10% (BRCA1/2 mutant) | Covered with genetic test | Prior auth required |
+| **Checkpoint Inhibitors (pembrolizumab in TNBC)** | ~10–15% (PD-L1+ TNBC) | Covered (with PD-L1 testing) | Expensive IV therapy |
+
+### What this means for patients
+Most modern breast cancer treatments are covered by insurance **if you meet the biomarker requirements** (such as HER2, BRCA, or PD-L1 testing). However, many targeted drugs require **prior authorization** and sometimes come with **high copays or coinsurance**. Assistance programs from pharmaceutical companies or nonprofit organizations may help reduce costs, so it’s important to ask your care team about financial support options.
+
+## Insurance Coverage for Diagnostic Testing
+
+| Test | Purpose | Eligible % of Breast Cancer Patients | Insurance Coverage | Notes |
+|------|---------|--------------------------------------|--------------------|-------|
+| **IHC / FISH for HER2** | Determines HER2 status (HER2+, HER2-low, HER2-0) | 100% (all patients at diagnosis) | Universally covered | Standard of care; required for HER2 therapy access |
+| **ER / PR (hormone receptor) IHC** | Determines eligibility for hormone therapy | 100% | Universally covered | Routine and inexpensive |
+| **BRCA1/2 germline testing** | Identifies PARP inhibitor eligibility | ~5–10% | Covered (if criteria met) | NCCN guidelines recommend for many patients, esp. younger or family history |
+| **Next-Generation Sequencing (NGS) panels** | Broader mutation profiling (PIK3CA, ESR1, etc.) | ~30–40% may have actionable findings | Often covered (with justification) | Coverage depends on insurer and setting |
+| **PD-L1 IHC** | Determines checkpoint inhibitor eligibility in TNBC | ~10–15% | Covered | Required for pembrolizumab in TNBC |
+| **ctDNA / Liquid Biopsy** | Monitors mutations and resistance | Emerging, not standard | Sometimes covered (case by case) | Coverage limited; varies widely |
+
+### Key Takeaway
+Insurance almost always covers **basic diagnostic tests (HER2, ER/PR, BRCA, PD-L1)** since they are directly tied to FDA-approved therapies. Broader NGS and liquid biopsy tests are increasingly used but **coverage is more variable** — doctors may need to submit prior authorization or appeal denials. Patients should ask if test results will **change treatment decisions**, which strengthens the case for insurance approval.
+
 ---
 ## 📖 Glossary
 
