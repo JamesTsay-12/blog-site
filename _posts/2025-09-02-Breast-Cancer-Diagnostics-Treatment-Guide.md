@@ -127,12 +127,16 @@ This means that **a majority of patients once considered ineligible for HER2 the
 7. Susan G. Komen. HER2-Targeted Therapies. [Link](https://www.komen.org/breast-cancer/treatment/type/her2-targeted-therapies/trastuzumab/)  
 8. Cancer Research UK. Targeted and Immunotherapy Drugs. [Link](https://www.cancerresearchuk.org/about-cancer/breast-cancer/treatment/targeted-immunotherapy-drugs)  
 9. NCCN. Metastatic Breast Cancer Guidelines for Patients. [Link](https://www.nccn.org/patients/guidelines/content/PDF/stage_iv_breast-patient.pdf)  
-10. Enhertu Patient Resources. [Link](https://www.enhertu.com/en/breast/support-and-resources)  
+10. Enhertu Patient Resources. [Link](https://www.enhertu.com/en/breast/support-and-resources)
+
+    
 ## Supplemental Science & Data: Breast Cancer Precision Medicine
 
 This section provides a detailed, quantitative view of **precision medicine eligibility and efficacy** in breast cancer, based on molecular diagnostics. Hormone receptor therapies are **excluded**, as these are considered standard rather than precision-guided.
 
 ### Patient Eligibility by Molecular Subtype
+
+![Patient Eligibility vs Efficacy in Breast Cancer](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Breast%20cancer%20blog.png?raw=true)
 
 | Molecular Subtype | % of All Breast Cancer Patients | Therapy | Notes |
 |------------------|-------------------------------|--------|------|
@@ -143,7 +147,7 @@ This section provides a detailed, quantitative view of **precision medicine elig
 
 > **Estimated total eligible for non-hormone precision therapy:** ~65–75% after accounting for overlaps (HER2-low mostly mutually exclusive with HER2+).
 
-![Patient Eligibility vs Efficacy in Breast Cancer](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Breast%20cancer%20blog.png?raw=true)
+
 
 
 
