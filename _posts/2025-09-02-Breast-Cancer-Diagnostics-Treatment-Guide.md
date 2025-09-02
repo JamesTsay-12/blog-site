@@ -136,7 +136,7 @@ This section provides a detailed, quantitative view of **precision medicine elig
 
 ### Patient Eligibility by Molecular Subtype
 
-![Patient Eligibility vs Efficacy in Breast Cancer](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Breast%20cancer%20blog.png?raw=true)
+![Patient Eligibility vs Efficacy in Breast Cancer](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Breast_cancer_blog.png?raw=true)
 
 | Molecular Subtype | % of All Breast Cancer Patients | Therapy | Notes |
 |------------------|-------------------------------|--------|------|
