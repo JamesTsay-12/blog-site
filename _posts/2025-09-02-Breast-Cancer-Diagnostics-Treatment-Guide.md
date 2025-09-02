@@ -143,7 +143,8 @@ This section provides a detailed, quantitative view of **precision medicine elig
 
 > **Estimated total eligible for non-hormone precision therapy:** ~65–75% after accounting for overlaps (HER2-low mostly mutually exclusive with HER2+).
 
-![Patient Eligibility vs Efficacy in Breast Cancer](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/science/Breast%20cancer%20blog.png?raw=true)
+![Patient Eligibility vs Efficacy in Breast Cancer](https://raw.githubusercontent.com/JamesTsay-12/blog-site/main/assets/img/science/Breast%20cancer%20blog.png)
+
 
 ---
 
