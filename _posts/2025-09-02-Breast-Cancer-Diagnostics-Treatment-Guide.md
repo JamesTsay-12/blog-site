@@ -1,5 +1,7 @@
 # A Patient-Friendly Guide to Breast Cancer Treatment: From Chemotherapy to Targeted Therapies
 
+This blog is in progress, and reflects the latest information as of 9/1/25
+
 **Disclaimer:** I am a biotech scientist, not a medical doctor. This guide is meant to **inform and empower patients** to discuss treatment options with their healthcare provider. It is not a substitute for personalized medical advice.
 
 Breast cancer treatment has evolved significantly over the past two decades. What was once a standard approach involving chemotherapy has now transformed into a more personalized strategy, guided by the molecular characteristics of each tumor. Today, treatments are tailored based on factors like **hormone receptor (HR) status**, **HER2 expression**, **BRCA mutations**, and **PD-L1 status**, allowing for therapies designed to specifically target the cancer cells.
@@ -105,3 +107,35 @@ This means that **a majority of patients once considered ineligible for HER2 the
 8. Cancer Research UK. Targeted and Immunotherapy Drugs. [Link](https://www.cancerresearchuk.org/about-cancer/breast-cancer/treatment/targeted-immunotherapy-drugs)  
 9. NCCN. Metastatic Breast Cancer Guidelines for Patients. [Link](https://www.nccn.org/patients/guidelines/content/PDF/stage_iv_breast-patient.pdf)  
 10. Enhertu Patient Resources. [Link](https://www.enhertu.com/en/breast/support-and-resources)  
+## Supplemental Science & Data: Breast Cancer Precision Medicine
+
+This section provides a detailed, quantitative view of **precision medicine eligibility and efficacy** in breast cancer, based on molecular diagnostics. Hormone receptor therapies are **excluded**, as these are considered standard rather than precision-guided.
+
+### Patient Eligibility by Molecular Subtype
+
+| Molecular Subtype | % of All Breast Cancer Patients | Therapy | Notes |
+|------------------|-------------------------------|--------|------|
+| HER2+ | 15–20% | Trastuzumab, Pertuzumab, T-DM1 | Classic HER2 amplification, targeted therapy dramatically improves survival |
+| BRCA-mutated | 5–10% | PARP inhibitors (Olaparib, Talazoparib) | Includes germline BRCA1/2 mutations; moderate PFS gain |
+| TNBC PD-L1+ | 3–5% | Immunotherapy (Pembrolizumab, Atezolizumab) | Subset of TNBC (~30–40% PD-L1+); durable responses in some patients |
+| HER2-low / ultra-low | 50–60% | Enhertu (Trastuzumab Deruxtecan) | Previously HER2-negative patients; DESTINY-Breast04 shows large OS/PFS benefit |
+
+> **Estimated total eligible for non-hormone precision therapy:** ~65–75% after accounting for overlaps (HER2-low mostly mutually exclusive with HER2+).
+
+---
+
+### Efficacy Overview (PFS & OS)
+
+| Therapy | Median PFS | Median OS | References |
+|---------|------------|-----------|-----------|
+| HER2+ (T-DM1) | 9.6 vs 6.4 mo | >5 yrs median | [3] |
+| BRCA (PARP inhibitors) | 7–8.6 vs 5.6 mo | Modest OS gain | [4] |
+| TNBC PD-L1+ | 7.5 vs 5.5 mo | Durable responses in some | [6,8] |
+| HER2-low / ultra-low (Enhertu) | 10.1 vs 5.4 mo | 23.9 vs 17.5 mo | [5] |
+
+---
+
+### Conceptual Visual: Patient Eligibility vs Efficacy
+
+Below is an **chart** to visualize this 
+
