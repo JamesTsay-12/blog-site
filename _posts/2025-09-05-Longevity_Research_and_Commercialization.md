@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Promise of Longevity Science and Businesses"
+title: "The Promise of Longevity Science and Commercialization"
 date: 2025-09-05
 categories:
   - Science
