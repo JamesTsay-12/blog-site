@@ -2,7 +2,7 @@
 layout: post
 title: "The Promise of Longevity Science and Businesses"
 date: 2025-09-05
-categories: Science
+categories: Science Portfolio
 ---
 # The Promise and Business of Longevity Science  
 
