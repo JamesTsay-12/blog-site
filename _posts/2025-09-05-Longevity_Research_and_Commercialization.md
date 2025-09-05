@@ -10,7 +10,7 @@ categories:
 # The Promise and Business of Longevity Science  
 
 ## Executive Summary 
-Longevity biotech is moving from science fiction to serious science and business, but the path forward remains complex and risk-laden.  
+Longevity biotech is moving from science fiction to serious science and business opportunities, but the path forward currently has complexity and many risks.  
 - **Near-term opportunities (2–5 years):** Epigenetic clocks and AI-driven biomarkers with measurable outcomes and revenue streams.  
 - **Mid-term opportunities (5–10 years):** Pharma plays in mTOR modulation, senolytics, and metabolic aging interventions.  
 - **Long-term moonshots (10–20 years):** Cellular reprogramming and comprehensive anti-aging therapies — potentially transformative but high-risk.  
