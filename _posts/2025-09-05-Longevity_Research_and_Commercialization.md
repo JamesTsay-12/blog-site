@@ -5,7 +5,7 @@ Longevity biotech is moving from science fiction to serious science and business
 - **Near-term opportunities (2–5 years):** Epigenetic clocks and AI-driven biomarkers with measurable outcomes and revenue streams.  
 - **Mid-term opportunities (5–10 years):** Pharma plays in mTOR modulation, senolytics, and metabolic aging interventions.  
 - **Long-term moonshots (10–20 years):** Cellular reprogramming and comprehensive anti-aging therapies — potentially transformative but high-risk.  
-Investors should balance **market potential** against **scientific and regulatory risks**, with most realistic returns coming from tools (biomarkers, diagnostics) and disease-specific therapies before full "anti-aging" interventions are proven. Recent estimates suggest developing new drugs takes over 10 years, costs upwards of $6.1 billion, and has failure rates exceeding 90%.
+Investors should balance **market potential** against **scientific and regulatory risks**, with most realistic returns coming from tools (biomarkers, diagnostics) and disease-specific therapies before full "anti-aging" interventions are proven.
 
 ---
 
@@ -201,6 +201,6 @@ The failure of resTORbio's mTOR inhibitor program in Phase 3 trials demonstrates
 ---
 
 ## Disclaimer  
-This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.
+This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate content for accuracy, and this is information is updated as of 9/5/25.
 
 ---
