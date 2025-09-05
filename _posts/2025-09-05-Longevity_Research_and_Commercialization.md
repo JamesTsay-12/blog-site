@@ -81,7 +81,7 @@ In July 2024, Duke-NUS researchers published in Nature showing that anti-interle
 | **Fountain Life** | Longevity diagnostics/prevention | Private investors | Commercial operations with CEO Bill Kapp | High maturity, medium impact | Consumer health optimization market; established revenue streams. |
 | **Oisín Biotechnologies** | Genetic senolytics | Methuselah Foundation | Preclinical/early clinical | Medium maturity, speculative impact | High potential if platform succeeds; multiple chronic diseases addressable. |
 | **resTORbio (Adicet Bio)** | mTOR inhibitors (rapalogs) | PureTech, OrbiMed | Clinical trials in immune aging (Phase 3 miss) | Medium maturity, lower impact | Moderate: Market in immune health; nearer commercialization. |
-| **Human Longevity, Inc.** | Genomics + AI | Craig Venter, Diamandis | Commercial health data | High maturity, medium impact | Already monetizing; ~$50B precision health & diagnostics market. |
+| **Human Longevity, Inc.** | Genomics + AI | Craig Venter, Diamandis | Commercial health data | High maturity, medium impact | Already monetizing (~$35M revenue in 2024; ~$50B precision health & diagnostics market. |
 | **Deep Longevity** | Epigenetic AI clocks | Spinout of Insilico | Commercial biomarker products | High maturity, medium impact | Active B2B/B2C market in wellness, clinical trials, insurance. |
 | **~~Unity Biotechnology~~** | ~~Senolytics~~ | ~~Arch Venture, Bezos~~ | **CEASED OPERATIONS 2025** | **Company Closed** | **Cautionary tale: Clinical failures led to shutdown despite early promise.** |
 | **Sierra Sciences / Telocyte** | Telomerase therapy | Private investors | Preclinical | Low maturity, uncertain impact | High-risk niche; safety hurdles limit near-term commercialization. |
