@@ -209,4 +209,18 @@ The failure of resTORbio's mTOR inhibitor program in Phase 3 trials demonstrates
 ## Disclaimer  
 This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate content for accuracy, and this is information is updated as of 9/5/25.
 
+## Expert Podcast Perspectives: Bridging Science and Investment
+
 ---
+
+### **Venture Capitalist Insights:**
+- **All-In Podcast Episode #26:** ["State of Venture Capital, plus Fans' Questions on Longevity"](https://podcastnotes.org/all-in-podcast/state-of-venture-capital-plus-fans-questions-on-longevity-decentralization-quantum-computing-e26-all-in-with-chamath-jason-sacks-friedberg/) - David Friedberg and team discuss longevity investment trends and biohacking strategies
+
+- **All-In Podcast (Recent):** ["OpenAI's Longevity Breakthrough"](https://allin.com/episodes) - Discussion of AI applications in longevity research
+
+### **Scientific Deep-Dives:**
+- **The Peter Attia Drive:** ["A new era of longevity science"](https://peterattiamd.com/briankennedy/) - Comprehensive analysis of aging models and human trials
+- **Tim Ferriss Show:** ["The Science and Art of Longevity"](https://tim.blog/2023/03/14/peter-attia-outlive/) - Practical longevity strategies
+
+### **For Technical Implementation:**
+- **Huberman Lab:** ["Supplements for Longevity & Their Efficacy"](https://www.hubermanlab.com/episode/dr-peter-attia-supplements-for-longevity-their-efficacy) - Evidence-based supplement analysis---
