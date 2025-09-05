@@ -21,7 +21,7 @@ Aging is the single largest risk factor for nearly every chronic disease — can
 
 In recent years, a wave of new companies and research labs has emerged to tackle longevity, backed by billions of dollars from investors and tech leaders. From reprogramming cells back to a "youthful" state, to drugs that clear out senescent cells, to AI-driven biomarkers that predict biological age, the field of longevity biotech has gone from science fiction to a serious commercial and scientific frontier.  
 
-This post summarizes the **major scientific breakthroughs**, the **companies leading the charge**, the **market opportunities**, and the **critical risks and regulatory challenges** in the longevity biotech space.  I've also added a supplemental section that expands on the relevant scientific literature, market/technology enabliers, and relevant podcasts for more information.
+This post summarizes the **major scientific breakthroughs**, the **companies leading the charge**, the **market opportunities**, and the **critical risks and regulatory challenges** in the longevity biotech space.  I've also added a supplemental section that expands on the relevant scientific literature, market/technology enabliers, and relevant podcasts for more information.  I've also added a glossary for non-experts in longevity research.
 
 ---
 
