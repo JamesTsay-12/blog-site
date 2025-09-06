@@ -7,7 +7,7 @@ categories: Science
 
 # A Patient-Friendly Guide to Breast Cancer Treatment: From Chemotherapy to Targeted Therapies
 
-This blog is in progress, and reflects the latest information as of **9/1/25**.  As updates come, I'll add to this guide
+This blog is in progress, and reflects the latest information as of **9/6/25**.  As updates come, I'll add to this guide
 
 **Disclaimer:** I am a biotech scientist, not a medical doctor. This guide is meant to **inform and empower patients** to discuss treatment options with their healthcare provider. It is not a substitute for personalized medical advice. This article was generated from my own research and AI assistance - I will be continuing to check to make sure all of the information is accurate.
 
@@ -53,6 +53,7 @@ Adding **carboplatin** can increase the chance of a **pathologic complete respon
   - **Trastuzumab** (Herceptin) + chemotherapy
   - **Pertuzumab** (Perjeta) + trastuzumab + chemotherapy
   - **T-DM1 (Kadcyla)**: An antibody–drug conjugate (ADC)
+  - Update: a new third-generation ADC—**trastuzumab pamirtecan (BNT323)**—has just hit its Phase 3 primary endpoint in HER2-positive breast cancer, potentially expanding treatment options soon (source: [Reuters]("https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-duality-score-initial-trial-win-with-breast-cancer-precision-drug-2025-09-05/")).
 - **Survival Rates**: Median survival for advanced HER2+ breast cancer is now over **5 years** [3].
 - **Side Effects**: Cardiotoxicity (rare), diarrhea, low platelets.
 
