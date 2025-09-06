@@ -17,6 +17,7 @@ Longevity biotech is moving from science fiction to serious science and business
 - **Mid-term opportunities (5–10 years):** Pharma plays in mTOR modulation, senolytics, and metabolic aging interventions.  
 - **Long-term moonshots (10–20 years):** Cellular reprogramming and comprehensive anti-aging therapies — potentially transformative but high-risk.  
 Investors should balance **market potential** against **scientific and regulatory risks**, with most realistic returns coming from tools (biomarkers, diagnostics) and disease-specific therapies before full "anti-aging" interventions are proven.
+
 ---
 
 ## Disclaimer  
