@@ -9,7 +9,7 @@ categories:
 
 # The Promise and Business of Longevity Science 
 
-**note** This blog is in progress and will be updated
+**Note:** This blog is in progress and will be updated
 
 ## Executive Summary 
 Longevity biotech is moving from science fiction to serious science and business opportunities, but the path forward currently has complexity and many risks.  
