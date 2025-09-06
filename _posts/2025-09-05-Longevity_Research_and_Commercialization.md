@@ -7,7 +7,9 @@ categories:
   - Portfolio
 ---
 
-# The Promise and Business of Longevity Science  
+# The Promise and Business of Longevity Science 
+
+**note** This blog is in progress and will be updated
 
 ## Executive Summary 
 Longevity biotech is moving from science fiction to serious science and business opportunities, but the path forward currently has complexity and many risks.  
@@ -15,6 +17,11 @@ Longevity biotech is moving from science fiction to serious science and business
 - **Mid-term opportunities (5–10 years):** Pharma plays in mTOR modulation, senolytics, and metabolic aging interventions.  
 - **Long-term moonshots (10–20 years):** Cellular reprogramming and comprehensive anti-aging therapies — potentially transformative but high-risk.  
 Investors should balance **market potential** against **scientific and regulatory risks**, with most realistic returns coming from tools (biomarkers, diagnostics) and disease-specific therapies before full "anti-aging" interventions are proven.
+---
+
+## Disclaimer  
+
+This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate content for accuracy, and this is information is updated as of **9/5/25**.
 
 ---
 
@@ -81,7 +88,7 @@ In July 2024, Duke-NUS researchers published in Nature showing that anti-interle
 | **Fountain Life** | Longevity diagnostics/prevention | Private investors | Commercial operations with CEO Bill Kapp | High maturity, medium impact | Consumer health optimization market; established revenue streams. |
 | **Oisín Biotechnologies** | Genetic senolytics | Methuselah Foundation | Preclinical/early clinical | Medium maturity, speculative impact | High potential if platform succeeds; multiple chronic diseases addressable. |
 | **resTORbio (Adicet Bio)** | mTOR inhibitors (rapalogs) | PureTech, OrbiMed | Clinical trials in immune aging (Phase 3 miss) | Medium maturity, lower impact | Moderate: Market in immune health; nearer commercialization. |
-| **Human Longevity, Inc.** | Genomics + AI | Craig Venter, Diamandis | Commercial health data | High maturity, medium impact | Already monetizing (~$35M revenue in 2024); ~$50B precision health & diagnostics market. |
+| **Human Longevity, Inc.** | Genomics + AI | Craig Venter, Diamandis | Commercial health data | High maturity, medium impact | Already monetizing (revenue TBD) ~$50B precision health & diagnostics market. |
 | **Deep Longevity** | Epigenetic AI clocks | Spinout of Insilico | Commercial biomarker products | High maturity, medium impact | Active B2B/B2C market in wellness, clinical trials, insurance. |
 | **~~Unity Biotechnology~~** | ~~Senolytics~~ | ~~Arch Venture, Bezos~~ | **CEASED OPERATIONS 2025** | **Company Closed** | **Cautionary tale: Clinical failures led to shutdown despite early promise.** |
 | **Sierra Sciences / Telocyte** | Telomerase therapy | Private investors | Preclinical | Low maturity, uncertain impact | High-risk niche; safety hurdles limit near-term commercialization. |
@@ -185,11 +192,7 @@ The failure of resTORbio's mTOR inhibitor program in Phase 3 trials demonstrates
 - **Drug platforms**: IPO path viable (see BioAge Labs)
 - **Research platforms**: Often require long-term strategic partnerships
 
----
 
-## Disclaimer  
-
-This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate content for accuracy, and this is information is updated as of **9/5/25**.
 
 ---
 
