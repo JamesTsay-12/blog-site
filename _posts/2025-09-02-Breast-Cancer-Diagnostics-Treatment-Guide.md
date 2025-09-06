@@ -53,7 +53,7 @@ Adding **carboplatin** can increase the chance of a **pathologic complete respon
   - **Trastuzumab** (Herceptin) + chemotherapy
   - **Pertuzumab** (Perjeta) + trastuzumab + chemotherapy
   - **T-DM1 (Kadcyla)**: An antibody–drug conjugate (ADC)
-  - Update: a new third-generation ADC—**trastuzumab pamirtecan (BNT323)**—has just hit its Phase 3 primary endpoint in HER2-positive breast cancer, potentially expanding treatment options soon (source: [Reuters]("https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-duality-score-initial-trial-win-with-breast-cancer-precision-drug-2025-09-05/")).
+  - **trastuzumab pamirtecan (BNT323)**— a new 3rd gen ADC has just hit its Phase 3 primary endpoint in HER2-positive breast cancer, potentially expanding treatment options soon  [Reuters]("https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-duality-score-initial-trial-win-with-breast-cancer-precision-drug-2025-09-05/")
 - **Survival Rates**: Median survival for advanced HER2+ breast cancer is now over **5 years** [3].
 - **Side Effects**: Cardiotoxicity (rare), diarrhea, low platelets.
 
