@@ -53,7 +53,7 @@ Adding **carboplatin** can increase the chance of a **pathologic complete respon
   - **Trastuzumab** (Herceptin) + chemotherapy
   - **Pertuzumab** (Perjeta) + trastuzumab + chemotherapy
   - **T-DM1 (Kadcyla)**: An antibody–drug conjugate (ADC)
-  - **trastuzumab pamirtecan (BNT323)**— a new 3rd gen ADC has just hit its Phase 3 primary endpoint in HER2-positive breast cancer, potentially expanding treatment options soon  [Reuters]("https://www.reuters.com/business/healthcare-pharmaceuticals/biontech-duality-score-initial-trial-win-with-breast-cancer-precision-drug-2025-09-05/")
+  - **trastuzumab pamirtecan (BNT323)**— a new 3rd gen ADC has just hit its Phase 3 primary endpoint in HER2-positive breast cancer, potentially expanding treatment options soon  [BioNTech & DualityBio announce Phase 3 trial of an ADC candidate (press release)](https://investors.biontech.de/news-releases/news-release-details/biontech-and-dualitybio-announce-phase-3-trial-adc-candidate)
 - **Survival Rates**: Median survival for advanced HER2+ breast cancer is now over **5 years** [3].
 - **Side Effects**: Cardiotoxicity (rare), diarrhea, low platelets.
 
@@ -159,7 +159,8 @@ Insurance almost always covers **basic diagnostic tests (HER2, ER/PR, BRCA, PD-L
 7. Susan G. Komen. HER2-Targeted Therapies. [Link](https://www.komen.org/breast-cancer/treatment/type/her2-targeted-therapies/trastuzumab/)  
 8. Cancer Research UK. Targeted and Immunotherapy Drugs. [Link](https://www.cancerresearchuk.org/about-cancer/breast-cancer/treatment/targeted-immunotherapy-drugs)  
 9. NCCN. Metastatic Breast Cancer Guidelines for Patients. [Link](https://www.nccn.org/patients/guidelines/content/PDF/stage_iv_breast-patient.pdf)  
-10. Enhertu Patient Resources. [Link](https://www.enhertu.com/en/breast/support-and-resources)
+10. Enhertu Patient Resources. [Link](https://www.enhertu.com/en/breast/support-and-11. BioNTech & DualityBio.
+11. “BioNTech and DualityBio announce Phase 3 trial of an ADC candidate (press release).” Available at: https://investors.biontech.de/news-releases/news-release-details/biontech-and-dualitybio-announce-phase-3-trial-adc-candidate)
 
     
 ## Supplemental Science & Data: Breast Cancer Precision Medicine
