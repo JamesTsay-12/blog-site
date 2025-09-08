@@ -22,17 +22,17 @@ Investors should balance **market potential** against **scientific and regulator
 
 ## Disclaimer  
 
-This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate content for accuracy, and this is information is updated as of **9/5/25**.
+This article represents a collaboration between my own research and insights generated with the assistance of AI. It is for informational purposes only and does not constitute investment, medical, or financial advice. Company statuses and clinical trial results can change rapidly in this dynamic field.  I am continuing to evaluate the content for accuracy, and this is information is updated as of **9/5/25**.
 
 ---
 
 ## The Promise of Longevity Science  
 
-Aging is the single largest risk factor for nearly every chronic disease — cancer, cardiovascular disease, neurodegeneration, and metabolic dysfunction. If science can slow or even reverse the biological mechanisms of aging, the impact on human health and society would be transformative. Extending healthspan (the healthy, productive years of life) by even a few years could mean trillions in economic savings and massive gains in quality of life.  
+Aging is the single largest risk factor for nearly every chronic disease, including cancer, cardiovascular disease, neurodegeneration, and metabolic dysfunction. If science can slow or even reverse the biological mechanisms of aging, the impact on human health and society would be transformative. Extending healthspan (the healthy, productive years of life) by even a few years could mean trillions in economic savings and massive gains in quality of life.  
 
 In recent years, a wave of new companies and research labs has emerged to tackle longevity, backed by billions of dollars from investors and tech leaders. From reprogramming cells back to a "youthful" state, to drugs that clear out senescent cells, to AI-driven biomarkers that predict biological age, the field of longevity biotech has gone from science fiction to a serious commercial and scientific frontier.  
 
-This post summarizes the **major scientific breakthroughs**, the **companies leading the charge**, the **market opportunities**, and the **critical risks and regulatory challenges** in the longevity biotech space.  I've also added a supplemental section that expands on the relevant scientific literature, market/technology enabliers, and relevant podcasts for more information.  I've also added a glossary for non-experts in longevity research.
+This post summarizes the **major scientific breakthroughs**, the **companies leading the charge**, the **market opportunities**, and the **critical risks and regulatory challenges** in the longevity biotech space.  I've also added a supplemental section that expands on the relevant scientific literature, market/technology enablers, and relevant podcasts for more information.  I've also added a glossary for non-experts in longevity research.
 
 ---
 
