@@ -129,7 +129,7 @@ This is precision medicine in action. Knowing whether a tumor has a **KRAS G12D*
 
 ---
 
-Please see theis follow-up article [KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect](https://jamestsay-12.github.io/blog-site/science/2025/08/12/Targeted-Colon-Cancer-treatment-status.html)
+Please see this follow-up article [KRAS-Mutated Colorectal Cancer: New Treatments, Realities, and What to Expect](https://jamestsay-12.github.io/blog-site/science/2025/08/12/Targeted-Colon-Cancer-treatment-status.html)
 where I explore the landscape of next-generation KRAS inhibitors and how biotech is tackling the challenge of G12D, G12V, and other difficult mutations. 
 
 ## Supplemental Part 1: Understanding the Unique Mechanism of KRAS G12C Inhibitors
