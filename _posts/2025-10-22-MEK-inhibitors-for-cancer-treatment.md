@@ -13,6 +13,7 @@ And in [*Pan-RAS Inhibitors: Mechanism and Efficacy*](https://jamestsay-12.githu
 
 This piece takes a different angle: **don’t fight KRAS head-on—jam its wiring downstream.** That means the **MAPK pathway**, especially **MEK** and **ERK**.
 
+*Disclaimer:* I'm a biotech scientist and not a medical doctor, so I'm writing as an enthusiastic researcher and patient advocate, but not providing medical advice.  This blog is in progress, and I'm still verifying the contents for accuracy.
 ---
 
 ## The MAPK pathway: the relay that keeps growth signals moving
@@ -122,4 +123,4 @@ For CRC specifically, assuming expansion, **meaningful access in the early 2030s
 
 *Personal note:* this is still a moving target. The idea isn’t to crown MEK inhibition—the idea is to **make it livable** and **keep the pathway cornered** long enough to matter, especially for KRAS variants where the direct shots still aren’t there.
 
-*Standard disclaimer:* This is my read as a biotech scientist; it isn’t medical advice.
+
