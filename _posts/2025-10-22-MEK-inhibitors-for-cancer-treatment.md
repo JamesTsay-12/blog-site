@@ -6,14 +6,18 @@ categories: Science
 
 ---
 
-In earlier posts, I laid out why **KRAS mutations** have been so stubborn for drug development.  
+In earlier posts, I laid out why **KRAS mutations** have been so challenging for drug development, with very few effective and available treatment options for most people.  
 In [*KRAS, EGFR, and Drugs*](https://jamestsay-12.github.io/blog-site/science/2025/08/06/KRAS-EGFR-and-Drugs.html), I walked through the structural reasons KRAS is hard to drug.  
 [*Targeted Colon Cancer Treatment Status*](https://jamestsay-12.github.io/blog-site/science/2025/08/12/Targeted-Colon-Cancer-treatment-status.html) covered how these mutations drive colon cancer and where targeted therapies stand today.  
 And in [*Pan-RAS Inhibitors: Mechanism and Efficacy*](https://jamestsay-12.github.io/blog-site/science/2025/08/13/Pan-Ras-Inhibtors-Mechanism-and-Efficacy.html), I looked at efforts to shut down RAS more broadly.
 
 This piece takes a different angle: **don’t fight KRAS head-on—jam its wiring downstream.** That means the **MAPK pathway**, especially **MEK** and **ERK**.
 
-*Disclaimer:* I'm a biotech scientist and not a medical doctor, so I'm writing as an enthusiastic researcher and patient advocate, but not providing medical advice.  This blog is in progress, and I'm still verifying the contents for accuracy.
+**Disclaimer:**
+
+I'm a biotech scientist and not a medical doctor.  I'm writing as an enthusiastic researcher and patient advocate, so please do not take this as expert medical advice.  This blog is in progress, and I'm still verifying the contents for accuracy.  The information is up to date as of 10/22/25
+
+
 ---
 
 ## The MAPK pathway: the relay that keeps growth signals moving
@@ -99,7 +103,7 @@ DCIs try to **lower the toxicity “area under the curve”** while keeping the 
 
 ## What this could mean for colon cancer
 
-Direct KRAS drugs (sotorasib, adagrasib) help **G12C**, which is a minority in CRC. The common **G12D/G13D** set still leans heavily on MAPK, which makes **MEK/ERK** the logical flank.
+Direct KRAS drugs (sotorasib, adagrasib) help **G12C**, which is a minority in CRC. The common **G12D/G13D** set still leans heavily on MAPK, which makes **MEK/ERK** the logical flank.  Between the pan-RAS inhibitors and the MEK inhibitors, I'm very hopeful we can treat the nasty KRAS mutations that are pervasive in cancer in a more effective way.  I know several people who have currently untreatable cancers due to different KRAS mutations, and these drugs provide some hope for the future.
 
 If Immuneering’s readouts continue to trend in the right direction, **Phase 3 around 2026–2027** and **first pivotal readouts ~2028** are plausible.  
 For CRC specifically, assuming expansion, **meaningful access in the early 2030s** is a reasonable (and optimistic) line of sight. Not a silver bullet—more like another gear to mesh with EGFR/chemotherapy backbones and, eventually, smarter KRAS-variant-specific agents.
