@@ -2,8 +2,8 @@
 title: "MEK and MAPK Inhibitors — A Detour Around the KRAS Roadblock"
 description: "Building on earlier KRAS posts, this dives into MEK/MAPK strategies—with a closer look at Immuneering’s Deep Cyclic Inhibitors—and what it could mean for colon cancer."
 date: 2025-10-22
-categories: [Science, Cancer Biology, Targeted Therapy]
-tags: [KRAS, MAPK, MEK, ERK, Colon Cancer, Pancreatic Cancer, Immuneering]
+categories: Science
+
 ---
 
 In earlier posts, I laid out why **KRAS mutations** have been so stubborn for drug development.  
