@@ -23,6 +23,8 @@ A crash may be inevitable, but because *when* and *how deep* are uncertain, our 
 
 In this post, I’ll discuss practical approaches depending on whether you’re aiming for **wealth preservation**, **highest returns possible**, or a **balanced blend**, and how different strategies can coexist in a single plan.
 
+The post is not meant to invent new strategies, but to help readers engineer their own finance system — combining proven approaches based on personality, discipline, and goals.
+
 ---
 
 ## The Three Goals  
@@ -105,7 +107,7 @@ Active management can make sense — but only under **specific conditions**: whe
 
 #### Spotlight on Will Danoff  
 
-Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing growth conviction with fundamental discipline. In 2025, Fidelity appointed co-managers **Asher Anolic** and **Jason Weiner** to ensure succession continuity after 34 years of solo management.  
+Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing growth conviction with fundamental discipline. In 2025, Fidelity appointed co-managers **Asher Anolic** and **Jason Weiner** to ensure succession continuity after 34 years of solo management.  One of my concerns, is they do allocate a large portion of their funds to single stocks (Meta at 15% as of October 2025)
 ([Bloomberg, 2025](https://www.bloomberg.com/news/articles/2025-04-11/contrafund-s-145-billion-man-gets-help-after-34-year-solo-run))
 
 #### Spotlight on Warren Buffett & Berkshire Hathaway (BRK.B)  
@@ -175,9 +177,11 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 ## Behavioral & Structural Notes from a STEM-Investor Perspective  
 
 - Treat investing like **experimental design** — define your hypothesis (goal), controls (cost, risk), and test conditions (rebalancing, triggers).  
+- **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate stratgies (if not going for strategy #2)
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
 - **Iterate & review** annually — your assumptions can go stale faster than the data.
+  
 
 ---
 
