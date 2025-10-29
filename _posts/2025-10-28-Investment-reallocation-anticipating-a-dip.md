@@ -178,6 +178,7 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 
 - Treat investing like **experimental design** — define your hypothesis (goal), controls (cost, risk), and test conditions (rebalancing, triggers).  
 - **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate stratgies (if not going for strategy #2)
+- You can use tools like my Monte Carlo simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
 - **Iterate & review** annually — your assumptions can go stale faster than the data.
