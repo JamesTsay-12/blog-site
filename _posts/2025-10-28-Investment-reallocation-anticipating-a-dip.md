@@ -5,6 +5,10 @@ date: 2025-10-29
 categories: [finance]
 ---
 
+**Note**
+This blog is in progress, and being written
+
+
 ## Introduction  
 
 I often find myself in conversations with friends: *“If the crash is inevitable, when will it happen, and how should we position?”* 
@@ -126,7 +130,7 @@ Berkshire operates as a conglomerate that behaves like a disciplined active fund
 - **Massive flexibility** via cash reserves and insurance float.  
 
 **Caveats:**  
-- **Key-person risk:** Buffett’s departure marks a major transition.  
+- **Key-person risk:** Buffett’s departure marks a major transition.  [With Warren Buffett Stepping Down in January, Is Berkshire …](https://www.fool.com/investing/2025/10/22/with-warren-buffett-stepping-down-in-january-is-be/)  
 - **Scale limits:** Its size caps agility.  
 - **Correlation drift:** Increasingly behaves like the broader U.S. market.  
 
