@@ -2,7 +2,7 @@
 title: "When the Market Feels Like It’s Tipping: How to Choose Your Investing Strategy"
 description: "A practical framework for investing in an uncertain world — from passive simplicity to proven active managers and tactical hedges."
 date: 2025-10-29
-categories: [personal finance, investing]
+categories: [finance]
 ---
 
 ## Introduction  
