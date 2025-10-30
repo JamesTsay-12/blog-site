@@ -26,6 +26,7 @@ A crash may be inevitable, but because *when* and *how deep* are uncertain, our 
 In this post, I’ll discuss practical approaches depending on whether you’re aiming for **wealth preservation**, **highest returns possible**, or a **balanced blend**, and how different strategies can coexist in a single plan.
 
 The post is not meant to invent new strategies, but to help readers engineer their own finance system — combining proven approaches based on personality, discipline, and goals.
+Finally, I want to empower people to be able to quantitatively analyze their own scenarios and strategies if they have the time and interest.
 
 ---
 
@@ -117,7 +118,7 @@ Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing g
 His strategy is a form of value investing, staying flexible and looking for quality companies with high earnings per share.  You can see more on his philosphy here:
 [Transcript: Will Danoff (Ritholtz, Sep 2020)](https://ritholtz.com/2020/09/transcript-will-danoff/)
 
-One of my concerns, is they do allocate a large portion of their funds to single stocks (Meta at 15% as of October 2025)
+One of my concerns, is they do allocate a large portion of their funds to single stocks (e.g. META at 15% as of October 2025)
 
 
 #### Spotlight on Warren Buffett & Berkshire Hathaway (BRK.B)  
@@ -129,6 +130,8 @@ Buffett announced he’ll step down at year-end 2025, handing leadership to **Gr
 
 > 🧮 **Additional insight:** Warren Buffett has been accumulating a very large cash position — over \$340 billion — which many see as a signal that he believes the market is overvalued. Rather than trying to “buy the dip” yourself, it may be wiser to let an experienced allocator like Buffett decide when to deploy that cash. In other words, sometimes it’s better to *let him* buy the dip instead of trusting your own timing.  
 ([Yahoo Finance, 2025](https://finance.yahoo.com/news/warren-buffett-sends-investors-344-084600288.html))
+>
+ Here's an example Reddit discussion on this topic which I found interesting [“Why not buy BRK.B instead of the S&P 500?” — r/Bogleheads](https://www.reddit.com/r/Bogleheads/comments/1j828v0/why_not_buy_brkb_instead_of_the_sp/)
 
 **Relative Performance (2025 YTD):**  
 - Through April 2025: BRK.B ≈ +17 % YTD vs S&P 500 ≈ –6 %.  
