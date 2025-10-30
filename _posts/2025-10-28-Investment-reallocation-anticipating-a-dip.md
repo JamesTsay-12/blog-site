@@ -130,7 +130,7 @@ One of my concerns, is they do allocate a large portion of their funds to single
 
 Berkshire operates as a conglomerate that behaves like a disciplined active fund — but without management fees. In 2025, its Class B shares (BRK.B) held up better than the S&P 500 during the **April 2025 market dip**, thanks to its large cash reserves and defensive holdings.  Here is more on his investment philosophy which includes "value investing" and flexibility.  You can also note BRK.B has a lower allocation in AI investments than many US index funds like the S&P 500 which can be attractive to those who feel overexposed to AI stocks at high valuations. [Timeless Lessons from Warren Buffett – Mesirow Wealth Knowledge Center](https://www.mesirow.com/wealth-knowledge-center/timeless-lessons-warren-buffett)
 
-Buffett announced he’ll step down at year-end 2025, handing leadership to **Greg Abel**.  
+Buffett announced he’ll step down at in January 2026, handing leadership to **Greg Abel**.  
 ([Reuters, 2025](https://www.reuters.com/markets/wealth/berkshire-shareholders-head-buffetts-60th-annual-meeting-economy-top-mind-2025-05-03))
 
 > 🧮 **Additional insight:** Warren Buffett has been accumulating a very large cash position — over \$340 billion — which many see as a signal that he believes the market is overvalued. Rather than trying to “buy the dip” yourself, it may be wiser to let an experienced allocator like Buffett decide when to deploy that cash. In other words, sometimes it’s better to *let him* buy the dip instead of trusting your own timing.  
