@@ -11,13 +11,15 @@ This blog is in progress, and being written
 
 ## Introduction  
 
-I often find myself in conversations with friends: *“If the crash is inevitable, when will it happen, and how should we position?”* 
+I often find myself in conversations with friends: *“If the crash is inevitable, when will it happen, and how should I be investing now?”* 
+
 I'm finding many people are increasingly worried about the future economy, especially those in the tech field where layoffs are getting more and more frequent, and the stock market is extremely volatile.
+
 I had also mentioned all of the anxiety people are feeling due to future uncertainty and geopolitical changes, and some ways of diversifying/rebalancing your portfolio in this previous blog post:
 
 [*Investing in an Uncertain World*](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
 
-We live in an era where AI hype, rapid macro shifts, and stretched valuations all make for uneasy vibes. The outlines of past bubbles were visible years in advance — Alan Greenspan famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
+We are now living in a time where AI hype, rapid macro shifts, and seemingly-inflated valuations all are making us feel uneasy. The outlines of past bubbles were visible years in advance.  For example, Alan Greenspan (Fed chariman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
 
 A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever.  
 
@@ -97,22 +99,32 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 ### 4. Proven Active Managers with Low (or Moderate) Fees  
 
 Active management can make sense — but only under **specific conditions**: when fees are low, discipline is high, and the manager has a long, verifiable record.  
+The key here is that some funds have outstanding managers who can act quickly with high flexibility to make sound decisions, instead of a common investor who does not have time to monitor a situation.  
 
 #### Case Studies  
+- **Fidelity Contrafund (FCNTX)** — ~0.63 % fee, managed by **Will Danoff** since 1990, one of the largest active mutual funds globally.  
+- **Berkshire Hathaway (BRK.B)** — Essentially an active management vehicle with *no fund fees* — shareholders gain access to Buffett’s capital-allocation skills for free.
 
+   A couple other examples are below which haven't had as good performance as the above.  I don't own these, and don't necessarily recommend them.
 - **Vanguard PRIMECAP Fund** — ~0.38 % expense ratio; long-term outperformance vs benchmark since 1984.  
 - **Dodge & Cox Stock Fund** — ~0.41 % fee (I-class), value-oriented and contrarian, with 90+ years of firm history.  
-- **Fidelity Contrafund (FCNTX)** — ~0.63 % fee, managed by **Will Danoff** since 1990, one of the largest active mutual funds globally.  
-- **Berkshire Hathaway (BRK.B)** — Essentially an active management vehicle with *no fund fees* — shareholders gain access to Buffett’s capital-allocation skills for free.  
 
-#### Spotlight on Will Danoff  
 
-Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing growth conviction with fundamental discipline. In 2025, Fidelity appointed co-managers **Asher Anolic** and **Jason Weiner** to ensure succession continuity after 34 years of solo management.  One of my concerns, is they do allocate a large portion of their funds to single stocks (Meta at 15% as of October 2025)
-([Bloomberg, 2025](https://www.bloomberg.com/news/articles/2025-04-11/contrafund-s-145-billion-man-gets-help-after-34-year-solo-run))
+#### Spotlight on Will Danoff and the Fidelity Contrafund (FCNTX)
+
+Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing growth conviction with fundamental discipline. In 2025, Fidelity appointed co-managers **Asher Anolic** and **Jason Weiner** to ensure succession continuity after 34 years of solo management.([Bloomberg, 2025](https://www.bloomberg.com/news/articles/2025-04-11/contrafund-s-145-billion-man-gets-help-after-34-year-solo-run))
+
+His strategy is a form of value investing, staying flexible and looking for quality companies with high earnings per share.  You can see more on his philosphy here:
+[Transcript: Will Danoff (Ritholtz, Sep 2020)](https://ritholtz.com/2020/09/transcript-will-danoff/)
+
+One of my concerns, is they do allocate a large portion of their funds to single stocks (Meta at 15% as of October 2025)
+
 
 #### Spotlight on Warren Buffett & Berkshire Hathaway (BRK.B)  
 
-Berkshire operates as a conglomerate that behaves like a disciplined active fund — but without management fees. In 2025, its Class B shares (BRK.B) held up better than the S&P 500 during the **April 2025 market dip**, thanks to its large cash reserves and defensive holdings. Buffett announced he’ll step down at year-end 2025, handing leadership to **Greg Abel**.  
+Berkshire operates as a conglomerate that behaves like a disciplined active fund — but without management fees. In 2025, its Class B shares (BRK.B) held up better than the S&P 500 during the **April 2025 market dip**, thanks to its large cash reserves and defensive holdings.  Here is more on his investment philosophy which includes "value investing" and flexibility.  You can also note he has very little in AI investments (outside Apple) which can help those who feel overexposed to AI sotcks in the S&P500. [Timeless Lessons from Warren Buffett – Mesirow Wealth Knowledge Center](https://www.mesirow.com/wealth-knowledge-center/timeless-lessons-warren-buffett)
+
+Buffett announced he’ll step down at year-end 2025, handing leadership to **Greg Abel**.  
 ([Reuters, 2025](https://www.reuters.com/markets/wealth/berkshire-shareholders-head-buffetts-60th-annual-meeting-economy-top-mind-2025-05-03))
 
 > 🧮 **Additional insight:** Warren Buffett has been accumulating a very large cash position — over \$340 billion — which many see as a signal that he believes the market is overvalued. Rather than trying to “buy the dip” yourself, it may be wiser to let an experienced allocator like Buffett decide when to deploy that cash. In other words, sometimes it’s better to *let him* buy the dip instead of trusting your own timing.  
@@ -120,7 +132,8 @@ Berkshire operates as a conglomerate that behaves like a disciplined active fund
 
 **Relative Performance (2025 YTD):**  
 - Through April 2025: BRK.B ≈ +17 % YTD vs S&P 500 ≈ –6 %.  
-- By October 2025: S&P 500 rebounded while Berkshire leveled off, narrowing the gap.  
+- By October 2025: S&P 500 rebounded while Berkshire leveled off, narrowing the gap.
+- It's important to note, BRKB isn't beating the market at any given time (for example in late 2025) but does behave differently than the total stock market and S&P 500.  
 
 📈 **Performance Chart:**  
 ![BRK.B vs S&P 500 2025 (Normalized)](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/finance/BRKB_vs_SP500_2025_normalized.png?raw=true)  
@@ -138,9 +151,9 @@ Berkshire operates as a conglomerate that behaves like a disciplined active fund
 
 #### Summary on Active Management  
 Active funds can complement a passive core if:  
-- Fees < 0.6 %  
-- Proven 10-year track record  
-- Transparent succession plan  
+- Fees < 0.7 %  
+- Proven >10-year track record  
+- Transparent succession plan that inspires confidence  
 
 Treat them as **satellites** around your passive “core,” not as replacements.
 
@@ -158,7 +171,7 @@ Treat them as **satellites** around your passive “core,” not as replacements
 - High volatility and unclear intrinsic value.  
 - Correlations shift over time (e.g., Bitcoin trading like tech).  
 
-**My view:** Hold modest amounts — think 5–10 % max — as hedges, not core drivers.
+**My view:** I think holding modest amounts is reasonable (for example  5–10 % max) to balance for inflation and devaluing currency, and to not be 100% exposed to the stock market.
 
 ---
 
@@ -181,7 +194,9 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 - You can use tools like my Monte Carlo simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
-- **Iterate & review** annually — your assumptions can go stale faster than the data.
+- **Iterate & review** at least annually — your assumptions can go stale faster than the data.
+- This last strategy is more controversial - but if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers)
+The above strategy is for those who want to get the highest chances of high returns.  I would be cautious about doing this - be prepared for large potential losses that don't recover in some cases.  I discuss this in more detail here:  [Stock-picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
   
 
 ---
@@ -192,7 +207,7 @@ Whether or not an “AI bubble” pops, we can’t forecast timing. What we *can
 
 - If you crave **simplicity and stability**, stay with low-cost diversified ETFs.  
 - If you want **edge exposure**, selectively use proven active managers like Buffett or Danoff.  
-- If you’re tactical by nature, keep cash or alternatives ready — but follow rules, not emotions.  
+- If you’re tactical by nature, keep cash or alternatives ready,  but follow rules, not emotions.  
 
 In the end, it’s not about guessing the crash. It’s about **designing a system you trust** — one that fits your psychology, protects your capital, and compounds your discipline.
 
