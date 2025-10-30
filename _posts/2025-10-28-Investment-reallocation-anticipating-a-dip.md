@@ -192,6 +192,7 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 - Treat investing like **experimental design** — define your hypothesis (goal), controls (cost, risk), and test conditions (rebalancing, triggers).  
 - **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate stratgies (if not going for strategy #2)
 - You can use tools like my Monte Carlo simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
+- I want to note that doing your own analysis is basically free, and you can have fun doing "vibe-coding" or running available quantitative tools to analyze your own portfolio.  One drawback of utilizing financial advisors is that they have a vested interest in you not retiring early so they can keep charging fees.  Doing your own analysis will empower you to make your own decisions without costing any money.  
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
 - **Iterate & review** at least annually — your assumptions can go stale faster than the data.
