@@ -140,7 +140,7 @@ Buffett announced he’ll step down at in January 2026, handing leadership to **
 
 **Relative Performance (2025 YTD):**  
 - Through April 2025: BRK.B ≈ +17 % YTD vs S&P 500 ≈ –6 %.  
-- By October 2025: S&P 500 rebounded while Berkshire leveled off, narrowing the gap.
+- By October 2025: S&P 500 rebounded while Berkshire leveled off.  Staying invested in S&P500 until Oct 2025 would have given better returns, but you would have depended on the current exuberance of the AI-related stock contribution (which some people may think is lucky).  
 - It's important to note, BRKB isn't beating the market at any given time (for example in late 2025) but does behave differently than the total stock market and S&P 500.  
 
 📈 **Performance Chart:**  
