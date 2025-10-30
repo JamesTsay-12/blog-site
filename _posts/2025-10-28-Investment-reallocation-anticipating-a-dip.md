@@ -103,7 +103,7 @@ The key here is that some funds have outstanding managers who can act quickly wi
 
 #### Case Studies  
 - **Fidelity Contrafund (FCNTX)** — ~0.63 % fee, managed by **Will Danoff** since 1990, one of the largest active mutual funds globally.  
-- **Berkshire Hathaway (BRK.B)** — Essentially an active management vehicle with *no fund fees* — shareholders gain access to Buffett’s capital-allocation skills for free.
+- **Berkshire Hathaway (BRK.B)** — Essentially an active management vehicle with *no fund fees* — shareholders gain access to Buffett’s team's capital-allocation skills for free.
 
    A couple other examples are below which haven't had as good performance as the above.  I don't own these, and don't necessarily recommend them.
 - **Vanguard PRIMECAP Fund** — ~0.38 % expense ratio; long-term outperformance vs benchmark since 1984.  
