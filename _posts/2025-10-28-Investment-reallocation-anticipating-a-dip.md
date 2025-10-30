@@ -246,4 +246,80 @@ If you enjoyed this analysis, you may like my earlier essay [*Investing in an Un
 
 ---
 
-*Disclaimer: This post reflects personal views and is not financial advice. Always do your own due diligence before making investment decisions.*
+*Disclaimer: I'm not a financial professional (CFA or CFP). This post reflects personal views and is not financial advice. Always do your own due diligence before making investment decisions.*
+
+## Supplemental Section: The Reality of Market Timing — Scenario, Data & Research
+
+Even though most financial experts insist that “timing the market never works,” it’s worth exploring *why* this advice exists — and what actually happens when you try to wait for the right moment.  
+I’ve personally wrestled with this dilemma: it feels logical to hold cash when markets look euphoric, yet painful to watch them keep rising while you wait for the inevitable correction.  
+To see both sides clearly, let’s combine **data**, **research**, and **personal reasoning**.
+
+---
+
+### 1. Quantitative Example — Cash vs. Buy-and-Hold (2000–2007)
+
+To visualize the trade-off, here’s a simplified simulation comparing two investors at the start of the dot-com crash:
+
+| Investor | Starting Allocation | Trigger for Action | Outcome |
+|-----------|--------------------|--------------------|----------|
+| **Holder** | 100 % S&P 500 from Jan 2000 | Stays fully invested | Suffers deep drawdown, modest recovery by 2007 |
+| **Timer** | 100 % in 4 % high-yield savings | Waits for 30 % market drop, then invests | Preserves cash during crash, enters at lower prices, stronger recovery |
+
+📈 **Historical Simulation — Cash vs. Buy-and-Hold (2000–2007)**  
+![Cash vs. Buy-and-Hold 2000–2007](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/finance/Cash_vs_Hold_2000_2007.png?raw=true)  
+*Caption: Simulated portfolio performance of an investor who stayed fully invested (“Holder”) versus one who held cash in a high-yield savings account and deployed after a 30 % market drop (“Timer”).*
+
+**Interpretation:**  
+In this rare case, the disciplined “Timer” outperformed — preserving capital through the 2000–2002 decline and entering before the 2003–2007 rebound.  
+This shows that if you **time a crash exceptionally well**, you can boost returns by keeping funds in a high-interest account before deploying.  
+
+However, this success requires **perfect discipline** and **uncommon luck**.  
+The same strategy would have badly lagged during other periods — for example, if the market kept rising for years before any dip.  
+In practice, few people actually follow through on their buy-the-dip plan when fear dominates the headlines.
+
+> A more realistic version is a **hybrid**: keep most assets invested, but reserve some “dry powder” (cash or short-term Treasuries) to deploy when markets show extreme declines.  
+> This balances growth and flexibility — without depending entirely on perfect timing.
+
+---
+
+### 2. Counterpoint — What the Schwab Research Shows
+
+Charles Schwab’s research team analyzed multiple hypothetical investors over decades and reached a clear conclusion:  
+> “The cost of waiting for the perfect moment to invest — and essentially staying out of the stock market — typically **exceeds** the benefit of even perfect market timing.”  
+> — [Does Market Timing Work? | Charles Schwab](https://www.schwab.com/learn/story/does-market-timing-work)
+
+Key findings:
+- The “best timer,” who somehow always bought at each year’s low, only slightly outperformed someone who **invested immediately** at the start of each year.  
+- The “worst timer,” who invested at annual highs, still did *better* than an investor who stayed entirely in cash for long periods.  
+- Consistent, disciplined investing beat all attempts to predict short-term market moves.
+
+In other words, the longer you remain in cash waiting for the perfect dip, the more you risk missing the market’s best days — and compounding stops working in your favor.
+
+---
+
+### 3. Reconciling the Two Views
+
+Both perspectives are valid — they just apply to different human situations.
+
+| Scenario | Timing Advantage | Behavioral Risk |
+|-----------|-----------------|-----------------|
+| **Rapid downturn (like 2000–2002)** | Timer preserves capital and buys low | Requires nerve to deploy during panic |
+| **Long bull run (e.g., 2010–2019)** | Holder compounds while Timer earns minimal yield | Timer underperforms and loses confidence |
+| **Uncertain environment (e.g., 2024–2025)** | Hybrid strategy provides balance | Requires a written plan and emotional restraint |
+
+My conclusion is that **timing can work only as a structured overlay**, not as a full-scale replacement for steady investing.  
+It’s most effective when treated like an engineering variable — defined in advance, executed automatically, and never allowed to dominate the whole system.
+
+---
+
+### 4. Final Takeaway
+
+You *can* sometimes improve results by holding cash and buying major dips — but doing it well is exceptionally difficult and can be emotionally challenging.  
+For most investors, staying invested through regular contributions, rebalancing, and low costs will outperform inconsistent timing attempts.  
+If you still want to add a timing component, do it **deliberately and proportionally**:  
+- Keep your core invested in broad diversified ETFs.  
+- Maintain a modest reserve of cash or short-term Treasuries for tactical use.  
+- Define clear triggers for deployment before volatility hits.  
+
+> The real goal isn’t to “beat the market” by guessing its turns — it’s to design a system that earns enough, fits your temperament, and lets you sleep at night.
+> As I mentioned in the main section, I personally have a hybrid approach, where I expect to do **some** market timing.  But this strategy is not for everyone.
