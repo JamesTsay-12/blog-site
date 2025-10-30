@@ -6,12 +6,12 @@ categories: [finance]
 ---
 
 **Note**
-This blog is in progress, and being written
+This blog is in progress and being updated.
 
 
 ## Introduction  
 
-I often find myself in conversations with friends: *“If the crash is inevitable, when will it happen, and how should I be investing now?”* 
+I often find myself in conversations with friends where I hear questions like this: *“If the crash is inevitable, when will it happen, and how should I be investing now?”* 
 
 I'm finding many people are increasingly worried about the future economy, especially those in the tech field where layoffs are getting more and more frequent, and the stock market is extremely volatile.
 
@@ -195,7 +195,7 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
 - **Iterate & review** at least annually — your assumptions can go stale faster than the data.
-- This last strategy is more controversial - but if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers)
+- This last strategy is more controversial: if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers)
 The above strategy is for those who want to get the highest chances of high returns.  I would be cautious about doing this - be prepared for large potential losses that don't recover in some cases.  I discuss this in more detail here:  [Stock-picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
   
 
