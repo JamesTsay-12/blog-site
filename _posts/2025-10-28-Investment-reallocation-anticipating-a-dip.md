@@ -146,7 +146,7 @@ Buffett announced he’ll step down at in January 2026, handing leadership to **
 📈 **Performance Chart:**  
 
 ![BRK.B vs S&P 500 2025 (Normalized – Corrected)](https://github.com/JamesTsay-12/blog-site/blob/main/assets/img/finance/BRKB_vs_SP500_2025_normalized_corrected.png?raw=true)  
-*Caption: Normalized performance of :contentReference[oaicite:0]{index=0} vs :contentReference[oaicite:1]{index=1} (proxy for the S&P 500) for 2025 YTD. Starting value = 100 in January; shows Berkshire’s more modest rise and eventual lag relative to the broader market after the mid-year rebound.*
+*Caption: Normalized performance of BRK.B and the S&P 500) for 2025 YTD. Starting value = 100 in January; shows Berkshire’s more modest rise and eventual lag relative to the broader market after the mid-year rebound.*
 
 
 **Why Berkshire fits:**  
