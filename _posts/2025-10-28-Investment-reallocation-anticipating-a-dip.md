@@ -21,7 +21,7 @@ I had also mentioned all of the anxiety people are feeling due to future uncerta
 
 We are now living in a time where AI hype, rapid macro shifts, and seemingly-inflated valuations all are making us feel uneasy. The outlines of past bubbles were visible years in advance.  For example, Alan Greenspan (Fed chariman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
 
-A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever.  
+A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever. I've personally been predicting a market crash for quite some time now (incorrectly), and have been surprised that we keep getting a run-up of the stock market (as of late October 2025).  I think many of us in the tech industry who have seen the amount of failing startups, mass layoffs, high inflation, weakening dollar, and the continued rapid rise of the stock market as highly suspicious and anxiety-inducing. 
 
 In this post, I’ll discuss practical approaches depending on whether you’re aiming for **wealth preservation**, **highest returns possible**, or a **balanced blend**, and how different strategies can coexist in a single plan.
 
@@ -123,7 +123,7 @@ One of my concerns, is they do allocate a large portion of their funds to single
 
 #### Spotlight on Warren Buffett & Berkshire Hathaway (BRK.B)  
 
-Berkshire operates as a conglomerate that behaves like a disciplined active fund — but without management fees. In 2025, its Class B shares (BRK.B) held up better than the S&P 500 during the **April 2025 market dip**, thanks to its large cash reserves and defensive holdings.  Here is more on his investment philosophy which includes "value investing" and flexibility.  You can also note he has very little in AI investments (outside Apple) which can help those who feel overexposed to AI sotcks in the S&P500. [Timeless Lessons from Warren Buffett – Mesirow Wealth Knowledge Center](https://www.mesirow.com/wealth-knowledge-center/timeless-lessons-warren-buffett)
+Berkshire operates as a conglomerate that behaves like a disciplined active fund — but without management fees. In 2025, its Class B shares (BRK.B) held up better than the S&P 500 during the **April 2025 market dip**, thanks to its large cash reserves and defensive holdings.  Here is more on his investment philosophy which includes "value investing" and flexibility.  You can also note BRK.B has a lower allocation in AI investments than many US index funds like the S&P 500 which can be attractive to those who feel overexposed to AI stocks at high valuations. [Timeless Lessons from Warren Buffett – Mesirow Wealth Knowledge Center](https://www.mesirow.com/wealth-knowledge-center/timeless-lessons-warren-buffett)
 
 Buffett announced he’ll step down at year-end 2025, handing leadership to **Greg Abel**.  
 ([Reuters, 2025](https://www.reuters.com/markets/wealth/berkshire-shareholders-head-buffetts-60th-annual-meeting-economy-top-mind-2025-05-03))
@@ -150,7 +150,7 @@ Buffett announced he’ll step down at year-end 2025, handing leadership to **Gr
 **Caveats:**  
 - **Key-person risk:** Buffett’s departure marks a major transition.  [With Warren Buffett Stepping Down in January, Is Berkshire …](https://www.fool.com/investing/2025/10/22/with-warren-buffett-stepping-down-in-january-is-be/)  
 - **Scale limits:** Its size caps agility.  
-- **Correlation drift:** Increasingly behaves like the broader U.S. market.  
+- **Correlation drift:** At times, does behave like the broader U.S. market.  
 
 #### Summary on Active Management  
 Active funds can complement a passive core if:  
@@ -193,8 +193,8 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 ## Behavioral & Structural Notes from a STEM-Investor Perspective  
 
 - Treat investing like **experimental design** — define your hypothesis (goal), controls (cost, risk), and test conditions (rebalancing, triggers).  
-- **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate stratgies (if not going for strategy #2)
-- You can use tools like my Monte Carlo simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
+- **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate strategies (if not going for strategy #2)
+- You can use tools like my Monte Carlo Retirement simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
 - I want to note that doing your own analysis is basically free, and you can have fun doing "vibe-coding" or running available quantitative tools to analyze your own portfolio.  One drawback of utilizing financial advisors is that they have a vested interest in you not retiring early so they can keep charging fees.  Doing your own analysis will empower you to make your own decisions without costing any money.  
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
