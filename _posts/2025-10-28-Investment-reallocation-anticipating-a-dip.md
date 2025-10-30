@@ -78,7 +78,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 - Less tactical flexibility if conditions change rapidly.
 - In our unpredictable future in a rapidly-changing world, this might not pan out like it did the last 100 years.
 
-**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I don't personally do only this because I have fun managing money and also am skeptical the future will behave similarly to the past.
+**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I personally **don't only** do this because I have fun managing money and also am skeptical the future will behave similarly to the past.
 
 ---
 
