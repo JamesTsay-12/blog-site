@@ -202,11 +202,15 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 - Treat investing like **experimental design** — define your hypothesis (goal), controls (cost, risk), and test conditions (rebalancing, triggers).  
 - **Research and quantitation** — review performance of the funds, their strategy, and analyze their returns over different time frames to re-evaluate strategies (if not going for strategy #2)
 - You can use tools like my Monte Carlo Retirement simulator to map out different scenarios: [Retirement Simulation](https://jamestsay-12.github.io/blog-site/finance/2025/06/25/retirement-simulation.html)
-- I want to note that doing your own analysis is basically free, and you can have fun doing "vibe-coding" or running available quantitative tools to analyze your own portfolio.  One drawback of utilizing financial advisors is that they have a vested interest in you not retiring early so they can keep charging fees.  Doing your own analysis will empower you to make your own decisions without costing any money.  
+- I want to note that doing your own analysis is basically free, and you can have fun doing "vibe-coding" or running available quantitative tools to analyze your own portfolio.  One drawback of utilizing financial advisors is that they have a vested interest in you not retiring early so they can keep charging fees.  Doing your own analysis will empower you to make your own decisions without costing any money.
+
+  Example: A 1% AUM fee from a financial advisor on a $1M portfolio costs you ~$340,000 over 30 years in lost compound growth—money that goes directly to the advisor.
+
 - **Fee drag compounds** — even 0.3 % annual cost difference matters over decades.  
 - **Pre-commitment** prevents panic — decide your response to a 20 % drop *before* it happens.  
 - **Iterate & review** at least annually — your assumptions can go stale faster than the data.
-- This last strategy is more controversial: if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers).  **note** I'm not advocating "insider trading", I'm referring to having knowledge of the industry/trends and not company secrets!
+- This last strategy is more controversial: if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers).
+  **Note** I'm not advocating "insider trading", I'm referring to having knowledge of the industry/trends and not utilizing company secrets!
 The above strategy is for those who want to get the highest chances of high returns.  I would be cautious about doing this - be prepared for large potential losses that don't recover in some cases.  I discuss this in more detail here:  [Stock-picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
   
 
