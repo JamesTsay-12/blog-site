@@ -19,7 +19,7 @@ I had also mentioned all of the anxiety people are feeling due to future uncerta
 
 [*Investing in an Uncertain World*](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
 
-However, we know we can't time the market, and even when large concerns are flagged it can take several years for large crashes to come.   For example, Alan Greenspan (Fed chariman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
+However, we know we can't time the market, and even when large concerns are flagged it can take several years for large crashes to come.   For example, Alan Greenspan (Fed chairman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
 
 A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever. 
 
@@ -120,7 +120,7 @@ The key here is that some funds have outstanding managers who can act quickly wi
 
 Will Danoff’s Contrafund has outperformed the S&P 500 over decades by mixing growth conviction with fundamental discipline. In 2025, Fidelity appointed co-managers **Asher Anolic** and **Jason Weiner** to ensure succession continuity after 34 years of solo management.([Bloomberg, 2025](https://www.bloomberg.com/news/articles/2025-04-11/contrafund-s-145-billion-man-gets-help-after-34-year-solo-run))
 
-His strategy is a form of value investing, staying flexible and looking for quality companies with high earnings per share.  You can see more on his philosphy here:
+His strategy is a form of value investing, staying flexible and looking for quality companies with high earnings per share.  You can see more on his investment philosophy here:
 [Transcript: Will Danoff (Ritholtz, Sep 2020)](https://ritholtz.com/2020/09/transcript-will-danoff/)
 
 One of my concerns, is they do allocate a large portion of their funds to single stocks (e.g. META at 15% as of October 2025)
