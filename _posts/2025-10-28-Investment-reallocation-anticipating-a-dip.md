@@ -13,15 +13,15 @@ This blog is in progress and being updated.
 
 I often find myself in conversations with friends where I hear questions like this: *“If the crash is inevitable, when will it happen, and how should I be investing now?”* 
 
-I'm finding many people are increasingly worried about the future economy, especially those in the tech field where layoffs are getting more and more frequent, and the stock market is extremely volatile.
+I've personally been predicting a market crash for quite some time now (incorrectly), and have been surprised that we keep getting a run-up of the stock market (as of late October 2025).  I think many of us in the tech industry who have seen the amount of failing startups, mass layoffs, high inflation, weakening dollar, and the continued rapid rise of the stock market as highly suspicious. 
 
 I had also mentioned all of the anxiety people are feeling due to future uncertainty and geopolitical changes, and some ways of diversifying/rebalancing your portfolio in this previous blog post:
 
 [*Investing in an Uncertain World*](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
 
-We are now living in a time where AI hype, rapid macro shifts, and seemingly-inflated valuations all are making us feel uneasy. The outlines of past bubbles were visible years in advance.  For example, Alan Greenspan (Fed chariman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
+However, we know we can't time the market, and even when large concerns are flagged it can take several years for large crashes to come.   For example, Alan Greenspan (Fed chariman) famously warned of “irrational exuberance” in 1996–97, but the dot-com bubble didn’t burst until 2001.  
 
-A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever. I've personally been predicting a market crash for quite some time now (incorrectly), and have been surprised that we keep getting a run-up of the stock market (as of late October 2025).  I think many of us in the tech industry who have seen the amount of failing startups, mass layoffs, high inflation, weakening dollar, and the continued rapid rise of the stock market as highly suspicious and anxiety-inducing. 
+A crash may be inevitable, but because *when* and *how deep* are uncertain, our **strategy** matters more than ever. 
 
 In this post, I’ll discuss practical approaches depending on whether you’re aiming for **wealth preservation**, **highest returns possible**, or a **balanced blend**, and how different strategies can coexist in a single plan.
 
@@ -78,7 +78,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 - Less tactical flexibility if conditions change rapidly.
 - In our unpredictable future in a rapidly-changing world, this might not pan out like it did the last 100 years.
 
-**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that must investment gurus would recommend.  I don't personally do this because I have fun managing money and also am skeptical the future will behave similarly to the past.
+**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that must investment gurus would recommend.  I don't personally do only this because I have fun managing money and also am skeptical the future will behave similarly to the past.
 
 ---
 
@@ -163,7 +163,9 @@ Active funds can complement a passive core if:
 - Proven >10-year track record  
 - Transparent succession plan that inspires confidence  
 
-Treat them as **satellites** around your passive “core,” not as replacements.
+**My take:** I'm increasingly interested and have some stakes in these kinds of stocks/funds for diversification.  I'm no genius manager (maybe lucky to some degree), and I trust Buffett's and Danoff's teams to not make irrational decisions which I sometimes am guilty of.
+
+I'd take these funds/stocks as **satellites** around your passive “core,” not as replacements.
 
 ---
 
