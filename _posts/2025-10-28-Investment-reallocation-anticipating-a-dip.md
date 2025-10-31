@@ -75,8 +75,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 - Less tactical flexibility if conditions change rapidly.
 - In our unpredictable future in a rapidly-changing world, this might not pan out like it did the last 100 years.
 
-**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I personally **don't only** do this because I have fun managing money and also am skeptical the future will behave similarly to the past.  It's also important to keep in mind for all of these strategies that you should have a reasonable emergency fund in cash, so you should not deplete all of your reserves to take advantage of "buy-the-dip" opportunities.
-
+**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I personally **don't only** do this because I have fun managing money and also am skeptical the future will behave similarly to the past.  
 ---
 
 ### 3. Hold Cash Until a Major Dip  
@@ -95,7 +94,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 
 **Tip:** Create a staged plan (e.g., deploy 25 % after a 10 % drop, 25 % after 20 %, etc.). Having rules reduces hesitation.
 
-**My take:** I do some of this along with other strategies, since having cash makes me feel more at ease in a tumultuous time and I enjoy being opportunistic.  Everyone tells you not to time the market, so I don't **only** do this.
+**My take:** I do some of this along with other strategies, since having cash makes me feel more at ease in a tumultuous time and I enjoy being opportunistic.  Everyone tells you not to time the market, so I don't **only** do this.  It's also important to keep in mind for all of these strategies that you should have a reasonable emergency fund left in a liquid high interest savings account, so you should not deplete all of your reserves to take advantage of "buy-the-dip" opportunities.
 
 ---
 
