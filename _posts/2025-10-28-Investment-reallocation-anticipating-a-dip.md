@@ -95,7 +95,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 
 **Tip:** Create a staged plan (e.g., deploy 25 % after a 10 % drop, 25 % after 20 %, etc.). Having rules reduces hesitation.
 
-**My take:** I do some of this along with other strategies, since having cash makes me feel more at ease in a tumultuous time and I enjoy being opportunistic.  Everyone tells you not to time the market, so I don't **only** do this.  It's also important to keep in mind for all of these strategies that you should have a reasonable emergency fund left in a liquid high interest savings account, so you should not deplete all of your reserves to take advantage of "buy-the-dip" opportunities.
+**My take:** I do some of this along with other strategies, since having cash makes me feel more at ease in a tumultuous time and I enjoy being opportunistic.  Everyone tells you not to time the market, so I **don't only** do this.  It's also important to keep in mind for all of these strategies that you should have a reasonable emergency fund left in a liquid high interest savings account, so you should not deplete all of your reserves to take advantage of "buy-the-dip" opportunities.
 
 ---
 
