@@ -182,7 +182,7 @@ I'd take these funds/stocks as **satellites** around your passive “core,” no
 
 **My view:** I think holding modest amounts is reasonable (for example  5–10 % max) to balance for inflation and devaluing currency, and to not be 100% exposed to the stock market.  Collectibles are probably better suited for hobbies and fun: their value can fluctuate wildly depending on trends and can be challenging to sell.
 
-**Impotant note**  All of the 5 strategies and different funds have different tax implications, which are important for the timing and placement of your allocations.  Please see my supplemental section for further discussion.
+**Important note:**  All of the 5 strategies and different funds have different tax implications, which are important for the timing and placement of your allocations.  Please see my supplemental section for further discussion.
 
 ---
 
