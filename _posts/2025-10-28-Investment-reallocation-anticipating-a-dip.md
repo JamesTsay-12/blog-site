@@ -75,7 +75,7 @@ I discussed this in a previous post: [Easy Diversified Portfolio](https://jamest
 - Less tactical flexibility if conditions change rapidly.
 - In our unpredictable future in a rapidly-changing world, this might not pan out like it did the last 100 years.
 
-**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I personally **don't only** do this because I have fun managing money and also am skeptical the future will behave similarly to the past.
+**My take:** This is my “engineering backup system.” Even if I did nothing else, this core would likely carry me to financial independence over time.  It's the most reasonably conservative plan that many investment gurus would recommend.  I personally **don't only** do this because I have fun managing money and also am skeptical the future will behave similarly to the past.  It's also important to keep in mind for all of these strategies that you should have a reasonable emergency fund in cash, so you should not deplete all of your reserves to take advantage of "buy-the-dip" opportunities.
 
 ---
 
@@ -212,7 +212,7 @@ Whatever mix you choose, align it with your **behavioral comfort zone**. The bes
 - **Iterate & review** at least annually — your assumptions can go stale faster than the data.
 - This last strategy is more controversial: if you are tech insider, you can use your special knowledge of the industry (alpha) to know when there are good buying opportunities (e.g. irrational drops in tech stocks without sound fundamental drivers).
   **Note** I'm not advocating "insider trading", I'm referring to having knowledge of the industry/trends and not utilizing company secrets!
-The above strategy is for those who want to get the highest chances of high returns.  I would be cautious about doing this - be prepared for large potential losses that don't recover in some cases.  I discuss this in more detail here:  [Stock-picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
+The above strategy is for those who want to get the highest chances of high returns.  I would be cautious about doing this - be prepared for large potential losses that don't recover in some cases, and don't bet the farm.  I discuss this in more detail here:  [Stock-picking: Is it a Fool’s Errand?](https://jamestsay-12.github.io/blog-site/finance/2025/07/28/Stock-picking-Is-it-A-Fool's-Errand.html)
   
 
 ---
