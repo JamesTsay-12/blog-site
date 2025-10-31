@@ -180,7 +180,9 @@ I'd take these funds/stocks as **satellites** around your passive “core,” no
 - High volatility and unclear intrinsic value.  
 - Correlations shift over time (e.g., Bitcoin trading like tech).  
 
-**My view:** I think holding modest amounts is reasonable (for example  5–10 % max) to balance for inflation and devaluing currency, and to not be 100% exposed to the stock market.
+**My view:** I think holding modest amounts is reasonable (for example  5–10 % max) to balance for inflation and devaluing currency, and to not be 100% exposed to the stock market.  Collectibles are probably better suited for hobbies and fun: their value can fluctuate wildly depending on trends and can be challenging to sell.
+
+**Impotant note**  All of the 5 strategies and different funds have different tax implications, which are important for the timing and placement of your allocations.  Please see my supplemental section for further discussion.
 
 ---
 
@@ -322,3 +324,23 @@ If you still want to add a timing component, do it **deliberately and proportion
 
 > The real goal isn’t to “beat the market” by guessing its turns — it’s to design a system that earns enough, fits your temperament, and lets you sleep at night.
 > As I mentioned in the main section, I personally have a hybrid approach, where I expect to do **some** market timing.  But this strategy is not for everyone.
+
+---
+
+### 5. Practical Note — Where to Hold Different Assets for Maximum Efficiency  
+
+Even the best strategy can lose effectiveness if your assets sit in the wrong type of account.  
+Here’s a quick guide I personally use when thinking about **“asset location”** — not just *what* to buy, but *where* to hold it for optimal tax treatment and compounding.
+
+| Asset Type | Best Location | Why |
+|-------------|----------------|-----|
+| **Index Funds (VTI, VXUS)** | Any | Tax-efficient anywhere; low turnover and qualified dividends make them ideal in both taxable and retirement accounts. |
+| **Berkshire Hathaway (BRK.B)** | Taxable or Roth | No dividends and rare capital gains events — efficient in taxable accounts; also fine in Roth for long-term growth. |
+| **Fidelity Contrafund (FCNTX)** | Roth or 401(k) | Higher turnover creates short-term gains; best sheltered in tax-advantaged accounts. |
+| **Bonds / Bond ETFs** | Tax-deferred (401k, IRA) | Interest income is taxed as ordinary income; best to keep in retirement accounts to defer taxes. |
+| **Alternatives (Gold, Bitcoin)** | Depends | Complex tax treatment and potential volatility; hold based on personal conviction and risk tolerance. For example, gold is taxed at a higher rate than long term capital gains for ETFs and stocks |
+
+**My take:** I try to think of asset location as an “efficiency multiplier.”  
+It doesn’t change your investment philosophy — it just ensures you’re not leaking unnecessary taxes along the way. Even small improvements in after-tax return can meaningfully change long-term compounding.
+
+---
