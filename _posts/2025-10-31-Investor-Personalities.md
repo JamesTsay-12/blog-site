@@ -62,7 +62,7 @@ For now, think of this as a **guide** to finding your financial self.
 - Suits seasoned professionals who enjoy finance as a hobby.  
 - Not ideal for retirees or those needing steady income.  
 
-**Example:** Warren Buffett — opportunistic allocator with discipline and patience.  
+**Example:** Warren Buffett: an opportunistic allocator with discipline and patience.  
 
 **Watch out for:** Over-analysis. Timing can feel logical until emotions take over.
 
@@ -140,7 +140,7 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 
 ### Exemplars  
 
-#### Peter Thiel – The Visionary Contrarian  
+#### Peter Thiel (Also a Visionary Contrarian)  
 - Co-founder of *PayPal* and early investor in *Facebook*; later founded *Palantir Technologies*.  
 - **Mindset:** Sees technology as a lever to reshape entire systems — skeptical of herd thinking, driven by long-term conviction.  
 - **Successes:** Early investments in Facebook and Palantir created massive asymmetric payoffs.  
@@ -273,7 +273,7 @@ Learn from their **frameworks**, not their **position sizes**.
 ## 9. The Hybrid Investor — The Realistic Middle  
 
 Most people aren’t one archetype.  
-You might be an *Engineer-Opportunist* hybrid — systematic most days but tactical during crises.  
+You might be an *Engineer-Opportunist* hybrid: systematic most days but tactical during crises.  
 Or a *Philosopher-Believer* who stays passive but holds a little BRK.B “just in case.”  
 You can see this in the case of Warren Buffett, who embodies a couple of archetypes: Opportunistic Strategist and Active Believer
 
