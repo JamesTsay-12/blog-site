@@ -335,7 +335,7 @@ The goal isn’t perfection; it’s **self-awareness**. If you know your emotion
 | **Mid-career, with kids** | Systematic Engineer, Active Believer | Needs balance between structure and flexibility. |
 | **Late career / pre-retirement** | Security Seeker, Active Believer | Emphasize capital preservation and reliable income. |
 | **Retired or FIRE** | Security Seeker, Passive Philosopher | Low stress and consistent withdrawals. |
-| **Entrepreneur or tech founder** | Opportunistic Strategist, Speculative Visionary | Comfortable with cycles and high volatility. |
+| **Entrepreneur or tech founder** | Opportunistic Strategist, Experimental Technologist, Speculative Visionary | Comfortable with cycles and high volatility. |
 
 ---
 
