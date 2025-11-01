@@ -136,7 +136,25 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 - Best for younger investors who can recover from volatility.  
 - Not suitable for those near retirement or funding dependents.  
 
-**Examples:** Elon Musk–type innovators or early Bitcoin adopters — high risk, high curiosity.  
+**Examples:** Elon Musk, Jeff Bezos, Mark Zuckerberg, Jenson Huang, Peter Thiel, Shawn Fanning - Entrepreneurs and tech industry leaders tend to fit the bill
+
+### Exemplars  
+
+#### Peter Thiel – The Visionary Contrarian  
+- Co-founder of *PayPal* and early investor in *Facebook*; later founded *Palantir Technologies*.  
+- **Mindset:** Sees technology as a lever to reshape entire systems — skeptical of herd thinking, driven by long-term conviction.  
+- **Successes:** Early investments in Facebook and Palantir created massive asymmetric payoffs.  
+- **Challenges:** Venture bets often polarizing; some ideological stances and concentrated positions (e.g., crypto) led to volatility.  
+- **Takeaway:** Brilliant contrarian thinking works when paired with strong timing and network insight — but requires extreme patience and tolerance for being misunderstood.  
+
+#### Shawn Fanning – The Disruptive Innovator  
+- Creator of *Napster*, one of the first peer-to-peer file-sharing platforms that changed the digital landscape.  
+- **Mindset:** Experimental, curious, and risk-embracing — driven more by technological possibility than financial outcome.  
+- **Successes:** Sparked an entire wave of decentralized music and data-sharing innovation; influenced streaming models used today.  
+- **Failures:** Legal pushback and lack of monetization shut down Napster before it could scale profitably.  
+- **Takeaway:** Visionary experimentation can reshape industries — but without sustainability or timing, innovation alone can’t guarantee investment success.  
+
+
 
 **Watch out for:** Narrative bias — “this time it’s different” rarely holds forever.
 
