@@ -283,7 +283,7 @@ They’re guided by conviction, theory, and asymmetric risk-taking — believing
 - **Takeaway:** Great educator on mindset, poor market timer.  
 
 #### Cathie Wood – The Disruptive Believer  
-- CEO of *ARK Invest*; focused on AI, genomics, and disruptive tech.  She can also be considered and experimental technologist, but is a fund manger, and not a technology founder.
+- CEO of *ARK Invest*; focused on AI, genomics, and disruptive tech.  She can also be considered an experimental technologist, but is a fund manger, and not a technology founder.
 - **Successes:** 2020 surge (+150% ARKK).  
 - **Failures:** 2021–23 drawdown over 70%.  
 - **Takeaway:** Vision creates alpha, but concentration magnifies pain.  
