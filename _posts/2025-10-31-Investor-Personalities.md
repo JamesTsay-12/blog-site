@@ -140,7 +140,7 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 
 ### Exemplars  
 
-#### Peter Thiel (Also a Visionary Contrarian)  
+#### Peter Thiel - Also a Visionary Contrarian  
 - Co-founder of *PayPal* and early investor in *Facebook*; later founded *Palantir Technologies*.  
 - **Mindset:** Sees technology as a lever to reshape entire systems — skeptical of herd thinking, driven by long-term conviction.  
 - **Successes:** Early investments in Facebook and Palantir created massive asymmetric payoffs.  
