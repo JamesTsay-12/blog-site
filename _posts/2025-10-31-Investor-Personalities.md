@@ -10,14 +10,20 @@ This blog is in progress, and currently in writing
 ## Introduction  
 
 The more I study investing, the more I realize it’s not just about money,  it’s also about **personality**.  
-Two people can hold the same ETF portfolio and have wildly different experiences depending on their temperament, patience, and emotional response to volatility.  
+Two people can hold the same ETF portfolio and have wildly different experiences depending on their temperament, patience, and emotional response to volatility. 
+
 I enjoy watching content from different investor takes on platforms like Youtube who have varying visions, experiences, and advice with investing.
 
 The idea for this blog was inspired by the **Myers–Briggs Type Indicator (MBTI)** — a framework that helps people understand how they perceive the world and make decisions.  
+
+[Myers–Briggs Overview](https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/)
+
 Just like Myers–Briggs, I believe investors also fall into recognizable **behavioral archetypes** — each with unique motivations, blind spots, and ways of staying disciplined. 
+
 Depending on their personality types, they will be drawn to investing in certain ways which they find satisfying, enjoyable, or give them peace of mind.
 
 In this post, I’ll explore several **investor personality types**,  from the calm, methodical *Engineer* to the opportunistic *Strategist* and the patient *Contrarian*.  
+
 Each type includes real-world examples, life-stage suitability, and the emotional “fit” that determines whether you’ll actually follow your own plan.  
 
 An upcoming blog will take this further.  I’m designing an **Investor Personality Test:**  a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
@@ -111,6 +117,9 @@ For now, think of this as a **guide** to finding your financial self.
 - *Warren Buffett:*  disciplined capital allocator with a century-scale mindset.  
 - *Will Danoff (Contrafund):* flexible growth investor balancing conviction with prudence.  
 
+For more on their investment philosophies, check out this previous post:
+[Investment Reallocation: Anticipating a Dip](https://jamestsay-12.github.io/blog-site/finance/2025/10/29/Investment-reallocation-anticipating-a-dip.html)
+
 **Clarifying “Contra” vs. “Contrarian”:**  
 Contrafund isn’t about fighting the market,  it’s about avoiding hype.  
 Danoff invests **against fads**, not fundamentals.  
@@ -128,7 +137,7 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 **Follow-through:** 5/10 — conviction fades when experiments fail.  
 
 **Best Strategies:**  
-- 5–10% allocation to speculative assets if you are of moderate wealth, and possibly even more if you are wealthier
+- 5–10% allocation to speculative assets if you are of moderate wealth, and possibly even more if you are wealthier (for example >$2M net worth)
 - Remainder in diversified ETFs or defensive core  
 - Regular rebalancing to limit exposure  
 
@@ -283,7 +292,7 @@ What matters isn’t the label, it’s understanding your tendencies so you can 
 For instance:  
 - If you love timing, automate your triggers.  
 - If you hate monitoring, automate your deposits.  
-- If you crave excitement, cap your risky sleeve at 10%.  
+- If you crave excitement, cap your risky sleeve at 10% if you are not in the high wealth category.  
 
 ---
 
@@ -321,13 +330,18 @@ The goal isn’t perfection; it’s **self-awareness**. If you know your emotion
 
 If you enjoy your strategy, you’ll stick to it.  
 If you stick to it, compounding works.  
-If you hate your plan, you’ll abandon it no matter how “optimal” it looks on paper.  
+If you hate your plan, you’ll abandon it no matter how “optimal” it looks on paper. 
+
+Another important aspect is to take action and to not be paralyzed.  Try to find your strategy by trying things out!
+I write more about why this is important here: 
+[Investing is Gambling — but so is Life](https://jamestsay-12.github.io/blog-site/finance/2025/07/30/Investing-is-Gambling-but-so-is-Life.html)
 
 ---
 
 ## Toward a “Financial Personality Test”  
 
 In my next post, I’ll share an **interactive Investor Personality Test:** a Myers–Briggs–inspired framework that asks questions about volatility comfort, control preference, and time horizon.  
+
 It will help identify your archetype and suggest:  
 - Suitable asset mixes,  
 - Rebalancing frequency, and  
