@@ -5,13 +5,17 @@ date: 2025-11-05
 categories: [finance, psychology]
 ---
 
+This blog is in progress, and currently in writing
+
 ## Introduction  
 
-The more I study investing, the more I realize it’s not just about money — it’s about **personality**.  
+The more I study investing, the more I realize it’s not just about money — it’s also about **personality**.  
 Two people can hold the same ETF portfolio and have wildly different experiences depending on their temperament, patience, and emotional response to volatility.  
+I enjoy watching content from different investor takes on platforms like Youtube who have varying visions, experiences, and advice with investing.
 
-This idea was inspired by the **Myers–Briggs Type Indicator (MBTI)** — a framework that helps people understand how they perceive the world and make decisions.  
-Just like Myers–Briggs, I believe investors also fall into recognizable **behavioral archetypes** — each with unique motivations, blind spots, and ways of staying disciplined.  
+The idea for this blog was inspired by the **Myers–Briggs Type Indicator (MBTI)** — a framework that helps people understand how they perceive the world and make decisions.  
+Just like Myers–Briggs, I believe investors also fall into recognizable **behavioral archetypes** — each with unique motivations, blind spots, and ways of staying disciplined. 
+Depending on their personality types, they will be drawn to investing in certain ways which they find satisfying, enjoyable, or give them peace of mind.
 
 In this post, I’ll explore several **investor personality types** — from the calm, methodical *Engineer* to the opportunistic *Strategist* and the patient *Contrarian*.  
 Each type includes real-world examples, life-stage suitability, and the emotional “fit” that determines whether you’ll actually follow your own plan.  
@@ -224,26 +228,26 @@ They’re guided by conviction, theory, and asymmetric risk-taking — believing
 
 ### Exemplars  
 
-#### 🧠 Ray Dalio – The Macro Theorist  
+#### Ray Dalio – The Macro Theorist  
 - Founder of *Bridgewater Associates*; pioneered global macro investing and “All Weather” risk parity.  
 - **Successes:** Anticipated 2008 crisis, returned +14% that year.  
 - **Challenges:** Underperformed 2019–2023 as macro views lagged markets.  
 - **Takeaway:** Visionary modeling works — until it doesn’t.  
 
-#### 🪙 Robert Kiyosaki – The Cashflow Evangelist  
+#### Robert Kiyosaki – The Cashflow Evangelist  
 - Author of *Rich Dad Poor Dad*; advocate for hard assets and debt leverage.  
 - **Successes:** Built wealth through real estate and early gold investments.  
 - **Failures:** Extreme crash predictions and overreliance on leverage.  
 - **Takeaway:** Great educator on mindset, poor market timer.  
 
-#### 💹 Cathie Wood – The Disruptive Believer  
+#### Cathie Wood – The Disruptive Believer  
 - CEO of *ARK Invest*; focused on AI, genomics, and disruptive tech.  
 - **Successes:** 2020 surge (+150% ARKK).  
 - **Failures:** 2021–23 drawdown over 70%.  
 - **Takeaway:** Vision creates alpha — but concentration magnifies pain.  
 
 **My take:**  
-I respect these thinkers deeply. They remind us that progress requires vision — but also that portfolio sizing and humility matter just as much as genius.  
+I respect these thinkers in different ways, but don't always agree on their methods and advice. They do remind us that progress requires vision — but also that portfolio sizing and humility matter just as much as genius.  
 Learn from their **frameworks**, not their **position sizes**.
 
 ---
