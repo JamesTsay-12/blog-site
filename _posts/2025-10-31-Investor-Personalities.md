@@ -279,7 +279,7 @@ You can see this in the case of Warren Buffett, who embodies a couple of archety
 
 I'm a hybrid of several of these archetypes, enjoy evaluating different strategies, and trying to fit something that I will stick with.
 
-What matters isn’t the label — it’s understanding your tendencies so you can **design safeguards**.  
+What matters isn’t the label, it’s understanding your tendencies so you can **design safeguards**.  
 For instance:  
 - If you love timing, automate your triggers.  
 - If you hate monitoring, automate your deposits.  
@@ -321,7 +321,7 @@ The goal isn’t perfection; it’s **self-awareness**. If you know your emotion
 
 If you enjoy your strategy, you’ll stick to it.  
 If you stick to it, compounding works.  
-If you hate your plan, you’ll abandon it — no matter how “optimal” it looks on paper.  
+If you hate your plan, you’ll abandon it no matter how “optimal” it looks on paper.  
 
 ---
 
@@ -333,7 +333,7 @@ It will help identify your archetype and suggest:
 - Rebalancing frequency, and  
 - Behavioral guardrails for your type.  
 
-It won’t tell you *what* to buy — it will show you *what you can live with*.  
+It won’t tell you *what* to buy, but it will show you *what you can live with*.  
 
 ---
 
