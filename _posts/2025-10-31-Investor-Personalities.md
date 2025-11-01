@@ -137,12 +137,13 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 **Follow-through:** 5/10 — conviction fades when experiments fail.  
 
 **Best Strategies:**  
-- 5–10% allocation to speculative assets if you are of moderate wealth, and possibly even more if you are wealthier (for example >$2M net worth)
+- 5–10% allocation to speculative assets if you are of moderate wealth, and possibly even more if you are wealthier (for example up to 15% for >$2M investable assets)
 - Remainder in diversified ETFs or defensive core  
 - Regular rebalancing to limit exposure  
 
 **Life-Stage Fit:**  
-- Best for younger investors who can recover from volatility.  
+- Best for younger investors who can recover from volatility.
+- Also suitable for those who already have high wealth without large debt/spending obligations.
 - Not suitable for those near retirement or funding dependents.  
 
 **Examples:** Elon Musk, Jeff Bezos, Mark Zuckerberg, Jenson Huang, Peter Thiel, Shawn Fanning.  Entrepreneurs and tech industry leaders tend to fit the bill
