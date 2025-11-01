@@ -9,7 +9,7 @@ This blog is in progress, and currently in writing
 
 ## Introduction  
 
-The more I study investing, the more I realize it’s not just about money — it’s also about **personality**.  
+The more I study investing, the more I realize it’s not just about money,  it’s also about **personality**.  
 Two people can hold the same ETF portfolio and have wildly different experiences depending on their temperament, patience, and emotional response to volatility.  
 I enjoy watching content from different investor takes on platforms like Youtube who have varying visions, experiences, and advice with investing.
 
@@ -17,10 +17,10 @@ The idea for this blog was inspired by the **Myers–Briggs Type Indicator (MBTI
 Just like Myers–Briggs, I believe investors also fall into recognizable **behavioral archetypes** — each with unique motivations, blind spots, and ways of staying disciplined. 
 Depending on their personality types, they will be drawn to investing in certain ways which they find satisfying, enjoyable, or give them peace of mind.
 
-In this post, I’ll explore several **investor personality types** — from the calm, methodical *Engineer* to the opportunistic *Strategist* and the patient *Contrarian*.  
+In this post, I’ll explore several **investor personality types**,  from the calm, methodical *Engineer* to the opportunistic *Strategist* and the patient *Contrarian*.  
 Each type includes real-world examples, life-stage suitability, and the emotional “fit” that determines whether you’ll actually follow your own plan.  
 
-An upcoming blog will take this further: I’m designing an **Investor Personality Test** — a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
+An upcoming blog will take this further: I’m designing an **Investor Personality Test:**  a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
 
 For now, think of this as the **field guide** to finding your financial self.
 
@@ -108,23 +108,23 @@ For now, think of this as the **field guide** to finding your financial self.
 - Suits those approaching or in retirement who prefer quality oversight.  
 
 **Examples:**  
-- *Warren Buffett* — disciplined capital allocator with a century-scale mindset.  
-- *Will Danoff (Contrafund)* — flexible growth investor balancing conviction with prudence.  
+- *Warren Buffett:*  disciplined capital allocator with a century-scale mindset.  
+- *Will Danoff (Contrafund):* flexible growth investor balancing conviction with prudence.  
 
 **Clarifying “Contra” vs. “Contrarian”:**  
-Contrafund isn’t about fighting the market — it’s about avoiding hype.  
+Contrafund isn’t about fighting the market,  it’s about avoiding hype.  
 Danoff invests **against fads**, not fundamentals.  
 He’ll own popular companies (META, NVDA, AMZN) when their earnings justify it.  
 That makes Contrafund “contra to hype,” not “contra to progress.”  
 
-**Watch out for:** Key-person risk — managers eventually retire.
+**Watch out for:** Key-person risk: managers eventually retire.
 
 ---
 
 ## 5. The Experimental Technologist  
 
 **Mindset:** Curious, forward-looking, comfortable with volatility.  
-**Enjoyment comes from:** exploring innovation — crypto, AI, biotech, or frontier ETFs.  
+**Enjoyment comes from:** exploring innovation: crypto, AI, biotech, or frontier ETFs.  
 **Follow-through:** 5/10 — conviction fades when experiments fail.  
 
 **Best Strategies:**  
@@ -136,7 +136,7 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 - Best for younger investors who can recover from volatility.  
 - Not suitable for those near retirement or funding dependents.  
 
-**Examples:** Elon Musk, Jeff Bezos, Mark Zuckerberg, Jenson Huang, Peter Thiel, Shawn Fanning - Entrepreneurs and tech industry leaders tend to fit the bill
+**Examples:** Elon Musk, Jeff Bezos, Mark Zuckerberg, Jenson Huang, Peter Thiel, Shawn Fanning.  Entrepreneurs and tech industry leaders tend to fit the bill
 
 ### Exemplars  
 
@@ -145,18 +145,18 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 - **Mindset:** Sees technology as a lever to reshape entire systems — skeptical of herd thinking, driven by long-term conviction.  
 - **Successes:** Early investments in Facebook and Palantir created massive asymmetric payoffs.  
 - **Challenges:** Venture bets often polarizing; some ideological stances and concentrated positions (e.g., crypto) led to volatility.  
-- **Takeaway:** Brilliant contrarian thinking works when paired with strong timing and network insight — but requires extreme patience and tolerance for being misunderstood.  
+- **Takeaway:** Brilliant contrarian thinking works when paired with strong timing and network insight,  but requires extreme patience and tolerance for being misunderstood.  
 
 #### Shawn Fanning – The Disruptive Innovator  
 - Creator of *Napster*, one of the first peer-to-peer file-sharing platforms that changed the digital landscape.  
-- **Mindset:** Experimental, curious, and risk-embracing — driven more by technological possibility than financial outcome.  
+- **Mindset:** Experimental, curious, and risk-embracing:  driven more by technological possibility than financial outcome.  
 - **Successes:** Sparked an entire wave of decentralized music and data-sharing innovation; influenced streaming models used today.  
 - **Failures:** Legal pushback and lack of monetization shut down Napster before it could scale profitably.  
-- **Takeaway:** Visionary experimentation can reshape industries — but without sustainability or timing, innovation alone can’t guarantee investment success.  
+- **Takeaway:** Visionary experimentation can reshape industries, but without sustainability or timing. Innovation alone can’t guarantee investment success.  
 
 
 
-**Watch out for:** Narrative bias — “this time it’s different” rarely holds forever.
+**Watch out for:** Narrative bias:  “this time it’s different” rarely holds forever.
 
 ---
 
@@ -211,7 +211,7 @@ Best known for predicting and profiting from the 2008 housing collapse (as portr
 
 **Archetype Fit:**  
 Burry blends the **Contrarian Philosopher’s independent reasoning** with the **Opportunistic Strategist’s precision timing**.  
-He is analytical to a fault, building high-conviction positions from first principles, then waiting — often alone — until the world catches up.
+He is highly analytical, building high-conviction positions from first principles, then waiting (often alone) until the world catches up.
 
 **Traits and Lessons:**  
 - Performs *deep forensic research* into balance sheets, macro trends, and mispriced risk.  
@@ -250,7 +250,7 @@ They’re guided by conviction, theory, and asymmetric risk-taking — believing
 - Founder of *Bridgewater Associates*; pioneered global macro investing and “All Weather” risk parity.  
 - **Successes:** Anticipated 2008 crisis, returned +14% that year.  
 - **Challenges:** Underperformed 2019–2023 as macro views lagged markets.  
-- **Takeaway:** Visionary modeling works — until it doesn’t.  
+- **Takeaway:** Visionary modeling works (until it doesn’t).  
 
 #### Robert Kiyosaki – The Cashflow Evangelist  
 - Author of *Rich Dad Poor Dad*; advocate for hard assets and debt leverage.  
@@ -262,7 +262,7 @@ They’re guided by conviction, theory, and asymmetric risk-taking — believing
 - CEO of *ARK Invest*; focused on AI, genomics, and disruptive tech.  
 - **Successes:** 2020 surge (+150% ARKK).  
 - **Failures:** 2021–23 drawdown over 70%.  
-- **Takeaway:** Vision creates alpha — but concentration magnifies pain.  
+- **Takeaway:** Vision creates alpha, but concentration magnifies pain.  
 
 **My take:**  
 I respect these thinkers in different ways, but don't always agree on their methods and advice. They do remind us that progress requires vision — but also that portfolio sizing and humility matter just as much as genius.  
@@ -275,6 +275,9 @@ Learn from their **frameworks**, not their **position sizes**.
 Most people aren’t one archetype.  
 You might be an *Engineer-Opportunist* hybrid — systematic most days but tactical during crises.  
 Or a *Philosopher-Believer* who stays passive but holds a little BRK.B “just in case.”  
+You can see this in the case of Warren Buffett, who embodies a couple of archetypes: Opportunistic Strategist and Active Believer
+
+I'm a hybrid of several of these archetypes, enjoy evaluating different strategies, and trying to fit something that I will stick with.
 
 What matters isn’t the label — it’s understanding your tendencies so you can **design safeguards**.  
 For instance:  
@@ -295,7 +298,7 @@ While most people fit naturally into one of the archetypes above, there are a fe
 | **The Gambling Addict** | Chases hype, trades impulsively, and confuses luck for skill. | Unsustainable; luck always runs out before discipline returns. |
 
 **My take:**  
-These aren’t personalities — they’re warning signs. Every archetype has its shadow side.  
+These aren’t personalities,  they’re warning signs. Every archetype has its shadow side.  
 The goal isn’t perfection; it’s **self-awareness**. If you know your emotional triggers, you can design systems that protect you from yourself.  
 
 ---
@@ -324,7 +327,7 @@ If you hate your plan, you’ll abandon it — no matter how “optimal” it lo
 
 ## Toward a “Financial Personality Test”  
 
-In my next post, I’ll share an **interactive Investor Personality Test** — a Myers–Briggs–inspired framework that asks questions about volatility comfort, control preference, and time horizon.  
+In my next post, I’ll share an **interactive Investor Personality Test:** a Myers–Briggs–inspired framework that asks questions about volatility comfort, control preference, and time horizon.  
 It will help identify your archetype and suggest:  
 - Suitable asset mixes,  
 - Rebalancing frequency, and  
@@ -340,10 +343,10 @@ Money decisions are emotional engineering problems.
 The same data produces different outcomes depending on the human using it.  
 
 Maybe you’re a Boglehead philosopher like *Tae Kim* or *Ramit Sethi*, an opportunist with Buffett tendencies, or a speculative visionary like *Ray Dalio*.  
-Whatever your type, investing works best when it feels natural — when it aligns with who you are, what stage you’re in, and what helps you sleep at night.  
+Whatever your type, investing works best when it feels natural: when it aligns with who you are, what stage you’re in, and what helps you sleep at night.  
 
 > Don’t just build your portfolio.  
-> Build your **behavioral architecture** — the system that makes good decisions effortless.
+> Build your **behavioral architecture:**  the system that makes good decisions effortless.
 
 ---
 
