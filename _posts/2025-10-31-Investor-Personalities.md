@@ -5,7 +5,6 @@ date: 2025-11-05
 categories: [finance, psychology]
 ---
 
-This blog is in progress, and currently in writing
 
 ## Introduction  
 
