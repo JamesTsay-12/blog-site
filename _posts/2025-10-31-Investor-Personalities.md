@@ -239,6 +239,22 @@ For instance:
 
 ---
 
+## Behavioral Pitfalls to Avoid  
+
+While most people fit naturally into one of the archetypes above, there are a few behavioral patterns that consistently lead to poor outcomes — regardless of intelligence or market experience.
+
+| Behavior Type | Description | Why It’s Dangerous |
+|----------------|--------------|--------------------|
+| **The Emotional Panic-Seller** | Buys high, sells low — often driven by fear and headlines. | Locks in losses and misses recovery cycles. |
+| **The Overly Conservative Allocator** | Keeps nearly everything in cash or bonds, afraid of volatility. | Loses to inflation over time and undercompounds wealth. |
+| **The Gambling Addict** | Chases hype, trades impulsively, and confuses luck for skill. | Unsustainable; luck always runs out before discipline returns. |
+
+**My take:**  
+These aren’t personalities — they’re warning signs. Every archetype has its shadow side.  
+The goal isn’t perfection; it’s **self-awareness**. If you know your emotional triggers, you can design systems that protect you from yourself.  
+
+---
+
 ## Life-Stage Suitability Table  
 
 | Life Stage / Situation | Best-Fit Archetypes | Notes |
@@ -287,3 +303,4 @@ Whatever your type, investing works best when it feels natural — when it align
 ---
 
 *Disclaimer: This article reflects personal views and is not financial advice. Always assess your own risk tolerance and consult a licensed advisor if needed.*
+
