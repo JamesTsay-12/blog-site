@@ -174,7 +174,7 @@ It's important to distinguish between the mindset of this archetype and the path
 
 For an investor, emulating the 'Experimental Technologist' doesn't mean starting a company. It means sharing their deep conviction in technology's future and being willing to:
 
-- Allocate a dedicated portion to high-growth themes like AI, genomics, or crypto.
+- Allocate a dedicated portion to high-growth themes like AI, genomics, or crypto (often based on knowledge and experience).
 
 - Hold these assets with a founder's patience, enduring extreme volatility without panic.
 
