@@ -128,7 +128,7 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 **Follow-through:** 5/10 — conviction fades when experiments fail.  
 
 **Best Strategies:**  
-- 5–10% allocation to speculative assets  
+- 5–10% allocation to speculative assets if you are of moderate wealth, and possibly even more if you are wealthier
 - Remainder in diversified ETFs or defensive core  
 - Regular rebalancing to limit exposure  
 
@@ -339,8 +339,8 @@ It won’t tell you *what* to buy, but it will show you *what you can live with*
 
 ## Final Thoughts  
 
-Money decisions are emotional engineering problems.  
-The same data produces different outcomes depending on the human using it.  
+Money decisions are frequently emotional engineering problems.  
+The same data produces different outcomes depending on the person using it.  
 
 Maybe you’re a Boglehead philosopher like *Tae Kim* or *Ramit Sethi*, an opportunist with Buffett tendencies, or a speculative visionary like *Ray Dalio*.  
 Whatever your type, investing works best when it feels natural: when it aligns with who you are, what stage you’re in, and what helps you sleep at night.  
