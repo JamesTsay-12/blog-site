@@ -20,7 +20,7 @@ Depending on their personality types, they will be drawn to investing in certain
 In this post, I’ll explore several **investor personality types**,  from the calm, methodical *Engineer* to the opportunistic *Strategist* and the patient *Contrarian*.  
 Each type includes real-world examples, life-stage suitability, and the emotional “fit” that determines whether you’ll actually follow your own plan.  
 
-An upcoming blog will take this further: I’m designing an **Investor Personality Test:**  a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
+An upcoming blog will take this further.  I’m designing an **Investor Personality Test:**  a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
 
 For now, think of this as the **field guide** to finding your financial self.
 
