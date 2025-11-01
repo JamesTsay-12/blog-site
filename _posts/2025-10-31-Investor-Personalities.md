@@ -22,7 +22,7 @@ Each type includes real-world examples, life-stage suitability, and the emotiona
 
 An upcoming blog will take this further.  I’m designing an **Investor Personality Test:**  a Myers–Briggs–style quiz that maps your answers to an investing archetype and provides guidance on portfolio construction and behavioral safeguards.  
 
-For now, think of this as the **field guide** to finding your financial self.
+For now, think of this as a **guide** to finding your financial self.
 
 ---
 
@@ -265,7 +265,7 @@ They’re guided by conviction, theory, and asymmetric risk-taking — believing
 - **Takeaway:** Vision creates alpha, but concentration magnifies pain.  
 
 **My take:**  
-I respect these thinkers in different ways, but don't always agree on their methods and advice. They do remind us that progress requires vision — but also that portfolio sizing and humility matter just as much as genius.  
+I respect these thinkers in different ways, but don't always agree on their methods and advice. They do remind us that progress requires vision, but also that portfolio sizing and humility matter just as much as genius.  
 Learn from their **frameworks**, not their **position sizes**.
 
 ---
