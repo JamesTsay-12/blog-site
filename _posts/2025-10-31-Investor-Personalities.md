@@ -182,6 +182,29 @@ That makes Contrafund “contra to hype,” not “contra to progress.”
 
 ---
 
+### Case Study: Michael Burry — The Contrarian Opportunist  
+
+Few modern investors embody both *contrarian patience* and *opportunistic timing* as completely as **Michael Burry**.  
+Best known for predicting and profiting from the 2008 housing collapse (as portrayed in *The Big Short*), Burry’s investing style defies simple categorization.  
+
+**Archetype Fit:**  
+Burry blends the **Contrarian Philosopher’s independent reasoning** with the **Opportunistic Strategist’s precision timing**.  
+He is analytical to a fault, building high-conviction positions from first principles, then waiting — often alone — until the world catches up.
+
+**Traits and Lessons:**  
+- Performs *deep forensic research* into balance sheets, macro trends, and mispriced risk.  
+- Willing to endure years of underperformance while waiting for a thesis to play out.  
+- Unafraid to make concentrated, asymmetric bets (e.g., CDS against subprime mortgages).  
+- His biggest wins (2008) and losses (2021–23 shorts against tech) show that **conviction cuts both ways**.
+
+**Takeaway:**  
+Burry’s brilliance lies in disciplined contrarian analysis, not his timing.  
+He shows that being early is survivable — but being undisciplined is not.  
+If you’re drawn to his style, structure your risk carefully and accept that *the crowd will think you’re wrong until you’re proven right.*
+
+
+---
+
 ## 8. The Speculative Visionary  
 
 **Mindset:** Big-picture thinker who sees macro patterns and long-term trends others miss.  
