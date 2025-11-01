@@ -159,7 +159,7 @@ Buffett announced he’ll step down at in January 2026, handing leadership to **
 #### Summary on Active Management  
 Active funds can complement a passive core if:  
 - Fees < 0.7 %  
-- Proven >10-year track record  
+- Proven >15-year track record  
 - Transparent succession plan that inspires confidence  
 
 **My take:** I'm increasingly interested and have some stakes in these kinds of stocks/funds for diversification.  I'm no genius manager (maybe lucky to some degree), and I trust Buffett's and Danoff's teams to not make irrational decisions which I sometimes am guilty of.
@@ -243,7 +243,8 @@ In the end, it’s not about guessing the crash. It’s about **designing a syst
 
 ### Related Post  
 
-If you enjoyed this analysis, you may like my earlier essay [*Investing in an Uncertain World*](https://jamestsay-12.github.io/blog-site/finance/2025/07/24/Investing-in-an-Uncertain-World.html), which first explored how technology cycles and macroeconomic shifts shape risk tolerance and portfolio design. This new piece is its practical companion — the “how” to that earlier “why.”  
+If you enjoyed this analysis, you may like my earlier essay [*Investing in an Uncertain World*](https://jamestsay-12.github.io/blog-site/finance/2025/07/16/Investing-in-an-uncertain-world.html)
+which first explored how technology cycles and macroeconomic shifts shape risk tolerance and portfolio design. This new piece is its practical companion: the “how” to that earlier “why.”  
 
 ---
 
