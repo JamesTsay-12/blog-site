@@ -6,6 +6,6 @@ categories: Science
 
 ---
 
-I'm excited to share a blog for an exciting epitranscriptomics company I've been consulting for as a Scientific Advisor!
+I'm excited to share a blog I wrote for an exciting epitranscriptomics company I've been consulting for as a Scientific Advisor!
 
 Here is the link:  https://www.alidabio.com/blog-post/rna-mods-shape-cancer-progression/
