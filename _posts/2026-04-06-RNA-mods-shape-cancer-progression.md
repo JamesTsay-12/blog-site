@@ -13,7 +13,7 @@ I'm excited to share a blog I wrote for an innovative epitranscriptomics company
 This piece explores how RNA modifications are emerging as a key layer of biological regulation in cancer progression, with potential implications for diagnostics and therapeutic response.
 
 **Read the full blog here:**  
-[How RNA Modifications Shape Cancer Progression](https://www.alidabio.com/blog-post/rna-mods-shape-cancer-progression/)
+[How RNA Modifications Shape Cancer Progression](https://www.alidabio.com/blog-post/beyond-transcriptomics-rna-modifications-shape-cancer-progression/)
 
 ---
 
