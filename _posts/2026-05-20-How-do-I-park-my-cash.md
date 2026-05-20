@@ -118,6 +118,8 @@ VTEC does not.
 
 VTEC is fundamentally a municipal bond fund and carries interest-rate risk. 
 
+One practical note on liquidity: at Fidelity, FDLXX can function as a core position. If you have a $4,000 credit card bill or buy a stock, Fidelity automatically liquidates FDLXX to cover it — no manual sell required. For optimizers, this eliminates the T+1 settlement friction that SGOV carries.
+
 ---
 
 # Yield Can Be Misleading
