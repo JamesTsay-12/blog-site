@@ -447,6 +447,7 @@ Municipal bond income from VTEC is generally federally tax exempt, but tax-exemp
 
 So VTEC helps taxes, but surprisingly may not help ACA qualification as much as many people assume.
 
+
 ---
 
 ## Approximate Current Yields
@@ -533,6 +534,8 @@ Municipal bond income helps taxes.
 
 But it generally does not disappear for ACA calculations.
 
+Treasury tax exemptions help state taxes but generally do not help ACA subsidy calculations because Treasury interest still counts toward federal MAGI.
+
 ---
 
 ## Practical Ranking For This Scenario
@@ -578,3 +581,15 @@ Absolutely.
 The optimization gains here are measured in tens or hundreds of dollars.
 
 The larger lesson is that once balances become hundreds of thousands or millions, these seemingly small differences begin compounding into meaningful numbers.
+
+**Final notes:** 
+
+For Helping to meet ACA thresholds (MAGI), these are more effective strategies:
+
+Traditional 401(k) contributions
+Traditional IRA contributions (if deductible)
+HSA contributions
+self-employed retirement plans
+business deductions
+capital-loss harvesting
+managing Roth conversions carefully
