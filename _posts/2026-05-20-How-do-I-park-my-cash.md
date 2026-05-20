@@ -23,6 +23,8 @@ excerpt: "Cash seems simple until you start comparing taxes, liquidity, opportun
 
 *How taxes, liquidity, geography, and psychology can quietly change where your “safe money” belongs*
 
+**Note** this post is in progress, and will be updated
+
 ## Intro
 
 Given the large uncertainty we are facing in the world, many people are considering keeping larger cash reserves to preserve their savings or opportunistically buy when there is an inevitable market downturn.
