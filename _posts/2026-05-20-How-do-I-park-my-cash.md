@@ -42,7 +42,7 @@ Many people know about high yield savings accounts, or HYSAs, but there are seve
 
 This article is an attempt to organize the tradeoffs and provide a framework for deciding where "safe money" belongs.
 
-**note:**  For those who are interested in optimization to get healthcare subsidization through the ACA, please see the appendix for an extended discussion.
+**Note:**  For those who are interested in optimization to get healthcare subsidization through the ACA, please see the appendix for an extended discussion.
 
 ---
 
