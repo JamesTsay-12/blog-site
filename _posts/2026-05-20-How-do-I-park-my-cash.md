@@ -401,21 +401,13 @@ Where do you put your cash?
 
 Instead I found a web of tradeoffs involving taxes, behavior, yield, flexibility, and even geography.
 
-The surprising lesson was that cash allocation is not really about maximizing return.
+The surprising lesson was that cash allocation is not just about maximizing returns, but also about providing options for decision-making and planning.
 
-It is about maximizing optionality.
+Some of this may admittedly drift into overthinking and over-optimization, but I do think there are situations where these decisions can have a substantial impact. Small differences in yield or tax treatment may not matter much on a few thousand dollars, but they can become amplified with larger balances, higher tax brackets, or specific planning goals.
 
-The same $100,000 can mean:
+Perhaps time would be better spent generating ideas for increasing income rather than optimizing where cash sits. Then again, part of investing and personal finance is understanding the landscape and exploring the tradeoffs.
 
-*"I hope my car does not break down."*
-
-or:
-
-*"I want enough dry powder to deploy during a market crash."*
-
-Same dollars.
-
-Completely different purpose.
+At the very least, it is fun to think and talk about.
 
 
 
