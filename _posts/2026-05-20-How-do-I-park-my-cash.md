@@ -618,6 +618,8 @@ Now add an HSA contribution of $8,300 and a Traditional IRA contribution of $7,0
 
 **The takeaway:** For ACA families, income-reduction strategies are the primary lever. Cash vehicle selection is the secondary one. Both matter, but confusing their order of importance leads to over-optimizing the wrong thing.
 
+**important note:**  Please use the ACA numbers as instructive, but not necessarily updated since they are subject to change.
+
 ---
 
 ## Where This Changes the Cash Vehicle Rankings
