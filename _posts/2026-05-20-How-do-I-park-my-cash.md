@@ -114,7 +114,8 @@ HYSA, SGOV, SPAXX, FDLXX, VUSXX, and T-bills behave mostly like cash.
 
 VTEC does not.
 
-VTEC is fundamentally a municipal bond fund and carries interest-rate risk.
+VTEC is fundamentally a municipal bond fund and carries interest-rate risk. 
+In a rising-rate environment, a municipal bond fund can lose 5–10% in price, which a money market fund won't
 
 ---
 
