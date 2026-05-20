@@ -26,9 +26,9 @@ excerpt: "Cash seems simple until you start comparing taxes, liquidity, opportun
 
 ## Intro
 
-Given the large uncertainty we are facing in the world, many people are considering keeping larger cash reserves to preserve their savings or opportunistically buy when there is an inevitable market downturn.
+Given the large uncertainty we are facing in the world economy, many people are considering keeping larger cash reserves to preserve their savings or opportunistically buy when there is an inevitable market downturn.
 
-One notable example of financial experts thinking the same way is the Berkshire (BRK) holding company, where Warren Buffett, Greg Abel, and team have accumulated a large amount of cash to opportunistically identify attractive investments, but have not pulled the trigger lately on deployment. This sends a strong signal. Many experts with access to far more opportunities than normal investors, including private markets and enormous capital deployment capacity, have struggled to find enough compelling deals.
+One notable example of financial experts thinking the same way is the Berkshire (BRK) holding company, where Warren Buffett, Greg Abel, and team have accumulated a large amount of cash to opportunistically identify attractive investments, but have not pulled the trigger lately on deployment. This sends a strong signal to proceed with caution. Many experts with access to far more opportunities than normal investors, including private markets and enormous capital deployment capacity, have struggled to find enough compelling deals.
 
 At the same time, many investors correctly point out that hoarding cash and trying to time the market historically underperforms simply staying invested. Time in the market usually beats timing the market.
 
@@ -78,7 +78,7 @@ Cash protects you from making bad decisions.
 
 | Liquid Assets | Suggested Safe Bucket | Approx Cash % | Primary Purpose |
 |---|---:|---:|---|
-| $10K | $10K | 100% | Build stability |
+| $10K | $7.5-10K | 75-100% | Build stability |
 | $50K | $10–20K | 20–40% | Emergency reserve |
 | $100K | $15–30K | 15–30% | Financial resilience |
 | $250K | $30–60K | 12–24% | Flexibility |
@@ -105,7 +105,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | FDLXX | Moderate | Immediate | Treasury-heavy | Brokerage cash |
 | SPAXX | Moderate | Immediate | Mixed government securities | Settlement fund |
 | VUSXX | Moderate | Immediate | Treasury-heavy | Treasury MMF |
-| VTEC | Moderate | Intraday | Federal and some state exemptions | Bond allocation |
+| VTEC | Moderate | Intraday | Federal and CA state exemptions | Bond allocation |
 | Direct T-Bills | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
 Important distinction:
