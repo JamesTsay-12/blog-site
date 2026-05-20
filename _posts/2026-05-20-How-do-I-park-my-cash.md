@@ -407,3 +407,174 @@ or:
 Same dollars.
 
 Completely different purpose.
+
+
+
+---
+
+# Appendix: Which Option Actually Produces the Highest Total Yield?
+
+Many discussions online focus on headline yield.
+
+But if taxes and healthcare subsidies matter, the answer can completely change.
+
+Let us walk through a realistic example.
+
+Assume:
+
+- California resident
+- Salary: $100,000
+- Family of 4
+- $20,000 in cash to deploy
+- Wants Affordable Care Act (ACA / Obamacare) premium subsidies
+- Taxable brokerage account
+- Goal: maximize effective after-tax return while minimizing income that hurts subsidy eligibility
+
+Important nuance:
+
+ACA subsidies are generally based on Modified Adjusted Gross Income (MAGI).
+
+Interest income from:
+
+- HYSA
+- SPAXX
+- FDLXX
+- SGOV
+
+typically increases MAGI.
+
+Municipal bond income from VTEC is generally federally tax exempt, but tax-exempt interest still gets added back into ACA MAGI calculations.
+
+So VTEC helps taxes, but surprisingly may not help ACA qualification as much as many people assume.
+
+---
+
+## Approximate Current Yields
+
+| Vehicle | Approx Yield | Federal Tax | California Tax | Affects ACA MAGI |
+|---|---:|---:|---:|---|
+| ETrade HYSA | 3.25% | Yes | Yes | Yes |
+| SPAXX | 3.3% | Yes | Partial | Yes |
+| FDLXX | 3.3% | Yes | Mostly exempt | Yes |
+| SGOV | 3.55% | Yes | Mostly exempt | Yes |
+| VTEC | 3.5% | No | No | Yes |
+
+---
+
+## Annual Income Generated From $20,000
+
+| Vehicle | Approx Income |
+|---|---:|
+| HYSA | $650 |
+| SPAXX | $660 |
+| FDLXX | $656 |
+| SGOV | $710 |
+| VTEC | $700 |
+
+Difference:
+
+Highest versus lowest:
+
+~$60/year
+
+That alone is not life changing.
+
+Taxes become more important.
+
+---
+
+## Approximate After-Tax Yield (California)
+
+Assume:
+
+Federal marginal rate: 22%
+
+California: 9.3%
+
+Combined effective:
+
+~31.3%
+
+Approximate after-tax income:
+
+| Vehicle | Income | Estimated After Tax |
+|---|---:|---:|
+| HYSA | $650 | ~$447 |
+| SPAXX | $660 | ~$455 |
+| FDLXX | $656 | ~$507 |
+| SGOV | $710 | ~$549 |
+| VTEC | $700 | ~$700 |
+
+VTEC appears to win.
+
+But this is incomplete.
+
+---
+
+## ACA Subsidy Considerations
+
+For a family of four, ACA subsidies often phase with MAGI.
+
+Suppose someone tries to intentionally reduce income to preserve subsidies.
+
+Effects:
+
+| Vehicle | Tax Friendly | MAGI Friendly | Notes |
+|---|---|---|---|
+| HYSA | No | No | Fully counts |
+| SPAXX | Moderate | No | Counts |
+| FDLXX | Better | No | Counts |
+| SGOV | Better | No | Counts |
+| VTEC | Excellent | Surprisingly not ideal | Tax exempt interest added back into MAGI |
+
+This is counterintuitive.
+
+Municipal bond income helps taxes.
+
+But it generally does not disappear for ACA calculations.
+
+---
+
+## Practical Ranking For This Scenario
+
+Considering:
+
+- yield
+- taxes
+- flexibility
+- MAGI impact
+- simplicity
+
+| Rank | Holding | Overall Assessment |
+|---:|---|---|
+| 1 | SGOV | Highest practical balance |
+| 2 | FDLXX | Similar with simpler cash behavior |
+| 3 | VTEC | Excellent tax efficiency but weaker for ACA strategy |
+| 4 | SPAXX | Convenience winner |
+| 5 | HYSA | Simplicity only |
+
+---
+
+## Suggested Allocation
+
+For someone with:
+
+- $20K cash
+- California
+- Family of four
+- Wants flexibility and subsidy awareness
+
+| Holding | Amount | Purpose |
+|---|---:|---|
+| HYSA | $8K | Immediate emergencies |
+| SGOV | $6K | Deployable dry powder |
+| FDLXX | $4K | Stable Treasury reserve |
+| SPAXX | $2K | Settlement cash |
+
+Could someone simplify this to HYSA only?
+
+Absolutely.
+
+The optimization gains here are measured in tens or hundreds of dollars.
+
+The larger lesson is that once balances become hundreds of thousands or millions, these seemingly small differences begin compounding into meaningful numbers.
