@@ -585,12 +585,50 @@ The larger lesson is that once balances become hundreds of thousands or millions
 
 **Final notes:** 
 
-For Helping to meet ACA thresholds (MAGI), these are more effective strategies:
 
-Traditional 401(k) contributions
-Traditional IRA contributions (if deductible)
-HSA contributions
-self-employed retirement plans
-business deductions
-capital-loss harvesting
-managing Roth conversions carefully
+## Income-Reduction Strategies That Actually Move the Needle
+
+These approaches reduce MAGI directly, which helps both your tax bill and your subsidy eligibility. Paired with the right cash vehicle, they give you the most control over your effective income.
+
+| Strategy | MAGI Reduction | Works With | Notes |
+|---|---|---|---|
+| Traditional 401(k) contributions | Dollar-for-dollar | Any cash vehicle | Most powerful for W-2 employees; reduces gross income before it becomes MAGI |
+| HSA contributions | Dollar-for-dollar | Any cash vehicle | Triple tax advantage; often overlooked; max $8,300 for family (2025) |
+| Traditional IRA (if deductible) | Dollar-for-dollar | Any cash vehicle | Income limits apply; deductibility phases out with workplace plan access |
+| Self-employed retirement plans (SEP-IRA, Solo 401k) | Up to ~$70K | Any cash vehicle | Most powerful lever available to self-employed; often dramatically underused |
+| Capital loss harvesting | Varies | Taxable accounts | Offsets capital gains that would otherwise raise MAGI |
+| Roth conversion timing | Increases MAGI — plan carefully | All vehicles | Converting too much in a subsidy year can wipe out eligibility; plan year-by-year |
+| Business deductions (self-employed) | Varies | Any | Legitimate expenses reduce net self-employment income, which flows into MAGI |
+
+The general principle: **reduce MAGI through contributions and deductions first, then choose your cash vehicle.** The choice of SGOV vs. HYSA on $20,000 might shift your income by $50–100 — not enough to cross an ACA subsidy cliff on its own. But a maxed HSA and 401(k) might shift it by $30,000+, which can matter enormously.
+
+---
+
+## A Concrete Example
+
+Assume a California family of four with $100,000 in gross income and $20,000 in cash savings. Their ACA subsidy eligibility depends on where their MAGI lands relative to the Federal Poverty Level (FPL) thresholds.
+
+Without any income-reduction strategy, $20,000 in SGOV generating ~$710 in interest adds $710 to MAGI. That's real but small on its own.
+
+Now add an HSA contribution of $8,300 and a Traditional IRA contribution of $7,000. MAGI drops by $15,300 — potentially moving the family into a meaningfully better subsidy tier and saving far more in premiums than any cash vehicle optimization could achieve.
+
+**The takeaway:** For ACA families, income-reduction strategies are the primary lever. Cash vehicle selection is the secondary one. Both matter, but confusing their order of importance leads to over-optimizing the wrong thing.
+
+---
+
+## Where This Changes the Cash Vehicle Rankings
+
+For ACA-sensitive households, the vehicle ranking shifts slightly compared to the general California rankings:
+
+| Rank | Vehicle | Why |
+|---|---|---|
+| 1 | SGOV | Best after-tax yield; state-exempt; pairs well with any account structure |
+| 2 | FDLXX | Similar Treasury benefit; simpler cash behavior inside brokerage |
+| 3 | VTEC | Excellent tax efficiency, but ACA advantage is smaller than it appears |
+| 4 | SPAXX | Convenient but fully exposed on both taxes and MAGI |
+| 5 | HYSA | Simplest option; least tax-efficient for high-tax state ACA families |
+
+VTEC drops slightly from its general ranking not because it's a bad vehicle, but because its most-cited advantage — tax-exempt income — doesn't translate into ACA subsidy savings the way many people assume.
+
+---
+
