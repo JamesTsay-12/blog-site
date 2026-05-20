@@ -2,8 +2,7 @@
 layout: post
 title: "Cash Is Not Just Cash: A Guide to HYSAs, Treasury Funds, Money Markets, and Municipal Bonds"
 date: 2026-05-20
-categories:
-  - Finance
+categories: [finance]
 tags:
   - Retirement
   - Investing
