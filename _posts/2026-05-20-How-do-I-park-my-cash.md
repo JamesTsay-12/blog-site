@@ -28,17 +28,17 @@ excerpt: "Cash seems simple until you start comparing taxes, liquidity, opportun
 
 Given the large uncertainty we are facing in the world, many people are considering keeping larger cash reserves to preserve their savings or opportunistically buy when there is an inevitable market downturn.
 
-One notable example of financial experts thinking the same way is the Berkshire BRK holding company, where Warren Buffett, Greg Abel, and team have accumulated a large amount of cash to opportunistically identify attractive investments, but have not pulled the trigger lately on deployment. This sends a strong signal. Many experts with access to far more opportunities than normal investors, including private markets and enormous capital deployment capacity, have struggled to find enough compelling deals.
+One notable example of financial experts thinking the same way is the Berkshire (BRK) holding company, where Warren Buffett, Greg Abel, and team have accumulated a large amount of cash to opportunistically identify attractive investments, but have not pulled the trigger lately on deployment. This sends a strong signal. Many experts with access to far more opportunities than normal investors, including private markets and enormous capital deployment capacity, have struggled to find enough compelling deals.
 
 At the same time, many investors correctly point out that hoarding cash and trying to time the market historically underperforms simply staying invested. Time in the market usually beats timing the market.
 
-Still, investing is not only about spreadsheets and long-term expected returns.
+Still, investing is not only about long-term expected returns.
 
 Not many people can stomach having all of their money in a tenuous situation, especially when there are bills to pay and mouths to feed.
 
-I have had many conversations with friends and family about where to park money safely. The answer turns out to be more complicated than expected because there are major differences in yield, liquidity, taxes, accessibility, and risk.
+I have had many conversations with friends and family about where to park money safely. The answer turns out to be more complicated than expected because there are major differences in yield, liquidity, taxes, accessibility, and risk. 
 
-Many people know about high yield savings accounts, or HYSAs, but there are several other options that can provide high liquidity and potentially better after-tax returns. Some may even provide meaningful tax advantages depending on where you live.
+Many people know about high yield savings accounts, or HYSAs, but there are several other options that can provide high liquidity and potentially better after-tax returns. Some may even provide meaningful tax advantages depending on where you live. For optimizers, like myself, this is worth diving deep into.
 
 This article is an attempt to organize the tradeoffs and provide a framework for deciding where "safe money" belongs.
 
@@ -226,13 +226,15 @@ Emergency reserve
 
 | Vehicle | Advantages | Disadvantages |
 |---|---|---|
-| HYSA | Simple, FDIC insured, immediate access | Fully taxable |
+| HYSA | Simple, FDIC insured, immediate access | **Fully taxable** |
 | SGOV | Tax efficient, liquid | Small NAV movement |
 | FDLXX | Treasury exposure with cash behavior | Slightly lower yields at times |
 | SPAXX | Very convenient | Less tax efficient |
 | VUSXX | Stable with Treasury advantages | Brokerage ecosystem dependent |
-| VTEC | Excellent after-tax income for high earners | Bond volatility |
-| T-Bills | Often highest after-tax yield | Requires active management |
+| VTEC | Excellent after-tax income for high earners | **Bond volatility** |
+| T-Bills | Often highest after-tax yield | **Requires active management** |
+
+I've **bolded** aspects that are pretty unattractive to me.
 
 ---
 
@@ -293,6 +295,13 @@ For high-tax states:
 
 Treasury-heavy options become increasingly attractive.
 
+For high-income and high-net-worth individuals with large cash balances, these seemingly small differences can become amplified. Not only are they often in higher marginal tax brackets, but the absolute amount of cash being held may also be much larger.
+
+A few tenths of a percent may not sound meaningful on $20,000. It can become much more noticeable on several hundred thousand or even millions of dollars in cash reserves.
+
+Additional income can also have second-order effects beyond taxes. Depending on your situation, it may influence healthcare subsidies, tax phaseouts, Medicare IRMAA thresholds, investment income taxes, and other planning considerations.
+
+Small percentages can quietly become meaningful dollars.
 ---
 
 # Ranking: IRA Accounts
