@@ -478,8 +478,12 @@ Assume:
 - California family of four
 - Combined income: $125,000
 - $30,000 cash reserve
-- Monitoring a planning threshold around ~$129K
+- Monitoring a planning threshold around ~$129K*
 - Taxable brokerage account
+
+*[2026 ACA Income Limits and FPL Thresholds](https://www.healthinsurance.org/obamacare/subsidy-calculator/)
+
+Monitoring a planning threshold around ~$129K — the approximate [400% FPL cutoff for a family of four in 2026](https://www.healthinsurance.org/obamacare/subsidy-calculator/), above which premium subsidies generally disappear entirely.
 
 A $30,000 SGOV allocation generating roughly ~$1,065 annually increases MAGI:
 
