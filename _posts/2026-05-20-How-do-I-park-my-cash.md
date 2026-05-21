@@ -105,7 +105,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
 | SGOV | Moderate to High | T+1 | Treasury income often state tax exempt | Cash substitute |
 | FDLXX | Moderate | Immediate | Treasury-heavy | Brokerage cash |
-| SPAXX | Moderate | Immediate | Mixed government securities | Settlement fund |
+| SPAXX | Moderate | Immediate | Mixed government securities, subject to CA state tax | Settlement fund |
 | VUSXX | Moderate | Immediate | Treasury-heavy | Treasury MMF |
 | VTEC | Moderate | Intraday | Federal and CA state exemptions | Bond allocation |
 | Direct T-Bills | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
