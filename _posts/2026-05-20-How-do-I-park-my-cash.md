@@ -105,12 +105,15 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
 | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^1]| Treasury income, historically ~95% state tax exempt | Cash substitute |
 | [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
-| [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none) | Settlement fund |
+| [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none)[^2]| Settlement fund |
 | [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
 [^1]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
+
+[^2]: California generally requires a fund to hold at least 50% U.S. government obligations for any Treasury income to qualify for state tax exemption. SPAXX currently falls below this threshold, resulting in no CA state tax benefit. SGOV, FDLXX, and VUSXX are safer options.
+
 Important distinction:
 
 HYSA, SGOV, SPAXX, FDLXX, VUSXX, and T-bills behave mostly like cash.
