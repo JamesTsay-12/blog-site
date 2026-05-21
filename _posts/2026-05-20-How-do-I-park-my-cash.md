@@ -110,6 +110,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^2]| Treasury income, historically ~95% state tax exempt | Cash substitute |
 | [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
 | [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none)[^3]| Settlement fund |
+| [SNSXX](https://www.schwabassetmanagement.com/products/snsxx) | Moderate | Immediate | Treasury-heavy, historically ~90–100% state tax exempt | Schwab Treasury MMF |
 | [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
@@ -258,6 +259,7 @@ Emergency reserve
 | SGOV | Tax efficient, liquid | Small NAV movement |
 | FDLXX | Treasury exposure with cash behavior | Slightly lower yields at times |
 | SPAXX | Very convenient | **Less tax efficient, especially CA** |
+| SNSXX | Treasury-heavy with favorable state tax treatment | **May require manual buying/selling; less seamless cash behavior** |
 | VUSXX | Stable with Treasury advantages | Brokerage ecosystem dependent |
 | VTEC | Excellent after-tax income for high earners | **Bond volatility** |
 | T-Bills | Often highest after-tax yield | **Requires active management** |
@@ -308,12 +310,13 @@ For California residents:
 
 | Rank | Fund | Why |
 |---:|---|---|
-| 1 | SGOV | Treasury exposure plus state tax advantages |
-| 2 | VUSXX | Stable with favorable tax treatment |
-| 3 | FDLXX | Similar Treasury benefits |
-| 4 | SPAXX | Excellent convenience |
-| 5 | HYSA | Simple but fully taxable |
-| 6 | VTEC | Better classified as bonds |
+| 1 | SGOV | Best balance of Treasury exposure, yield, and CA state tax advantages |
+| 2 | FDLXX | Treasury-heavy with favorable tax treatment and seamless Fidelity cash behavior |
+| 3 | VUSXX | Stable Treasury exposure with strong state tax benefits |
+| 4 | SNSXX | Schwab Treasury option with favorable tax treatment, but slightly more cash friction |
+| 5 | SPAXX | Excellent convenience but weaker CA tax treatment |
+| 6 | HYSA | Simple but fully taxable |
+| 7 | VTEC | Better classified as bonds than cash |
 
 For no-income-tax states:
 
@@ -332,7 +335,6 @@ Additional income can also have second-order effects beyond taxes. Depending on 
 Small percentages can quietly become meaningful dollars.
 
 ---
-
 # Ranking: IRA Accounts
 
 Inside IRAs:
@@ -343,12 +345,13 @@ Inside IRAs:
 
 | Rank | Fund | Why |
 |---:|---|---|
-| 1 | SPAXX | Extremely convenient |
-| 2 | FDLXX | Treasury exposure with simplicity |
-| 3 | VUSXX | Similar profile |
-| 4 | SGOV | Tax benefits disappear |
-| 5 | HYSA | Less integrated |
-| 6 | VTEC | Tax advantage mostly disappears |
+| 1 | SPAXX | Extremely convenient as a brokerage settlement/core position |
+| 2 | FDLXX | Treasury exposure with seamless Fidelity cash behavior |
+| 3 | VUSXX | Similar Treasury profile with stable cash characteristics |
+| 4 | SGOV | Still attractive, but tax advantages mostly disappear and T+1 remains |
+| 5 | SNSXX | Treasury option for Schwab users, but more manual cash management |
+| 6 | HYSA | Less integrated into brokerage workflow |
+| 7 | VTEC | Tax advantage mostly disappears and bond risk remains |
 
 One surprising lesson while researching this topic:
 
