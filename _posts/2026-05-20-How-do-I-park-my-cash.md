@@ -114,6 +114,8 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
+The yield potentials are pretty small and reflect only recent conditions (subject to change)
+
 [^2]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
 
 [^3]: California generally requires a fund to hold at least 50% U.S. government obligations for any Treasury income to qualify for state tax exemption. SPAXX currently falls below this threshold, resulting in no CA state tax benefit. SGOV, FDLXX, and VUSXX are safer options.
@@ -454,224 +456,95 @@ At the very least, it's fun to think and talk about!
 
 
 ---
+## Income-Reduction Strategies Matter More Than Cash Optimization
 
-# Appendix: Which Option Actually Produces the Highest Total Yield?
+At this point I started realizing something interesting.
 
-Many discussions online focus on headline yield.
+I originally approached this as:
 
-But if taxes and healthcare subsidies matter, the answer can completely change.
+"Which cash vehicle gives the highest effective return?"
 
-Let us walk through a realistic example.
+But for families paying attention to ACA subsidies, that may not even be the primary question.
+
+Cash vehicle choice affects MAGI a little.
+
+Income-reduction strategies can affect it a lot.
 
 Assume:
 
-- California resident
-- Salary: $100,000
-- Family of 4
-- $20,000 in cash to deploy
-- Wants Affordable Care Act (ACA / Obamacare) premium subsidies
+- California family of four
+- Combined income: $125,000
+- $30,000 cash reserve
+- Monitoring a planning threshold around ~$129K
 - Taxable brokerage account
-- Goal: maximize effective after-tax return while minimizing income that hurts subsidy eligibility
 
-Important nuance:
+A $30,000 SGOV allocation generating roughly ~$1,065 annually increases MAGI:
 
-ACA subsidies are generally based on Modified Adjusted Gross Income (MAGI).
+$125,000 + $1,065 ≈ $126,065
 
-Interest income from:
+Still below the hypothetical threshold.
 
-- HYSA
-- SPAXX
-- FDLXX
-- SGOV
+On its own, this does not appear significant.
 
-typically increases MAGI.
+But families often have additional income sources:
 
-Municipal bond income from VTEC is generally federally tax exempt, but tax-exempt interest still gets added back into ACA MAGI calculations.
+- dividends
+- bank interest
+- capital gains
+- bonuses
+- side income
+- spouse income variability
 
-So VTEC helps taxes, but surprisingly may not help ACA qualification as much as many people assume.
+Small additions can quietly compound.
 
+Now compare that with tools that directly reduce MAGI:
 
----
-
-## Approximate Current Yields
-
-| Vehicle | Approx Yield | Federal Tax | California Tax | Affects ACA MAGI |
-|---|---:|---:|---:|---|
-| ETrade HYSA | 3.25% | Yes | Yes | Yes |
-| SPAXX | 3.3% | Yes | Partial | Yes |
-| FDLXX | 3.3% | Yes | Mostly exempt | Yes |
-| SGOV | 3.55% | Yes | Mostly exempt | Yes |
-| VTEC | 3.5% | No | No | Yes |
-
----
-
-## Annual Income Generated From $20,000
-
-| Vehicle | Approx Income |
-|---|---:|
-| HYSA | $650 |
-| SPAXX | $660 |
-| FDLXX | $656 |
-| SGOV | $710 |
-| VTEC | $700 |
-
-Difference:
-
-Highest versus lowest:
-
-~$60/year
-
-That alone is not life changing.
-
-Taxes become more important.
-
----
-
-## Approximate After-Tax Yield (California)
-
-Assume:
-
-Federal marginal rate: 22%
-
-California: 9.3%
-
-Combined effective:
-
-~31.3%
-
-Approximate after-tax income:
-
-| Vehicle | Income | Estimated After Tax |
-|---|---:|---:|
-| HYSA | $650 | ~$447 |
-| SPAXX | $660 | ~$455 |
-| FDLXX | $656 | ~$507 |
-| SGOV | $710 | ~$549 |
-| VTEC | $700 | ~$700 |
-
-VTEC appears to win.
-
-But this is incomplete.
-
----
-
-## ACA Subsidy Considerations
-
-For a family of four, ACA subsidies often phase with MAGI.
-
-Suppose someone tries to intentionally reduce income to preserve subsidies.
-
-Effects:
-
-| Vehicle | Tax Friendly | MAGI Friendly | Notes |
-|---|---|---|---|
-| HYSA | No | No | Fully counts |
-| SPAXX | Moderate | No | Counts |
-| FDLXX | Better | No | Counts |
-| SGOV | Better | No | Counts |
-| VTEC | Excellent | Surprisingly not ideal | Tax exempt interest added back into MAGI |
-
-This is counterintuitive.
-
-Municipal bond income helps taxes.
-
-But it generally does not disappear for ACA calculations.
-
-Treasury tax exemptions help state taxes but generally do not help ACA subsidy calculations because Treasury interest still counts toward federal MAGI.
-
----
-
-## Practical Ranking For This Scenario
-
-Considering:
-
-- yield
-- taxes
-- flexibility
-- MAGI impact
-- simplicity
-
-| Rank | Holding | Overall Assessment |
-|---:|---|---|
-| 1 | SGOV | Highest practical balance |
-| 2 | FDLXX | Similar with simpler cash behavior |
-| 3 | VTEC | Excellent tax efficiency but weaker for ACA strategy |
-| 4 | SPAXX | Convenience winner |
-| 5 | HYSA | Simplicity only |
-
----
-
-## Suggested Allocation
-
-For someone with:
-
-- $20K cash
-- California
-- Family of four
-- Wants flexibility and subsidy awareness
-
-| Holding | Amount | Purpose |
+| Strategy | Approx MAGI Reduction | Notes |
 |---|---:|---|
-| HYSA | $8K | Immediate emergencies |
-| SGOV | $6K | Deployable dry powder |
-| FDLXX | $4K | Stable Treasury reserve |
-| SPAXX | $2K | Settlement cash |
+| Traditional 401(k) contributions | Dollar-for-dollar | One of the strongest levers for W-2 employees |
+| Family HSA contribution | ~$8,300 | Triple tax benefit |
+| Traditional IRA contributions (if deductible) | Up to ~$14,000 married | Income limits may apply |
+| SEP IRA / Solo 401(k) | Potentially very large | Strong lever for self-employed |
+| Capital loss harvesting | Variable | Can offset gains |
+| Business deductions | Variable | Lowers self-employment income |
 
-Could someone simplify this to HYSA only?
+Now suppose this family contributes:
 
-Absolutely.
+- HSA: ~$8,300
+- Traditional IRAs: ~$14,000 combined
 
-The optimization gains here are measured in tens or hundreds of dollars.
+Potential MAGI reduction:
 
-The larger lesson is that once balances become hundreds of thousands or millions, these seemingly small differences begin compounding into meaningful numbers.
+>$20,000+
 
+That reduction could easily have a larger impact on healthcare subsidies than optimizing whether SGOV yields slightly more than a HYSA.
 
-## Income-Reduction Strategies That Actually Move the Needle
+The takeaway:
 
-These approaches reduce MAGI directly, which helps both your tax bill and your subsidy eligibility. Paired with the right cash vehicle, they give you the most control over your effective income.
+**For ACA-sensitive families, MAGI reduction is usually the primary lever. Cash optimization is secondary.**
 
-| Strategy | MAGI Reduction | Works With | Notes |
-|---|---|---|---|
-| Traditional 401(k) contributions | Dollar-for-dollar | Any cash vehicle | Most powerful for W-2 employees; reduces gross income before it becomes MAGI |
-| HSA contributions | Dollar-for-dollar | Any cash vehicle | Triple tax advantage; often overlooked; max $8,300 for family (2025) |
-| Traditional IRA (if deductible) | Dollar-for-dollar | Any cash vehicle | Income limits apply; deductibility phases out with workplace plan access |
-| Self-employed retirement plans (SEP-IRA, Solo 401k) | Up to ~$70K | Any cash vehicle | Most powerful lever available to self-employed; often dramatically underused |
-| Capital loss harvesting | Varies | Taxable accounts | Offsets capital gains that would otherwise raise MAGI |
-| Roth conversion timing | Increases MAGI — plan carefully | All vehicles | Converting too much in a subsidy year can wipe out eligibility; plan year-by-year |
-| Business deductions (self-employed) | Varies | Any | Legitimate expenses reduce net self-employment income, which flows into MAGI |
+Both matter.
 
-The general principle: **reduce MAGI through contributions and deductions first, then choose your cash vehicle.** The choice of SGOV vs. HYSA on $20,000 might shift your income by $50–100 — not enough to cross an ACA subsidy cliff on its own. But a maxed HSA and 401(k) might shift it by $30,000+, which can matter enormously.
+But confusing the order of importance can lead to over-optimizing the wrong thing.
 
----
-
-## A Concrete Example
-
-Assume a California family of four with $100,000 in gross income and $20,000 in cash savings. Their ACA subsidy eligibility depends on where their MAGI lands relative to the Federal Poverty Level (FPL) thresholds.
-
-Without any income-reduction strategy, $20,000 in SGOV generating ~$710 in interest adds $710 to MAGI. That's real but small on its own.
-
-Now add an HSA contribution of $8,300 and a Traditional IRA contribution of $7,000. MAGI drops by $15,300 — potentially moving the family into a meaningfully better subsidy tier and saving far more in premiums than any cash vehicle optimization could achieve.
-
-**The takeaway:** For ACA families, income-reduction strategies are the primary lever. Cash vehicle selection is the secondary one. Both matter, but confusing their order of importance leads to over-optimizing the wrong thing.
-
-**important note:**  Please use the ACA numbers as instructive, but not necessarily updated since they are subject to change.
+**Important note:** ACA thresholds, Federal Poverty Level calculations, contribution limits, and subsidy rules change over time. The values here are intended to be illustrative rather than definitive planning guidance.
 
 ---
 
 ## Where This Changes the Cash Vehicle Rankings
 
-For ACA-sensitive households, the vehicle ranking shifts slightly compared to the general California rankings:
+For households paying close attention to MAGI and healthcare subsidy planning, the rankings shift slightly:
 
 | Rank | Vehicle | Why |
-|---|---|---|
-| 1 | SGOV | Best after-tax yield; state-exempt; pairs well with any account structure |
-| 2 | FDLXX | Similar Treasury benefit; simpler cash behavior inside brokerage |
-| 3 | VTEC | Excellent tax efficiency, but ACA advantage is smaller than it appears |
-| 4 | SPAXX | Convenient but fully exposed on both taxes and MAGI |
-| 5 | HYSA | Simplest option; least tax-efficient for high-tax state ACA families |
+|---:|---|---|
+| 1 | SGOV | Best balance of after-tax yield, state tax treatment, and flexibility |
+| 2 | FDLXX | Similar Treasury advantages with simpler cash behavior |
+| 3 | VTEC | Strong tax efficiency, but less ACA benefit than many initially assume |
+| 4 | SPAXX | Convenience winner but weaker tax profile |
+| 5 | HYSA | Simplest option but least tax efficient |
 
-VTEC drops slightly from its general ranking not because it's a bad vehicle, but because its most-cited advantage — tax-exempt income — doesn't translate into ACA subsidy savings the way many people assume.
+VTEC drops slightly not because it is a poor vehicle, but because its biggest advantage, tax-exempt income, does not translate into ACA subsidy savings the way many people initially expect.
 
----
+Treasury exemptions help state taxes.
 
-
+They generally do not help federal MAGI calculations.
