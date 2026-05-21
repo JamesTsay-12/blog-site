@@ -106,7 +106,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | SGOV | Moderate to High | T+1 | Treasury income, ~95% state tax exempt | Cash substitute |
 | FDLXX | Moderate | Immediate | Treasury-heavy, ~90-95% CA state tax exempt | Brokerage cash |
 | SPAXX | Moderate | Immediate | Mixed government securities, subject to CA state tax | Settlement fund |
-| VUSXX | Moderate | Immediate | Treasury-heavy | Treasury MMF,~80-99% CA state tax exempt|
+| VUSXX | Moderate | Immediate | Treasury-heavy,~80-99% CA state tax exempt| Treasury MMF|
 | VTEC | Moderate | Intraday | Federal and CA state exemptions | Bond allocation |
 | Direct T-Bills | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
