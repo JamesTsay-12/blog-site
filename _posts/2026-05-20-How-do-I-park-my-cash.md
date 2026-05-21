@@ -103,7 +103,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | Vehicle | Yield Potential | Liquidity | Tax Treatment | Typical Role |
 |---|---:|---:|---|---|
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
-| SGOV | Moderate to High | T+1 | Treasury income often state tax exempt | Cash substitute |
+| SGOV | Moderate to High | T+1 | Treasury income, ~95% state tax exempt | Cash substitute |
 | FDLXX | Moderate | Immediate | Treasury-heavy, ~90-95% CA state tax exempt | Brokerage cash |
 | SPAXX | Moderate | Immediate | Mixed government securities, subject to CA state tax | Settlement fund |
 | VUSXX | Moderate | Immediate | Treasury-heavy | Treasury MMF,~80-99% CA state tax exempt|
@@ -120,8 +120,8 @@ VTEC is fundamentally a municipal bond fund and carries interest-rate risk.
 
 One practical note on liquidity: at Fidelity, FDLXX can function as a core position. If you have a $4,000 credit card bill or buy a stock, Fidelity automatically liquidates FDLXX to cover it — no manual sell required. For optimizers, this eliminates the T+1 settlement friction that SGOV carries.
 
-Another important consideration when doing your taxes for funds like FDLXX and VUSXX is that you have to manually calculate how much state tax you owe based on the % US government treasuries were included.  It's included in their fund information.  
-Check this out when reasy to file taxes:  https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html
+Another important consideration when doing your taxes for funds like SGOV, FDLXX, and VUSXX is that you have to manually calculate how much state tax you owe based on the % US government treasuries were included.  It's included in their fund information.  
+Check this out when ready to file taxes:  https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html
 
 
 ---
