@@ -121,8 +121,8 @@ VTEC is fundamentally a municipal bond fund and carries interest-rate risk.
 One practical note on liquidity: at Fidelity, FDLXX can function as a core position. If you have a $4,000 credit card bill or buy a stock, Fidelity automatically liquidates FDLXX to cover it — no manual sell required. For optimizers, this eliminates the T+1 settlement friction that SGOV carries.
 
 Another important consideration when doing your taxes for funds like FDLXX and VUSXX is that you have to manually calculate how much state tax you owe based on the % US government treasuries were included.  It's included in their fund information.  
-Check this out when reasy to file taxes:  [
-](https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html)
+Check this out when reasy to file taxes:  https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html
+
 
 ---
 
