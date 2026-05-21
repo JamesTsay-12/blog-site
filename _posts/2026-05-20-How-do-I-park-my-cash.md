@@ -103,12 +103,12 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | Vehicle | Yield Potential | Liquidity | Tax Treatment | Typical Role |
 |---|---:|---:|---|---|
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
-| SGOV | Moderate to High | T+1 | Treasury income, ~95% state tax exempt | Cash substitute |
-| FDLXX | Moderate | Immediate | Treasury-heavy, ~90-95% CA state tax exempt | Brokerage cash |
-| SPAXX | Moderate | Immediate | Mixed government securities, subject to full CA state tax | Settlement fund |
-| VUSXX | Moderate | Immediate | Treasury-heavy,~80-99% CA state tax exempt| Treasury MMF|
-| VTEC | Moderate | Intraday | Federal and CA state exemptions | Bond allocation |
-| Direct T-Bills | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
+| [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1 | Treasury income, historically ~95% state tax exempt | Cash substitute |
+| [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
+| [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit | Settlement fund |
+| [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
+| [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
+| [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
 Important distinction:
 
@@ -116,13 +116,21 @@ HYSA, SGOV, SPAXX, FDLXX, VUSXX, and T-bills behave mostly like cash.
 
 VTEC does not.
 
-VTEC is fundamentally a municipal bond fund and carries interest-rate risk. 
+VTEC is fundamentally a municipal bond fund and carries interest-rate risk.
 
-One practical note on liquidity: at Fidelity, FDLXX can function as a core position. If you have a $4,000 credit card bill or buy a stock, Fidelity automatically liquidates FDLXX to cover it — no manual sell required. For optimizers, this eliminates the T+1 settlement friction that SGOV carries.
+One practical note on liquidity:
 
-Another important consideration when doing your taxes for funds like SGOV, FDLXX, and VUSXX is that you have to manually calculate how much state tax you owe based on the % US government treasuries were included.  It's included in their fund information.  
-Check this out when ready to file taxes:  https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html
+At Fidelity, eligible money market funds such as FDLXX can often be automatically liquidated to cover transactions. If you have a $4,000 credit card bill or purchase a stock, Fidelity may automatically sell FDLXX to cover the balance with no manual sell required.
 
+For optimizers, this can eliminate some of the T+1 settlement friction that SGOV carries.
+
+Another practical consideration appears at tax time.
+
+For funds such as SGOV, FDLXX, and VUSXX, you may need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
+
+Helpful reference:
+
+[State Tax Exempt Treasury Fund and ETF Guide](https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html)
 
 ---
 
