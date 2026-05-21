@@ -110,7 +110,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^2]| Treasury income, historically ~95% state tax exempt | Cash substitute |
 | [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
 | [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none)[^3]| Settlement fund |
-| [SNSXX](https://www.schwabassetmanagement.com/products/snsxx) | Moderate | Immediate | Treasury-heavy, historically ~90–100% state tax exempt | Schwab Treasury MMF |
+| [SNSXX](https://www.schwabassetmanagement.com/products/snsxx) | Moderate | Same-day / brokerage dependent | Treasury-heavy, historically ~90–100% state tax exempt | Schwab Treasury MMF |
 | [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
