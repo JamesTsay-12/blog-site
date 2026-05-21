@@ -78,9 +78,9 @@ At higher wealth levels:
 
 Cash protects you from making bad decisions.
 
-| Liquid Assets | Suggested Safe Bucket | Approx Cash % | Primary Purpose |
+| Liquid Assets[^1] | Suggested Safe Bucket | Approx Cash % | Primary Purpose |
 |---|---:|---:|---|
-| $10K | $7.5-10K | 75-100% | Build stability |
+| $10K | $7.5–10K | 75–100% | Build stability |
 | $50K | $10–20K | 20–40% | Emergency reserve |
 | $100K | $15–30K | 15–30% | Financial resilience |
 | $250K | $30–60K | 12–24% | Flexibility |
@@ -90,11 +90,13 @@ Cash protects you from making bad decisions.
 | $5M | $300–500K | 5–10% | Lifestyle flexibility |
 | $10M+ | $400–700K | 3–7% | Tax management and optionality |
 
-One interesting pattern appears:
+[^1]: These ranges are not derived from a formal optimization model. They represent a heuristic framework combining emergency-fund guidelines, retirement "bucket strategy" concepts (often 1–5 years of spending), sequence-of-return considerations, and behavioral factors. As wealth rises, the purpose of cash often shifts from emergency protection toward flexibility, opportunity, and planning.One interesting pattern appears:
 
 Cash percentages generally decline as wealth rises.
 
 The amount of liquidity needed does not scale linearly with portfolio size.
+
+**Note:* these are just preliminary suggestions, and not definitive financial advice
 
 ---
 
@@ -103,16 +105,16 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | Vehicle | Yield Potential | Liquidity | Tax Treatment | Typical Role |
 |---|---:|---:|---|---|
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
-| [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^1]| Treasury income, historically ~95% state tax exempt | Cash substitute |
+| [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^2]| Treasury income, historically ~95% state tax exempt | Cash substitute |
 | [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
-| [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none)[^2]| Settlement fund |
+| [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none)[^3]| Settlement fund |
 | [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
-[^1]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
+[^2]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
 
-[^2]: California generally requires a fund to hold at least 50% U.S. government obligations for any Treasury income to qualify for state tax exemption. SPAXX currently falls below this threshold, resulting in no CA state tax benefit. SGOV, FDLXX, and VUSXX are safer options.
+[^3]: California generally requires a fund to hold at least 50% U.S. government obligations for any Treasury income to qualify for state tax exemption. SPAXX currently falls below this threshold, resulting in no CA state tax benefit. SGOV, FDLXX, and VUSXX are safer options.
 
 Important distinction:
 
