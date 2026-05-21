@@ -90,7 +90,9 @@ Cash protects you from making bad decisions.
 | $5M | $300–500K | 5–10% | Lifestyle flexibility |
 | $10M+ | $400–700K | 3–7% | Tax management and optionality |
 
-[^1]: These ranges are not derived from a formal optimization model. They represent a heuristic framework combining emergency-fund guidelines, retirement "bucket strategy" concepts (often 1–5 years of spending), sequence-of-return considerations, and behavioral factors. As wealth rises, the purpose of cash often shifts from emergency protection toward flexibility, opportunity, and planning.One interesting pattern appears:
+[^1]: These ranges are not derived from a formal optimization model. They represent a heuristic framework combining emergency-fund guidelines, retirement "bucket strategy" concepts (often 1–5 years of spending), sequence-of-return considerations, and behavioral factors. As wealth rises, the purpose of cash often shifts from emergency protection toward flexibility, opportunity, and planning.
+
+One interesting pattern appears:
 
 Cash percentages generally decline as wealth rises.
 
