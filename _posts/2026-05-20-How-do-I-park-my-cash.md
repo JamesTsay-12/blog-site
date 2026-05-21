@@ -114,7 +114,7 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
-The yield potentials are pretty small and reflect only recent conditions (subject to change)
+The yield potential differences are pretty small and reflect only recent conditions (subject to change)
 
 [^2]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
 
