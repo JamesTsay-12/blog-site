@@ -103,13 +103,14 @@ The amount of liquidity needed does not scale linearly with portfolio size.
 | Vehicle | Yield Potential | Liquidity | Tax Treatment | Typical Role |
 |---|---:|---:|---|---|
 | HYSA | Moderate | Immediate | Fully taxable | Emergency reserve |
-| [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1 | Treasury income, historically ~95% state tax exempt | Cash substitute |
+| [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | Moderate to High | T+1[^1]| Treasury income, historically ~95% state tax exempt | Cash substitute |
 | [FDLXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H300) | Moderate | Immediate | Treasury-heavy, historically ~90–95% CA state tax exempt | Brokerage cash |
 | [SPAXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H102) | Moderate | Immediate | Mixed government securities, generally receives less CA tax benefit (currently none) | Settlement fund |
 | [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) | Moderate | Immediate | Treasury-heavy, historically ~80–99% CA state tax exempt | Treasury MMF |
 | [VTEC](https://investor.vanguard.com/investment-products/etfs/profile/vtec) | Moderate | Intraday | Federal and CA state tax exemptions | Bond allocation |
 | [Treasury Bills](https://www.treasurydirect.gov/marketable-securities/treasury-bills/) | Moderate to High | Maturity dependent | State tax exempt | Cash ladder |
 
+[^1]: T+1 means "trade date plus one business day." If you sell SGOV today, the cash officially settles and becomes fully available on the following business day. Money market funds like FDLXX may feel more liquid because brokerages can often automatically liquidate them to cover purchases or payments before settlement becomes noticeable.
 Important distinction:
 
 HYSA, SGOV, SPAXX, FDLXX, VUSXX, and T-bills behave mostly like cash.
@@ -247,7 +248,7 @@ Emergency reserve
 | HYSA | Simple, FDIC insured, immediate access | **Fully taxable** |
 | SGOV | Tax efficient, liquid | Small NAV movement |
 | FDLXX | Treasury exposure with cash behavior | Slightly lower yields at times |
-| SPAXX | Very convenient | Less tax efficient |
+| SPAXX | Very convenient | **Less tax efficient, especially CA** |
 | VUSXX | Stable with Treasury advantages | Brokerage ecosystem dependent |
 | VTEC | Excellent after-tax income for high earners | **Bond volatility** |
 | T-Bills | Often highest after-tax yield | **Requires active management** |
@@ -320,6 +321,7 @@ A few tenths of a percent may not sound meaningful on $20,000. It can become muc
 Additional income can also have second-order effects beyond taxes. Depending on your situation, it may influence healthcare subsidies, tax phaseouts, Medicare IRMAA thresholds, investment income taxes, and other planning considerations.
 
 Small percentages can quietly become meaningful dollars.
+
 ---
 
 # Ranking: IRA Accounts
@@ -344,8 +346,7 @@ One surprising lesson while researching this topic:
 The rankings can completely flip depending on account type.
 
 ---
-
-# Reddit Discussions and Resources Worth Reading
+# Online Discussions and Resources Worth Reading
 
 One thing I found while researching this topic is that communities on Reddit and Bogleheads repeatedly converge on similar themes. People initially focus on headline yield, but eventually the discussions drift toward taxes, convenience, and behavioral factors.
 
@@ -363,11 +364,11 @@ Recurring themes:
 
 Discussion:
 
-https://www.reddit.com/r/fidelityinvestments/comments/1p8o2sx/spaxx_or_sgov/
+[Fidelity Discussion: SPAXX or SGOV?](https://www.reddit.com/r/fidelityinvestments/comments/1p8o2sx/spaxx_or_sgov/)
 
 Additional:
 
-https://www.reddit.com/r/Bogleheads/comments/1l96ril/what_brokerage_account_should_i_use_for_sgov/
+[Bogleheads Discussion: What brokerage account should I use for SGOV?](https://www.reddit.com/r/Bogleheads/comments/1l96ril/what_brokerage_account_should_i_use_for_sgov/)
 
 ---
 
@@ -387,7 +388,7 @@ The answer appears to be that it quietly checks many boxes:
 
 Discussion:
 
-https://www.reddit.com/r/Bogleheads/comments/1r9999j/why_is_sgov_recommended_at_all/
+[Bogleheads Discussion: Why is SGOV recommended at all?](https://www.reddit.com/r/Bogleheads/comments/1r9999j/why_is_sgov_recommended_at_all/)
 
 ---
 
@@ -403,11 +404,27 @@ Then you learn:
 
 Discussion:
 
-https://www.reddit.com/r/fidelityinvestments/comments/1r4i73r/difference_between_fdlxx_and_spaxx/
+[Fidelity Discussion: Difference Between FDLXX and SPAXX](https://www.reddit.com/r/fidelityinvestments/comments/1r4i73r/difference_between_fdlxx_and_spaxx/)
 
 Reference:
 
-https://institutional.fidelity.com/app/fundList/print/FIIS_PP_SP28_DPL3.pdf?itemCode=FIIS_PP_SP28_DPL3&productLineId=3
+[Fidelity Money Market Fund Tax Information PDF](https://institutional.fidelity.com/app/fundList/print/FIIS_PP_SP28_DPL3.pdf?itemCode=FIIS_PP_SP28_DPL3&productLineId=3)
+
+---
+
+## Additional Resources
+
+Video:
+
+[Fidelity SPAXX, Schwab SWVXX & Vanguard VMFXX: Losing Money On Your Money Market Fund To Taxes?](https://www.youtube.com/watch?v=zdUbKmg5bfs)
+
+This video does a nice job discussing a subtle issue many investors overlook: after-tax yield can matter more than headline yield, especially for investors in higher-tax states.
+
+Helpful tax guide:
+
+[State Tax Exempt Treasury Fund and ETF Guide](https://thefinancebuff.com/state-tax-exempt-treasury-fund-etf.html)
+
+This guide walks through how Treasury-heavy funds and ETFs may qualify for partial state tax exemptions and how to determine those percentages during tax filing.
 
 ---
 
@@ -649,4 +666,5 @@ For ACA-sensitive households, the vehicle ranking shifts slightly compared to th
 VTEC drops slightly from its general ranking not because it's a bad vehicle, but because its most-cited advantage — tax-exempt income — doesn't translate into ACA subsidy savings the way many people assume.
 
 ---
+
 
