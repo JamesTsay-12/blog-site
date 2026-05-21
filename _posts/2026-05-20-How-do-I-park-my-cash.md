@@ -123,7 +123,7 @@ The yield potential differences are pretty small and reflect only recent conditi
 
 Important distinction:
 
-HYSA, SGOV, SPAXX, FDLXX, VUSXX, and T-bills behave mostly like cash.
+HYSA, SGOV, SPAXX, FDLXX, VUSXX, SNSXX, and T-bills behave mostly like cash.
 
 VTEC does not.
 
@@ -137,7 +137,7 @@ For optimizers, this can eliminate some of the T+1 settlement friction that SGOV
 
 Another practical consideration appears at tax time.
 
-For funds such as SGOV, FDLXX, and VUSXX, you will need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
+For funds such as SGOV, FDLXX,VUSXX, and SNSXX, you will need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
 
 Helpful reference:
 
@@ -259,7 +259,7 @@ Emergency reserve
 | SGOV | Tax efficient, liquid | Small NAV movement |
 | FDLXX | Treasury exposure with cash behavior | Slightly lower yields at times |
 | SPAXX | Very convenient | **Less tax efficient, especially CA** |
-| SNSXX | Treasury-heavy with favorable state tax treatment | **May require manual buying/selling; less seamless cash behavior** |
+| SNSXX | Treasury-heavy with favorable state tax treatment | **Requires manual buying/selling; less seamless cash behavior** |
 | VUSXX | Stable with Treasury advantages | Brokerage ecosystem dependent |
 | VTEC | Excellent after-tax income for high earners | **Bond volatility** |
 | T-Bills | Often highest after-tax yield | **Requires active management** |
