@@ -127,7 +127,7 @@ For optimizers, this can eliminate some of the T+1 settlement friction that SGOV
 
 Another practical consideration appears at tax time.
 
-For funds such as SGOV, FDLXX, and VUSXX, you may need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
+For funds such as SGOV, FDLXX, and VUSXX, you will need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
 
 Helpful reference:
 
@@ -442,7 +442,7 @@ Some of this may admittedly drift into overthinking and over-optimization, but I
 
 Perhaps time would be better spent generating ideas for increasing income rather than optimizing where cash sits. Then again, part of investing and personal finance is understanding the landscape and exploring the tradeoffs.
 
-At the very least, it is fun to think and talk about.
+At the very least, it's fun to think and talk about!
 
 
 
