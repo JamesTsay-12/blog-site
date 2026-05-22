@@ -137,7 +137,7 @@ For optimizers, this can eliminate some of the T+1 settlement friction that SGOV
 
 Another practical consideration appears at tax time.
 
-For funds such as SGOV, FDLXX,VUSXX, and SNSXX, you will need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
+For funds such as SGOV, FDLXX, VUSXX, and SNSXX, you will need to determine the portion of income derived from U.S. Treasuries to calculate your state tax exemption. The percentages vary year to year and are generally published by fund providers.
 
 Helpful reference:
 
