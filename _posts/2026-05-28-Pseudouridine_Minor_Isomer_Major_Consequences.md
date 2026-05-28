@@ -28,7 +28,7 @@ One of the most fascinating RNA modifications in this space is **pseudouridine (
 
 # Why Pseudouridine Matters
 
-Pseudouridine differs from uridine through a subtle structural rearrangement: the glycosidic linkage changes from a nitrogen-carbon bond to a carbon-carbon bond. This seemingly small difference gives RNA molecules additional stability, altered hydrogen bonding, and greater conformational flexibility. :contentReference[oaicite:3]{index=3}
+Pseudouridine differs from uridine through a subtle structural rearrangement: the glycosidic linkage changes from a nitrogen-carbon bond to a carbon-carbon bond. This seemingly small difference gives RNA molecules additional stability, altered hydrogen bonding, and greater conformational flexibility. 
 
 These effects can influence:
 
