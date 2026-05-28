@@ -2,12 +2,13 @@
 layout: post
 title: "Pseudouridine and Disease: Why a Small RNA Modification May Have Outsized Biological Impact"
 date: 2026-05-27
-categories: [science, epitranscriptomics, RNA, cancer]
-tags: [pseudouridine, RNA modifications, epitranscriptomics, cancer, neurodegeneration, immunology]
+categories: Science
 description: "An overview of pseudouridine biology and its emerging role in cancer, neurodegeneration, immunity, and RNA therapeutics."
+
 ---
 
 I had a another great opportunity to write a blog for Alida Biosciences about an interesting topic:  Pseudouridine (an RNA modification), and its impact on diseases.
+
 I wanted to share this on my personal website for science enthusiasts.
 
 # Pseudouridine and Disease: Why a Small RNA Modification May Have Outsized Biological Impact
