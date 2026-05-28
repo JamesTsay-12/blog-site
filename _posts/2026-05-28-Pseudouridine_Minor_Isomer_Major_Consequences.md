@@ -7,21 +7,20 @@ description: "An overview of pseudouridine biology and its emerging role in canc
 
 ---
 
-I had another great opportunity to write a blog for Alida Biosciences about an interesting topic:  Pseudouridine (an RNA modification), and its impact on diseases.
+I had another great opportunity to write a blog for Alida Biosciences about an interesting topic:  Pseudouridine (an RNA modification).  This post is a more disease-focused companion piece exploring why pseudouridine is attracting growing interest in cancer biology, neurodegeneration, immunology, and RNA therapeutics.
 
 I wanted to share this on my personal website for science enthusiasts.
+
+[**Pseudouridine: Minor Isomer, Major Consequences for RNA Function**](https://www.alidabio.com/blog-post/pseudouridine_minor_isomer-major-consequences-for-rna-function/)
+
+Below are some highlights from the article:
 
 # Pseudouridine and Disease: Why a Small RNA Modification May Have Outsized Biological Impact
 
 When most people think about genetics, they think about DNA mutations. But biology is increasingly revealing another layer of regulation that sits between the genome and proteins: the epitranscriptome.
 
-One of the most fascinating RNA modifications in this space is **pseudouridine (Ψ)**, often described as the “fifth nucleotide.” Despite being chemically similar to uridine, pseudouridine can dramatically alter RNA structure, stability, translation, and immune recognition. It is also the most abundant RNA modification found in cellular RNA. :contentReference[oaicite:0]{index=0}
+One of the most fascinating RNA modifications in this space is **pseudouridine (Ψ)**, often described as the “fifth nucleotide.” Despite being chemically similar to uridine, pseudouridine can dramatically alter RNA structure, stability, translation, and immune recognition. It is also the most abundant RNA modification found in cellular RNA. 
 
-I recently wrote a deeper technical overview for :contentReference[oaicite:1]{index=1} discussing the chemistry and biology of pseudouridine:
-
-➡️ :contentReference[oaicite:2]{index=2}
-
-This post is a more disease-focused companion piece exploring why pseudouridine is attracting growing interest in cancer biology, neurodegeneration, immunology, and RNA therapeutics.
 
 ---
 
@@ -108,7 +107,7 @@ That combination makes it especially compelling for:
 
 # The Measurement Problem
 
-Despite its importance, pseudouridine has historically been difficult to study at scale because it is chemically very similar to uridine. Traditional sequencing approaches often require specialized chemistries, high RNA input, or cumbersome workflows. :contentReference[oaicite:4]{index=4}
+Despite its importance, pseudouridine has historically been difficult to study at scale because it is chemically very similar to uridine. Traditional sequencing approaches often require specialized chemistries, high RNA input, or cumbersome workflows. 
 
 This is one reason the field of epitranscriptomics has lagged behind genomics and transcriptomics.
 
@@ -133,15 +132,5 @@ For decades, we focused primarily on DNA mutations and RNA abundance. But RNA mo
 
 The field is still early, but the implications are potentially enormous.
 
-For a deeper technical discussion on pseudouridine structure, chemistry, and detection technologies, see the original AlidaBio article here:
-
-➡️ :contentReference[oaicite:5]{index=5}
 
 ---
-
-## References
-
-1. :contentReference[oaicite:6]{index=6}  
-2. :contentReference[oaicite:7]{index=7}  
-3. :contentReference[oaicite:8]{index=8}  
-4. :contentReference[oaicite:9]{index=9}  
