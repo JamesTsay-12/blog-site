@@ -11,7 +11,9 @@ I had another great opportunity to write a blog for Alida Biosciences about an i
 
 I wanted to share this on my personal website for science enthusiasts.
 
-[**Pseudouridine: Minor Isomer, Major Consequences for RNA Function**](https://www.alidabio.com/blog-post/pseudouridine_minor_isomer-major-consequences-for-rna-function/)
+[Pseudouridine: Minor Isomer, Major Consequences for RNA Function](https://www.alidabio.com/blog-post/pseudouridine_minor_isomer-major-consequences-for-rna-function/)
+
+
 
 Below are some highlights from the article:
 
