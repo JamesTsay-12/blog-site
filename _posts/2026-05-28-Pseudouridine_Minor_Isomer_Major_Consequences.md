@@ -7,7 +7,7 @@ description: "An overview of pseudouridine biology and its emerging role in canc
 
 ---
 
-I had a another great opportunity to write a blog for Alida Biosciences about an interesting topic:  Pseudouridine (an RNA modification), and its impact on diseases.
+I had another great opportunity to write a blog for Alida Biosciences about an interesting topic:  Pseudouridine (an RNA modification), and its impact on diseases.
 
 I wanted to share this on my personal website for science enthusiasts.
 
