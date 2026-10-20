@@ -21,10 +21,12 @@ I'm tying other relevant blogs to this page for context.
 
 
 <ul>
-  {% for post in site.categories.Life %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%B %d, %Y" }})</small>
-    </li>
+  {% for post in site.posts %}
+    {% if post.categories contains "Life" or post.tags contains "Life" %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>({{ post.date | date: "%B %d, %Y" }})</small>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
