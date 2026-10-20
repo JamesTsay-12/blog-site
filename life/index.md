@@ -19,7 +19,6 @@ In my blog about life — I explore:
 I'm tying other relevant blogs to this page for context.
 
 
-
 <ul>
   {% for post in site.posts %}
     {% if post.categories contains "Life" or post.tags contains "Life" %}
