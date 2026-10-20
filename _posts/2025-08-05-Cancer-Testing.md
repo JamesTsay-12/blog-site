@@ -2,7 +2,7 @@
 layout: post
 title: "What I learned when my biotech career collided with my mother's cancer diagnosis"
 date: 2025-08-05
-categories: Science
+categories: [science, life]
 ---
 
 This post is in progress.  I'll dive into my family's current journey navigating the health system, cancer, and the utilization of the latest available technology from biotech.
