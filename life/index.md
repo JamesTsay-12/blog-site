@@ -7,7 +7,7 @@ permalink: /life/
 <h2>Life Posts</h2>
 
 
-Hello, everyone!  I'm James - a scientist and dabbler who writes about philosophy and real life. 
+Hello, everyone!  I'm James - a scientist and dabbler who writes blogs about random life observations and practical experiences which I hope benefit people. 
 
 In my blog about life — I explore:
 
@@ -16,6 +16,7 @@ In my blog about life — I explore:
 - International travel, living, and identity
 - Thoughts on the future
 
+I'm tying other relevant blogs to this page for context.
 
 
 
