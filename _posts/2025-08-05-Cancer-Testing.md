@@ -2,7 +2,7 @@
 layout: post
 title: "What I learned when my biotech career collided with my mother's cancer diagnosis"
 date: 2025-08-05
-categories: [Science, Life]
+categories: Science
 ---
 ---
 
