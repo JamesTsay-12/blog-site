@@ -7,3 +7,5 @@ description: "How my family navigated hospice care and medical assisted death"
 
 ---
 
+This is a placeholder for blog in progress of being written
+
