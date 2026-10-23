@@ -82,7 +82,7 @@ Claude told me it is also known as the Royal Road progression (王道進行, ōd
 If you want to get academic, this is a paper analyzing its prevalence in J-pop!
 Maxwell Ramage, "[The Royal Road Progression in Japanese Popular Music](https://doi.org/10.1093/mts/mtad008)," *Music Theory Spectrum* 45(2): 238–256 (2023).
 
-I can't open the full paper (only the abstract) but according to Wikipedia's citation, 40% of Japan’s top twenty best-selling singles of all time contain the progression, and that the year’s top-selling Japanese song contained it 23% of the time between 1989 and 2019.
+I can't open the full paper (only the abstract).   However, Wikipedia, citing the paper, says 40% of Japan’s top twenty best-selling singles of all time contain it, and that the year’s top-selling song had it 23% of the time between 1989 and 2019.
 
 Why is this particular kind of atmospheric, moody, and melancholic music so appealing? Western music certainly has plenty of melancholy too, but maybe there are differences in how different cultures express and appreciate these emotions through music.
 
