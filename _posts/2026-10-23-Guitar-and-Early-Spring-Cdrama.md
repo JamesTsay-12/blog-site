@@ -56,7 +56,7 @@ I'll see if I can post a recording of the guitar part at least later (to be upda
 
 I was having some difficulty transcribing the piece by ear and looked at some websites that had major inaccuracies. They didn't seem correct to my ears or from a music theory standpoint.
 
-For example, the existing transcriptions I found list the first chord as A# major. I think a major 7th sounds better in the beginning, and the minor chords sound better as 7ths.
+For example, the existing transcriptions I found list the first chord as A# major. B♭ is the more conventional notation in this progression, and I think adding a major 7th sounds better and gives more tension. The minor chords also sound better to my ears as 7ths.
 
 Also, the guitar is more complementary and in the background for the rest of the song, so I wanted to put some more meaty guitar chords into the progression in case people want to cover the song fully on guitar.
 
@@ -64,11 +64,9 @@ After my own analysis, fiddling with chords on my guitar, and feeding questions 
 
 **B♭maj7 – C – Am7 – Dm7**
 
-The opening B♭maj7 adds some warmth, while the movement through C and Am7 transitions smoothly toward Dm7. The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's reflective, bittersweet character.
+The very last (ending) chord played on piano can be played on guitar as **Dm(add9)**, which I note in the transcription.
 
-Interestingly, ChatGPT also pointed out that this is a variation of the widely used **IV–V–iii–vi progression**, particularly associated with East Asian pop ballads and Japanese pop music.
-
-The very last chord played on piano can be played on guitar as **Dm(add9)**, which I note in the transcription.
+The opening B♭maj7 adds some warmth, while the movement through C and Am7 transitions smoothly toward Dm7. The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's melancholic character.
 
 **Timing:** 4/4 time, approximately 74 BPM.
 
@@ -78,7 +76,15 @@ Unfortunately, I don't have the vocal range of Liu Yuning, so I'll spare you fro
 
 Philosophically and culturally, I'm interested in why these kinds of songs and chord progressions seem so popular in East Asian pop music, and perhaps less prevalent in contemporary Western pop.
 
-Why is this particular kind of bittersweet, melancholic music so appealing? Western music certainly has plenty of melancholy too, but maybe there are differences in how different cultures express and appreciate these emotions through music.
+Interestingly, ChatGPT also pointed out that this song uses a variation of the widely used **IV–V–iii–vi progression**, particularly associated with East Asian pop ballads and Japanese pop music.
+Claude told me it is also known as the Royal Road progression (王道進行, ōdō shinkō) in Japanese pop.
+
+If you want to get academic, this is a paper analyzing its prevalence in J-pop!
+Maxwell Ramage, "[The Royal Road Progression in Japanese Popular Music](https://doi.org/10.1093/mts/mtad008)," *Music Theory Spectrum* 45(2): 238–256 (2023).
+
+I can't open the full paper (only the abstract) but according to Wikipedia's citation, 40% of Japan’s top twenty best-selling singles of all time contain the progression, and that the year’s top-selling Japanese song contained it 23% of the time between 1989 and 2019.
+
+Why is this particular kind of atmospheric, moody, and melancholic music so appealing? Western music certainly has plenty of melancholy too, but maybe there are differences in how different cultures express and appreciate these emotions through music.
 
 It's something I'd like to explore further, perhaps by comparing musical and cultural tastes across Chinese, Japanese, Korean, and Western pop music and dramas.
 
