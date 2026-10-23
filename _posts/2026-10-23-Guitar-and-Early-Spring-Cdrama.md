@@ -2,8 +2,8 @@
 layout: post
 title: 'I Came for the Guitar, Not the Drama: “The Early Spring”'
 date: 2026-10-23
-categories: music
-tags: Life
+categories: [music]
+tags: [Life]
 description: "Exploring the guitar intro and transcription of Liu Yuning's Her from The Early Spring."
 ---
 
