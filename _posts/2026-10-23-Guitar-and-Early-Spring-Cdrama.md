@@ -67,7 +67,7 @@ After my own analysis, fiddling with chords on my guitar, and feeding questions 
 
 The very last (ending) chord played on piano can be played on guitar as **Dm(add9)**, which I note in the transcription.
 
-The opening B♭maj7 adds some warmth/atmosphere progressing to C, and the downward direction to Am7 and then toward Dm7 sounds like another deeper thought after introspection (from my emotional interpretation). The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's melancholic character.
+The opening B♭maj7 adds some warmth/atmosphere progressing to C, and the downward direction to Am7 and then back up to Dm7 sounds like another deeper thought after introspection (from my emotional interpretation). The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's melancholic character.
 
 **Timing:** 4/4 time, approximately 74 BPM.
 
