@@ -42,7 +42,8 @@ I've made a preliminary guitar tab in MuseScore with mostly accurate notes, but 
 
 **Guitar transcription:**
 
-![Guitar transcription of Her by Liu Yuning]({{ '/assets/img/music/transcriptions/Early%20Spring%20tab%20.png' | relative_url }})
+
+![Guitar transcription of Her by Liu Yuning]({{ '/assets/img/music/transcriptions/Her%20The%20Early%20Spring%20V2.png' | relative_url }})
 
 **Guitar tone notes:**
 
