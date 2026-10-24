@@ -20,7 +20,7 @@ Recently, I've been semi-watching a very popular Chinese drama on Netflix called
 
 Despite not being enthralled with the plot and characters so far, what does captivate me is the intro song, with a beautiful guitar intro featuring a gorgeous tone to die for.
 
-As for the drama itself, it has many of the familiar tropes of Asian dramas: the romantic male lead is a young, cold, and shrewd boss who gets into a relationship with a meek and sweet female lead who warms his cold heart (and slowly uncovers that deep down he's actually a nice guy). At least he isn't another CEO!
+As for the drama itself, it's filled with familiar tropes of Asian dramas: the romantic male lead is a young, cold, and shrewd boss who gets into a relationship with a meek and sweet female lead who warms his cold heart (and slowly uncovers that deep down he's actually a nice guy). At least he isn't another CEO!
 
 I'm curious why this seems to be such a popular romantic fantasy in East Asia. Maybe if I improve my Chinese and pay more attention, I'll grow to like this show more.
 
@@ -67,7 +67,7 @@ After my own analysis, fiddling with chords on my guitar, and feeding questions 
 
 The very last (ending) chord played on piano can be played on guitar as **Dm(add9)**, which I note in the transcription.
 
-The opening B♭maj7 adds some warmth, while the movement through C and Am7 transitions smoothly toward Dm7. The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's melancholic character.
+The opening B♭maj7 adds some warmth/atmosphere progressing to C, and the downward direction to Am7 and then toward Dm7 sounds like another deeper thought after introspection (from my emotional interpretation). The progression can be interpreted in F major or its relative minor, D minor, contributing to the song's melancholic character.
 
 **Timing:** 4/4 time, approximately 74 BPM.
 
@@ -85,8 +85,8 @@ Maxwell Ramage, "[The Royal Road Progression in Japanese Popular Music](https://
 
 I can't open the full paper (only the abstract).   However, Wikipedia, citing the paper, says 40% of Japan’s top twenty best-selling singles of all time contain it, and that the year’s top-selling song had it 23% of the time between 1989 and 2019.
 
-Why is this particular kind of atmospheric, moody, and melancholic music so appealing? Western music certainly has plenty of melancholy too, but maybe there are differences in how different cultures express and appreciate these emotions through music.
+Why is this particular kind of atmospheric, moody, and melancholic music so appealing? Western music certainly has plenty of melancholy too in romantic material, but maybe there are differences in how different cultures express and feel these emotions through music.
 
-It's something I'd like to explore further, perhaps by comparing musical and cultural tastes across Chinese, Japanese, Korean, and Western pop music and dramas.
+It's something I'd like to explore further, perhaps by comparing musical and cultural tastes across Chinese, Japanese, Korean, and Western pop music, dramas, and other art forms.
 
 For now, this song is definitely ear candy, and I give respect to the composer and musicians.
